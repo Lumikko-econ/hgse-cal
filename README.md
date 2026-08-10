@@ -39,7 +39,7 @@ series stand out while keeping the rest visible.
 
 | Feed | Contains |
 |---|---|
-| `helsinki-gse-core.ics` | Industrial Organization, Colloquium, Microeconomics, Trade/Regional & Urban, doctoral defences. Reminder at 08:00 on the day. |
+| `helsinki-gse-core.ics` | Industrial Organization, Colloquium, Microeconomics, Trade/Regional & Urban, doctoral defences. Reminder at 09:00 on the day. |
 | `helsinki-gse-other.ics` | Everything else. No reminders. |
 
 Together they are the complete schedule.
@@ -150,7 +150,7 @@ half-hour trip.
 
 Times and venues come from each event's detail page. Where a time has not been
 published yet the entry is all-day rather than being given an invented one, and
-its reminder fires at 08:00 that morning. HGSE does not publish abstracts, so
+its reminder fires at 09:00 that morning. HGSE does not publish abstracts, so
 there are none to include.
 
 ## How it updates
