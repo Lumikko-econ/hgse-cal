@@ -28,45 +28,59 @@ holds a copy for up to 12 hours, so changes show up later than on the raw URL.
 **Pick a single scheme and subscribe only within it.** Mixing them — say the
 combined feed plus a per-series one — makes events appear twice.
 
+<!-- feeds:start -->
+
 ### A. Everything in one calendar
 
-`helsinki-gse.ics` — all 43 events.
+| Calendar | Subscription URL | Events |
+|---|---|---:|
+| Everything | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse.ics` | 43 |
 
 ### B. Split by interest (two calendars, two colours)
 
-Calendar apps colour by *calendar*, not by event, so this is how you make some
-series stand out while keeping the rest visible.
+Calendar apps colour by *calendar*, not by event, so this is how you
+make some series stand out while keeping the rest visible.
 
-| Feed | Contains |
-|---|---|
-| `helsinki-gse-core.ics` | Industrial Organization, Colloquium, Microeconomics, Trade/Regional & Urban, doctoral defences. Reminder at 09:00 on the day. |
-| `helsinki-gse-other.ics` | Everything else. No reminders. |
+**Core** holds:
 
-Together they are the complete schedule.
+- Colloquium
+- Industrial Organization
+- Microeconomics
+- Trade, Regional and Urban Economics
+- Doctoral defences
+
+**Other** holds everything else. Together they are the complete
+schedule.
+
+| Calendar | Subscription URL | Events |
+|---|---|---:|
+| Core | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-core.ics` | 19 |
+| Other | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-other.ics` | 24 |
+
+The core feed is the only one carrying reminders (09:00 on the day).
 
 ### C. Per series — pick your own fields
 
-One feed per series, so you can take only what you care about. Subscribe to as
-many as you like; they don't overlap.
+Subscribe to as many as you like; they do not overlap, and none of
+them set reminders.
 
-| Feed | Events |
-|---|---|
-| `helsinki-gse-industrial-organization.ics` | 3 |
-| `helsinki-gse-colloquium.ics` | 5 |
-| `helsinki-gse-microeconomics.ics` | 4 |
-| `helsinki-gse-trade-regional-and-urban-economics.ics` | 5 |
-| `helsinki-gse-labor-public-economics.ics` | 6 |
-| `helsinki-gse-environmental-economics.ics` | 5 |
-| `helsinki-gse-macroeconomics.ics` | 3 |
-| `helsinki-gse-economics-of-education-educa.ics` | 3 |
-| `helsinki-gse-behavioral-economics.ics` | 2 |
-| `helsinki-gse-development-economics.ics` | 1 |
-| `helsinki-gse-econometrics.ics` | 1 |
-| `helsinki-gse-doctoral-defences.ics` | 2 |
-| `helsinki-gse-seminar.ics` | 3 (events HGSE left unfiled) |
+| Calendar | Subscription URL | Events |
+|---|---|---:|
+| Labor & Public Economics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-labor-public-economics.ics` | 6 |
+| Colloquium | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-colloquium.ics` | 5 |
+| Environmental Economics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-environmental-economics.ics` | 5 |
+| Trade, Regional and Urban Economics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-trade-regional-and-urban-economics.ics` | 5 |
+| Microeconomics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-microeconomics.ics` | 4 |
+| Economics of Education (Educa) | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-economics-of-education-educa.ics` | 3 |
+| Industrial Organization | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-industrial-organization.ics` | 3 |
+| Macroeconomics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-macroeconomics.ics` | 3 |
+| Seminar | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-seminar.ics` | 3 |
+| Behavioral Economics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-behavioral-economics.ics` | 2 |
+| Doctoral Defences | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-doctoral-defences.ics` | 2 |
+| Development Economics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-development-economics.ics` | 1 |
+| Econometrics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-econometrics.ics` | 1 |
 
-Counts are for autumn 2026 and change as the term fills in. A new series on the
-HGSE site gets its own feed automatically.
+<!-- feeds:end -->
 
 ## Subscribing
 
