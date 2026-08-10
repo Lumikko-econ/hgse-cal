@@ -52,8 +52,9 @@ changed time, venue or speaker updates in place.
 
 ## What's in an event
 
-Series, speaker and affiliation, title where announced, host, venue, and a link
-back to the event page. Core entries are prefixed with a star so they read as
+Series, speaker and affiliation, title where announced, host, venue, a link back
+to the event page, and a Google Scholar search — for the paper once its title is
+announced, otherwise for the speaker's own work. Core entries are prefixed with a star so they read as
 distinct even in clients that ignore calendar colour.
 
 Times and venues come from each event's detail page. Where a time has not been
