@@ -1,6 +1,6 @@
 # hgse-cal
 
-Helsinki GSE seminars and doctoral defences as a subscribable calendar feed.
+Helsinki GSE seminars and doctoral defences as subscribable calendar feeds.
 
 Helsinki GSE's own per-series Google Calendars stopped being updated in
 December 2024, and `helsinkigse.fi/seminar-calendar` returns 404. The events
@@ -9,26 +9,60 @@ apps can subscribe to.
 
 ## Subscribe
 
+Calendar apps colour by *calendar*, not by event, so the schedule is published
+as two feeds. Subscribe to both, then set a strong colour on the first and a
+muted one on the second — everything stays visible, but the fields worth
+turning up for stand out.
+
+**Core** — Industrial Organization, Colloquium, Microeconomics, Trade/Regional
+& Urban, Econometrics, and doctoral defences. Carries a reminder at 08:00 on
+the morning of each event.
+
 ```
-https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse.ics
+https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-core.ics
 ```
 
-**Apple Calendar** — File > New Calendar Subscription, paste the URL, set
-*Auto-refresh* to Every day.
+**Other** — everything else: Macro, Labor & Public, Development, Environmental,
+Behavioral, Economics of Education. No reminders; browse when you feel like it.
 
-**Outlook** — Add calendar > Subscribe from web. Refresh interval is decided
-by Outlook and can lag by several hours.
+```
+https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-other.ics
+```
 
-Do not *import* the file. Importing takes a one-time snapshot and re-importing
-later duplicates every event. Subscribing keeps it in sync; events carry
-stable UIDs, so a changed time or speaker updates in place.
+A combined feed of all events is also published as `helsinki-gse.ics`.
+**Subscribe to the two split feeds *or* the combined one — never both schemes,**
+or every event appears twice.
+
+### Apple Calendar
+
+File > New Calendar Subscription, paste a URL, set *Auto-refresh* to Every day.
+Then right-click the calendar in the sidebar > Get Info to set its colour.
+Repeat for the second feed.
+
+### Outlook
+
+Add calendar > Subscribe from web. Refresh cadence is decided by Outlook and
+can lag by several hours.
+
+### Don't import
+
+Importing takes a one-time snapshot, and re-importing later duplicates every
+event. Subscribing keeps the calendar in sync: events carry stable UIDs, so a
+changed time, venue or speaker updates in place.
+
+## What's in an event
+
+Series, speaker and affiliation, title where announced, host, venue, and a link
+back to the event page. Core entries are prefixed with a star so they read as
+distinct even in clients that ignore calendar colour.
+
+Times and venues come from each event's detail page. Where a time has not been
+published yet the entry is all-day rather than being given an invented one, and
+its reminder fires at 08:00 that morning.
 
 ## How it updates
 
-A cron job regenerates the file from <https://www.helsinkigse.fi/events> and
+A cron job regenerates the feeds from <https://www.helsinkigse.fi/events> and
 pushes here only when something actually changed — so the commit history is a
-log of schedule changes rather than of the job running.
-
-Each entry carries the series, speaker, affiliation, title where announced,
-and a link back to the event page. Events whose time has not been published
-appear as all-day entries rather than being given an invented time.
+log of schedule changes rather than of the job running. If the page layout ever
+changes, the scraper parses zero events and stops without overwriting anything.
