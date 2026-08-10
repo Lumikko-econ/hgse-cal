@@ -31,22 +31,20 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260826-2nd-edition-of-the-helsinki-economics-of-education-worksh
  op@helsinkigse.fi
-DTSTAMP:20260810T155723Z
+DTSTAMP:20260810T161148Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:Economics of Education (Educa): 2nd Edition of the Helsinki Economi
  cs of Education Workshop
 DESCRIPTION:Series: Economics of Education (Educa)\nType: Workshop\nSpeaker
  : 2nd Edition of the Helsinki Economics of Education Workshop\nTitle: TBA\
- nHost: Cécile Bonneau Links: Registration form link\n\nTime not published
-  yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/ev
- ents/2nd-edition-of-the-helsinki-economics-of-education-workshop\nSpeaker 
- on Scholar: https://scholar.google.com/scholar?q=author%3A%222nd+Edition+o
- f+the+Helsinki+Economics+of+Education+Workshop%22
+ nHost: Cécile Bonneau\n\nTime not published yet — all-day placeholder.\
+ n\nEvent page: https://www.helsinkigse.fi/events/2nd-edition-of-the-helsin
+ ki-economics-of-education-workshop\nSpeaker on Scholar: https://scholar.go
+ ogle.com/scholar?q=author%3A%222nd+Edition+of+the+Helsinki+Economics+of+Ed
+ ucation+Workshop%22
 LOCATION:V001\, Aalto University School of Business\, Ekonominaukio 1\, Esp
- oo 03 Nov 2026 Petter Lundborg Lund University The content of this event h
- as not been announced yet. Please check back later. Economics of Education
-  (Educa)
+ oo
 URL:https://www.helsinkigse.fi/events/2nd-edition-of-the-helsinki-economics
  -of-education-workshop
 STATUS:CONFIRMED
@@ -54,7 +52,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261006-jenifer-ruiz-valenzuela@helsinkigse.fi
-DTSTAMP:20260810T155723Z
+DTSTAMP:20260810T161148Z
 DTSTART;TZID=Europe/Helsinki:20261006T120000
 DTEND;TZID=Europe/Helsinki:20261006T130000
 SUMMARY:Economics of Education (Educa): Jenifer Ruiz Valenzuela
@@ -71,7 +69,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261103-petter-lundborg1@helsinkigse.fi
-DTSTAMP:20260810T155723Z
+DTSTAMP:20260810T161148Z
 DTSTART;TZID=Europe/Helsinki:20261103T120000
 DTEND;TZID=Europe/Helsinki:20261103T130000
 SUMMARY:Economics of Education (Educa): Petter Lundborg

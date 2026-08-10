@@ -30,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260901-jakob-egholt-sogaard@helsinkigse.fi
-DTSTAMP:20260810T155723Z
+DTSTAMP:20260810T161148Z
 DTSTART;TZID=Europe/Helsinki:20260901T150000
 DTEND;TZID=Europe/Helsinki:20260901T160000
 SUMMARY:Labor & Public Economics: Jakob Egholt Søgaard
@@ -45,24 +45,22 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260915-andrew-shephard@helsinkigse.fi
-DTSTAMP:20260810T155723Z
+DTSTAMP:20260810T161148Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Labor & Public Economics: Andrew Shephard
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Andre
- w Shephard (KU Leuven)\nTitle: TBA\nHost: Ciprian Domnisoru 01 Sep 2026 Ja
- kob Egholt Søgaard Center for Economic Behavior and Inequality (CEBI) The
-  content of this event has not been announced yet. Please check back later
- .\n\nTime not published yet — all-day placeholder.\n\nEvent page: https:
- //www.helsinkigse.fi/events/andrew-shephard\nSpeaker on Scholar: https://s
- cholar.google.com/scholar?q=author%3A%22Andrew+Shephard%22
+ w Shephard (KU Leuven)\nTitle: TBA\nHost: Ciprian Domnisoru\n\nTime not pu
+ blished yet — all-day placeholder.\n\nEvent page: https://www.helsinkigs
+ e.fi/events/andrew-shephard\nSpeaker on Scholar: https://scholar.google.co
+ m/scholar?q=author%3A%22Andrew+Shephard%22
 URL:https://www.helsinkigse.fi/events/andrew-shephard
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260929-jakob-miethe@helsinkigse.fi
-DTSTAMP:20260810T155723Z
+DTSTAMP:20260810T161148Z
 DTSTART;TZID=Europe/Helsinki:20260929T150000
 DTEND;TZID=Europe/Helsinki:20260929T160000
 SUMMARY:Labor & Public Economics: Jakob Miethe
@@ -76,7 +74,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261013-panu-poutavaara@helsinkigse.fi
-DTSTAMP:20260810T155723Z
+DTSTAMP:20260810T161148Z
 DTSTART;TZID=Europe/Helsinki:20261013T150000
 DTEND;TZID=Europe/Helsinki:20261013T160000
 SUMMARY:Labor & Public Economics: Panu Poutavaara
@@ -92,7 +90,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261110-hugo-reichardt@helsinkigse.fi
-DTSTAMP:20260810T155723Z
+DTSTAMP:20260810T161148Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Labor & Public Economics: Hugo Reichardt
@@ -107,7 +105,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261124-wouter-leenders@helsinkigse.fi
-DTSTAMP:20260810T155723Z
+DTSTAMP:20260810T161148Z
 DTSTART;TZID=Europe/Helsinki:20261124T150000
 DTEND;TZID=Europe/Helsinki:20261124T160000
 SUMMARY:Labor & Public Economics: Wouter Leenders
