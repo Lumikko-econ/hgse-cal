@@ -30,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260821-antto-jokelainen4@helsinkigse.fi
-DTSTAMP:20260810T143915Z
+DTSTAMP:20260810T153205Z
 DTSTART;TZID=Europe/Helsinki:20260821T120000
 DTEND;TZID=Europe/Helsinki:20260821T150000
 SUMMARY:★ Aalto University: Antto Jokelainen — Antto Jokelainen will de
@@ -50,12 +50,12 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:★ Aalto University: Antto Jokelainen — Antto Jokelainen wil
  l defend his thesis “Essays on Competition and Reg
-TRIGGER:-PT4H
+TRIGGER:-PT3H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260821-jerry-montonen4@helsinkigse.fi
-DTSTAMP:20260810T143915Z
+DTSTAMP:20260810T153205Z
 DTSTART;TZID=Europe/Helsinki:20260821T120000
 DTEND;TZID=Europe/Helsinki:20260821T150000
 SUMMARY:★ Aalto University: Jerry Montonen — Jerry Montonen will defend
@@ -75,7 +75,7 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:★ Aalto University: Jerry Montonen — Jerry Montonen will de
  fend his thesis Essays on the economics of socia
-TRIGGER:-PT4H
+TRIGGER:-PT3H
 END:VALARM
 END:VEVENT
 END:VCALENDAR
