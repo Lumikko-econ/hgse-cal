@@ -70,31 +70,73 @@ HGSE site gets its own feed automatically.
 
 ## Subscribing
 
-### Outlook (including Outlook for Mac)
+> ⚠️ **Use the `raw.githubusercontent.com` URL, not the `github.com/.../blob/`
+> one.** The blob URL returns a normal HTTP 200 — but it serves a web page, not
+> a calendar, so Outlook accepts it and then silently finds no events. This is
+> the single most common way this goes wrong. Copy the URLs from the tables
+> above rather than from GitHub's file view.
 
-**Subscribe on the web, not in the desktop app.** Outlook for Mac does not
-reliably support adding an internet calendar by URL — most versions have no
-menu path for it, and its parser rejects many valid feeds.
+### Outlook on Windows — classic
 
-1. Go to <https://outlook.office.com/calendar/>
-2. **Add calendar** → **Subscribe from web**
-3. Paste the feed URL, name it, pick a colour, **Import**
-4. It appears in Outlook for Mac and on your phone automatically, through your
-   account
+The Windows desktop app supports this properly, unlike the Mac one.
 
-Refresh cadence is Microsoft's to decide and can lag by several hours.
+1. Go to **Calendar** (not Mail)
+2. **Home** tab → **Add Calendar** → **From Internet…**
+   *(older builds: **Add/Open Calendar** → **From Internet…**)*
+3. Paste the feed URL → **OK** → **Yes** when asked whether to subscribe and
+   receive updates
+
+Repeat for each feed. Refreshes on the Send/Receive schedule; **F9** forces one.
+Microsoft notes the first sync can take more than 24 hours.
+
+**To overlay them into one grid:** each calendar opens as its own side-by-side
+tab — click the small **←** arrow on a calendar's tab to merge it into the one
+on its left, or use **View → Overlay**. Click the arrow again to separate them.
+
+### Outlook on Windows — new Outlook
+
+The new app is the web version in a desktop shell, so it follows the web steps
+below. Tell them apart by the **Try the new Outlook** toggle in the top-right —
+if it's there and switched on, you're in the new one.
+
+### Outlook on the web (and new Outlook, any platform)
+
+1. <https://outlook.office.com/calendar/>
+2. **Add calendar** in the left pane → **Subscribe from web**
+3. Paste the feed URL, name it, pick a colour → **Import**
+
+Updates roughly every few hours; the first one can take longer. Calendars are
+**merged into one view by default** here — if yours are side by side, switch off
+the **Split view** toggle in the view selector at the top.
+
+### Outlook for Mac
+
+**Subscribe on the web, not in the desktop app.** Outlook for Mac has no
+reliable menu path for adding an internet calendar by URL. Use the web steps
+above — the subscription syncs down to the Mac app and your phone through your
+account automatically.
+
+**To overlay:** **View → Arrange Calendars → Overlay**. Note this does *not*
+work in **Month** view — switch to Week or Day first, or the menu item appears
+to do nothing.
 
 ### Apple Calendar
 
-File → New Calendar Subscription, paste the URL, set *Auto-refresh* to Every
-day. Right-click the calendar → Get Info to change its colour. Each feed ships
-a suggested colour that Apple picks up on first subscribe.
+**File → New Calendar Subscription**, paste the URL, set *Auto-refresh* to
+Every day. Right-click the calendar → **Get Info** to change its colour. Each
+feed ships a suggested colour that Apple picks up on first subscribe.
+
+This is the only client that lets you set the refresh interval yourself.
 
 ### Don't import
 
 Importing takes a one-time snapshot, and re-importing later duplicates every
 event. Subscribing keeps the calendar in sync: events carry stable UIDs, so a
 changed time, venue or speaker updates in place.
+
+Subscribed calendars mirror the source and are read-only. To add your own
+reminder or note to a particular seminar, copy that event into your personal
+calendar and edit the copy.
 
 ## What's in an event
 
