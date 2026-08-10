@@ -1,0 +1,109 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hgse-calendar//helsinkigse.fi scrape//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HGSE — Microeconomics
+NAME:HGSE — Microeconomics
+X-APPLE-CALENDAR-COLOR:#43A047
+COLOR:#43A047
+X-WR-TIMEZONE:Europe/Helsinki
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Helsinki
+X-LIC-LOCATION:Europe/Helsinki
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+TZNAME:EEST
+DTSTART:19700329T030000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:EET
+DTSTART:19701025T040000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:hgse-20260924-zhengqing-gui@helsinkigse.fi
+DTSTAMP:20260810T143915Z
+DTSTART;TZID=Europe/Helsinki:20260924T150000
+DTEND;TZID=Europe/Helsinki:20260924T160000
+SUMMARY:★ Microeconomics: Zhengqing Gui
+DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Zhengqing Gui (
+ National University of Singapore)\nTitle: TBA\n\nMicro theory.\n\nEvent pa
+ ge: https://www.helsinkigse.fi/events/zhengqing-gui\nSpeaker on Scholar: h
+ ttps://scholar.google.com/scholar?q=author%3A%22Zhengqing+Gui%22
+URL:https://www.helsinkigse.fi/events/zhengqing-gui
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:★ Microeconomics: Zhengqing Gui
+TRIGGER:-PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20261008-martin-vaeth@helsinkigse.fi
+DTSTAMP:20260810T143915Z
+DTSTART;TZID=Europe/Helsinki:20261008T150000
+DTEND;TZID=Europe/Helsinki:20261008T160000
+SUMMARY:★ Microeconomics: Martin Vaeth
+DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Martin Vaeth (P
+ aris School of Economics)\nTitle: TBA\n\nMicro theory.\n\nEvent page: http
+ s://www.helsinkigse.fi/events/martin-vaeth\nSpeaker on Scholar: https://sc
+ holar.google.com/scholar?q=author%3A%22Martin+Vaeth%22
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
+URL:https://www.helsinkigse.fi/events/martin-vaeth
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:★ Microeconomics: Martin Vaeth
+TRIGGER:-PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20261022-florian-brandl@helsinkigse.fi
+DTSTAMP:20260810T143915Z
+DTSTART;TZID=Europe/Helsinki:20261022T150000
+DTEND;TZID=Europe/Helsinki:20261022T160000
+SUMMARY:★ Microeconomics: Florian Brandl
+DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Florian Brandl 
+ (University of Bonn)\nTitle: TBA\n\nMicro theory.\n\nEvent page: https://w
+ ww.helsinkigse.fi/events/florian-brandl\nSpeaker on Scholar: https://schol
+ ar.google.com/scholar?q=author%3A%22Florian+Brandl%22
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
+URL:https://www.helsinkigse.fi/events/florian-brandl
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:★ Microeconomics: Florian Brandl
+TRIGGER:-PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20261119-pia-ennuchat@helsinkigse.fi
+DTSTAMP:20260810T143915Z
+DTSTART;TZID=Europe/Helsinki:20261119T150000
+DTEND;TZID=Europe/Helsinki:20261119T160000
+SUMMARY:★ Microeconomics: Pia Ennuchat
+DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Pia Ennuchat (U
+ niversity of Mannheim)\nTitle: TBA\n\nMicro theory.\n\nEvent page: https:/
+ /www.helsinkigse.fi/events/pia-ennuchat\nSpeaker on Scholar: https://schol
+ ar.google.com/scholar?q=author%3A%22Pia+Ennuchat%22
+URL:https://www.helsinkigse.fi/events/pia-ennuchat
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:★ Microeconomics: Pia Ennuchat
+TRIGGER:-PT7H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

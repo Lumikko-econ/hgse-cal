@@ -1,0 +1,122 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hgse-calendar//helsinkigse.fi scrape//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HGSE — Labor & Public Economics
+NAME:HGSE — Labor & Public Economics
+X-APPLE-CALENDAR-COLOR:#00ACC1
+COLOR:#00ACC1
+X-WR-TIMEZONE:Europe/Helsinki
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Helsinki
+X-LIC-LOCATION:Europe/Helsinki
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+TZNAME:EEST
+DTSTART:19700329T030000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:EET
+DTSTART:19701025T040000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:hgse-20260901-jakob-egholt-sogaard@helsinkigse.fi
+DTSTAMP:20260810T143915Z
+DTSTART;TZID=Europe/Helsinki:20260901T150000
+DTEND;TZID=Europe/Helsinki:20260901T160000
+SUMMARY:Labor & Public Economics: Jakob Egholt Søgaard
+DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Jakob
+  Egholt Søgaard (Center for Economic Behavior and Inequality (CEBI))\nTit
+ le: TBA\nHost: Salla Kalin\n\nEvent page: https://www.helsinkigse.fi/event
+ s/jakob-egholt-sogaard\nSpeaker on Scholar: https://scholar.google.com/sch
+ olar?q=author%3A%22Jakob+Egholt+S%C3%B8gaard%22
+URL:https://www.helsinkigse.fi/events/jakob-egholt-sogaard
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260915-andrew-shephard@helsinkigse.fi
+DTSTAMP:20260810T143915Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Labor & Public Economics: Andrew Shephard
+DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Andre
+ w Shephard (KU Leuven)\nTitle: TBA\nHost: Ciprian Domnisoru 01 Sep 2026 Ja
+ kob Egholt Søgaard Center for Economic Behavior and Inequality (CEBI) The
+  content of this event has not been announced yet. Please check back later
+ .\n\nTime not published yet — all-day placeholder.\n\nEvent page: https:
+ //www.helsinkigse.fi/events/andrew-shephard\nSpeaker on Scholar: https://s
+ cholar.google.com/scholar?q=author%3A%22Andrew+Shephard%22
+URL:https://www.helsinkigse.fi/events/andrew-shephard
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260929-jakob-miethe@helsinkigse.fi
+DTSTAMP:20260810T143915Z
+DTSTART;TZID=Europe/Helsinki:20260929T150000
+DTEND;TZID=Europe/Helsinki:20260929T160000
+SUMMARY:Labor & Public Economics: Jakob Miethe
+DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Jakob
+  Miethe (LMU Munich)\nTitle: TBA\nHost: Salla Kalin\n\nEvent page: https:/
+ /www.helsinkigse.fi/events/jakob-miethe\nSpeaker on Scholar: https://schol
+ ar.google.com/scholar?q=author%3A%22Jakob+Miethe%22
+URL:https://www.helsinkigse.fi/events/jakob-miethe
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20261013-panu-poutavaara@helsinkigse.fi
+DTSTAMP:20260810T143915Z
+DTSTART;TZID=Europe/Helsinki:20261013T150000
+DTEND;TZID=Europe/Helsinki:20261013T160000
+SUMMARY:Labor & Public Economics: Panu Poutavaara
+DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Panu 
+ Poutavaara (IFO)\nTitle: TBA\nHost: Ciprian Domnisoru\n\nEvent page: https
+ ://www.helsinkigse.fi/events/panu-poutavaara\nSpeaker on Scholar: https://
+ scholar.google.com/scholar?q=author%3A%22Panu+Poutavaara%22
+LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
+URL:https://www.helsinkigse.fi/events/panu-poutavaara
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20261110-hugo-reichardt@helsinkigse.fi
+DTSTAMP:20260810T143915Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Labor & Public Economics: Hugo Reichardt
+DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Hugo 
+ Reichardt (Centre de Recerca en Economia Internacional (CREi))\nTitle: TBA
+ \n\nTime not published yet — all-day placeholder.\n\nEvent page: https:/
+ /www.helsinkigse.fi/events/hugo-reichardt\nSpeaker on Scholar: https://sch
+ olar.google.com/scholar?q=author%3A%22Hugo+Reichardt%22
+URL:https://www.helsinkigse.fi/events/hugo-reichardt
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20261124-wouter-leenders@helsinkigse.fi
+DTSTAMP:20260810T143915Z
+DTSTART;TZID=Europe/Helsinki:20261124T150000
+DTEND;TZID=Europe/Helsinki:20261124T160000
+SUMMARY:Labor & Public Economics: Wouter Leenders
+DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Woute
+ r Leenders (Sciences Po)\nTitle: TBA\nHost: Salla Kalin\n\nEvent page: htt
+ ps://www.helsinkigse.fi/events/wouter-leenders\nSpeaker on Scholar: https:
+ //scholar.google.com/scholar?q=author%3A%22Wouter+Leenders%22
+URL:https://www.helsinkigse.fi/events/wouter-leenders
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

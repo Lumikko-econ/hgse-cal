@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hgse-calendar//helsinkigse.fi scrape//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HGSE — Seminar
+NAME:HGSE — Seminar
+X-APPLE-CALENDAR-COLOR:#E53935
+COLOR:#E53935
+X-WR-TIMEZONE:Europe/Helsinki
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Helsinki
+X-LIC-LOCATION:Europe/Helsinki
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+TZNAME:EEST
+DTSTART:19700329T030000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:EET
+DTSTART:19701025T040000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:hgse-20260917-sandro-shelegia@helsinkigse.fi
+DTSTAMP:20260810T143915Z
+DTSTART;TZID=Europe/Helsinki:20260917T150000
+DTEND;TZID=Europe/Helsinki:20260917T160000
+SUMMARY:Seminar: Sandro Shelegia
+DESCRIPTION:Series: Seminar\nSpeaker: Sandro Shelegia (Universitat Pompeu F
+ abra)\nTitle: TBA\n\nEvent page: https://www.helsinkigse.fi/events/sandro-
+ shelegia\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%
+ 3A%22Sandro+Shelegia%22
+LOCATION:V001\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
+URL:https://www.helsinkigse.fi/events/sandro-shelegia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260922-marten-ritterrath1@helsinkigse.fi
+DTSTAMP:20260810T143915Z
+DTSTART;TZID=Europe/Helsinki:20260922T150000
+DTEND;TZID=Europe/Helsinki:20260922T160000
+SUMMARY:Seminar: Marten Ritterrath
+DESCRIPTION:Series: Seminar\nSpeaker: Marten Ritterrath (VATT)\nTitle: TBA\
+ nHost: Anna Sahari\n\nEvent page: https://www.helsinkigse.fi/events/marten
+ -ritterrath1\nSpeaker on Scholar: https://scholar.google.com/scholar?q=aut
+ hor%3A%22Marten+Ritterrath%22
+URL:https://www.helsinkigse.fi/events/marten-ritterrath1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20261026-veronica-salazar-restrepo@helsinkigse.fi
+DTSTAMP:20260810T143915Z
+DTSTART;TZID=Europe/Helsinki:20261026T150000
+DTEND;TZID=Europe/Helsinki:20261026T160000
+SUMMARY:Seminar: Veronica Salazar-Restrepo
+DESCRIPTION:Series: Seminar\nSpeaker: Veronica Salazar-Restrepo (IIES\, Sto
+ ckholm University)\nTitle: TBA\n\nEvent page: https://www.helsinkigse.fi/e
+ vents/veronica-salazar-restrepo\nSpeaker on Scholar: https://scholar.googl
+ e.com/scholar?q=author%3A%22Veronica+Salazar-Restrepo%22
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
+URL:https://www.helsinkigse.fi/events/veronica-salazar-restrepo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hgse-calendar//helsinkigse.fi scrape//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HGSE — Economics of Education (Educa)
+NAME:HGSE — Economics of Education (Educa)
+X-APPLE-CALENDAR-COLOR:#7CB342
+COLOR:#7CB342
+X-WR-TIMEZONE:Europe/Helsinki
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Helsinki
+X-LIC-LOCATION:Europe/Helsinki
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+TZNAME:EEST
+DTSTART:19700329T030000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:EET
+DTSTART:19701025T040000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:hgse-20260826-2nd-edition-of-the-helsinki-economics-of-education-worksh
+ op@helsinkigse.fi
+DTSTAMP:20260810T143915Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Economics of Education (Educa): 2nd Edition of the Helsinki Economi
+ cs of Education Workshop
+DESCRIPTION:Series: Economics of Education (Educa)\nType: Workshop\nSpeaker
+ : 2nd Edition of the Helsinki Economics of Education Workshop\nTitle: TBA\
+ nHost: Cécile Bonneau Links: Registration form link\n\nTime not published
+  yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/ev
+ ents/2nd-edition-of-the-helsinki-economics-of-education-workshop\nSpeaker 
+ on Scholar: https://scholar.google.com/scholar?q=author%3A%222nd+Edition+o
+ f+the+Helsinki+Economics+of+Education+Workshop%22
+LOCATION:V001\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo 03 Nov 2026 Petter Lundborg Lund University The content of this event h
+ as not been announced yet. Please check back later. Economics of Education
+  (Educa)
+URL:https://www.helsinkigse.fi/events/2nd-edition-of-the-helsinki-economics
+ -of-education-workshop
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20261006-jenifer-ruiz-valenzuela@helsinkigse.fi
+DTSTAMP:20260810T143915Z
+DTSTART;TZID=Europe/Helsinki:20261006T120000
+DTEND;TZID=Europe/Helsinki:20261006T130000
+SUMMARY:Economics of Education (Educa): Jenifer Ruiz Valenzuela
+DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
+  Jenifer Ruiz Valenzuela (University of Barcelona)\nTitle: TBA\nHost: Mari
+ a Sauval\n\nEvent page: https://www.helsinkigse.fi/events/jenifer-ruiz-val
+ enzuela\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3
+ A%22Jenifer+Ruiz+Valenzuela%22
+LOCATION:V101\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
+URL:https://www.helsinkigse.fi/events/jenifer-ruiz-valenzuela
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20261103-petter-lundborg1@helsinkigse.fi
+DTSTAMP:20260810T143915Z
+DTSTART;TZID=Europe/Helsinki:20261103T120000
+DTEND;TZID=Europe/Helsinki:20261103T130000
+SUMMARY:Economics of Education (Educa): Petter Lundborg
+DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
+  Petter Lundborg (Lund University)\nTitle: TBA\nHost: Cécile Bonneau\n\nE
+ vent page: https://www.helsinkigse.fi/events/petter-lundborg1\nSpeaker on 
+ Scholar: https://scholar.google.com/scholar?q=author%3A%22Petter+Lundborg%
+ 22
+LOCATION:V101\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
+URL:https://www.helsinkigse.fi/events/petter-lundborg1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

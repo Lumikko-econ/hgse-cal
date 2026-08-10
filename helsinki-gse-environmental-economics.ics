@@ -1,0 +1,101 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hgse-calendar//helsinkigse.fi scrape//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HGSE — Environmental Economics
+NAME:HGSE — Environmental Economics
+X-APPLE-CALENDAR-COLOR:#C0CA33
+COLOR:#C0CA33
+X-WR-TIMEZONE:Europe/Helsinki
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Helsinki
+X-LIC-LOCATION:Europe/Helsinki
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+TZNAME:EEST
+DTSTART:19700329T030000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:EET
+DTSTART:19701025T040000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:hgse-20260908-pia-nilsson@helsinkigse.fi
+DTSTAMP:20260810T143915Z
+DTSTART;TZID=Europe/Helsinki:20260908T150000
+DTEND;TZID=Europe/Helsinki:20260908T160000
+SUMMARY:Environmental Economics: Pia Nilsson
+DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Pia Ni
+ lsson (University of Helsinki)\nTitle: TBA\nHost: Anna Sahari\n\nEvent pag
+ e: https://www.helsinkigse.fi/events/pia-nilsson\nSpeaker on Scholar: http
+ s://scholar.google.com/scholar?q=author%3A%22Pia+Nilsson%22
+URL:https://www.helsinkigse.fi/events/pia-nilsson
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20261006-asa-lofgren1@helsinkigse.fi
+DTSTAMP:20260810T143915Z
+DTSTART;TZID=Europe/Helsinki:20261006T150000
+DTEND;TZID=Europe/Helsinki:20261006T160000
+SUMMARY:Environmental Economics: Åsa Löfgren
+DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Åsa L
+ öfgren (Gothenburg University)\nTitle: TBA\nHost: Anna Sahari\n\nEvent pa
+ ge: https://www.helsinkigse.fi/events/asa-lofgren1\nSpeaker on Scholar: ht
+ tps://scholar.google.com/scholar?q=author%3A%22%C3%85sa+L%C3%B6fgren%22
+URL:https://www.helsinkigse.fi/events/asa-lofgren1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20261117-tuomas-kaariaho@helsinkigse.fi
+DTSTAMP:20260810T143915Z
+DTSTART;TZID=Europe/Helsinki:20261117T150000
+DTEND;TZID=Europe/Helsinki:20261117T160000
+SUMMARY:Environmental Economics: Tuomas Kaariaho
+DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Tuomas
+  Kaariaho (University of Helsinki)\nTitle: TBA\nHost: Anna Sahari\n\nEvent
+  page: https://www.helsinkigse.fi/events/tuomas-kaariaho\nSpeaker on Schol
+ ar: https://scholar.google.com/scholar?q=author%3A%22Tuomas+Kaariaho%22
+URL:https://www.helsinkigse.fi/events/tuomas-kaariaho
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20261201-piia-remes@helsinkigse.fi
+DTSTAMP:20260810T143915Z
+DTSTART;TZID=Europe/Helsinki:20261201T150000
+DTEND;TZID=Europe/Helsinki:20261201T160000
+SUMMARY:Environmental Economics: Piia Remes
+DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Piia R
+ emes (VATT)\nTitle: TBA\nHost: Anna Sahari\n\nEvent page: https://www.hels
+ inkigse.fi/events/piia-remes\nSpeaker on Scholar: https://scholar.google.c
+ om/scholar?q=author%3A%22Piia+Remes%22
+URL:https://www.helsinkigse.fi/events/piia-remes
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20261215-linde-kattenberg@helsinkigse.fi
+DTSTAMP:20260810T143915Z
+DTSTART;TZID=Europe/Helsinki:20261215T150000
+DTEND;TZID=Europe/Helsinki:20261215T160000
+SUMMARY:Environmental Economics: Linde Kattenberg
+DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Linde 
+ Kattenberg (Aarhus University)\nTitle: TBA\nHost: Anna Sahari\n\nEvent pag
+ e: https://www.helsinkigse.fi/events/linde-kattenberg\nSpeaker on Scholar:
+  https://scholar.google.com/scholar?q=author%3A%22Linde+Kattenberg%22
+URL:https://www.helsinkigse.fi/events/linde-kattenberg
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

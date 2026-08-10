@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hgse-calendar//helsinkigse.fi scrape//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HGSE — Development Economics
+NAME:HGSE — Development Economics
+X-APPLE-CALENDAR-COLOR:#F4511E
+COLOR:#F4511E
+X-WR-TIMEZONE:Europe/Helsinki
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Helsinki
+X-LIC-LOCATION:Europe/Helsinki
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+TZNAME:EEST
+DTSTART:19700329T030000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:EET
+DTSTART:19701025T040000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:hgse-20260914-eleonora-guarnieri@helsinkigse.fi
+DTSTAMP:20260810T143915Z
+DTSTART;TZID=Europe/Helsinki:20260914T150000
+DTEND;TZID=Europe/Helsinki:20260914T160000
+SUMMARY:Development Economics: Eleonora Guarnieri
+DESCRIPTION:Series: Development Economics\nType: Seminar\nSpeaker: Eleonora
+  Guarnieri (University of Bristol)\nTitle: TBA\n\nEvent page: https://www.
+ helsinkigse.fi/events/eleonora-guarnieri\nSpeaker on Scholar: https://scho
+ lar.google.com/scholar?q=author%3A%22Eleonora+Guarnieri%22
+URL:https://www.helsinkigse.fi/events/eleonora-guarnieri
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
