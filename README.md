@@ -13,6 +13,16 @@ All feeds live under this base URL:
 https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/
 ```
 
+**If your calendar app refuses a feed**, try the same file through jsDelivr:
+
+```
+https://cdn.jsdelivr.net/gh/Lumikko-econ/hgse-cal@main/
+```
+
+Identical content, but served as `text/calendar` rather than GitHub's
+`text/plain`, which some clients insist on. The trade-off is caching — jsDelivr
+holds a copy for up to 12 hours, so changes show up later than on the raw URL.
+
 ## Pick one scheme
 
 **Pick a single scheme and subscribe only within it.** Mixing them — say the
