@@ -30,10 +30,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260924-zhengqing-gui@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20260924T150000
 DTEND;TZID=Europe/Helsinki:20260924T160000
-SUMMARY:★ Microeconomics: Zhengqing Gui
+SUMMARY:Microeconomics: Zhengqing Gui
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Zhengqing Gui (
  National University of Singapore)\nTitle: TBA\n\nMicro theory.\n\nEvent pa
  ge: https://www.helsinkigse.fi/events/zhengqing-gui\nSpeaker on Scholar: h
@@ -44,10 +44,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261008-martin-vaeth@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261008T150000
 DTEND;TZID=Europe/Helsinki:20261008T160000
-SUMMARY:★ Microeconomics: Martin Vaeth
+SUMMARY:Microeconomics: Martin Vaeth
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Martin Vaeth (P
  aris School of Economics)\nTitle: TBA\n\nMicro theory.\n\nEvent page: http
  s://www.helsinkigse.fi/events/martin-vaeth\nSpeaker on Scholar: https://sc
@@ -59,10 +59,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261022-florian-brandl@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261022T150000
 DTEND;TZID=Europe/Helsinki:20261022T160000
-SUMMARY:★ Microeconomics: Florian Brandl
+SUMMARY:Microeconomics: Florian Brandl
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Florian Brandl 
  (University of Bonn)\nTitle: TBA\n\nMicro theory.\n\nEvent page: https://w
  ww.helsinkigse.fi/events/florian-brandl\nSpeaker on Scholar: https://schol
@@ -74,10 +74,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261119-pia-ennuchat@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261119T150000
 DTEND;TZID=Europe/Helsinki:20261119T160000
-SUMMARY:★ Microeconomics: Pia Ennuchat
+SUMMARY:Microeconomics: Pia Ennuchat
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Pia Ennuchat (U
  niversity of Mannheim)\nTitle: TBA\n\nMicro theory.\n\nEvent page: https:/
  /www.helsinkigse.fi/events/pia-ennuchat\nSpeaker on Scholar: https://schol

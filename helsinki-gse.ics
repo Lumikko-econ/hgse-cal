@@ -30,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260819-anh-nguyen@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20260819T160000
 DTEND;TZID=Europe/Helsinki:20260819T170000
 SUMMARY:Behavioral Economics: Anh Nguyen
@@ -45,11 +45,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260821-antto-jokelainen4@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20260821T120000
 DTEND;TZID=Europe/Helsinki:20260821T150000
-SUMMARY:★ Aalto University: Antto Jokelainen — Antto Jokelainen will de
- fend his thesis “Essays on Competition and Reg
+SUMMARY:Aalto University: Antto Jokelainen — Antto Jokelainen will defend
+  his thesis “Essays on Competition and…
 DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Antt
  o Jokelainen (Aalto University)\nTitle: Antto Jokelainen will defend his t
  hesis “Essays on Competition and Regulation”\n\nEvent page: https://ww
@@ -64,11 +64,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260821-jerry-montonen4@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20260821T120000
 DTEND;TZID=Europe/Helsinki:20260821T150000
-SUMMARY:★ Aalto University: Jerry Montonen — Jerry Montonen will defend
-  his thesis Essays on the economics of socia
+SUMMARY:Aalto University: Jerry Montonen — Jerry Montonen will defend his
+  thesis Essays on the economics of…
 DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Jerr
  y Montonen (Aalto University)\nTitle: Jerry Montonen will defend his thesi
  s Essays on the economics of social interactions\n\nEvent page: https://ww
@@ -84,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260826-2nd-edition-of-the-helsinki-economics-of-education-worksh
  op@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:Economics of Education (Educa): 2nd Edition of the Helsinki Economi
@@ -107,7 +107,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260901-jakob-egholt-sogaard@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20260901T150000
 DTEND;TZID=Europe/Helsinki:20260901T160000
 SUMMARY:Labor & Public Economics: Jakob Egholt Søgaard
@@ -122,10 +122,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260907-jos-van-ommeren@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20260907T150000
 DTEND;TZID=Europe/Helsinki:20260907T160000
-SUMMARY:★ Trade\, Regional and Urban Economics: Jos van Ommeren
+SUMMARY:Trade\, Regional and Urban Economics: Jos van Ommeren
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  eaker: Jos van Ommeren (VU Amsterdam)\nTitle: TBA\nHost: Tuukka Saarimaa\n
  \nSpatial — distance/access adjacent.\n\nEvent page: https://www.helsink
@@ -139,7 +139,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260908-pia-nilsson@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20260908T150000
 DTEND;TZID=Europe/Helsinki:20260908T160000
 SUMMARY:Environmental Economics: Pia Nilsson
@@ -153,10 +153,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260911-leander-heldring@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20260911T143000
 DTEND;TZID=Europe/Helsinki:20260911T154500
-SUMMARY:★ Colloquium: Leander Heldring
+SUMMARY:Colloquium: Leander Heldring
 DESCRIPTION:Series: Colloquium\nSpeaker: Leander Heldring (Northwestern Uni
  versity)\nTitle: TBA\nHost: Matti Mitrunen\n\nDepartmental seminar — usu
  ally a senior external speaker.\n\nEvent page: https://www.helsinkigse.fi/
@@ -168,7 +168,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260914-eleonora-guarnieri@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20260914T150000
 DTEND;TZID=Europe/Helsinki:20260914T160000
 SUMMARY:Development Economics: Eleonora Guarnieri
@@ -182,7 +182,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260915-andrew-shephard@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Labor & Public Economics: Andrew Shephard
@@ -199,7 +199,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260916-philip-jung@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20260916T150000
 DTEND;TZID=Europe/Helsinki:20260916T160000
 SUMMARY:Macroeconomics: Philip Jung
@@ -214,7 +214,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260917-sandro-shelegia@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20260917T150000
 DTEND;TZID=Europe/Helsinki:20260917T160000
 SUMMARY:Seminar: Sandro Shelegia
@@ -230,11 +230,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260921-andrea-herrera@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20260921T150000
 DTEND;TZID=Europe/Helsinki:20260921T160000
-SUMMARY:★ Trade\, Regional and Urban Economics: Andrea Herrera — Regula
- ting the Skyline: Evidence from London’s Protected Vistas
+SUMMARY:Trade\, Regional and Urban Economics: Andrea Herrera — Regulating
+  the Skyline: Evidence from London’s Protected Vistas
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  eaker: Andrea Herrera (Aalto University)\nTitle: Regulating the Skyline: E
  vidence from London’s Protected Vistas\nHost: Prottoy Akbar\n\nSpatial 
@@ -250,7 +250,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260922-marten-ritterrath1@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20260922T150000
 DTEND;TZID=Europe/Helsinki:20260922T160000
 SUMMARY:Seminar: Marten Ritterrath
@@ -264,7 +264,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260923-christian-brownlees@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20260923T160000
 DTEND;TZID=Europe/Helsinki:20260923T170000
 SUMMARY:Econometrics: Christian Brownlees
@@ -280,10 +280,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260924-zhengqing-gui@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20260924T150000
 DTEND;TZID=Europe/Helsinki:20260924T160000
-SUMMARY:★ Microeconomics: Zhengqing Gui
+SUMMARY:Microeconomics: Zhengqing Gui
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Zhengqing Gui (
  National University of Singapore)\nTitle: TBA\n\nMicro theory.\n\nEvent pa
  ge: https://www.helsinkigse.fi/events/zhengqing-gui\nSpeaker on Scholar: h
@@ -294,10 +294,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260925-gisle-natvik@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20260925T143000
 DTEND;TZID=Europe/Helsinki:20260925T154500
-SUMMARY:★ Colloquium: Gisle Natvik
+SUMMARY:Colloquium: Gisle Natvik
 DESCRIPTION:Series: Colloquium\nSpeaker: Gisle Natvik (BI Norwegian Busines
  s School)\nTitle: TBA\nHost: Niku Määttänen\n\nDepartmental seminar —
   usually a senior external speaker.\n\nEvent page: https://www.helsinkigse
@@ -310,7 +310,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260929-jakob-miethe@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20260929T150000
 DTEND;TZID=Europe/Helsinki:20260929T160000
 SUMMARY:Labor & Public Economics: Jakob Miethe
@@ -324,10 +324,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261001-lea-bignon@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261001T150000
 DTEND;TZID=Europe/Helsinki:20261001T160000
-SUMMARY:★ Industrial Organization: Léa Bignon
+SUMMARY:Industrial Organization: Léa Bignon
 DESCRIPTION:Series: Industrial Organization\nType: Seminar\nSpeaker: Léa B
  ignon (KU Leuven)\nTitle: TBA\nHost: Alina Ozhegova\n\nIO — core field f
  or the thesis.\n\nEvent page: https://www.helsinkigse.fi/events/lea-bignon
@@ -341,10 +341,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261005-caterina-soto-vieira@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261005T150000
 DTEND;TZID=Europe/Helsinki:20261005T160000
-SUMMARY:★ Trade\, Regional and Urban Economics: Caterina Soto-Vieira
+SUMMARY:Trade\, Regional and Urban Economics: Caterina Soto-Vieira
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  eaker: Caterina Soto-Vieira (IIES)\nTitle: TBA\nHost: Pablo Warnes\n\nSpat
  ial — distance/access adjacent.\n\nEvent page: https://www.helsinkigse.f
@@ -358,7 +358,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261006-jenifer-ruiz-valenzuela@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261006T120000
 DTEND;TZID=Europe/Helsinki:20261006T130000
 SUMMARY:Economics of Education (Educa): Jenifer Ruiz Valenzuela
@@ -375,7 +375,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261006-asa-lofgren1@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261006T150000
 DTEND;TZID=Europe/Helsinki:20261006T160000
 SUMMARY:Environmental Economics: Åsa Löfgren
@@ -389,10 +389,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261008-martin-vaeth@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261008T150000
 DTEND;TZID=Europe/Helsinki:20261008T160000
-SUMMARY:★ Microeconomics: Martin Vaeth
+SUMMARY:Microeconomics: Martin Vaeth
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Martin Vaeth (P
  aris School of Economics)\nTitle: TBA\n\nMicro theory.\n\nEvent page: http
  s://www.helsinkigse.fi/events/martin-vaeth\nSpeaker on Scholar: https://sc
@@ -404,10 +404,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261009-mathias-reynaert@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261009T143000
 DTEND;TZID=Europe/Helsinki:20261009T154500
-SUMMARY:★ Colloquium: Mathias Reynaert
+SUMMARY:Colloquium: Mathias Reynaert
 DESCRIPTION:Series: Colloquium\nSpeaker: Mathias Reynaert (TSE)\nTitle: TBA
  \nHost: Julia Salmi\n\nDepartmental seminar — usually a senior external 
  speaker.\n\nEvent page: https://www.helsinkigse.fi/events/mathias-reynaert
@@ -420,7 +420,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261013-panu-poutavaara@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261013T150000
 DTEND;TZID=Europe/Helsinki:20261013T160000
 SUMMARY:Labor & Public Economics: Panu Poutavaara
@@ -436,10 +436,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261022-florian-brandl@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261022T150000
 DTEND;TZID=Europe/Helsinki:20261022T160000
-SUMMARY:★ Microeconomics: Florian Brandl
+SUMMARY:Microeconomics: Florian Brandl
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Florian Brandl 
  (University of Bonn)\nTitle: TBA\n\nMicro theory.\n\nEvent page: https://w
  ww.helsinkigse.fi/events/florian-brandl\nSpeaker on Scholar: https://schol
@@ -451,10 +451,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261023-basile-grassi@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261023T143000
 DTEND;TZID=Europe/Helsinki:20261023T154500
-SUMMARY:★ Colloquium: Basile Grassi
+SUMMARY:Colloquium: Basile Grassi
 DESCRIPTION:Series: Colloquium\nSpeaker: Basile Grassi (Bocconi University)
  \nTitle: TBA\nHost: Niku Määttänen\n\nDepartmental seminar — usually 
  a senior external speaker.\n\nEvent page: https://www.helsinkigse.fi/event
@@ -467,7 +467,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261026-veronica-salazar-restrepo@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261026T150000
 DTEND;TZID=Europe/Helsinki:20261026T160000
 SUMMARY:Seminar: Veronica Salazar-Restrepo
@@ -482,7 +482,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261028-elias-tsakas-evangelos-mourelatos@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Behavioral Economics: Elias Tsakas & Evangelos Mourelatos
@@ -498,7 +498,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261028-see-yu-chan@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261028T150000
 DTEND;TZID=Europe/Helsinki:20261028T160000
 SUMMARY:Macroeconomics: See-Yu Chan
@@ -512,10 +512,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261029-yann-delaprez@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261029T150000
 DTEND;TZID=Europe/Helsinki:20261029T160000
-SUMMARY:★ Industrial Organization: Yann Delaprez
+SUMMARY:Industrial Organization: Yann Delaprez
 DESCRIPTION:Series: Industrial Organization\nType: Seminar\nSpeaker: Yann D
  elaprez (University of Chicago)\nTitle: TBA\nHost: Alina Ozhegova\n\nIO 
  — core field for the thesis.\n\nEvent page: https://www.helsinkigse.fi/e
@@ -528,7 +528,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261103-petter-lundborg1@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261103T120000
 DTEND;TZID=Europe/Helsinki:20261103T130000
 SUMMARY:Economics of Education (Educa): Petter Lundborg
@@ -545,10 +545,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261109-albert-sole-olle@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261109T150000
 DTEND;TZID=Europe/Helsinki:20261109T160000
-SUMMARY:★ Trade\, Regional and Urban Economics: Albert Solé Ollé
+SUMMARY:Trade\, Regional and Urban Economics: Albert Solé Ollé
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  eaker: Albert Solé Ollé (University of Barcelona)\nTitle: TBA\n\nSpatial
   — distance/access adjacent.\n\nEvent page: https://www.helsinkigse.fi/e
@@ -561,7 +561,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261110-hugo-reichardt@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Labor & Public Economics: Hugo Reichardt
@@ -576,7 +576,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261117-tuomas-kaariaho@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261117T150000
 DTEND;TZID=Europe/Helsinki:20261117T160000
 SUMMARY:Environmental Economics: Tuomas Kaariaho
@@ -590,10 +590,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261119-pia-ennuchat@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261119T150000
 DTEND;TZID=Europe/Helsinki:20261119T160000
-SUMMARY:★ Microeconomics: Pia Ennuchat
+SUMMARY:Microeconomics: Pia Ennuchat
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Pia Ennuchat (U
  niversity of Mannheim)\nTitle: TBA\n\nMicro theory.\n\nEvent page: https:/
  /www.helsinkigse.fi/events/pia-ennuchat\nSpeaker on Scholar: https://schol
@@ -604,10 +604,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261120-joyee-deb@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261120T143000
 DTEND;TZID=Europe/Helsinki:20261120T154500
-SUMMARY:★ Colloquium: Joyee Deb
+SUMMARY:Colloquium: Joyee Deb
 DESCRIPTION:Series: Colloquium\nSpeaker: Joyee Deb (New York University)\nT
  itle: TBA\nHost: Julia Salmi\n\nDepartmental seminar — usually a senior 
  external speaker.\n\nEvent page: https://www.helsinkigse.fi/events/joyee-d
@@ -619,10 +619,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261123-ignacio-aravena-gonzalez@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261123T150000
 DTEND;TZID=Europe/Helsinki:20261123T160000
-SUMMARY:★ Trade\, Regional and Urban Economics: Ignacio Aravena-Gonzalez
+SUMMARY:Trade\, Regional and Urban Economics: Ignacio Aravena-Gonzalez
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  eaker: Ignacio Aravena-Gonzalez (LSE)\nTitle: TBA\n\nSpatial — distance/
  access adjacent.\n\nEvent page: https://www.helsinkigse.fi/events/ignacio-
@@ -636,7 +636,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261124-wouter-leenders@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261124T150000
 DTEND;TZID=Europe/Helsinki:20261124T160000
 SUMMARY:Labor & Public Economics: Wouter Leenders
@@ -650,10 +650,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261126-rodrigo-carril@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261126T150000
 DTEND;TZID=Europe/Helsinki:20261126T160000
-SUMMARY:★ Industrial Organization: Rodrigo Carril
+SUMMARY:Industrial Organization: Rodrigo Carril
 DESCRIPTION:Series: Industrial Organization\nType: Seminar\nSpeaker: Rodrig
  o Carril (Pompeu Fabra University)\nTitle: TBA\nHost: Alina Ozhegova\n\nIO
   — core field for the thesis.\n\nEvent page: https://www.helsinkigse.fi/
@@ -666,7 +666,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261201-piia-remes@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261201T150000
 DTEND;TZID=Europe/Helsinki:20261201T160000
 SUMMARY:Environmental Economics: Piia Remes
@@ -680,11 +680,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261209-alvaro-cox@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261209T150000
 DTEND;TZID=Europe/Helsinki:20261209T160000
 SUMMARY:Macroeconomics: Alvaro Cox — Bringing Demand Within Reach: Digita
- l Platforms\, Market Access\, and th
+ l Platforms\, Market Access\, and…
 DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Alvaro Cox (Uni
  versidad Carlos III de Madrid)\nTitle: Bringing Demand Within Reach: Digit
  al Platforms\, Market Access\, and the Allocation of Firm Scale\nHost: Osk
@@ -698,7 +698,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261215-linde-kattenberg@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261215T150000
 DTEND;TZID=Europe/Helsinki:20261215T160000
 SUMMARY:Environmental Economics: Linde Kattenberg

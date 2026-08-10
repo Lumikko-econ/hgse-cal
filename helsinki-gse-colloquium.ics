@@ -30,10 +30,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260911-leander-heldring@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20260911T143000
 DTEND;TZID=Europe/Helsinki:20260911T154500
-SUMMARY:★ Colloquium: Leander Heldring
+SUMMARY:Colloquium: Leander Heldring
 DESCRIPTION:Series: Colloquium\nSpeaker: Leander Heldring (Northwestern Uni
  versity)\nTitle: TBA\nHost: Matti Mitrunen\n\nDepartmental seminar — usu
  ally a senior external speaker.\n\nEvent page: https://www.helsinkigse.fi/
@@ -45,10 +45,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260925-gisle-natvik@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20260925T143000
 DTEND;TZID=Europe/Helsinki:20260925T154500
-SUMMARY:★ Colloquium: Gisle Natvik
+SUMMARY:Colloquium: Gisle Natvik
 DESCRIPTION:Series: Colloquium\nSpeaker: Gisle Natvik (BI Norwegian Busines
  s School)\nTitle: TBA\nHost: Niku Määttänen\n\nDepartmental seminar —
   usually a senior external speaker.\n\nEvent page: https://www.helsinkigse
@@ -61,10 +61,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261009-mathias-reynaert@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261009T143000
 DTEND;TZID=Europe/Helsinki:20261009T154500
-SUMMARY:★ Colloquium: Mathias Reynaert
+SUMMARY:Colloquium: Mathias Reynaert
 DESCRIPTION:Series: Colloquium\nSpeaker: Mathias Reynaert (TSE)\nTitle: TBA
  \nHost: Julia Salmi\n\nDepartmental seminar — usually a senior external 
  speaker.\n\nEvent page: https://www.helsinkigse.fi/events/mathias-reynaert
@@ -77,10 +77,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261023-basile-grassi@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261023T143000
 DTEND;TZID=Europe/Helsinki:20261023T154500
-SUMMARY:★ Colloquium: Basile Grassi
+SUMMARY:Colloquium: Basile Grassi
 DESCRIPTION:Series: Colloquium\nSpeaker: Basile Grassi (Bocconi University)
  \nTitle: TBA\nHost: Niku Määttänen\n\nDepartmental seminar — usually 
  a senior external speaker.\n\nEvent page: https://www.helsinkigse.fi/event
@@ -93,10 +93,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261120-joyee-deb@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261120T143000
 DTEND;TZID=Europe/Helsinki:20261120T154500
-SUMMARY:★ Colloquium: Joyee Deb
+SUMMARY:Colloquium: Joyee Deb
 DESCRIPTION:Series: Colloquium\nSpeaker: Joyee Deb (New York University)\nT
  itle: TBA\nHost: Julia Salmi\n\nDepartmental seminar — usually a senior 
  external speaker.\n\nEvent page: https://www.helsinkigse.fi/events/joyee-d

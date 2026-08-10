@@ -30,10 +30,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20261001-lea-bignon@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261001T150000
 DTEND;TZID=Europe/Helsinki:20261001T160000
-SUMMARY:★ Industrial Organization: Léa Bignon
+SUMMARY:Industrial Organization: Léa Bignon
 DESCRIPTION:Series: Industrial Organization\nType: Seminar\nSpeaker: Léa B
  ignon (KU Leuven)\nTitle: TBA\nHost: Alina Ozhegova\n\nIO — core field f
  or the thesis.\n\nEvent page: https://www.helsinkigse.fi/events/lea-bignon
@@ -47,10 +47,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261029-yann-delaprez@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261029T150000
 DTEND;TZID=Europe/Helsinki:20261029T160000
-SUMMARY:★ Industrial Organization: Yann Delaprez
+SUMMARY:Industrial Organization: Yann Delaprez
 DESCRIPTION:Series: Industrial Organization\nType: Seminar\nSpeaker: Yann D
  elaprez (University of Chicago)\nTitle: TBA\nHost: Alina Ozhegova\n\nIO 
  — core field for the thesis.\n\nEvent page: https://www.helsinkigse.fi/e
@@ -63,10 +63,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261126-rodrigo-carril@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261126T150000
 DTEND;TZID=Europe/Helsinki:20261126T160000
-SUMMARY:★ Industrial Organization: Rodrigo Carril
+SUMMARY:Industrial Organization: Rodrigo Carril
 DESCRIPTION:Series: Industrial Organization\nType: Seminar\nSpeaker: Rodrig
  o Carril (Pompeu Fabra University)\nTitle: TBA\nHost: Alina Ozhegova\n\nIO
   — core field for the thesis.\n\nEvent page: https://www.helsinkigse.fi/

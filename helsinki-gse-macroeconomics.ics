@@ -30,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260916-philip-jung@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20260916T150000
 DTEND;TZID=Europe/Helsinki:20260916T160000
 SUMMARY:Macroeconomics: Philip Jung
@@ -45,7 +45,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261028-see-yu-chan@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261028T150000
 DTEND;TZID=Europe/Helsinki:20261028T160000
 SUMMARY:Macroeconomics: See-Yu Chan
@@ -59,11 +59,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261209-alvaro-cox@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261209T150000
 DTEND;TZID=Europe/Helsinki:20261209T160000
 SUMMARY:Macroeconomics: Alvaro Cox — Bringing Demand Within Reach: Digita
- l Platforms\, Market Access\, and th
+ l Platforms\, Market Access\, and…
 DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Alvaro Cox (Uni
  versidad Carlos III de Madrid)\nTitle: Bringing Demand Within Reach: Digit
  al Platforms\, Market Access\, and the Allocation of Firm Scale\nHost: Osk

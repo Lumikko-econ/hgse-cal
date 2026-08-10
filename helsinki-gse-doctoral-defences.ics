@@ -30,11 +30,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260821-antto-jokelainen4@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20260821T120000
 DTEND;TZID=Europe/Helsinki:20260821T150000
-SUMMARY:★ Aalto University: Antto Jokelainen — Antto Jokelainen will de
- fend his thesis “Essays on Competition and Reg
+SUMMARY:Aalto University: Antto Jokelainen — Antto Jokelainen will defend
+  his thesis “Essays on Competition and…
 DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Antt
  o Jokelainen (Aalto University)\nTitle: Antto Jokelainen will defend his t
  hesis “Essays on Competition and Regulation”\n\nEvent page: https://ww
@@ -49,11 +49,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260821-jerry-montonen4@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20260821T120000
 DTEND;TZID=Europe/Helsinki:20260821T150000
-SUMMARY:★ Aalto University: Jerry Montonen — Jerry Montonen will defend
-  his thesis Essays on the economics of socia
+SUMMARY:Aalto University: Jerry Montonen — Jerry Montonen will defend his
+  thesis Essays on the economics of…
 DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Jerr
  y Montonen (Aalto University)\nTitle: Jerry Montonen will defend his thesi
  s Essays on the economics of social interactions\n\nEvent page: https://ww

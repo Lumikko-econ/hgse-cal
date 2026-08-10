@@ -30,10 +30,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260907-jos-van-ommeren@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20260907T150000
 DTEND;TZID=Europe/Helsinki:20260907T160000
-SUMMARY:★ Trade\, Regional and Urban Economics: Jos van Ommeren
+SUMMARY:Trade\, Regional and Urban Economics: Jos van Ommeren
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  eaker: Jos van Ommeren (VU Amsterdam)\nTitle: TBA\nHost: Tuukka Saarimaa\n
  \nSpatial — distance/access adjacent.\n\nEvent page: https://www.helsink
@@ -47,11 +47,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260921-andrea-herrera@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20260921T150000
 DTEND;TZID=Europe/Helsinki:20260921T160000
-SUMMARY:★ Trade\, Regional and Urban Economics: Andrea Herrera — Regula
- ting the Skyline: Evidence from London’s Protected Vistas
+SUMMARY:Trade\, Regional and Urban Economics: Andrea Herrera — Regulating
+  the Skyline: Evidence from London’s Protected Vistas
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  eaker: Andrea Herrera (Aalto University)\nTitle: Regulating the Skyline: E
  vidence from London’s Protected Vistas\nHost: Prottoy Akbar\n\nSpatial 
@@ -67,10 +67,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261005-caterina-soto-vieira@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261005T150000
 DTEND;TZID=Europe/Helsinki:20261005T160000
-SUMMARY:★ Trade\, Regional and Urban Economics: Caterina Soto-Vieira
+SUMMARY:Trade\, Regional and Urban Economics: Caterina Soto-Vieira
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  eaker: Caterina Soto-Vieira (IIES)\nTitle: TBA\nHost: Pablo Warnes\n\nSpat
  ial — distance/access adjacent.\n\nEvent page: https://www.helsinkigse.f
@@ -84,10 +84,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261109-albert-sole-olle@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261109T150000
 DTEND;TZID=Europe/Helsinki:20261109T160000
-SUMMARY:★ Trade\, Regional and Urban Economics: Albert Solé Ollé
+SUMMARY:Trade\, Regional and Urban Economics: Albert Solé Ollé
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  eaker: Albert Solé Ollé (University of Barcelona)\nTitle: TBA\n\nSpatial
   — distance/access adjacent.\n\nEvent page: https://www.helsinkigse.fi/e
@@ -100,10 +100,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261123-ignacio-aravena-gonzalez@helsinkigse.fi
-DTSTAMP:20260810T154123Z
+DTSTAMP:20260810T154614Z
 DTSTART;TZID=Europe/Helsinki:20261123T150000
 DTEND;TZID=Europe/Helsinki:20261123T160000
-SUMMARY:★ Trade\, Regional and Urban Economics: Ignacio Aravena-Gonzalez
+SUMMARY:Trade\, Regional and Urban Economics: Ignacio Aravena-Gonzalez
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  eaker: Ignacio Aravena-Gonzalez (LSE)\nTitle: TBA\n\nSpatial — distance/
  access adjacent.\n\nEvent page: https://www.helsinkigse.fi/events/ignacio-
