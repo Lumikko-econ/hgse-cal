@@ -57,12 +57,11 @@ schedule.
 | Core | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-core.ics` | 19 |
 | Other | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-other.ics` | 24 |
 
-The core feed is the only one carrying reminders (09:00 on the day).
+Neither feed sets reminders.
 
 ### C. Per series — pick your own fields
 
-Subscribe to as many as you like; they do not overlap, and none of
-them set reminders.
+Subscribe to as many as you like; they do not overlap.
 
 | Calendar | Subscription URL | Events |
 |---|---|---:|
@@ -163,9 +162,11 @@ Helsinki) and the Aalto campuses in Otaniemi/Espoo, and the difference is a
 half-hour trip.
 
 Times and venues come from each event's detail page. Where a time has not been
-published yet the entry is all-day rather than being given an invented one, and
-its reminder fires at 09:00 that morning. HGSE does not publish abstracts, so
-there are none to include.
+published yet the entry is all-day rather than being given an invented one.
+HGSE does not publish abstracts, so there are none to include.
+
+No feed sets reminders — subscribed calendars are read-only mirrors, so add
+your own to the seminars you actually plan to attend (see below).
 
 ## How it updates
 
