@@ -30,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20261001-lea-bignon@helsinkigse.fi
-DTSTAMP:20260810T153205Z
+DTSTAMP:20260810T154031Z
 DTSTART;TZID=Europe/Helsinki:20261001T150000
 DTEND;TZID=Europe/Helsinki:20261001T160000
 SUMMARY:★ Industrial Organization: Léa Bignon
@@ -44,15 +44,10 @@ LOCATION:V001\, Aalto University School of Business\, Ekonominaukio 1\, Esp
 URL:https://www.helsinkigse.fi/events/lea-bignon
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Industrial Organization: Léa Bignon
-TRIGGER:-PT6H
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261029-yann-delaprez@helsinkigse.fi
-DTSTAMP:20260810T153205Z
+DTSTAMP:20260810T154031Z
 DTSTART;TZID=Europe/Helsinki:20261029T150000
 DTEND;TZID=Europe/Helsinki:20261029T160000
 SUMMARY:★ Industrial Organization: Yann Delaprez
@@ -65,15 +60,10 @@ LOCATION:Q203\, Aalto University Väre Building\, Otaniementie 14\, Espoo
 URL:https://www.helsinkigse.fi/events/yann-delaprez
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Industrial Organization: Yann Delaprez
-TRIGGER:-PT6H
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261126-rodrigo-carril@helsinkigse.fi
-DTSTAMP:20260810T153205Z
+DTSTAMP:20260810T154031Z
 DTSTART;TZID=Europe/Helsinki:20261126T150000
 DTEND;TZID=Europe/Helsinki:20261126T160000
 SUMMARY:★ Industrial Organization: Rodrigo Carril
@@ -86,10 +76,5 @@ LOCATION:Q203\, Aalto University Väre Building\, Otaniementie 14\, Espoo
 URL:https://www.helsinkigse.fi/events/rodrigo-carril
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Industrial Organization: Rodrigo Carril
-TRIGGER:-PT6H
-END:VALARM
 END:VEVENT
 END:VCALENDAR

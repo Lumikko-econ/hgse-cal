@@ -30,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260924-zhengqing-gui@helsinkigse.fi
-DTSTAMP:20260810T153205Z
+DTSTAMP:20260810T154031Z
 DTSTART;TZID=Europe/Helsinki:20260924T150000
 DTEND;TZID=Europe/Helsinki:20260924T160000
 SUMMARY:★ Microeconomics: Zhengqing Gui
@@ -41,15 +41,10 @@ DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Zhengqing Gui (
 URL:https://www.helsinkigse.fi/events/zhengqing-gui
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Microeconomics: Zhengqing Gui
-TRIGGER:-PT6H
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261008-martin-vaeth@helsinkigse.fi
-DTSTAMP:20260810T153205Z
+DTSTAMP:20260810T154031Z
 DTSTART;TZID=Europe/Helsinki:20261008T150000
 DTEND;TZID=Europe/Helsinki:20261008T160000
 SUMMARY:★ Microeconomics: Martin Vaeth
@@ -61,15 +56,10 @@ LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/martin-vaeth
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Microeconomics: Martin Vaeth
-TRIGGER:-PT6H
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261022-florian-brandl@helsinkigse.fi
-DTSTAMP:20260810T153205Z
+DTSTAMP:20260810T154031Z
 DTSTART;TZID=Europe/Helsinki:20261022T150000
 DTEND;TZID=Europe/Helsinki:20261022T160000
 SUMMARY:★ Microeconomics: Florian Brandl
@@ -81,15 +71,10 @@ LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/florian-brandl
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Microeconomics: Florian Brandl
-TRIGGER:-PT6H
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261119-pia-ennuchat@helsinkigse.fi
-DTSTAMP:20260810T153205Z
+DTSTAMP:20260810T154031Z
 DTSTART;TZID=Europe/Helsinki:20261119T150000
 DTEND;TZID=Europe/Helsinki:20261119T160000
 SUMMARY:★ Microeconomics: Pia Ennuchat
@@ -100,10 +85,5 @@ DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Pia Ennuchat (U
 URL:https://www.helsinkigse.fi/events/pia-ennuchat
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Microeconomics: Pia Ennuchat
-TRIGGER:-PT6H
-END:VALARM
 END:VEVENT
 END:VCALENDAR

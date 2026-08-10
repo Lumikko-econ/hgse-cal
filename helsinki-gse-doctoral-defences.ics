@@ -30,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260821-antto-jokelainen4@helsinkigse.fi
-DTSTAMP:20260810T153205Z
+DTSTAMP:20260810T154031Z
 DTSTART;TZID=Europe/Helsinki:20260821T120000
 DTEND;TZID=Europe/Helsinki:20260821T150000
 SUMMARY:★ Aalto University: Antto Jokelainen — Antto Jokelainen will de
@@ -46,16 +46,10 @@ LOCATION:R001 / H304 Opettajaneuvoston istuntosali\, Undergraduate Centre\,
 URL:https://www.helsinkigse.fi/events/antto-jokelainen4
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Aalto University: Antto Jokelainen — Antto Jokelainen wil
- l defend his thesis “Essays on Competition and Reg
-TRIGGER:-PT3H
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260821-jerry-montonen4@helsinkigse.fi
-DTSTAMP:20260810T153205Z
+DTSTAMP:20260810T154031Z
 DTSTART;TZID=Europe/Helsinki:20260821T120000
 DTEND;TZID=Europe/Helsinki:20260821T150000
 SUMMARY:★ Aalto University: Jerry Montonen — Jerry Montonen will defend
@@ -71,11 +65,5 @@ LOCATION:V002\, Aalto University School of Business\, Ekonominaukio 1\, Esp
 URL:https://www.helsinkigse.fi/events/jerry-montonen4
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Aalto University: Jerry Montonen — Jerry Montonen will de
- fend his thesis Essays on the economics of socia
-TRIGGER:-PT3H
-END:VALARM
 END:VEVENT
 END:VCALENDAR

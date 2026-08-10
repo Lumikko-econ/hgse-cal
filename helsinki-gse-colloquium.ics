@@ -30,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260911-leander-heldring@helsinkigse.fi
-DTSTAMP:20260810T153205Z
+DTSTAMP:20260810T154031Z
 DTSTART;TZID=Europe/Helsinki:20260911T143000
 DTEND;TZID=Europe/Helsinki:20260911T154500
 SUMMARY:★ Colloquium: Leander Heldring
@@ -42,15 +42,10 @@ DESCRIPTION:Series: Colloquium\nSpeaker: Leander Heldring (Northwestern Uni
 URL:https://www.helsinkigse.fi/events/leander-heldring
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Colloquium: Leander Heldring
-TRIGGER:-PT5H30M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260925-gisle-natvik@helsinkigse.fi
-DTSTAMP:20260810T153205Z
+DTSTAMP:20260810T154031Z
 DTSTART;TZID=Europe/Helsinki:20260925T143000
 DTEND;TZID=Europe/Helsinki:20260925T154500
 SUMMARY:★ Colloquium: Gisle Natvik
@@ -63,15 +58,10 @@ LOCATION:A411\, Hanken School of Economics\, Arkadiankatu 22\, Helsinki
 URL:https://www.helsinkigse.fi/events/gisle-natvik
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Colloquium: Gisle Natvik
-TRIGGER:-PT5H30M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261009-mathias-reynaert@helsinkigse.fi
-DTSTAMP:20260810T153205Z
+DTSTAMP:20260810T154031Z
 DTSTART;TZID=Europe/Helsinki:20261009T143000
 DTEND;TZID=Europe/Helsinki:20261009T154500
 SUMMARY:★ Colloquium: Mathias Reynaert
@@ -84,15 +74,10 @@ LOCATION:Seminar hall\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/mathias-reynaert
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Colloquium: Mathias Reynaert
-TRIGGER:-PT5H30M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261023-basile-grassi@helsinkigse.fi
-DTSTAMP:20260810T153205Z
+DTSTAMP:20260810T154031Z
 DTSTART;TZID=Europe/Helsinki:20261023T143000
 DTEND;TZID=Europe/Helsinki:20261023T154500
 SUMMARY:★ Colloquium: Basile Grassi
@@ -105,15 +90,10 @@ LOCATION:Seminar hall\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/basile-grassi
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Colloquium: Basile Grassi
-TRIGGER:-PT5H30M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261120-joyee-deb@helsinkigse.fi
-DTSTAMP:20260810T153205Z
+DTSTAMP:20260810T154031Z
 DTSTART;TZID=Europe/Helsinki:20261120T143000
 DTEND;TZID=Europe/Helsinki:20261120T154500
 SUMMARY:★ Colloquium: Joyee Deb
@@ -125,10 +105,5 @@ DESCRIPTION:Series: Colloquium\nSpeaker: Joyee Deb (New York University)\nT
 URL:https://www.helsinkigse.fi/events/joyee-deb
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Colloquium: Joyee Deb
-TRIGGER:-PT5H30M
-END:VALARM
 END:VEVENT
 END:VCALENDAR

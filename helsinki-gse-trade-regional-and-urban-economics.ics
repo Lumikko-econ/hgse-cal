@@ -30,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260907-jos-van-ommeren@helsinkigse.fi
-DTSTAMP:20260810T153205Z
+DTSTAMP:20260810T154031Z
 DTSTART;TZID=Europe/Helsinki:20260907T150000
 DTEND;TZID=Europe/Helsinki:20260907T160000
 SUMMARY:★ Trade\, Regional and Urban Economics: Jos van Ommeren
@@ -44,15 +44,10 @@ LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
 URL:https://www.helsinkigse.fi/events/jos-van-ommeren
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Trade\, Regional and Urban Economics: Jos van Ommeren
-TRIGGER:-PT6H
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260921-andrea-herrera@helsinkigse.fi
-DTSTAMP:20260810T153205Z
+DTSTAMP:20260810T154031Z
 DTSTART;TZID=Europe/Helsinki:20260921T150000
 DTEND;TZID=Europe/Helsinki:20260921T160000
 SUMMARY:★ Trade\, Regional and Urban Economics: Andrea Herrera — Regula
@@ -69,16 +64,10 @@ LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
 URL:https://www.helsinkigse.fi/events/andrea-herrera
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Trade\, Regional and Urban Economics: Andrea Herrera — Re
- gulating the Skyline: Evidence from London’s Protected Vistas
-TRIGGER:-PT6H
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261005-caterina-soto-vieira@helsinkigse.fi
-DTSTAMP:20260810T153205Z
+DTSTAMP:20260810T154031Z
 DTSTART;TZID=Europe/Helsinki:20261005T150000
 DTEND;TZID=Europe/Helsinki:20261005T160000
 SUMMARY:★ Trade\, Regional and Urban Economics: Caterina Soto-Vieira
@@ -92,15 +81,10 @@ LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
 URL:https://www.helsinkigse.fi/events/caterina-soto-vieira
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Trade\, Regional and Urban Economics: Caterina Soto-Vieira
-TRIGGER:-PT6H
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261109-albert-sole-olle@helsinkigse.fi
-DTSTAMP:20260810T153205Z
+DTSTAMP:20260810T154031Z
 DTSTART;TZID=Europe/Helsinki:20261109T150000
 DTEND;TZID=Europe/Helsinki:20261109T160000
 SUMMARY:★ Trade\, Regional and Urban Economics: Albert Solé Ollé
@@ -113,15 +97,10 @@ LOCATION:M202\, Aalto University Väre Building\, Otaniementie 14\, Espoo
 URL:https://www.helsinkigse.fi/events/albert-sole-olle
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Trade\, Regional and Urban Economics: Albert Solé Ollé
-TRIGGER:-PT6H
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261123-ignacio-aravena-gonzalez@helsinkigse.fi
-DTSTAMP:20260810T153205Z
+DTSTAMP:20260810T154031Z
 DTSTART;TZID=Europe/Helsinki:20261123T150000
 DTEND;TZID=Europe/Helsinki:20261123T160000
 SUMMARY:★ Trade\, Regional and Urban Economics: Ignacio Aravena-Gonzalez
@@ -135,11 +114,5 @@ LOCATION:1571 Meitner\, Aalto University Kide building\, Konemiehentie 1\,
 URL:https://www.helsinkigse.fi/events/ignacio-aravena-gonzalez
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Trade\, Regional and Urban Economics: Ignacio Aravena-Gonza
- lez
-TRIGGER:-PT6H
-END:VALARM
 END:VEVENT
 END:VCALENDAR
