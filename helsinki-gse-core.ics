@@ -30,17 +30,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260821-antto-jokelainen4@helsinkigse.fi
-DTSTAMP:20260810T154614Z
+DTSTAMP:20260810T155133Z
 DTSTART;TZID=Europe/Helsinki:20260821T120000
 DTEND;TZID=Europe/Helsinki:20260821T150000
-SUMMARY:Aalto University: Antto Jokelainen — Antto Jokelainen will defend
-  his thesis “Essays on Competition and…
+SUMMARY:Doctoral Defence: Antto Jokelainen — Essays on Competition and Re
+ gulation
 DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Antt
- o Jokelainen (Aalto University)\nTitle: Antto Jokelainen will defend his t
- hesis “Essays on Competition and Regulation”\n\nEvent page: https://ww
- w.helsinkigse.fi/events/antto-jokelainen4\nPaper on Scholar: https://schol
- ar.google.com/scholar?q=%22Antto+Jokelainen+will+defend+his+thesis+Essays+
- on+Competition+and+Regulation%22
+ o Jokelainen (Aalto University)\nTitle: Essays on Competition and Regulati
+ on\n\nEvent page: https://www.helsinkigse.fi/events/antto-jokelainen4\nPap
+ er on Scholar: https://scholar.google.com/scholar?q=%22Essays+on+Competiti
+ on+and+Regulation%22
 LOCATION:R001 / H304 Opettajaneuvoston istuntosali\, Undergraduate Centre\,
   Otakaari 1\, Espoo
 URL:https://www.helsinkigse.fi/events/antto-jokelainen4
@@ -49,17 +48,16 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260821-jerry-montonen4@helsinkigse.fi
-DTSTAMP:20260810T154614Z
+DTSTAMP:20260810T155133Z
 DTSTART;TZID=Europe/Helsinki:20260821T120000
 DTEND;TZID=Europe/Helsinki:20260821T150000
-SUMMARY:Aalto University: Jerry Montonen — Jerry Montonen will defend his
-  thesis Essays on the economics of…
+SUMMARY:Doctoral Defence: Jerry Montonen — Essays on the economics of soc
+ ial interactions
 DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Jerr
- y Montonen (Aalto University)\nTitle: Jerry Montonen will defend his thesi
- s Essays on the economics of social interactions\n\nEvent page: https://ww
- w.helsinkigse.fi/events/jerry-montonen4\nPaper on Scholar: https://scholar
- .google.com/scholar?q=%22Jerry+Montonen+will+defend+his+thesis+Essays+on+t
- he+economics+of+social+interactions%22
+ y Montonen (Aalto University)\nTitle: Essays on the economics of social in
+ teractions\n\nEvent page: https://www.helsinkigse.fi/events/jerry-montonen
+ 4\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Essays+on+the
+ +economics+of+social+interactions%22
 LOCATION:V002\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/jerry-montonen4
@@ -68,7 +66,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260907-jos-van-ommeren@helsinkigse.fi
-DTSTAMP:20260810T154614Z
+DTSTAMP:20260810T155133Z
 DTSTART;TZID=Europe/Helsinki:20260907T150000
 DTEND;TZID=Europe/Helsinki:20260907T160000
 SUMMARY:Trade\, Regional and Urban Economics: Jos van Ommeren
@@ -85,7 +83,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260911-leander-heldring@helsinkigse.fi
-DTSTAMP:20260810T154614Z
+DTSTAMP:20260810T155133Z
 DTSTART;TZID=Europe/Helsinki:20260911T143000
 DTEND;TZID=Europe/Helsinki:20260911T154500
 SUMMARY:Colloquium: Leander Heldring
@@ -100,7 +98,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260921-andrea-herrera@helsinkigse.fi
-DTSTAMP:20260810T154614Z
+DTSTAMP:20260810T155133Z
 DTSTART;TZID=Europe/Helsinki:20260921T150000
 DTEND;TZID=Europe/Helsinki:20260921T160000
 SUMMARY:Trade\, Regional and Urban Economics: Andrea Herrera — Regulating
@@ -120,7 +118,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260924-zhengqing-gui@helsinkigse.fi
-DTSTAMP:20260810T154614Z
+DTSTAMP:20260810T155133Z
 DTSTART;TZID=Europe/Helsinki:20260924T150000
 DTEND;TZID=Europe/Helsinki:20260924T160000
 SUMMARY:Microeconomics: Zhengqing Gui
@@ -134,7 +132,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260925-gisle-natvik@helsinkigse.fi
-DTSTAMP:20260810T154614Z
+DTSTAMP:20260810T155133Z
 DTSTART;TZID=Europe/Helsinki:20260925T143000
 DTEND;TZID=Europe/Helsinki:20260925T154500
 SUMMARY:Colloquium: Gisle Natvik
@@ -150,7 +148,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261001-lea-bignon@helsinkigse.fi
-DTSTAMP:20260810T154614Z
+DTSTAMP:20260810T155133Z
 DTSTART;TZID=Europe/Helsinki:20261001T150000
 DTEND;TZID=Europe/Helsinki:20261001T160000
 SUMMARY:Industrial Organization: Léa Bignon
@@ -167,7 +165,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261005-caterina-soto-vieira@helsinkigse.fi
-DTSTAMP:20260810T154614Z
+DTSTAMP:20260810T155133Z
 DTSTART;TZID=Europe/Helsinki:20261005T150000
 DTEND;TZID=Europe/Helsinki:20261005T160000
 SUMMARY:Trade\, Regional and Urban Economics: Caterina Soto-Vieira
@@ -184,7 +182,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261008-martin-vaeth@helsinkigse.fi
-DTSTAMP:20260810T154614Z
+DTSTAMP:20260810T155133Z
 DTSTART;TZID=Europe/Helsinki:20261008T150000
 DTEND;TZID=Europe/Helsinki:20261008T160000
 SUMMARY:Microeconomics: Martin Vaeth
@@ -199,7 +197,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261009-mathias-reynaert@helsinkigse.fi
-DTSTAMP:20260810T154614Z
+DTSTAMP:20260810T155133Z
 DTSTART;TZID=Europe/Helsinki:20261009T143000
 DTEND;TZID=Europe/Helsinki:20261009T154500
 SUMMARY:Colloquium: Mathias Reynaert
@@ -215,7 +213,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261022-florian-brandl@helsinkigse.fi
-DTSTAMP:20260810T154614Z
+DTSTAMP:20260810T155133Z
 DTSTART;TZID=Europe/Helsinki:20261022T150000
 DTEND;TZID=Europe/Helsinki:20261022T160000
 SUMMARY:Microeconomics: Florian Brandl
@@ -230,7 +228,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261023-basile-grassi@helsinkigse.fi
-DTSTAMP:20260810T154614Z
+DTSTAMP:20260810T155133Z
 DTSTART;TZID=Europe/Helsinki:20261023T143000
 DTEND;TZID=Europe/Helsinki:20261023T154500
 SUMMARY:Colloquium: Basile Grassi
@@ -246,7 +244,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261029-yann-delaprez@helsinkigse.fi
-DTSTAMP:20260810T154614Z
+DTSTAMP:20260810T155133Z
 DTSTART;TZID=Europe/Helsinki:20261029T150000
 DTEND;TZID=Europe/Helsinki:20261029T160000
 SUMMARY:Industrial Organization: Yann Delaprez
@@ -262,7 +260,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261109-albert-sole-olle@helsinkigse.fi
-DTSTAMP:20260810T154614Z
+DTSTAMP:20260810T155133Z
 DTSTART;TZID=Europe/Helsinki:20261109T150000
 DTEND;TZID=Europe/Helsinki:20261109T160000
 SUMMARY:Trade\, Regional and Urban Economics: Albert Solé Ollé
@@ -278,7 +276,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261119-pia-ennuchat@helsinkigse.fi
-DTSTAMP:20260810T154614Z
+DTSTAMP:20260810T155133Z
 DTSTART;TZID=Europe/Helsinki:20261119T150000
 DTEND;TZID=Europe/Helsinki:20261119T160000
 SUMMARY:Microeconomics: Pia Ennuchat
@@ -292,7 +290,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261120-joyee-deb@helsinkigse.fi
-DTSTAMP:20260810T154614Z
+DTSTAMP:20260810T155133Z
 DTSTART;TZID=Europe/Helsinki:20261120T143000
 DTEND;TZID=Europe/Helsinki:20261120T154500
 SUMMARY:Colloquium: Joyee Deb
@@ -307,7 +305,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261123-ignacio-aravena-gonzalez@helsinkigse.fi
-DTSTAMP:20260810T154614Z
+DTSTAMP:20260810T155133Z
 DTSTART;TZID=Europe/Helsinki:20261123T150000
 DTEND;TZID=Europe/Helsinki:20261123T160000
 SUMMARY:Trade\, Regional and Urban Economics: Ignacio Aravena-Gonzalez
@@ -324,7 +322,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261126-rodrigo-carril@helsinkigse.fi
-DTSTAMP:20260810T154614Z
+DTSTAMP:20260810T155133Z
 DTSTART;TZID=Europe/Helsinki:20261126T150000
 DTEND;TZID=Europe/Helsinki:20261126T160000
 SUMMARY:Industrial Organization: Rodrigo Carril
