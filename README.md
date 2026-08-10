@@ -101,6 +101,10 @@ Times and venues come from each event's detail page. Where no time has been
 published the entry is all-day rather than being given an invented one. HGSE
 publishes no abstracts, so there are none to include.
 
+**Past seminars stay put.** HGSE's page lists upcoming events only, but these
+feeds keep everything they have ever seen — so months later you can still scroll
+back to find who spoke and what the paper was.
+
 ---
 
 ## How it updates
