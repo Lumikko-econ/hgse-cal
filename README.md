@@ -20,7 +20,9 @@ cron job scrapes it twice a week and republishes it here.
 
 ### Two calendars you can colour separately
 
-Core is Colloquium · Industrial Organization · Microeconomics · Trade, Regional and Urban Economics · doctoral defences. Other is the rest. Together, the full schedule.
+Core is Colloquium · Industrial Organization · Microeconomics · Trade,
+Regional and Urban Economics · doctoral defences. Other is the rest —
+together, the full schedule.
 
 | Calendar | Subscription URL | Events |
 |---|---|---:|
@@ -49,17 +51,17 @@ Take as many as you like — they don't overlap.
 
 <!-- feeds:end -->
 
+---
+
 ## Subscribing
 
-> ⚠️ Use the `raw.githubusercontent.com` URL above — **not** the
-> `github.com/.../blob/` one. The blob URL returns HTTP 200 and serves a web
-> page, so Outlook accepts it and then shows an empty calendar.
-
-**Subscribe, don't import.** Importing takes a one-time snapshot and
+**Subscribe, don't import.** Importing takes a one-time snapshot, and
 re-importing duplicates everything. Subscribed feeds stay in sync: events have
-stable UIDs, so a changed time, venue or speaker updates in place. They are also
-read-only — to add a note or an alert to a seminar, copy that event into your
-own calendar and edit the copy.
+stable UIDs, so a changed time, venue or speaker updates in place.
+
+Copy the URLs from the tables above. A `github.com/.../blob/` link looks fine
+and returns HTTP 200, but serves a web page — the calendar simply comes up
+empty, with no error.
 
 | Client | How |
 |---|---|
@@ -81,11 +83,16 @@ up to 12 hours:
 https://cdn.jsdelivr.net/gh/Lumikko-econ/hgse-cal@main/
 ```
 
+---
+
 ## What's in an event
 
 Series, speaker and affiliation, title once announced, host, venue, a link to
 the event page, and a Google Scholar search — for the paper if it has a title,
 otherwise for the speaker's own work.
+
+Feeds are read-only — to add a note or an alert to a seminar, copy that event
+into your own calendar and edit the copy.
 
 **Check the venue**: seminars alternate between Economicum (Arkadiankatu 7,
 Helsinki) and the Aalto campuses in Otaniemi, which is a half-hour apart.
@@ -93,6 +100,8 @@ Helsinki) and the Aalto campuses in Otaniemi, which is a half-hour apart.
 Times and venues come from each event's detail page. Where no time has been
 published the entry is all-day rather than being given an invented one. HGSE
 publishes no abstracts, so there are none to include.
+
+---
 
 ## How it updates
 
