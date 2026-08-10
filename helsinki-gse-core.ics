@@ -30,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260821-antto-jokelainen4@helsinkigse.fi
-DTSTAMP:20260810T154031Z
+DTSTAMP:20260810T154123Z
 DTSTART;TZID=Europe/Helsinki:20260821T120000
 DTEND;TZID=Europe/Helsinki:20260821T150000
 SUMMARY:★ Aalto University: Antto Jokelainen — Antto Jokelainen will de
@@ -46,16 +46,10 @@ LOCATION:R001 / H304 Opettajaneuvoston istuntosali\, Undergraduate Centre\,
 URL:https://www.helsinkigse.fi/events/antto-jokelainen4
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Aalto University: Antto Jokelainen — Antto Jokelainen wil
- l defend his thesis “Essays on Competition and Reg
-TRIGGER:-PT3H
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260821-jerry-montonen4@helsinkigse.fi
-DTSTAMP:20260810T154031Z
+DTSTAMP:20260810T154123Z
 DTSTART;TZID=Europe/Helsinki:20260821T120000
 DTEND;TZID=Europe/Helsinki:20260821T150000
 SUMMARY:★ Aalto University: Jerry Montonen — Jerry Montonen will defend
@@ -71,16 +65,10 @@ LOCATION:V002\, Aalto University School of Business\, Ekonominaukio 1\, Esp
 URL:https://www.helsinkigse.fi/events/jerry-montonen4
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Aalto University: Jerry Montonen — Jerry Montonen will de
- fend his thesis Essays on the economics of socia
-TRIGGER:-PT3H
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260907-jos-van-ommeren@helsinkigse.fi
-DTSTAMP:20260810T154031Z
+DTSTAMP:20260810T154123Z
 DTSTART;TZID=Europe/Helsinki:20260907T150000
 DTEND;TZID=Europe/Helsinki:20260907T160000
 SUMMARY:★ Trade\, Regional and Urban Economics: Jos van Ommeren
@@ -94,15 +82,10 @@ LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
 URL:https://www.helsinkigse.fi/events/jos-van-ommeren
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Trade\, Regional and Urban Economics: Jos van Ommeren
-TRIGGER:-PT6H
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260911-leander-heldring@helsinkigse.fi
-DTSTAMP:20260810T154031Z
+DTSTAMP:20260810T154123Z
 DTSTART;TZID=Europe/Helsinki:20260911T143000
 DTEND;TZID=Europe/Helsinki:20260911T154500
 SUMMARY:★ Colloquium: Leander Heldring
@@ -114,15 +97,10 @@ DESCRIPTION:Series: Colloquium\nSpeaker: Leander Heldring (Northwestern Uni
 URL:https://www.helsinkigse.fi/events/leander-heldring
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Colloquium: Leander Heldring
-TRIGGER:-PT5H30M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260921-andrea-herrera@helsinkigse.fi
-DTSTAMP:20260810T154031Z
+DTSTAMP:20260810T154123Z
 DTSTART;TZID=Europe/Helsinki:20260921T150000
 DTEND;TZID=Europe/Helsinki:20260921T160000
 SUMMARY:★ Trade\, Regional and Urban Economics: Andrea Herrera — Regula
@@ -139,16 +117,10 @@ LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
 URL:https://www.helsinkigse.fi/events/andrea-herrera
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Trade\, Regional and Urban Economics: Andrea Herrera — Re
- gulating the Skyline: Evidence from London’s Protected Vistas
-TRIGGER:-PT6H
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260924-zhengqing-gui@helsinkigse.fi
-DTSTAMP:20260810T154031Z
+DTSTAMP:20260810T154123Z
 DTSTART;TZID=Europe/Helsinki:20260924T150000
 DTEND;TZID=Europe/Helsinki:20260924T160000
 SUMMARY:★ Microeconomics: Zhengqing Gui
@@ -159,15 +131,10 @@ DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Zhengqing Gui (
 URL:https://www.helsinkigse.fi/events/zhengqing-gui
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Microeconomics: Zhengqing Gui
-TRIGGER:-PT6H
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260925-gisle-natvik@helsinkigse.fi
-DTSTAMP:20260810T154031Z
+DTSTAMP:20260810T154123Z
 DTSTART;TZID=Europe/Helsinki:20260925T143000
 DTEND;TZID=Europe/Helsinki:20260925T154500
 SUMMARY:★ Colloquium: Gisle Natvik
@@ -180,15 +147,10 @@ LOCATION:A411\, Hanken School of Economics\, Arkadiankatu 22\, Helsinki
 URL:https://www.helsinkigse.fi/events/gisle-natvik
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Colloquium: Gisle Natvik
-TRIGGER:-PT5H30M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261001-lea-bignon@helsinkigse.fi
-DTSTAMP:20260810T154031Z
+DTSTAMP:20260810T154123Z
 DTSTART;TZID=Europe/Helsinki:20261001T150000
 DTEND;TZID=Europe/Helsinki:20261001T160000
 SUMMARY:★ Industrial Organization: Léa Bignon
@@ -202,15 +164,10 @@ LOCATION:V001\, Aalto University School of Business\, Ekonominaukio 1\, Esp
 URL:https://www.helsinkigse.fi/events/lea-bignon
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Industrial Organization: Léa Bignon
-TRIGGER:-PT6H
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261005-caterina-soto-vieira@helsinkigse.fi
-DTSTAMP:20260810T154031Z
+DTSTAMP:20260810T154123Z
 DTSTART;TZID=Europe/Helsinki:20261005T150000
 DTEND;TZID=Europe/Helsinki:20261005T160000
 SUMMARY:★ Trade\, Regional and Urban Economics: Caterina Soto-Vieira
@@ -224,15 +181,10 @@ LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
 URL:https://www.helsinkigse.fi/events/caterina-soto-vieira
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Trade\, Regional and Urban Economics: Caterina Soto-Vieira
-TRIGGER:-PT6H
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261008-martin-vaeth@helsinkigse.fi
-DTSTAMP:20260810T154031Z
+DTSTAMP:20260810T154123Z
 DTSTART;TZID=Europe/Helsinki:20261008T150000
 DTEND;TZID=Europe/Helsinki:20261008T160000
 SUMMARY:★ Microeconomics: Martin Vaeth
@@ -244,15 +196,10 @@ LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/martin-vaeth
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Microeconomics: Martin Vaeth
-TRIGGER:-PT6H
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261009-mathias-reynaert@helsinkigse.fi
-DTSTAMP:20260810T154031Z
+DTSTAMP:20260810T154123Z
 DTSTART;TZID=Europe/Helsinki:20261009T143000
 DTEND;TZID=Europe/Helsinki:20261009T154500
 SUMMARY:★ Colloquium: Mathias Reynaert
@@ -265,15 +212,10 @@ LOCATION:Seminar hall\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/mathias-reynaert
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Colloquium: Mathias Reynaert
-TRIGGER:-PT5H30M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261022-florian-brandl@helsinkigse.fi
-DTSTAMP:20260810T154031Z
+DTSTAMP:20260810T154123Z
 DTSTART;TZID=Europe/Helsinki:20261022T150000
 DTEND;TZID=Europe/Helsinki:20261022T160000
 SUMMARY:★ Microeconomics: Florian Brandl
@@ -285,15 +227,10 @@ LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/florian-brandl
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Microeconomics: Florian Brandl
-TRIGGER:-PT6H
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261023-basile-grassi@helsinkigse.fi
-DTSTAMP:20260810T154031Z
+DTSTAMP:20260810T154123Z
 DTSTART;TZID=Europe/Helsinki:20261023T143000
 DTEND;TZID=Europe/Helsinki:20261023T154500
 SUMMARY:★ Colloquium: Basile Grassi
@@ -306,15 +243,10 @@ LOCATION:Seminar hall\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/basile-grassi
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Colloquium: Basile Grassi
-TRIGGER:-PT5H30M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261029-yann-delaprez@helsinkigse.fi
-DTSTAMP:20260810T154031Z
+DTSTAMP:20260810T154123Z
 DTSTART;TZID=Europe/Helsinki:20261029T150000
 DTEND;TZID=Europe/Helsinki:20261029T160000
 SUMMARY:★ Industrial Organization: Yann Delaprez
@@ -327,15 +259,10 @@ LOCATION:Q203\, Aalto University Väre Building\, Otaniementie 14\, Espoo
 URL:https://www.helsinkigse.fi/events/yann-delaprez
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Industrial Organization: Yann Delaprez
-TRIGGER:-PT6H
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261109-albert-sole-olle@helsinkigse.fi
-DTSTAMP:20260810T154031Z
+DTSTAMP:20260810T154123Z
 DTSTART;TZID=Europe/Helsinki:20261109T150000
 DTEND;TZID=Europe/Helsinki:20261109T160000
 SUMMARY:★ Trade\, Regional and Urban Economics: Albert Solé Ollé
@@ -348,15 +275,10 @@ LOCATION:M202\, Aalto University Väre Building\, Otaniementie 14\, Espoo
 URL:https://www.helsinkigse.fi/events/albert-sole-olle
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Trade\, Regional and Urban Economics: Albert Solé Ollé
-TRIGGER:-PT6H
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261119-pia-ennuchat@helsinkigse.fi
-DTSTAMP:20260810T154031Z
+DTSTAMP:20260810T154123Z
 DTSTART;TZID=Europe/Helsinki:20261119T150000
 DTEND;TZID=Europe/Helsinki:20261119T160000
 SUMMARY:★ Microeconomics: Pia Ennuchat
@@ -367,15 +289,10 @@ DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Pia Ennuchat (U
 URL:https://www.helsinkigse.fi/events/pia-ennuchat
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Microeconomics: Pia Ennuchat
-TRIGGER:-PT6H
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261120-joyee-deb@helsinkigse.fi
-DTSTAMP:20260810T154031Z
+DTSTAMP:20260810T154123Z
 DTSTART;TZID=Europe/Helsinki:20261120T143000
 DTEND;TZID=Europe/Helsinki:20261120T154500
 SUMMARY:★ Colloquium: Joyee Deb
@@ -387,15 +304,10 @@ DESCRIPTION:Series: Colloquium\nSpeaker: Joyee Deb (New York University)\nT
 URL:https://www.helsinkigse.fi/events/joyee-deb
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Colloquium: Joyee Deb
-TRIGGER:-PT5H30M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261123-ignacio-aravena-gonzalez@helsinkigse.fi
-DTSTAMP:20260810T154031Z
+DTSTAMP:20260810T154123Z
 DTSTART;TZID=Europe/Helsinki:20261123T150000
 DTEND;TZID=Europe/Helsinki:20261123T160000
 SUMMARY:★ Trade\, Regional and Urban Economics: Ignacio Aravena-Gonzalez
@@ -409,16 +321,10 @@ LOCATION:1571 Meitner\, Aalto University Kide building\, Konemiehentie 1\,
 URL:https://www.helsinkigse.fi/events/ignacio-aravena-gonzalez
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Trade\, Regional and Urban Economics: Ignacio Aravena-Gonza
- lez
-TRIGGER:-PT6H
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261126-rodrigo-carril@helsinkigse.fi
-DTSTAMP:20260810T154031Z
+DTSTAMP:20260810T154123Z
 DTSTART;TZID=Europe/Helsinki:20261126T150000
 DTEND;TZID=Europe/Helsinki:20261126T160000
 SUMMARY:★ Industrial Organization: Rodrigo Carril
@@ -431,10 +337,5 @@ LOCATION:Q203\, Aalto University Väre Building\, Otaniementie 14\, Espoo
 URL:https://www.helsinkigse.fi/events/rodrigo-carril
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:★ Industrial Organization: Rodrigo Carril
-TRIGGER:-PT6H
-END:VALARM
 END:VEVENT
 END:VCALENDAR
