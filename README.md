@@ -15,7 +15,7 @@ muted one on the second — everything stays visible, but the fields worth
 turning up for stand out.
 
 **Core** — Industrial Organization, Colloquium, Microeconomics, Trade/Regional
-& Urban, Econometrics, and doctoral defences. Carries a reminder at 08:00 on
+& Urban, and doctoral defences. Carries a reminder at 08:00 on
 the morning of each event.
 
 ```
@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-core.i
 ```
 
 **Other** — everything else: Macro, Labor & Public, Development, Environmental,
-Behavioral, Economics of Education. No reminders; browse when you feel like it.
+Behavioral, Econometrics, Economics of Education. No reminders; browse when you feel like it.
 
 ```
 https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-other.ics
