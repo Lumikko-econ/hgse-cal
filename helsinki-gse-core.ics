@@ -3,10 +3,10 @@ VERSION:2.0
 PRODID:-//hgse-calendar//helsinkigse.fi scrape//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Helsinki GSE
-NAME:Helsinki GSE
-X-APPLE-CALENDAR-COLOR:#7986CB
-COLOR:#7986CB
+X-WR-CALNAME:Helsinki GSE — core
+NAME:Helsinki GSE — core
+X-APPLE-CALENDAR-COLOR:#D81B60
+COLOR:#D81B60
 X-WR-TIMEZONE:Europe/Helsinki
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
@@ -28,20 +28,6 @@ DTSTART:19701025T040000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-UID:hgse-20260819-anh-nguyen@helsinkigse.fi
-DTSTAMP:20260810T140053Z
-DTSTART;TZID=Europe/Helsinki:20260819T160000
-DTEND;TZID=Europe/Helsinki:20260819T170000
-SUMMARY:Behavioral Economics: Anh Nguyen
-DESCRIPTION:Series: Behavioral Economics\nType: Brown Bag Seminar\nSpeaker:
-  Anh Nguyen (Hanken)\nTitle: TBA\nHost: Daniel Bougt\n\nhttps://www.helsin
- kigse.fi/events/anh-nguyen
-LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
-URL:https://www.helsinkigse.fi/events/anh-nguyen
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260821-antto-jokelainen4@helsinkigse.fi
 DTSTAMP:20260810T140053Z
@@ -89,42 +75,6 @@ TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hgse-20260826-2nd-edition-of-the-helsinki-economics-of-education-worksh
- op@helsinkigse.fi
-DTSTAMP:20260810T140053Z
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-SUMMARY:Economics of Education (Educa): 2nd Edition of the Helsinki Economi
- cs of Education Workshop
-DESCRIPTION:Series: Economics of Education (Educa)\nType: Workshop\nSpeaker
- : 2nd Edition of the Helsinki Economics of Education Workshop\nTitle: TBA\
- nHost: Cécile Bonneau Links: Registration form link\n\nTime not published
-  yet — all-day placeholder.\n\nhttps://www.helsinkigse.fi/events/2nd-edi
- tion-of-the-helsinki-economics-of-education-workshop
-LOCATION:V001\, Aalto University School of Business\, Ekonominaukio 1\, Esp
- oo 03 Nov 2026 Petter Lundborg Lund University The content of this event h
- as not been announced yet. Please check back later. Economics of Education
-  (Educa)
-URL:https://www.helsinkigse.fi/events/2nd-edition-of-the-helsinki-economics
- -of-education-workshop
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hgse-20260901-jakob-egholt-sogaard@helsinkigse.fi
-DTSTAMP:20260810T140053Z
-DTSTART;TZID=Europe/Helsinki:20260901T150000
-DTEND;TZID=Europe/Helsinki:20260901T160000
-SUMMARY:Labor & Public Economics: Jakob Egholt Søgaard
-DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Jakob
-  Egholt Søgaard (Center for Economic Behavior and Inequality (CEBI))\nTit
- le: TBA\nHost: Salla Kalin\n\nhttps://www.helsinkigse.fi/events/jakob-egho
- lt-sogaard
-URL:https://www.helsinkigse.fi/events/jakob-egholt-sogaard
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hgse-20260907-jos-van-ommeren@helsinkigse.fi
 DTSTAMP:20260810T140053Z
 DTSTART;TZID=Europe/Helsinki:20260907T150000
@@ -146,19 +96,6 @@ TRIGGER:-PT7H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hgse-20260908-pia-nilsson@helsinkigse.fi
-DTSTAMP:20260810T140053Z
-DTSTART;TZID=Europe/Helsinki:20260908T150000
-DTEND;TZID=Europe/Helsinki:20260908T160000
-SUMMARY:Environmental Economics: Pia Nilsson
-DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Pia Ni
- lsson (University of Helsinki)\nTitle: TBA\nHost: Anna Sahari\n\nhttps://w
- ww.helsinkigse.fi/events/pia-nilsson
-URL:https://www.helsinkigse.fi/events/pia-nilsson
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hgse-20260911-leander-heldring@helsinkigse.fi
 DTSTAMP:20260810T140053Z
 DTSTART;TZID=Europe/Helsinki:20260911T143000
@@ -176,63 +113,6 @@ ACTION:DISPLAY
 DESCRIPTION:★ Colloquium: Leander Heldring
 TRIGGER:-PT6H30M
 END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:hgse-20260914-eleonora-guarnieri@helsinkigse.fi
-DTSTAMP:20260810T140053Z
-DTSTART;TZID=Europe/Helsinki:20260914T150000
-DTEND;TZID=Europe/Helsinki:20260914T160000
-SUMMARY:Development Economics: Eleonora Guarnieri
-DESCRIPTION:Series: Development Economics\nType: Seminar\nSpeaker: Eleonora
-  Guarnieri (University of Bristol)\nTitle: TBA\n\nhttps://www.helsinkigse.
- fi/events/eleonora-guarnieri
-URL:https://www.helsinkigse.fi/events/eleonora-guarnieri
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hgse-20260915-andrew-shephard@helsinkigse.fi
-DTSTAMP:20260810T140053Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:Labor & Public Economics: Andrew Shephard
-DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Andre
- w Shephard (KU Leuven)\nTitle: TBA\nHost: Ciprian Domnisoru 01 Sep 2026 Ja
- kob Egholt Søgaard Center for Economic Behavior and Inequality (CEBI) The
-  content of this event has not been announced yet. Please check back later
- .\n\nTime not published yet — all-day placeholder.\n\nhttps://www.helsin
- kigse.fi/events/andrew-shephard
-URL:https://www.helsinkigse.fi/events/andrew-shephard
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hgse-20260916-philip-jung@helsinkigse.fi
-DTSTAMP:20260810T140053Z
-DTSTART;TZID=Europe/Helsinki:20260916T150000
-DTEND;TZID=Europe/Helsinki:20260916T160000
-SUMMARY:Macroeconomics: Philip Jung
-DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Philip Jung (TU
-  Dortmund)\nTitle: TBA\nHost: Timm Prein\n\nhttps://www.helsinkigse.fi/eve
- nts/philip-jung
-LOCATION:Seminar room 2\, Economicum\, Arkadiankatu 7\, Helsinki
-URL:https://www.helsinkigse.fi/events/philip-jung
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hgse-20260917-sandro-shelegia@helsinkigse.fi
-DTSTAMP:20260810T140053Z
-DTSTART;TZID=Europe/Helsinki:20260917T150000
-DTEND;TZID=Europe/Helsinki:20260917T160000
-SUMMARY:Seminar: Sandro Shelegia
-DESCRIPTION:Series: Seminar\nSpeaker: Sandro Shelegia (Universitat Pompeu F
- abra)\nTitle: TBA\n\nhttps://www.helsinkigse.fi/events/sandro-shelegia
-LOCATION:V001\, Aalto University School of Business\, Ekonominaukio 1\, Esp
- oo
-URL:https://www.helsinkigse.fi/events/sandro-shelegia
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260921-andrea-herrera@helsinkigse.fi
@@ -257,18 +137,6 @@ DESCRIPTION:★ Trade\, Regional and Urban Economics: Andrea Herrera — Re
  gulating the Skyline: Evidence from London’s Protected Vistas
 TRIGGER:-PT7H
 END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:hgse-20260922-marten-ritterrath1@helsinkigse.fi
-DTSTAMP:20260810T140053Z
-DTSTART;TZID=Europe/Helsinki:20260922T150000
-DTEND;TZID=Europe/Helsinki:20260922T160000
-SUMMARY:Seminar: Marten Ritterrath
-DESCRIPTION:Series: Seminar\nSpeaker: Marten Ritterrath (VATT)\nTitle: TBA\
- nHost: Anna Sahari\n\nhttps://www.helsinkigse.fi/events/marten-ritterrath1
-URL:https://www.helsinkigse.fi/events/marten-ritterrath1
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260923-christian-brownlees@helsinkigse.fi
@@ -328,19 +196,6 @@ TRIGGER:-PT6H30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hgse-20260929-jakob-miethe@helsinkigse.fi
-DTSTAMP:20260810T140053Z
-DTSTART;TZID=Europe/Helsinki:20260929T150000
-DTEND;TZID=Europe/Helsinki:20260929T160000
-SUMMARY:Labor & Public Economics: Jakob Miethe
-DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Jakob
-  Miethe (LMU Munich)\nTitle: TBA\nHost: Salla Kalin\n\nhttps://www.helsink
- igse.fi/events/jakob-miethe
-URL:https://www.helsinkigse.fi/events/jakob-miethe
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hgse-20261001-lea-bignon@helsinkigse.fi
 DTSTAMP:20260810T140053Z
 DTSTART;TZID=Europe/Helsinki:20261001T150000
@@ -382,34 +237,6 @@ TRIGGER:-PT7H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hgse-20261006-jenifer-ruiz-valenzuela@helsinkigse.fi
-DTSTAMP:20260810T140053Z
-DTSTART;TZID=Europe/Helsinki:20261006T120000
-DTEND;TZID=Europe/Helsinki:20261006T130000
-SUMMARY:Economics of Education (Educa): Jenifer Ruiz Valenzuela
-DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
-  Jenifer Ruiz Valenzuela (University of Barcelona)\nTitle: TBA\nHost: Mari
- a Sauval\n\nhttps://www.helsinkigse.fi/events/jenifer-ruiz-valenzuela
-LOCATION:V101\, Aalto University School of Business\, Ekonominaukio 1\, Esp
- oo
-URL:https://www.helsinkigse.fi/events/jenifer-ruiz-valenzuela
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hgse-20261006-asa-lofgren1@helsinkigse.fi
-DTSTAMP:20260810T140053Z
-DTSTART;TZID=Europe/Helsinki:20261006T150000
-DTEND;TZID=Europe/Helsinki:20261006T160000
-SUMMARY:Environmental Economics: Åsa Löfgren
-DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Åsa L
- öfgren (Gothenburg University)\nTitle: TBA\nHost: Anna Sahari\n\nhttps://
- www.helsinkigse.fi/events/asa-lofgren1
-URL:https://www.helsinkigse.fi/events/asa-lofgren1
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hgse-20261008-martin-vaeth@helsinkigse.fi
 DTSTAMP:20260810T140053Z
 DTSTART;TZID=Europe/Helsinki:20261008T150000
@@ -446,21 +273,6 @@ ACTION:DISPLAY
 DESCRIPTION:★ Colloquium: Mathias Reynaert
 TRIGGER:-PT6H30M
 END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:hgse-20261013-panu-poutavaara@helsinkigse.fi
-DTSTAMP:20260810T140053Z
-DTSTART;TZID=Europe/Helsinki:20261013T150000
-DTEND;TZID=Europe/Helsinki:20261013T160000
-SUMMARY:Labor & Public Economics: Panu Poutavaara
-DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Panu 
- Poutavaara (IFO)\nTitle: TBA\nHost: Ciprian Domnisoru\n\nhttps://www.helsi
- nkigse.fi/events/panu-poutavaara
-LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
- oo
-URL:https://www.helsinkigse.fi/events/panu-poutavaara
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261022-florian-brandl@helsinkigse.fi
@@ -502,48 +314,6 @@ TRIGGER:-PT6H30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hgse-20261026-veronica-salazar-restrepo@helsinkigse.fi
-DTSTAMP:20260810T140053Z
-DTSTART;TZID=Europe/Helsinki:20261026T150000
-DTEND;TZID=Europe/Helsinki:20261026T160000
-SUMMARY:Seminar: Veronica Salazar-Restrepo
-DESCRIPTION:Series: Seminar\nSpeaker: Veronica Salazar-Restrepo (IIES\, Sto
- ckholm University)\nTitle: TBA\n\nhttps://www.helsinkigse.fi/events/veroni
- ca-salazar-restrepo
-LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
-URL:https://www.helsinkigse.fi/events/veronica-salazar-restrepo
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hgse-20261028-elias-tsakas-evangelos-mourelatos@helsinkigse.fi
-DTSTAMP:20260810T140053Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:Behavioral Economics: Elias Tsakas & Evangelos Mourelatos
-DESCRIPTION:Series: Behavioral Economics\nType: Seminar\nSpeaker: Elias Tsa
- kas & Evangelos Mourelatos (Graduate School of Business and Economics (GSB
- E) & University of Oulu)\nTitle: TBA\n\nTime not published yet — all-day
-  placeholder.\n\nhttps://www.helsinkigse.fi/events/elias-tsakas-evangelos-
- mourelatos
-URL:https://www.helsinkigse.fi/events/elias-tsakas-evangelos-mourelatos
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hgse-20261028-see-yu-chan@helsinkigse.fi
-DTSTAMP:20260810T140053Z
-DTSTART;TZID=Europe/Helsinki:20261028T150000
-DTEND;TZID=Europe/Helsinki:20261028T160000
-SUMMARY:Macroeconomics: See-Yu Chan
-DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: See-Yu Chan (Un
- iversity of Mannheim)\nTitle: TBA\nHost: Oskari Vähämaa\n\nhttps://www.h
- elsinkigse.fi/events/see-yu-chan
-URL:https://www.helsinkigse.fi/events/see-yu-chan
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hgse-20261029-yann-delaprez@helsinkigse.fi
 DTSTAMP:20260810T140053Z
 DTSTART;TZID=Europe/Helsinki:20261029T150000
@@ -564,21 +334,6 @@ TRIGGER:-PT7H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hgse-20261103-petter-lundborg1@helsinkigse.fi
-DTSTAMP:20260810T140053Z
-DTSTART;TZID=Europe/Helsinki:20261103T120000
-DTEND;TZID=Europe/Helsinki:20261103T130000
-SUMMARY:Economics of Education (Educa): Petter Lundborg
-DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
-  Petter Lundborg (Lund University)\nTitle: TBA\nHost: Cécile Bonneau\n\nh
- ttps://www.helsinkigse.fi/events/petter-lundborg1
-LOCATION:V101\, Aalto University School of Business\, Ekonominaukio 1\, Esp
- oo
-URL:https://www.helsinkigse.fi/events/petter-lundborg1
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hgse-20261109-albert-sole-olle@helsinkigse.fi
 DTSTAMP:20260810T140053Z
 DTSTART;TZID=Europe/Helsinki:20261109T150000
@@ -597,33 +352,6 @@ ACTION:DISPLAY
 DESCRIPTION:★ Trade\, Regional and Urban Economics: Albert Solé Ollé
 TRIGGER:-PT7H
 END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:hgse-20261110-hugo-reichardt@helsinkigse.fi
-DTSTAMP:20260810T140053Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:Labor & Public Economics: Hugo Reichardt
-DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Hugo 
- Reichardt (Centre de Recerca en Economia Internacional (CREi))\nTitle: TBA
- \n\nTime not published yet — all-day placeholder.\n\nhttps://www.helsink
- igse.fi/events/hugo-reichardt
-URL:https://www.helsinkigse.fi/events/hugo-reichardt
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hgse-20261117-tuomas-kaariaho@helsinkigse.fi
-DTSTAMP:20260810T140053Z
-DTSTART;TZID=Europe/Helsinki:20261117T150000
-DTEND;TZID=Europe/Helsinki:20261117T160000
-SUMMARY:Environmental Economics: Tuomas Kaariaho
-DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Tuomas
-  Kaariaho (University of Helsinki)\nTitle: TBA\nHost: Anna Sahari\n\nhttps
- ://www.helsinkigse.fi/events/tuomas-kaariaho
-URL:https://www.helsinkigse.fi/events/tuomas-kaariaho
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261119-pia-ennuchat@helsinkigse.fi
@@ -684,19 +412,6 @@ TRIGGER:-PT7H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hgse-20261124-wouter-leenders@helsinkigse.fi
-DTSTAMP:20260810T140053Z
-DTSTART;TZID=Europe/Helsinki:20261124T150000
-DTEND;TZID=Europe/Helsinki:20261124T160000
-SUMMARY:Labor & Public Economics: Wouter Leenders
-DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Woute
- r Leenders (Sciences Po)\nTitle: TBA\nHost: Salla Kalin\n\nhttps://www.hel
- sinkigse.fi/events/wouter-leenders
-URL:https://www.helsinkigse.fi/events/wouter-leenders
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hgse-20261126-rodrigo-carril@helsinkigse.fi
 DTSTAMP:20260810T140053Z
 DTSTART;TZID=Europe/Helsinki:20261126T150000
@@ -715,46 +430,5 @@ ACTION:DISPLAY
 DESCRIPTION:★ Industrial Organization: Rodrigo Carril
 TRIGGER:-PT7H
 END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:hgse-20261201-piia-remes@helsinkigse.fi
-DTSTAMP:20260810T140053Z
-DTSTART;TZID=Europe/Helsinki:20261201T150000
-DTEND;TZID=Europe/Helsinki:20261201T160000
-SUMMARY:Environmental Economics: Piia Remes
-DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Piia R
- emes (VATT)\nTitle: TBA\nHost: Anna Sahari\n\nhttps://www.helsinkigse.fi/e
- vents/piia-remes
-URL:https://www.helsinkigse.fi/events/piia-remes
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hgse-20261209-alvaro-cox@helsinkigse.fi
-DTSTAMP:20260810T140053Z
-DTSTART;TZID=Europe/Helsinki:20261209T150000
-DTEND;TZID=Europe/Helsinki:20261209T160000
-SUMMARY:Macroeconomics: Alvaro Cox — Bringing Demand Within Reach: Digita
- l Platforms\, Market Access\, and th
-DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Alvaro Cox (Uni
- versidad Carlos III de Madrid)\nTitle: Bringing Demand Within Reach: Digit
- al Platforms\, Market Access\, and the Allocation of Firm Scale\nHost: Osk
- ari Vähämaa\n\nhttps://www.helsinkigse.fi/events/alvaro-cox
-URL:https://www.helsinkigse.fi/events/alvaro-cox
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hgse-20261215-linde-kattenberg@helsinkigse.fi
-DTSTAMP:20260810T140053Z
-DTSTART;TZID=Europe/Helsinki:20261215T150000
-DTEND;TZID=Europe/Helsinki:20261215T160000
-SUMMARY:Environmental Economics: Linde Kattenberg
-DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Linde 
- Kattenberg (Aarhus University)\nTitle: TBA\nHost: Anna Sahari\n\nhttps://w
- ww.helsinkigse.fi/events/linde-kattenberg
-URL:https://www.helsinkigse.fi/events/linde-kattenberg
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
