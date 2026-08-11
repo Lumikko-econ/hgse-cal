@@ -1,0 +1,732 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hgse-calendar//helsinkigse.fi scrape//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HGSE — Job Talks
+NAME:HGSE — Job Talks
+X-APPLE-CALENDAR-COLOR:#6D4C41
+COLOR:#6D4C41
+X-WR-TIMEZONE:Europe/Helsinki
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Helsinki
+X-LIC-LOCATION:Europe/Helsinki
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+TZNAME:EEST
+DTSTART:19700329T030000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:EET
+DTSTART:19701025T040000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:hgse-20250110-joseph-emmens@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20250110
+DTEND;VALUE=DATE:20250111
+SUMMARY:VATT: Joseph Emmens — Collaborative Innovation in the Knowledge S
+ pace
+DESCRIPTION:Series: VATT\nType: Job Talk\nSpeaker: Joseph Emmens (Universit
+ at Autònoma de Barcelona and Barcelona School of Economics)\nTitle: Colla
+ borative Innovation in the Knowledge Space\n\nTime not published yet — a
+ ll-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/josep
+ h-emmens\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Coll
+ aborative+Innovation+in+the+Knowledge+Space%22\n\nSpeaker on Scholar: http
+ s://scholar.google.com/scholar?q=author%3A%22Joseph+Emmens%22
+URL:https://www.helsinkigse.fi/events/joseph-emmens
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250113-jordan-bisset@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20250113
+DTEND;VALUE=DATE:20250114
+SUMMARY:VATT: Jordan Bisset — Intellectual Mobility Frictions
+DESCRIPTION:Series: VATT\nType: Job Talk\nSpeaker: Jordan Bisset (Bocconi U
+ niversity)\nTitle: Intellectual Mobility Frictions\n\nTime not published y
+ et — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/even
+ ts/jordan-bisset\n\nPaper on Scholar: https://scholar.google.com/scholar?q
+ =%22Intellectual+Mobility+Frictions%22\n\nSpeaker on Scholar: https://scho
+ lar.google.com/scholar?q=author%3A%22Jordan+Bisset%22
+URL:https://www.helsinkigse.fi/events/jordan-bisset
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250113-marika-viertola@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20250113
+DTEND;VALUE=DATE:20250114
+SUMMARY:VATT: Marika Viertola — TBA
+DESCRIPTION:Series: VATT\nType: Job Talk\nSpeaker: Marika Viertola (VATT)\n
+ Title: TBA\n\nTime not published yet — all-day placeholder.\n\nEvent pag
+ e: https://www.helsinkigse.fi/events/marika-viertola\n\nPaper on Scholar: 
+ https://scholar.google.com/scholar?q=%22TBA%22\n\nSpeaker on Scholar: http
+ s://scholar.google.com/scholar?q=author%3A%22Marika+Viertola%22
+URL:https://www.helsinkigse.fi/events/marika-viertola
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250115-johannes-gessner@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+SUMMARY:VATT: Johannes Gessner — Shifting Gears: Environmental Regulation
+  in the Car Industry and…
+DESCRIPTION:Series: VATT\nType: Job Talk\nSpeaker: Johannes Gessner (Univer
+ sity of Mannheim)\nTitle: Shifting Gears: Environmental Regulation in the 
+ Car Industry and Technological Change Among Suppliers\n\nTime not publishe
+ d yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/e
+ vents/johannes-gessner\n\nPaper on Scholar: https://scholar.google.com/sch
+ olar?q=%22Shifting+Gears%3A+Environmental+Regulation+in+the+Car+Industry+a
+ nd+Technological+Change+Among+Suppliers%22\n\nSpeaker on Scholar: https://
+ scholar.google.com/scholar?q=author%3A%22Johannes+Gessner%22
+URL:https://www.helsinkigse.fi/events/johannes-gessner
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250115-maren-hedne@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+SUMMARY:VATT: Maren Hedne — Is green tehcnology skill biased?
+DESCRIPTION:Series: VATT\nType: Job Talk\nSpeaker: Maren Hedne (University 
+ of Oslo)\nTitle: Is green tehcnology skill biased?\n\nTime not published y
+ et — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/even
+ ts/maren-hedne\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%
+ 22Is+green+tehcnology+skill+biased%3F%22\n\nSpeaker on Scholar: https://sc
+ holar.google.com/scholar?q=author%3A%22Maren+Hedne%22
+URL:https://www.helsinkigse.fi/events/maren-hedne
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250123-sofia-hernnas-2@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20250123
+DTEND;VALUE=DATE:20250124
+SUMMARY:Hanken: Sofia Hernnäs
+DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Sofia Hernnäs (Hanken
+  School of Economics)\nTitle: TBA\n\nTime not published yet — all-day pl
+ aceholder.\n\nEvent page: https://www.helsinkigse.fi/events/sofia-hernnas-
+ 2\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22
+ Sofia+Hernn%C3%A4s%22
+URL:https://www.helsinkigse.fi/events/sofia-hernnas-2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250124-aapo-stenhammar-4@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20250124
+DTEND;VALUE=DATE:20250125
+SUMMARY:Hanken: Aapo Stenhammar — Tensions of Structural Change: Evidence
+  from Finland’s Field…
+DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Aapo Stenhammar (Unive
+ rsity of Bonn / LABORE)\nTitle: Tensions of Structural Change: Evidence fr
+ om Finland’s Field Reservation Policy\n\nTime not published yet — all-
+ day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/aapo-ste
+ nhammar-4\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Ten
+ sions+of+Structural+Change%3A+Evidence+from+Finland%27s+Field+Reservation+
+ Policy%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=auth
+ or%3A%22Aapo+Stenhammar%22
+URL:https://www.helsinkigse.fi/events/aapo-stenhammar-4
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250127-marita-freimane@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20250127
+DTEND;VALUE=DATE:20250128
+SUMMARY:Hanken: Marita Freimane — Gender Bias\, Feedback\, and Productivi
+ ty
+DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Marita Freimane (KU Le
+ uven / University of Zurich)\nTitle: Gender Bias\, Feedback\, and Producti
+ vity\n\nTime not published yet — all-day placeholder.\n\nEvent page: htt
+ ps://www.helsinkigse.fi/events/marita-freimane\n\nPaper on Scholar: https:
+ //scholar.google.com/scholar?q=%22Gender+Bias%2C+Feedback%2C+and+Productiv
+ ity%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%
+ 3A%22Marita+Freimane%22
+URL:https://www.helsinkigse.fi/events/marita-freimane
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250130-jaakko-merilainen1@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20250130
+DTEND;VALUE=DATE:20250131
+SUMMARY:Hanken: Jaakko Meriläinen — Lasting Effects of Marxism in the Cl
+ assroom: Evidence from an…
+DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Jaakko Meriläinen (St
+ ockholm School of Economics)\nTitle: Lasting Effects of Marxism in the Cla
+ ssroom: Evidence from an Experiment\n\nTime not published yet — all-day 
+ placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/jaakko-meril
+ ainen1\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Lastin
+ g+Effects+of+Marxism+in+the+Classroom%3A+Evidence+from+an+Experiment%22\n\
+ nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Jaak
+ ko+Meril%C3%A4inen%22
+URL:https://www.helsinkigse.fi/events/jaakko-merilainen1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250204-toan-le@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20250204
+DTEND;VALUE=DATE:20250205
+SUMMARY:University of Helsinki: Toan Le — The Simple Economics of the Imp
+ ossibility of Efficient Trade
+DESCRIPTION:Series: University of Helsinki\nType: Job Talk\nSpeaker: Toan L
+ e (University of Melbourne)\nTitle: The Simple Economics of the Impossibil
+ ity of Efficient Trade\n\nTime not published yet — all-day placeholder.\
+ n\nEvent page: https://www.helsinkigse.fi/events/toan-le\n\nPaper on Schol
+ ar: https://scholar.google.com/scholar?q=%22The+Simple+Economics+of+the+Im
+ possibility+of+Efficient+Trade%22\n\nSpeaker on Scholar: https://scholar.g
+ oogle.com/scholar?q=author%3A%22Toan+Le%22
+URL:https://www.helsinkigse.fi/events/toan-le
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250205-xueying-zhao@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20250205
+DTEND;VALUE=DATE:20250206
+SUMMARY:University of Helsinki: Xueying Zhao — Tailoring Data for Profit
+DESCRIPTION:Series: University of Helsinki\nType: Job Talk\nSpeaker: Xueyin
+ g Zhao (University of Warwick)\nTitle: Tailoring Data for Profit\n\nTime n
+ ot published yet — all-day placeholder.\n\nEvent page: https://www.helsi
+ nkigse.fi/events/xueying-zhao\n\nPaper on Scholar: https://scholar.google.
+ com/scholar?q=%22Tailoring+Data+for+Profit%22\n\nSpeaker on Scholar: https
+ ://scholar.google.com/scholar?q=author%3A%22Xueying+Zhao%22
+URL:https://www.helsinkigse.fi/events/xueying-zhao
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250318-hanken-job-market-seminar@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20250318
+DTEND;VALUE=DATE:20250319
+SUMMARY:Hanken: Hanken Job Market Seminar / Tuomo Virkola — College Admis
+ sions Criteria\, Students’ Academic Performance and…
+DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Hanken Job Market Semi
+ nar / Tuomo Virkola (VATT)\nTitle: College Admissions Criteria\, Students
+ ’ Academic Performance and Social Mobility\n\nTime not published yet —
+  all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/han
+ ken-job-market-seminar\n\nPaper on Scholar: https://scholar.google.com/sch
+ olar?q=%22College+Admissions+Criteria%2C+Students%27+Academic+Performance+
+ and+Social+Mobility%22\n\nSpeaker on Scholar: https://scholar.google.com/s
+ cholar?q=author%3A%22Tuomo+Virkola%22
+URL:https://www.helsinkigse.fi/events/hanken-job-market-seminar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250319-job-market-seminar-saara-hamalainen@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20250319
+DTEND;VALUE=DATE:20250320
+SUMMARY:Hanken: Hanken Job Market Seminar / Saara Hämäläinen — Heterog
+ eneous price technologies
+DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Hanken Job Market Semi
+ nar / Saara Hämäläinen (University of Helsinki)\nTitle: Heterogeneous p
+ rice technologies\n\nTime not published yet — all-day placeholder.\n\nEv
+ ent page: https://www.helsinkigse.fi/events/job-market-seminar-saara-hamal
+ ainen\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Heterog
+ eneous+price+technologies%22\n\nSpeaker on Scholar: https://scholar.google
+ .com/scholar?q=author%3A%22Saara+H%C3%A4m%C3%A4l%C3%A4inen%22
+URL:https://www.helsinkigse.fi/events/job-market-seminar-saara-hamalainen
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251119-giacomo-lo-conte@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20251119
+DTEND;VALUE=DATE:20251120
+SUMMARY:VATT: Giacomo Lo Conte — Exposure to innovation and labor market 
+ dynamics: Evidence from the…
+DESCRIPTION:Series: VATT\nType: Job Talk\nSpeaker: Giacomo Lo Conte (Univer
+ sity College Dublin)\nTitle: Exposure to innovation and labor market dynam
+ ics: Evidence from the German manufacturing sectors\n\nTime not published 
+ yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/eve
+ nts/giacomo-lo-conte\n\nPaper on Scholar: https://scholar.google.com/schol
+ ar?q=%22Exposure+to+innovation+and+labor+market+dynamics%3A+Evidence+from+
+ the+German+manufacturing+sectors%22\n\nSpeaker on Scholar: https://scholar
+ .google.com/scholar?q=author%3A%22Giacomo+Lo+Conte%22
+URL:https://www.helsinkigse.fi/events/giacomo-lo-conte
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251124-marten-ritterrath@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20251124
+DTEND;VALUE=DATE:20251125
+SUMMARY:VATT: Marten Ritterrath — Inventors’ Personal Experience of Nat
+ ural Disasters and Green…
+DESCRIPTION:Series: VATT\nType: Job Talk\nSpeaker: Marten Ritterrath (Unive
+ rsity of Cologne)\nTitle: Inventors’ Personal Experience of Natural Disa
+ sters and Green Innovation\n\nTime not published yet — all-day placehold
+ er.\n\nEvent page: https://www.helsinkigse.fi/events/marten-ritterrath\n\n
+ Paper on Scholar: https://scholar.google.com/scholar?q=%22Inventors%27+Per
+ sonal+Experience+of+Natural+Disasters+and+Green+Innovation%22\n\nSpeaker o
+ n Scholar: https://scholar.google.com/scholar?q=author%3A%22Marten+Ritterr
+ ath%22
+URL:https://www.helsinkigse.fi/events/marten-ritterrath
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251124-regi-kusumaatmadja@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20251124
+DTEND;VALUE=DATE:20251125
+SUMMARY:VATT: Regi Kusumaatmadja — Internal and External R&D: An analysis
+  of costs and benefits
+DESCRIPTION:Series: VATT\nType: Job Talk\nSpeaker: Regi Kusumaatmadja (VU A
+ msterdam)\nTitle: Internal and External R&D: An analysis of costs and bene
+ fits\n\nTime not published yet — all-day placeholder.\n\nEvent page: htt
+ ps://www.helsinkigse.fi/events/regi-kusumaatmadja\n\nPaper on Scholar: htt
+ ps://scholar.google.com/scholar?q=%22Internal+and+External+R%26D%3A+An+ana
+ lysis+of+costs+and+benefits%22\n\nSpeaker on Scholar: https://scholar.goog
+ le.com/scholar?q=author%3A%22Regi+Kusumaatmadja%22
+URL:https://www.helsinkigse.fi/events/regi-kusumaatmadja
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251127-joakim-wikstrom-vatt-jobtalk@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20251127
+DTEND;VALUE=DATE:20251128
+SUMMARY:VATT: Joakim Wikström — Do Patents Tilt Standard-Setting? Eviden
+ ce from Cellular Networks
+DESCRIPTION:Series: VATT\nType: Job Talk\nSpeaker: Joakim Wikström (Aalto 
+ University)\nTitle: Do Patents Tilt Standard-Setting? Evidence from Cellul
+ ar Networks\n\nTime not published yet — all-day placeholder.\n\nEvent pa
+ ge: https://www.helsinkigse.fi/events/joakim-wikstrom-vatt-jobtalk\n\nPape
+ r on Scholar: https://scholar.google.com/scholar?q=%22Do+Patents+Tilt+Stan
+ dard-Setting%3F+Evidence+from+Cellular+Networks%22\n\nSpeaker on Scholar: 
+ https://scholar.google.com/scholar?q=author%3A%22Joakim+Wikstr%C3%B6m%22
+URL:https://www.helsinkigse.fi/events/joakim-wikstrom-vatt-jobtalk
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260112-federico-crippa@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
+SUMMARY:Aalto University: Federico Crippa — Identification\, Estimation\,
+  and Inference in Two-Sided Interaction…
+DESCRIPTION:Series: Aalto University\nType: Job Talk\nSpeaker: Federico Cri
+ ppa (Northwestern University)\nTitle: Identification\, Estimation\, and In
+ ference in Two-Sided Interaction Models\n\nTime not published yet — all-
+ day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/federico
+ -crippa\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Ident
+ ification%2C+Estimation%2C+and+Inference+in+Two-Sided+Interaction+Models%2
+ 2\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22
+ Federico+Crippa%22
+URL:https://www.helsinkigse.fi/events/federico-crippa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260113-gupta-ayush@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20260113
+DTEND;VALUE=DATE:20260114
+SUMMARY:Job Talk: Ayush Gupta — A Theory of Efficient Price Cycles Under 
+ Imperfect Monitoring
+DESCRIPTION:Series: Job Talk\nSpeaker: Ayush Gupta (Boston University)\nTit
+ le: A Theory of Efficient Price Cycles Under Imperfect Monitoring\n\nTime 
+ not published yet — all-day placeholder.\n\nEvent page: https://www.hels
+ inkigse.fi/events/gupta-ayush\n\nPaper on Scholar: https://scholar.google.
+ com/scholar?q=%22A+Theory+of+Efficient+Price+Cycles+Under+Imperfect+Monito
+ ring%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author
+ %3A%22Ayush+Gupta%22
+URL:https://www.helsinkigse.fi/events/gupta-ayush
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260114-arno-apffelstaedt1@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+SUMMARY:Hanken: Arno Apffelstaedt — Group Image Concerns (with Gönül Do
+ gan and Fabian Hoffmann)
+DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Arno Apffelstaedt (Uni
+ versity of Cologne)\nTitle: Group Image Concerns (with Gönül Dogan and F
+ abian Hoffmann)\n\nTime not published yet — all-day placeholder.\n\nEven
+ t page: https://www.helsinkigse.fi/events/arno-apffelstaedt1\n\nPaper on S
+ cholar: https://scholar.google.com/scholar?q=%22Group+Image+Concerns+%28wi
+ th+G%C3%B6n%C3%BCl+Dogan+and+Fabian+Hoffmann%29%22\n\nSpeaker on Scholar: 
+ https://scholar.google.com/scholar?q=author%3A%22Arno+Apffelstaedt%22
+URL:https://www.helsinkigse.fi/events/arno-apffelstaedt1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260115-daniel-bougt1@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:Hanken: Daniel Bougt — Ambiguity and the declining price anomaly:
+  estimation of a sequental…
+DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Daniel Bougt (Hanken a
+ nd Helsinki GSE)\nTitle: Ambiguity and the declining price anomaly: estima
+ tion of a sequental auction model\n\nTime not published yet — all-day pl
+ aceholder.\n\nEvent page: https://www.helsinkigse.fi/events/daniel-bougt1\
+ n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Ambiguity+and
+ +the+declining+price+anomaly%3A+estimation+of+a+sequental+auction+model%22
+ \n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22D
+ aniel+Bougt%22
+URL:https://www.helsinkigse.fi/events/daniel-bougt1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260116-carolina-kansikas@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:Aalto University: Carolina Kansikas — Carbon and Coordination: In
+ centives and local institutions in…
+DESCRIPTION:Series: Aalto University\nType: Job Talk\nSpeaker: Carolina Kan
+ sikas (University of Warwick)\nTitle: Carbon and Coordination: Incentives 
+ and local institutions in conservation policy\n\nTime not published yet 
+ — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/
+ carolina-kansikas\n\nPaper on Scholar: https://scholar.google.com/scholar?
+ q=%22Carbon+and+Coordination%3A+Incentives+and+local+institutions+in+conse
+ rvation+policy%22\n\nSpeaker on Scholar: https://scholar.google.com/schola
+ r?q=author%3A%22Carolina+Kansikas%22
+URL:https://www.helsinkigse.fi/events/carolina-kansikas
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260119-cyril-rouault@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+SUMMARY:Aalto University: Cyril Rouault — Job Matching and Affirmative Ac
+ tion: The Impact of Transfer Policies
+DESCRIPTION:Series: Aalto University\nType: Job Talk\nSpeaker: Cyril Rouaul
+ t (École Normale Supérieure Paris-Saclay)\nTitle: Job Matching and Affir
+ mative Action: The Impact of Transfer Policies\n\nTime not published yet 
+ — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/
+ cyril-rouault\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%2
+ 2Job+Matching+and+Affirmative+Action%3A+The+Impact+of+Transfer+Policies%22
+ \n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22C
+ yril+Rouault%22
+URL:https://www.helsinkigse.fi/events/cyril-rouault
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260120-nicole-scholz@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+SUMMARY:Hanken: Nicole Scholz — Estimating Multi-Product Production Funct
+ ions: What Can We Learn…
+DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Nicole Scholz (Univers
+ ity of Warwick)\nTitle: Estimating Multi-Product Production Functions: Wha
+ t Can We Learn Without Demand Assumptions?\n\nTime not published yet — a
+ ll-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/nicol
+ e-scholz\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Esti
+ mating+Multi-Product+Production+Functions%3A+What+Can+We+Learn+Without+Dem
+ and+Assumptions%3F%22\n\nSpeaker on Scholar: https://scholar.google.com/sc
+ holar?q=author%3A%22Nicole+Scholz%22
+URL:https://www.helsinkigse.fi/events/nicole-scholz
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260121-kensuke-sakamoto@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20260121
+DTEND;VALUE=DATE:20260122
+SUMMARY:Aalto University: Kensuke Sakamoto — Network Robust Inference for
+  Fixed-Effect Regressions
+DESCRIPTION:Series: Aalto University\nType: Job Talk\nSpeaker: Kensuke Saka
+ moto (University of Wisconsin-Madison)\nTitle: Network Robust Inference fo
+ r Fixed-Effect Regressions\n\nTime not published yet — all-day placehold
+ er.\n\nEvent page: https://www.helsinkigse.fi/events/kensuke-sakamoto\n\nP
+ aper on Scholar: https://scholar.google.com/scholar?q=%22Network+Robust+In
+ ference+for+Fixed-Effect+Regressions%22\n\nSpeaker on Scholar: https://sch
+ olar.google.com/scholar?q=author%3A%22Kensuke+Sakamoto%22
+URL:https://www.helsinkigse.fi/events/kensuke-sakamoto
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260121-ulrika-ahrsjo@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20260121
+DTEND;VALUE=DATE:20260122
+SUMMARY:Hanken: Ulrika Ahrsjö — Pay or Performance? Retaining Emotionall
+ y Stable Police Officers
+DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Ulrika Ahrsjö (Stockh
+ olm School of Economics)\nTitle: Pay or Performance? Retaining Emotionally
+  Stable Police Officers\n\nTime not published yet — all-day placeholder.
+ \n\nEvent page: https://www.helsinkigse.fi/events/ulrika-ahrsjo\n\nPaper o
+ n Scholar: https://scholar.google.com/scholar?q=%22Pay+or+Performance%3F+R
+ etaining+Emotionally+Stable+Police+Officers%22\n\nSpeaker on Scholar: http
+ s://scholar.google.com/scholar?q=author%3A%22Ulrika+Ahrsj%C3%B6%22
+URL:https://www.helsinkigse.fi/events/ulrika-ahrsjo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260122-raquel-lorenzo@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+SUMMARY:Hanken: Raquel Lorenzo — Misperceived Social Norms: A Unified Fra
+ mework
+DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Raquel Lorenzo (Univer
+ sitat Pompeu Fabra)\nTitle: Misperceived Social Norms: A Unified Framework
+ \n\nTime not published yet — all-day placeholder.\n\nEvent page: https:/
+ /www.helsinkigse.fi/events/raquel-lorenzo\n\nPaper on Scholar: https://sch
+ olar.google.com/scholar?q=%22Misperceived+Social+Norms%3A+A+Unified+Framew
+ ork%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%
+ 3A%22Raquel+Lorenzo%22
+URL:https://www.helsinkigse.fi/events/raquel-lorenzo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260122-sijie-lin@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+SUMMARY:Aalto University: Sijie Lin — Learning to Prompt: Human Adaptatio
+ n in Production with Generative AI
+DESCRIPTION:Series: Aalto University\nType: Job Talk\nSpeaker: Sijie Lin (U
+ niversity of Toronto)\nTitle: Learning to Prompt: Human Adaptation in Prod
+ uction with Generative AI\n\nTime not published yet — all-day placeholde
+ r.\n\nEvent page: https://www.helsinkigse.fi/events/sijie-lin\n\nPaper on 
+ Scholar: https://scholar.google.com/scholar?q=%22Learning+to+Prompt%3A+Hum
+ an+Adaptation+in+Production+with+Generative+AI%22\n\nSpeaker on Scholar: h
+ ttps://scholar.google.com/scholar?q=author%3A%22Sijie+Lin%22
+URL:https://www.helsinkigse.fi/events/sijie-lin
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260123-tuyetanh-l-tran@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY:Job Talk: Tuyetanh L. Tran — The Trade-Offs of Curbside Parking: 
+ Evidence from Demand-Based Pricing
+DESCRIPTION:Series: Job Talk\nSpeaker: Tuyetanh L. Tran (Yale University)\n
+ Title: The Trade-Offs of Curbside Parking: Evidence from Demand-Based Pric
+ ing\n\nTime not published yet — all-day placeholder.\n\nEvent page: http
+ s://www.helsinkigse.fi/events/tuyetanh-l-tran\n\nPaper on Scholar: https:/
+ /scholar.google.com/scholar?q=%22The+Trade-Offs+of+Curbside+Parking%3A+Evi
+ dence+from+Demand-Based+Pricing%22\n\nSpeaker on Scholar: https://scholar.
+ google.com/scholar?q=author%3A%22Tuyetanh+L.+Tran%22
+URL:https://www.helsinkigse.fi/events/tuyetanh-l-tran
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260126-teng-songyuan@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+SUMMARY:Job Talk: Songyuan Teng — Innovation through Recombination
+DESCRIPTION:Series: Job Talk\nSpeaker: Songyuan Teng (Yale University)\nTit
+ le: Innovation through Recombination\n\nTime not published yet — all-day
+  placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/teng-songyu
+ an\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Innovation
+ +through+Recombination%22\n\nSpeaker on Scholar: https://scholar.google.co
+ m/scholar?q=author%3A%22Songyuan+Teng%22
+URL:https://www.helsinkigse.fi/events/teng-songyuan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260127-maria-eskelinen@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20260127
+DTEND;VALUE=DATE:20260128
+SUMMARY:Hanken: Maria Eskelinen — Monetary Policy\, Agent Heterogeneity a
+ nd Inequality – Insights from a…
+DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Maria Eskelinen (Unive
+ rsity of Oxford)\nTitle: Monetary Policy\, Agent Heterogeneity and Inequal
+ ity – Insights from a Three-Agent New Keynesian Model\n\nTime not publis
+ hed yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi
+ /events/maria-eskelinen\n\nPaper on Scholar: https://scholar.google.com/sc
+ holar?q=%22Monetary+Policy%2C+Agent+Heterogeneity+and+Inequality+-+Insight
+ s+from+a+Three-Agent+New+Keynesian+Model%22\n\nSpeaker on Scholar: https:/
+ /scholar.google.com/scholar?q=author%3A%22Maria+Eskelinen%22
+URL:https://www.helsinkigse.fi/events/maria-eskelinen
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260129-aapo-stenhammarin@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+SUMMARY:Hanken: Aapo Stenhammar — Opening Borders: Self-Selection and Lab
+ or Market Returns to Migration…
+DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Aapo Stenhammar (Unive
+ rsity of Bonn)\nTitle: Opening Borders: Self-Selection and Labor Market Re
+ turns to Migration During the EU Enlargement\n\nTime not published yet —
+  all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/aap
+ o-stenhammarin\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%
+ 22Opening+Borders%3A+Self-Selection+and+Labor+Market+Returns+to+Migration+
+ During+the+EU+Enlargement%22\n\nSpeaker on Scholar: https://scholar.google
+ .com/scholar?q=author%3A%22Aapo+Stenhammar%22
+URL:https://www.helsinkigse.fi/events/aapo-stenhammarin
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260129-sarah-duffy@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+SUMMARY:Aalto University: Sarah Duffy — Climate Change\, Adaptation\, and
+  Sovereign Risk
+DESCRIPTION:Series: Aalto University\nType: Job Talk\nSpeaker: Sarah Duffy 
+ (University of Oxford)\nTitle: Climate Change\, Adaptation\, and Sovereign
+  Risk\n\nTime not published yet — all-day placeholder.\n\nEvent page: ht
+ tps://www.helsinkigse.fi/events/sarah-duffy\n\nPaper on Scholar: https://s
+ cholar.google.com/scholar?q=%22Climate+Change%2C+Adaptation%2C+and+Soverei
+ gn+Risk%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=aut
+ hor%3A%22Sarah+Duffy%22
+URL:https://www.helsinkigse.fi/events/sarah-duffy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260130-davide-luparello@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:Job Talk: Davide Luparello — Why Do Contract Workers Earn Less? E
+ vidence from India’s Auto Industry
+DESCRIPTION:Series: Job Talk\nSpeaker: Davide Luparello (Pennsylvania State
+  University)\nTitle: Why Do Contract Workers Earn Less? Evidence from Indi
+ a’s Auto Industry\n\nTime not published yet — all-day placeholder.\n\n
+ Event page: https://www.helsinkigse.fi/events/davide-luparello\n\nPaper on
+  Scholar: https://scholar.google.com/scholar?q=%22Why+Do+Contract+Workers+
+ Earn+Less%3F+Evidence+from+India%27s+Auto+Industry%22\n\nSpeaker on Schola
+ r: https://scholar.google.com/scholar?q=author%3A%22Davide+Luparello%22
+URL:https://www.helsinkigse.fi/events/davide-luparello
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260324-imelda@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260325
+SUMMARY:Aalto University: Imelda — The Economics of Energy Transitions: I
+ nformation\, Incentives\, and…
+DESCRIPTION:Series: Aalto University\nType: Job Talk\nSpeaker: Imelda (Grad
+ uate Institute of International and Development Studies (IHEID))\nTitle: T
+ he Economics of Energy Transitions: Information\, Incentives\, and Technol
+ ogy in Emerging Economies\n\nTime not published yet — all-day placeholde
+ r.\n\nEvent page: https://www.helsinkigse.fi/events/imelda\n\nPaper on Sch
+ olar: https://scholar.google.com/scholar?q=%22The+Economics+of+Energy+Tran
+ sitions%3A+Information%2C+Incentives%2C+and+Technology+in+Emerging+Economi
+ es%22
+URL:https://www.helsinkigse.fi/events/imelda
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260325-niko-jaakkola1@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260326
+SUMMARY:Aalto University: Niko Jaakkola — Markov-Perfect Equilibria in Di
+ fferential Games\, with an Application…
+DESCRIPTION:Series: Aalto University\nType: Job Talk\nSpeaker: Niko Jaakkol
+ a (University of Bologna)\nTitle: Markov-Perfect Equilibria in Differentia
+ l Games\, with an Application to Climate Policy\n\nTime not published yet 
+ — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/
+ niko-jaakkola1\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%
+ 22Markov-Perfect+Equilibria+in+Differential+Games%2C+with+an+Application+t
+ o+Climate+Policy%22\n\nSpeaker on Scholar: https://scholar.google.com/scho
+ lar?q=author%3A%22Niko+Jaakkola%22
+URL:https://www.helsinkigse.fi/events/niko-jaakkola1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260331-lassi-ahlvik@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+SUMMARY:Aalto University: Lassi Ahlvik — Quantifying supply-side climate 
+ policies
+DESCRIPTION:Series: Aalto University\nType: Job Talk\nSpeaker: Lassi Ahlvik
+  (University of Helsinki)\nTitle: Quantifying supply-side climate policies
+ \n\nTime not published yet — all-day placeholder.\n\nEvent page: https:/
+ /www.helsinkigse.fi/events/lassi-ahlvik\n\nPaper on Scholar: https://schol
+ ar.google.com/scholar?q=%22Quantifying+supply-side+climate+policies%22\n\n
+ Speaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Lassi
+ +Ahlvik%22
+URL:https://www.helsinkigse.fi/events/lassi-ahlvik
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260401-iivo-vehvilainen1@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:Aalto University: Iivo Vehviläinen — Pricing in Crisis
+DESCRIPTION:Series: Aalto University\nType: Job Talk\nSpeaker: Iivo Vehvil
+ äinen (Aalto University)\nTitle: Pricing in Crisis\n\nTime not published 
+ yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/eve
+ nts/iivo-vehvilainen1\n\nPaper on Scholar: https://scholar.google.com/scho
+ lar?q=%22Pricing+in+Crisis%22\n\nSpeaker on Scholar: https://scholar.googl
+ e.com/scholar?q=author%3A%22Iivo+Vehvil%C3%A4inen%22
+URL:https://www.helsinkigse.fi/events/iivo-vehvilainen1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260615-karl-walentin@helsinkigse.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Macroeconomics: Karl Walentin — The Housing Channels of Monetary 
+ Policy
+DESCRIPTION:Series: Macroeconomics\nType: Job Talk\nSpeaker: Karl Walentin 
+ (Uppsala University)\nTitle: The Housing Channels of Monetary Policy\n\nTi
+ me not published yet — all-day placeholder.\n\nEvent page: https://www.h
+ elsinkigse.fi/events/karl-walentin\n\nPaper on Scholar: https://scholar.go
+ ogle.com/scholar?q=%22The+Housing+Channels+of+Monetary+Policy%22\n\nSpeake
+ r on Scholar: https://scholar.google.com/scholar?q=author%3A%22Karl+Walent
+ in%22
+URL:https://www.helsinkigse.fi/events/karl-walentin
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

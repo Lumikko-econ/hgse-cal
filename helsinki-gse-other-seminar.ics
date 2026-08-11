@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:HGSE — Other Seminar
 NAME:HGSE — Other Seminar
-X-APPLE-CALENDAR-COLOR:#039BE5
-COLOR:#039BE5
+X-APPLE-CALENDAR-COLOR:#8E24AA
+COLOR:#8E24AA
 X-WR-TIMEZONE:Europe/Helsinki
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
@@ -31,7 +31,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260306-elamaa-elakkeiden-jalkeen-paneelikeskustelu@helsinkigse.f
  i
-DTSTAMP:20260811T080255Z
+DTSTAMP:20260811T080502Z
 DTSTART;VALUE=DATE:20260306
 DTEND;VALUE=DATE:20260307
 SUMMARY:Other Seminar: Elämää eläkkeiden jälkeen? – paneelikeskustel
@@ -47,6 +47,22 @@ DESCRIPTION:Series: Other Seminar\nSpeaker: Elämää eläkkeiden jälkeen?
  urvakeskuksesta+ja+Antti+Tanskanen+Telasta%22
 URL:https://www.helsinkigse.fi/events/elamaa-elakkeiden-jalkeen-paneelikesk
  ustelu
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260520-seminar-by-aalto-honorary-doctor-george-mailath@helsinkig
+ se.fi
+DTSTAMP:20260811T080502Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:Aalto University: Seminar by Aalto Honorary Doctor George Mailath
+DESCRIPTION:Series: Aalto University\nType: Other Seminar\nSpeaker: Seminar
+  by Aalto Honorary Doctor George Mailath\nTitle: TBA\n\nTime not published
+  yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/ev
+ ents/seminar-by-aalto-honorary-doctor-george-mailath
+URL:https://www.helsinkigse.fi/events/seminar-by-aalto-honorary-doctor-geor
+ ge-mailath
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
