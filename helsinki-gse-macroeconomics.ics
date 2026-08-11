@@ -30,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260916-philip-jung@helsinkigse.fi
-DTSTAMP:20260811T041049Z
+DTSTAMP:20260811T041839Z
 DTSTART;TZID=Europe/Helsinki:20260916T150000
 DTEND;TZID=Europe/Helsinki:20260916T160000
 SUMMARY:Macroeconomics: Philip Jung
@@ -45,7 +45,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261028-see-yu-chan@helsinkigse.fi
-DTSTAMP:20260811T041049Z
+DTSTAMP:20260811T041839Z
 DTSTART;TZID=Europe/Helsinki:20261028T150000
 DTEND;TZID=Europe/Helsinki:20261028T160000
 SUMMARY:Macroeconomics: See-Yu Chan
@@ -59,7 +59,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261209-alvaro-cox@helsinkigse.fi
-DTSTAMP:20260811T041049Z
+DTSTAMP:20260811T041839Z
 DTSTART;TZID=Europe/Helsinki:20261209T150000
 DTEND;TZID=Europe/Helsinki:20261209T160000
 SUMMARY:Macroeconomics: Alvaro Cox — Bringing Demand Within Reach: Digita
@@ -70,7 +70,8 @@ DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Alvaro Cox (Uni
  ari Vähämaa\n\nEvent page: https://www.helsinkigse.fi/events/alvaro-cox\
  nPaper on Scholar: https://scholar.google.com/scholar?q=%22Bringing+Demand
  +Within+Reach%3A+Digital+Platforms%2C+Market+Access%2C+and+the+Allocation+
- of+Firm+Scale%22
+ of+Firm+Scale%22\nSpeaker on Scholar: https://scholar.google.com/scholar?q
+ =author%3A%22Alvaro+Cox%22
 URL:https://www.helsinkigse.fi/events/alvaro-cox
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

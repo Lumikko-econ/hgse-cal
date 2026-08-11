@@ -31,7 +31,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260826-2nd-edition-of-the-helsinki-economics-of-education-worksh
  op@helsinkigse.fi
-DTSTAMP:20260811T041049Z
+DTSTAMP:20260811T041839Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:Economics of Education (Educa): 2nd Edition of the Helsinki Economi
@@ -40,9 +40,7 @@ DESCRIPTION:Series: Economics of Education (Educa)\nType: Workshop\nSpeaker
  : 2nd Edition of the Helsinki Economics of Education Workshop\nTitle: TBA\
  nHost: Cécile Bonneau\n\nTime not published yet — all-day placeholder.\
  n\nEvent page: https://www.helsinkigse.fi/events/2nd-edition-of-the-helsin
- ki-economics-of-education-workshop\nSpeaker on Scholar: https://scholar.go
- ogle.com/scholar?q=author%3A%222nd+Edition+of+the+Helsinki+Economics+of+Ed
- ucation+Workshop%22
+ ki-economics-of-education-workshop
 LOCATION:V001\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/2nd-edition-of-the-helsinki-economics
@@ -52,7 +50,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261006-jenifer-ruiz-valenzuela@helsinkigse.fi
-DTSTAMP:20260811T041049Z
+DTSTAMP:20260811T041839Z
 DTSTART;TZID=Europe/Helsinki:20261006T120000
 DTEND;TZID=Europe/Helsinki:20261006T130000
 SUMMARY:Economics of Education (Educa): Jenifer Ruiz Valenzuela
@@ -69,7 +67,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261103-petter-lundborg1@helsinkigse.fi
-DTSTAMP:20260811T041049Z
+DTSTAMP:20260811T041839Z
 DTSTART;TZID=Europe/Helsinki:20261103T120000
 DTEND;TZID=Europe/Helsinki:20261103T130000
 SUMMARY:Economics of Education (Educa): Petter Lundborg

@@ -30,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260907-jos-van-ommeren@helsinkigse.fi
-DTSTAMP:20260811T041049Z
+DTSTAMP:20260811T041839Z
 DTSTART;TZID=Europe/Helsinki:20260907T150000
 DTEND;TZID=Europe/Helsinki:20260907T160000
 SUMMARY:Trade\, Regional and Urban Economics: Jos van Ommeren
@@ -47,7 +47,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260921-andrea-herrera@helsinkigse.fi
-DTSTAMP:20260811T041049Z
+DTSTAMP:20260811T041839Z
 DTSTART;TZID=Europe/Helsinki:20260921T150000
 DTEND;TZID=Europe/Helsinki:20260921T160000
 SUMMARY:Trade\, Regional and Urban Economics: Andrea Herrera — Regulating
@@ -57,7 +57,8 @@ DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  vidence from London’s Protected Vistas\nHost: Prottoy Akbar\n\nEvent pag
  e: https://www.helsinkigse.fi/events/andrea-herrera\nPaper on Scholar: htt
  ps://scholar.google.com/scholar?q=%22Regulating+the+Skyline%3A+Evidence+fr
- om+London%27s+Protected+Vistas%22
+ om+London%27s+Protected+Vistas%22\nSpeaker on Scholar: https://scholar.goo
+ gle.com/scholar?q=author%3A%22Andrea+Herrera%22
 LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/andrea-herrera
@@ -66,7 +67,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261005-caterina-soto-vieira@helsinkigse.fi
-DTSTAMP:20260811T041049Z
+DTSTAMP:20260811T041839Z
 DTSTART;TZID=Europe/Helsinki:20261005T150000
 DTEND;TZID=Europe/Helsinki:20261005T160000
 SUMMARY:Trade\, Regional and Urban Economics: Caterina Soto-Vieira
@@ -83,7 +84,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261109-albert-sole-olle@helsinkigse.fi
-DTSTAMP:20260811T041049Z
+DTSTAMP:20260811T041839Z
 DTSTART;TZID=Europe/Helsinki:20261109T150000
 DTEND;TZID=Europe/Helsinki:20261109T160000
 SUMMARY:Trade\, Regional and Urban Economics: Albert Solé Ollé
@@ -99,7 +100,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261123-ignacio-aravena-gonzalez@helsinkigse.fi
-DTSTAMP:20260811T041049Z
+DTSTAMP:20260811T041839Z
 DTSTART;TZID=Europe/Helsinki:20261123T150000
 DTEND;TZID=Europe/Helsinki:20261123T160000
 SUMMARY:Trade\, Regional and Urban Economics: Ignacio Aravena-Gonzalez

@@ -30,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260821-antto-jokelainen4@helsinkigse.fi
-DTSTAMP:20260811T041049Z
+DTSTAMP:20260811T041839Z
 DTSTART;TZID=Europe/Helsinki:20260821T120000
 DTEND;TZID=Europe/Helsinki:20260821T150000
 SUMMARY:Doctoral Defence: Antto Jokelainen — Essays on Competition and Re
@@ -39,7 +39,8 @@ DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Antt
  o Jokelainen (Aalto University)\nTitle: Essays on Competition and Regulati
  on\n\nEvent page: https://www.helsinkigse.fi/events/antto-jokelainen4\nPap
  er on Scholar: https://scholar.google.com/scholar?q=%22Essays+on+Competiti
- on+and+Regulation%22
+ on+and+Regulation%22\nSpeaker on Scholar: https://scholar.google.com/schol
+ ar?q=author%3A%22Antto+Jokelainen%22
 LOCATION:R001 / H304 Opettajaneuvoston istuntosali\, Undergraduate Centre\,
   Otakaari 1\, Espoo
 URL:https://www.helsinkigse.fi/events/antto-jokelainen4
@@ -48,7 +49,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260821-jerry-montonen4@helsinkigse.fi
-DTSTAMP:20260811T041049Z
+DTSTAMP:20260811T041839Z
 DTSTART;TZID=Europe/Helsinki:20260821T120000
 DTEND;TZID=Europe/Helsinki:20260821T150000
 SUMMARY:Doctoral Defence: Jerry Montonen — Essays on the economics of soc
@@ -57,7 +58,8 @@ DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Jerr
  y Montonen (Aalto University)\nTitle: Essays on the economics of social in
  teractions\n\nEvent page: https://www.helsinkigse.fi/events/jerry-montonen
  4\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Essays+on+the
- +economics+of+social+interactions%22
+ +economics+of+social+interactions%22\nSpeaker on Scholar: https://scholar.
+ google.com/scholar?q=author%3A%22Jerry+Montonen%22
 LOCATION:V002\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/jerry-montonen4
