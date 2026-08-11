@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:HGSE — Macroeconomics
 NAME:HGSE — Macroeconomics
-X-APPLE-CALENDAR-COLOR:#6D4C41
-COLOR:#6D4C41
+X-APPLE-CALENDAR-COLOR:#F4511E
+COLOR:#F4511E
 X-WR-TIMEZONE:Europe/Helsinki
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
@@ -29,8 +29,189 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:hgse-20250319-federico-kochen@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250319
+DTEND;VALUE=DATE:20250320
+SUMMARY:Macroeconomics: Federico Kochen — The Origins of Top Firms (with 
+ Rafael Guntin)
+DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Federico Kochen
+  (CEMFI)\nTitle: The Origins of Top Firms (with Rafael Guntin)\n\nTime not
+  published yet — all-day placeholder.\n\nEvent page: https://www.helsink
+ igse.fi/events/federico-kochen\n\nPaper on Scholar: https://scholar.google
+ .com/scholar?q=%22The+Origins+of+Top+Firms+%28with+Rafael+Guntin%29%22\n\n
+ Speaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Feder
+ ico+Kochen%22
+URL:https://www.helsinkigse.fi/events/federico-kochen
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250402-nicholas-kozeniauskas@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250402
+DTEND;VALUE=DATE:20250403
+SUMMARY:Macroeconomics: Nicholas Kozeniauskas — Beyond Risk: Firm Financi
+ ng & Interest Rates
+DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Nicholas Kozeni
+ auskas (Bank of Portugal)\nTitle: Beyond Risk: Firm Financing & Interest R
+ ates\n\nTime not published yet — all-day placeholder.\n\nEvent page: htt
+ ps://www.helsinkigse.fi/events/nicholas-kozeniauskas\n\nPaper on Scholar: 
+ https://scholar.google.com/scholar?q=%22Beyond+Risk%3A+Firm+Financing+%26+
+ Interest+Rates%22\n\nSpeaker on Scholar: https://scholar.google.com/schola
+ r?q=author%3A%22Nicholas+Kozeniauskas%22
+URL:https://www.helsinkigse.fi/events/nicholas-kozeniauskas
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251001-hernan-seoane-bernadaz@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251001
+DTEND;VALUE=DATE:20251002
+SUMMARY:Macroeconomics: Hernán Seoane Bernadaz — Expropriation risk over
+  the business cycle
+DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Hernán Seoane 
+ Bernadaz (Universidad Carlos III de Madrid)\nTitle: Expropriation risk ove
+ r the business cycle\n\nTime not published yet — all-day placeholder.\n\
+ nEvent page: https://www.helsinkigse.fi/events/hernan-seoane-bernadaz\n\nP
+ aper on Scholar: https://scholar.google.com/scholar?q=%22Expropriation+ris
+ k+over+the+business+cycle%22\n\nSpeaker on Scholar: https://scholar.google
+ .com/scholar?q=author%3A%22Hern%C3%A1n+Seoane+Bernadaz%22
+URL:https://www.helsinkigse.fi/events/hernan-seoane-bernadaz
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251029-adrien-wicht@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251029
+DTEND;VALUE=DATE:20251030
+SUMMARY:Macroeconomics: Adrien Wicht — Sovereign debt risk and the politi
+ cal process
+DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Adrien Wicht (U
+ niversity of Basel)\nTitle: Sovereign debt risk and the political process\
+ n\nTime not published yet — all-day placeholder.\n\nEvent page: https://
+ www.helsinkigse.fi/events/adrien-wicht\n\nPaper on Scholar: https://schola
+ r.google.com/scholar?q=%22Sovereign+debt+risk+and+the+political+process%22
+ \n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22A
+ drien+Wicht%22
+URL:https://www.helsinkigse.fi/events/adrien-wicht
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251112-joshua-weiss@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251112
+DTEND;VALUE=DATE:20251113
+SUMMARY:Macroeconomics: Joshua Weiss — More Than the Sum of Its Parts? Ma
+ rkups and the Role of Establishments
+DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Joshua Weiss (U
+ niversity of Bristol)\nTitle: More Than the Sum of Its Parts? Markups and 
+ the Role of Establishments\n\nTime not published yet — all-day placehold
+ er.\n\nEvent page: https://www.helsinkigse.fi/events/joshua-weiss\n\nPaper
+  on Scholar: https://scholar.google.com/scholar?q=%22More+Than+the+Sum+of+
+ Its+Parts%3F+Markups+and+the+Role+of+Establishments%22\n\nSpeaker on Schol
+ ar: https://scholar.google.com/scholar?q=author%3A%22Joshua+Weiss%22
+URL:https://www.helsinkigse.fi/events/joshua-weiss
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251119-maija-kaartinen@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251119
+DTEND;VALUE=DATE:20251120
+SUMMARY:Macroeconomics: Maija Kaartinen — Carbon Pricing and Fuel Switchi
+ ng by Firms: Theory and Evidence (with…
+DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Maija Kaartinen
+  (IIES)\nTitle: Carbon Pricing and Fuel Switching by Firms: Theory and Evi
+ dence (with Ossian Prane)\n\nTime not published yet — all-day placeholde
+ r.\n\nEvent page: https://www.helsinkigse.fi/events/maija-kaartinen\n\nPap
+ er on Scholar: https://scholar.google.com/scholar?q=%22Carbon+Pricing+and+
+ Fuel+Switching+by+Firms%3A+Theory+and+Evidence+%28with+Ossian+Prane%29%22\
+ n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Ma
+ ija+Kaartinen%22
+URL:https://www.helsinkigse.fi/events/maija-kaartinen
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251126-marta-morazzoni@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251126
+DTEND;VALUE=DATE:20251127
+SUMMARY:Macroeconomics: Marta Morazzoni — Sorting into Entrepreneurial Te
+ ams
+DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Marta Morazzoni
+  (UCL)\nTitle: Sorting into Entrepreneurial Teams\n\nTime not published ye
+ t — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/event
+ s/marta-morazzoni\n\nPaper on Scholar: https://scholar.google.com/scholar?
+ q=%22Sorting+into+Entrepreneurial+Teams%22\n\nSpeaker on Scholar: https://
+ scholar.google.com/scholar?q=author%3A%22Marta+Morazzoni%22
+URL:https://www.helsinkigse.fi/events/marta-morazzoni
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251217-lauri-esala@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251217
+DTEND;VALUE=DATE:20251218
+SUMMARY:Macroeconomics: Lauri Esala — Supply Chain Dynamics with Search F
+ rictions
+DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Lauri Esala (Un
+ iversity of Edinburgh)\nTitle: Supply Chain Dynamics with Search Frictions
+ \n\nTime not published yet — all-day placeholder.\n\nEvent page: https:/
+ /www.helsinkigse.fi/events/lauri-esala\n\nPaper on Scholar: https://schola
+ r.google.com/scholar?q=%22Supply+Chain+Dynamics+with+Search+Frictions%22\n
+ \nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Lau
+ ri+Esala%22
+URL:https://www.helsinkigse.fi/events/lauri-esala
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260527-pau-roldan-blanco@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:Macroeconomics: Pau Roldan-Blanco — Economic Growth when Knowledg
+ e is Concentrated (with Andrea Guccione)
+DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Pau Roldan-Blan
+ co (Universitat Autonoma de Barcelona)\nTitle: Economic Growth when Knowle
+ dge is Concentrated (with Andrea Guccione)\n\nTime not published yet — a
+ ll-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/pau-r
+ oldan-blanco\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22
+ Economic+Growth+when+Knowledge+is+Concentrated+%28with+Andrea+Guccione%29%
+ 22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%2
+ 2Pau+Roldan-Blanco%22
+URL:https://www.helsinkigse.fi/events/pau-roldan-blanco
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260615-karl-walentin@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Macroeconomics: Karl Walentin — The Housing Channels of Monetary 
+ Policy
+DESCRIPTION:Series: Macroeconomics\nType: Job Talk\nSpeaker: Karl Walentin 
+ (Uppsala University)\nTitle: The Housing Channels of Monetary Policy\n\nTi
+ me not published yet — all-day placeholder.\n\nEvent page: https://www.h
+ elsinkigse.fi/events/karl-walentin\n\nPaper on Scholar: https://scholar.go
+ ogle.com/scholar?q=%22The+Housing+Channels+of+Monetary+Policy%22\n\nSpeake
+ r on Scholar: https://scholar.google.com/scholar?q=author%3A%22Karl+Walent
+ in%22
+URL:https://www.helsinkigse.fi/events/karl-walentin
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:hgse-20260916-philip-jung@helsinkigse.fi
-DTSTAMP:20260811T043412Z
+DTSTAMP:20260811T080255Z
 DTSTART;TZID=Europe/Helsinki:20260916T150000
 DTEND;TZID=Europe/Helsinki:20260916T160000
 SUMMARY:Macroeconomics: Philip Jung
@@ -45,7 +226,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261028-see-yu-chan@helsinkigse.fi
-DTSTAMP:20260811T043412Z
+DTSTAMP:20260811T080255Z
 DTSTART;TZID=Europe/Helsinki:20261028T150000
 DTEND;TZID=Europe/Helsinki:20261028T160000
 SUMMARY:Macroeconomics: See-Yu Chan
@@ -59,7 +240,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261209-alvaro-cox@helsinkigse.fi
-DTSTAMP:20260811T043412Z
+DTSTAMP:20260811T080255Z
 DTSTART;TZID=Europe/Helsinki:20261209T150000
 DTEND;TZID=Europe/Helsinki:20261209T160000
 SUMMARY:Macroeconomics: Alvaro Cox — Bringing Demand Within Reach: Digita

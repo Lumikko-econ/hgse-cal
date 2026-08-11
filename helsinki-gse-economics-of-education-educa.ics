@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:HGSE — Economics of Education (Educa)
 NAME:HGSE — Economics of Education (Educa)
-X-APPLE-CALENDAR-COLOR:#7CB342
-COLOR:#7CB342
+X-APPLE-CALENDAR-COLOR:#C0CA33
+COLOR:#C0CA33
 X-WR-TIMEZONE:Europe/Helsinki
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
@@ -29,9 +29,279 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:hgse-20250225-yann-bramoulle@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250225
+DTEND;VALUE=DATE:20250226
+SUMMARY:Economics of Education (Educa): Yann Bramoullé — Friendship netw
+ orks and social diversity at school: evidence from a…
+DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
+  Yann Bramoullé (Aix-Marseille School of Economics)\nTitle: Friendship ne
+ tworks and social diversity at school: evidence from a desegregation progr
+ am (joint with Ghazala Azmat\, Julien Grenet\, Aristide …\n\nTime not pu
+ blished yet — all-day placeholder.\n\nEvent page: https://www.helsinkigs
+ e.fi/events/yann-bramoulle\n\nPaper on Scholar: https://scholar.google.com
+ /scholar?q=%22Friendship+networks+and+social+diversity+at+school%3A+eviden
+ ce+from+a+desegregation+program+%28joint+with+Ghazala+Azmat%2C+Julien+Gren
+ et%2C+Aristide+%E2%80%A6%22\n\nSpeaker on Scholar: https://scholar.google.
+ com/scholar?q=author%3A%22Yann+Bramoull%C3%A9%22
+URL:https://www.helsinkigse.fi/events/yann-bramoulle
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250311-mette-foged@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250311
+DTEND;VALUE=DATE:20250312
+SUMMARY:Economics of Education (Educa): Mette Foged — Harsh Rhetoric and 
+ Ethnic Identity: The Backlash Effects of Denmark’s…
+DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
+  Mette Foged (University of Copenhagen)\nTitle: Harsh Rhetoric and Ethnic 
+ Identity: The Backlash Effects of Denmark’s Ghetto Plan\n\nTime not publ
+ ished yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.
+ fi/events/mette-foged\n\nPaper on Scholar: https://scholar.google.com/scho
+ lar?q=%22Harsh+Rhetoric+and+Ethnic+Identity%3A+The+Backlash+Effects+of+Den
+ mark%27s+Ghetto+Plan%22\n\nSpeaker on Scholar: https://scholar.google.com/
+ scholar?q=author%3A%22Mette+Foged%22
+URL:https://www.helsinkigse.fi/events/mette-foged
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250408-mikkel-gandil@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250408
+DTEND;VALUE=DATE:20250409
+SUMMARY:Economics of Education (Educa): Mikkel Gandil — Minority bias in 
+ holistic college admissions
+DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
+  Mikkel Gandil (ROCKWOOL Foundation Research Unit)\nTitle: Minority bias i
+ n holistic college admissions\n\nTime not published yet — all-day placeh
+ older.\n\nEvent page: https://www.helsinkigse.fi/events/mikkel-gandil\n\nP
+ aper on Scholar: https://scholar.google.com/scholar?q=%22Minority+bias+in+
+ holistic+college+admissions%22\n\nSpeaker on Scholar: https://scholar.goog
+ le.com/scholar?q=author%3A%22Mikkel+Gandil%22
+URL:https://www.helsinkigse.fi/events/mikkel-gandil
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250506-jose-montalban-castilla@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250506
+DTEND;VALUE=DATE:20250507
+SUMMARY:Economics of Education (Educa): José Montalban Castilla — How Do
+ es Class Size Shape the Classroom Learning Environment and…
+DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
+  José Montalban Castilla (SOFI – Stockholm University)\nTitle: How Does
+  Class Size Shape the Classroom Learning Environment and Affect Student Ou
+ tcomes?\n\nTime not published yet — all-day placeholder.\n\nEvent page: 
+ https://www.helsinkigse.fi/events/jose-montalban-castilla\n\nPaper on Scho
+ lar: https://scholar.google.com/scholar?q=%22How+Does+Class+Size+Shape+the
+ +Classroom+Learning+Environment+and+Affect+Student+Outcomes%3F%22\n\nSpeak
+ er on Scholar: https://scholar.google.com/scholar?q=author%3A%22Jos%C3%A9+
+ Montalban+Castilla%22
+URL:https://www.helsinkigse.fi/events/jose-montalban-castilla
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250520-christina-felfe@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250520
+DTEND;VALUE=DATE:20250521
+SUMMARY:Economics of Education (Educa): Christina Felfe — Mintful choices
+  - The role of perceived pressure
+DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
+  Christina Felfe (University of Konstanz)\nTitle: Mintful choices - The ro
+ le of perceived pressure\n\nTime not published yet — all-day placeholder
+ .\n\nEvent page: https://www.helsinkigse.fi/events/christina-felfe\n\nPape
+ r on Scholar: https://scholar.google.com/scholar?q=%22Mintful+choices+-+Th
+ e+role+of+perceived+pressure%22\n\nSpeaker on Scholar: https://scholar.goo
+ gle.com/scholar?q=author%3A%22Christina+Felfe%22
+URL:https://www.helsinkigse.fi/events/christina-felfe
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250603-tushar-kundu@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250603
+DTEND;VALUE=DATE:20250604
+SUMMARY:Economics of Education (Educa): Tushar Kundu — Parent-Teacher Ali
+ gnment in Multidimensional Skill Development
+DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
+  Tushar Kundu (Columbia University)\nTitle: Parent-Teacher Alignment in Mu
+ ltidimensional Skill Development\n\nTime not published yet — all-day pla
+ ceholder.\n\nEvent page: https://www.helsinkigse.fi/events/tushar-kundu\n\
+ nPaper on Scholar: https://scholar.google.com/scholar?q=%22Parent-Teacher+
+ Alignment+in+Multidimensional+Skill+Development%22\n\nSpeaker on Scholar: 
+ https://scholar.google.com/scholar?q=author%3A%22Tushar+Kundu%22
+URL:https://www.helsinkigse.fi/events/tushar-kundu
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250919-helsinki-economics-of-education-workshop@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250919
+DTEND;VALUE=DATE:20250920
+SUMMARY:Economics of Education (Educa): Helsinki Economics of Education Wor
+ kshop
+DESCRIPTION:Series: Economics of Education (Educa)\nType: Workshop\nSpeaker
+ : Helsinki Economics of Education Workshop\nTitle: TBA\n\nTime not publish
+ ed yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/
+ events/helsinki-economics-of-education-workshop
+URL:https://www.helsinkigse.fi/events/helsinki-economics-of-education-works
+ hop
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250923-pedro-carneiro@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250923
+DTEND;VALUE=DATE:20250924
+SUMMARY:Economics of Education (Educa): Pedro Carneiro — Parental Respons
+ es to Child Endowments
+DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
+  Pedro Carneiro (UCL)\nTitle: Parental Responses to Child Endowments\n\nTi
+ me not published yet — all-day placeholder.\n\nEvent page: https://www.h
+ elsinkigse.fi/events/pedro-carneiro\n\nPaper on Scholar: https://scholar.g
+ oogle.com/scholar?q=%22Parental+Responses+to+Child+Endowments%22\n\nSpeake
+ r on Scholar: https://scholar.google.com/scholar?q=author%3A%22Pedro+Carne
+ iro%22
+URL:https://www.helsinkigse.fi/events/pedro-carneiro
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251021-ben-goldman@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251021
+DTEND;VALUE=DATE:20251022
+SUMMARY:Economics of Education (Educa): Benjamin Goldman — When Resources
+  Meet Relationships: The Returns to Personalized…
+DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
+  Benjamin Goldman (Cornell University)\nTitle: When Resources Meet Relatio
+ nships: The Returns to Personalized Supports for Low-Income Students\n\nTi
+ me not published yet — all-day placeholder.\n\nEvent page: https://www.h
+ elsinkigse.fi/events/ben-goldman\n\nPaper on Scholar: https://scholar.goog
+ le.com/scholar?q=%22When+Resources+Meet+Relationships%3A+The+Returns+to+Pe
+ rsonalized+Supports+for+Low-Income+Students%22\n\nSpeaker on Scholar: http
+ s://scholar.google.com/scholar?q=author%3A%22Benjamin+Goldman%22
+URL:https://www.helsinkigse.fi/events/ben-goldman
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251104-giuseppe-sorrenti@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251104
+DTEND;VALUE=DATE:20251105
+SUMMARY:Economics of Education (Educa): CANCELLED Giuseppe Sorrenti — Tal
+ ent is Everywhere\, Opportunity is Not: Online Role Model Mentoring…
+DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
+  CANCELLED Giuseppe Sorrenti (University of Lausanne)\nTitle: Talent is Ev
+ erywhere\, Opportunity is Not: Online Role Model Mentoring and Students’
+  Aspirations\n\nTime not published yet — all-day placeholder.\n\nEvent p
+ age: https://www.helsinkigse.fi/events/giuseppe-sorrenti\n\nPaper on Schol
+ ar: https://scholar.google.com/scholar?q=%22Talent+is+Everywhere%2C+Opport
+ unity+is+Not%3A+Online+Role+Model+Mentoring+and+Students%27+Aspirations%22
+ \n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22C
+ ANCELLED+Giuseppe+Sorrenti%22
+URL:https://www.helsinkigse.fi/events/giuseppe-sorrenti
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251202-julien-grenet@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251202
+DTEND;VALUE=DATE:20251203
+SUMMARY:Economics of Education (Educa): Julien Grenet — Social Diversity 
+ at School: Evidence from a French Desegregation…
+DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
+  Julien Grenet (PSE)\nTitle: Social Diversity at School: Evidence from a F
+ rench Desegregation Experiment (with Ghazala Azmat\, Élise Huillery\, You
+ ssef Souidi\, and Yann Algan)\n\nTime not published yet — all-day placeh
+ older.\n\nEvent page: https://www.helsinkigse.fi/events/julien-grenet\n\nP
+ aper on Scholar: https://scholar.google.com/scholar?q=%22Social+Diversity+
+ at+School%3A+Evidence+from+a+French+Desegregation+Experiment+%28with+Ghaza
+ la+Azmat%2C+%C3%89lise+Huillery%2C+Youssef+Souidi%2C+and+Yann+Algan%29%22\
+ n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Ju
+ lien+Grenet%22
+URL:https://www.helsinkigse.fi/events/julien-grenet
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260310-nagore-iriberri1@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260311
+SUMMARY:Economics of Education (Educa): Nagore Iriberri — Women in Editor
+ ial Boards: An Investigation of Female Representation…
+DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
+  Nagore Iriberri (University of the Basque Country UPV/EHU)\nTitle: Women 
+ in Editorial Boards: An Investigation of Female Representation in Top Econ
+ omic Journals (with Patricia Funk and Nicole Venus)\n\nTime not published 
+ yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/eve
+ nts/nagore-iriberri1\n\nPaper on Scholar: https://scholar.google.com/schol
+ ar?q=%22Women+in+Editorial+Boards%3A+An+Investigation+of+Female+Representa
+ tion+in+Top+Economic+Journals+%28with+Patricia+Funk+and+Nicole+Venus%29%22
+ \n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22N
+ agore+Iriberri%22
+URL:https://www.helsinkigse.fi/events/nagore-iriberri1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260421-juanna-schroter-joensen@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:Economics of Education (Educa): Juanna Schrøter Joensen — Field 
+ of Study and Future Fertility (with Adam Altmejd\, John Eric…
+DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
+  Juanna Schrøter Joensen (University of Chicago)\nTitle: Field of Study a
+ nd Future Fertility (with Adam Altmejd\, John Eric Humphries and Gregory F
+ . Veramendi)\n\nTime not published yet — all-day placeholder.\n\nEvent p
+ age: https://www.helsinkigse.fi/events/juanna-schroter-joensen\n\nPaper on
+  Scholar: https://scholar.google.com/scholar?q=%22Field+of+Study+and+Futur
+ e+Fertility+%28with+Adam+Altmejd%2C+John+Eric+Humphries+and+Gregory+F.+Ver
+ amendi%29%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=a
+ uthor%3A%22Juanna+Schr%C3%B8ter+Joensen%22
+URL:https://www.helsinkigse.fi/events/juanna-schroter-joensen
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260602-gabrielle-fack1@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:Economics of Education (Educa): Gabrielle Fack — The Effect of Af
+ firmative Action on Targeted and Non-Targeted…
+DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
+  Gabrielle Fack (Dauphine University)\nTitle: The Effect of Affirmative Ac
+ tion on Targeted and Non-Targeted Students: Evidence from Low-income prior
+ ites in Paris High Schools (with Julien Grenet …\n\nTime not published y
+ et — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/even
+ ts/gabrielle-fack1\n\nPaper on Scholar: https://scholar.google.com/scholar
+ ?q=%22The+Effect+of+Affirmative+Action+on+Targeted+and+Non-Targeted+Studen
+ ts%3A+Evidence+from+Low-income+priorites+in+Paris+High+Schools+%28with+Jul
+ ien+Grenet+%E2%80%A6%22\n\nSpeaker on Scholar: https://scholar.google.com/
+ scholar?q=author%3A%22Gabrielle+Fack%22
+URL:https://www.helsinkigse.fi/events/gabrielle-fack1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:hgse-20260826-2nd-edition-of-the-helsinki-economics-of-education-worksh
  op@helsinkigse.fi
-DTSTAMP:20260811T043412Z
+DTSTAMP:20260811T080255Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:Economics of Education (Educa): 2nd Edition of the Helsinki Economi
@@ -50,7 +320,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261006-jenifer-ruiz-valenzuela@helsinkigse.fi
-DTSTAMP:20260811T043412Z
+DTSTAMP:20260811T080255Z
 DTSTART;TZID=Europe/Helsinki:20261006T120000
 DTEND;TZID=Europe/Helsinki:20261006T130000
 SUMMARY:Economics of Education (Educa): Jenifer Ruiz Valenzuela
@@ -67,7 +337,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261103-petter-lundborg1@helsinkigse.fi
-DTSTAMP:20260811T043412Z
+DTSTAMP:20260811T080255Z
 DTSTART;TZID=Europe/Helsinki:20261103T120000
 DTEND;TZID=Europe/Helsinki:20261103T130000
 SUMMARY:Economics of Education (Educa): Petter Lundborg

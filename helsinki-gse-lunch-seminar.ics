@@ -1,0 +1,402 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hgse-calendar//helsinkigse.fi scrape//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HGSE — Lunch Seminar
+NAME:HGSE — Lunch Seminar
+X-APPLE-CALENDAR-COLOR:#00897B
+COLOR:#00897B
+X-WR-TIMEZONE:Europe/Helsinki
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Helsinki
+X-LIC-LOCATION:Europe/Helsinki
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+TZNAME:EEST
+DTSTART:19700329T030000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:EET
+DTSTART:19701025T040000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:hgse-20250203-lunch-seminar1@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250204
+SUMMARY:Lunch Seminar: Matti Sarvimäki — Randomization as an Incentive D
+ evice: Evidence from Public…
+DESCRIPTION:Series: Lunch Seminar\nSpeaker: Matti Sarvimäki (Aalto Univers
+ ity)\nTitle: Randomization as an Incentive Device: Evidence from Public Pr
+ ocurement of Immigrant Integration Services (with Hanna Pesola and Tuomo V
+ irkola)\n\nTime not published yet — all-day placeholder.\n\nEvent page: 
+ https://www.helsinkigse.fi/events/lunch-seminar1\n\nPaper on Scholar: http
+ s://scholar.google.com/scholar?q=%22Randomization+as+an+Incentive+Device%3
+ A+Evidence+from+Public+Procurement+of+Immigrant+Integration+Services+%28wi
+ th+Hanna+Pesola+and+Tuomo+Virkola%29%22\n\nSpeaker on Scholar: https://sch
+ olar.google.com/scholar?q=author%3A%22Matti+Sarvim%C3%A4ki%22
+URL:https://www.helsinkigse.fi/events/lunch-seminar1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250210-lunch-seminar2@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250210
+DTEND;VALUE=DATE:20250211
+SUMMARY:Lunch Seminar: Albert Duodu — Local Import Competition and Firm-l
+ evel CO2 Emissions
+DESCRIPTION:Series: Lunch Seminar\nSpeaker: Albert Duodu (Aalto University)
+ \nTitle: Local Import Competition and Firm-level CO2 Emissions\n\nTime not
+  published yet — all-day placeholder.\n\nEvent page: https://www.helsink
+ igse.fi/events/lunch-seminar2\n\nPaper on Scholar: https://scholar.google.
+ com/scholar?q=%22Local+Import+Competition+and+Firm-level+CO2+Emissions%22\
+ n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Al
+ bert+Duodu%22
+URL:https://www.helsinkigse.fi/events/lunch-seminar2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250217-qinyou-hu@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250218
+SUMMARY:Lunch Seminar: Qinyou Hu — Breaking Down Bullying: Empathy\, Soci
+ al Networks\, and Adolescents
+DESCRIPTION:Series: Lunch Seminar\nSpeaker: Qinyou Hu (Aalto University)\nT
+ itle: Breaking Down Bullying: Empathy\, Social Networks\, and Adolescents\
+ n\nTime not published yet — all-day placeholder.\n\nEvent page: https://
+ www.helsinkigse.fi/events/qinyou-hu\n\nPaper on Scholar: https://scholar.g
+ oogle.com/scholar?q=%22Breaking+Down+Bullying%3A+Empathy%2C+Social+Network
+ s%2C+and+Adolescents%22\n\nSpeaker on Scholar: https://scholar.google.com/
+ scholar?q=author%3A%22Qinyou+Hu%22
+URL:https://www.helsinkigse.fi/events/qinyou-hu
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250310-lunch-seminar3@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250311
+SUMMARY:Lunch Seminar: Jaakko Markkanen — Free Entry and Social Inefficie
+ ncy in Regulated Pharmacy Markets
+DESCRIPTION:Series: Lunch Seminar\nSpeaker: Jaakko Markkanen (ETLA Economic
+  Research)\nTitle: Free Entry and Social Inefficiency in Regulated Pharmac
+ y Markets\n\nTime not published yet — all-day placeholder.\n\nEvent page
+ : https://www.helsinkigse.fi/events/lunch-seminar3\n\nPaper on Scholar: ht
+ tps://scholar.google.com/scholar?q=%22Free+Entry+and+Social+Inefficiency+i
+ n+Regulated+Pharmacy+Markets%22\n\nSpeaker on Scholar: https://scholar.goo
+ gle.com/scholar?q=author%3A%22Jaakko+Markkanen%22
+URL:https://www.helsinkigse.fi/events/lunch-seminar3
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250324-sofia-hernnas1@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250325
+SUMMARY:Lunch Seminar: Sofia Hernnäs — Broadband and the Geography of Sk
+ ill Demand
+DESCRIPTION:Series: Lunch Seminar\nSpeaker: Sofia Hernnäs (Hanken School o
+ f Economics)\nTitle: Broadband and the Geography of Skill Demand\n\nTime n
+ ot published yet — all-day placeholder.\n\nEvent page: https://www.helsi
+ nkigse.fi/events/sofia-hernnas1\n\nPaper on Scholar: https://scholar.googl
+ e.com/scholar?q=%22Broadband+and+the+Geography+of+Skill+Demand%22\n\nSpeak
+ er on Scholar: https://scholar.google.com/scholar?q=author%3A%22Sofia+Hern
+ n%C3%A4s%22
+URL:https://www.helsinkigse.fi/events/sofia-hernnas1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250331-lunch-seminar5@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250401
+SUMMARY:Lunch Seminar: Leopold Monjoie — Self-Selection in Retail Electri
+ city Contracts – Competition…
+DESCRIPTION:Series: Lunch Seminar\nSpeaker: Leopold Monjoie (Aalto Universi
+ ty)\nTitle: Self-Selection in Retail Electricity Contracts – Competition
+ \, Regulation\, and Welfare Implications\n\nTime not published yet — all
+ -day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/lunch-s
+ eminar5\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Self-
+ Selection+in+Retail+Electricity+Contracts+-+Competition%2C+Regulation%2C+a
+ nd+Welfare+Implications%22\n\nSpeaker on Scholar: https://scholar.google.c
+ om/scholar?q=author%3A%22Leopold+Monjoie%22
+URL:https://www.helsinkigse.fi/events/lunch-seminar5
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250407-miri-stryjan1@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250407
+DTEND;VALUE=DATE:20250408
+SUMMARY:Lunch Seminar: Miri Stryjan — Aligning Objectives? The Role of St
+ ate-Controlled Community Meetings…
+DESCRIPTION:Series: Lunch Seminar\nSpeaker: Miri Stryjan (Aalto University)
+ \nTitle: Aligning Objectives? The Role of State-Controlled Community Meeti
+ ngs in Rwanda’s Fertility Transition\n\nTime not published yet — all-d
+ ay placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/miri-stry
+ jan1\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Aligning
+ +Objectives%3F+The+Role+of+State-Controlled+Community+Meetings+in+Rwanda%2
+ 7s+Fertility+Transition%22\n\nSpeaker on Scholar: https://scholar.google.c
+ om/scholar?q=author%3A%22Miri+Stryjan%22
+URL:https://www.helsinkigse.fi/events/miri-stryjan1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250414-lunch-seminar7@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250415
+SUMMARY:Lunch Seminar: Prottoy Akbar — Drivers of Habit: Evidence of Pers
+ istence from Neighborhood Moves…
+DESCRIPTION:Series: Lunch Seminar\nSpeaker: Prottoy Akbar (Aalto University
+ )\nTitle: Drivers of Habit: Evidence of Persistence from Neighborhood Move
+ s (with Arttu Ahonen and Pablo Warnes)\n\nTime not published yet — all-d
+ ay placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/lunch-sem
+ inar7\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Drivers
+ +of+Habit%3A+Evidence+of+Persistence+from+Neighborhood+Moves+%28with+Arttu
+ +Ahonen+and+Pablo+Warnes%29%22\n\nSpeaker on Scholar: https://scholar.goog
+ le.com/scholar?q=author%3A%22Prottoy+Akbar%22
+URL:https://www.helsinkigse.fi/events/lunch-seminar7
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250505-lunch-seminar8@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250506
+SUMMARY:Lunch Seminar: Marko Terviö — Underachievement in Cognitive Test
+ s: Evidence from Finnish Military…
+DESCRIPTION:Series: Lunch Seminar\nSpeaker: Marko Terviö (Aalto University
+ )\nTitle: Underachievement in Cognitive Tests: Evidence from Finnish Milit
+ ary Conscripts\n\nTime not published yet — all-day placeholder.\n\nEvent
+  page: https://www.helsinkigse.fi/events/lunch-seminar8\n\nPaper on Schola
+ r: https://scholar.google.com/scholar?q=%22Underachievement+in+Cognitive+T
+ ests%3A+Evidence+from+Finnish+Military+Conscripts%22\n\nSpeaker on Scholar
+ : https://scholar.google.com/scholar?q=author%3A%22Marko+Tervi%C3%B6%22
+URL:https://www.helsinkigse.fi/events/lunch-seminar8
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250908-ciprian-domnisoru5@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250908
+DTEND;VALUE=DATE:20250909
+SUMMARY:Lunch Seminar: Ciprian Domnisoru — The role of firms in shaping t
+ he work\, study\, and graduation choices…
+DESCRIPTION:Series: Lunch Seminar\nSpeaker: Ciprian Domnisoru (Aalto Univer
+ sity)\nTitle: The role of firms in shaping the work\, study\, and graduati
+ on choices of student employees\n\nTime not published yet — all-day plac
+ eholder.\n\nEvent page: https://www.helsinkigse.fi/events/ciprian-domnisor
+ u5\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22The+role+o
+ f+firms+in+shaping+the+work%2C+study%2C+and+graduation+choices+of+student+
+ employees%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=a
+ uthor%3A%22Ciprian+Domnisoru%22
+URL:https://www.helsinkigse.fi/events/ciprian-domnisoru5
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250922-akseli-valiviita@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20250923
+SUMMARY:Lunch Seminar: Akseli Väliviita — Pricing network operating cons
+ traints in the European market for…
+DESCRIPTION:Series: Lunch Seminar\nSpeaker: Akseli Väliviita (Aalto Univer
+ sity)\nTitle: Pricing network operating constraints in the European market
+  for electricity\n\nTime not published yet — all-day placeholder.\n\nEve
+ nt page: https://www.helsinkigse.fi/events/akseli-valiviita\n\nPaper on Sc
+ holar: https://scholar.google.com/scholar?q=%22Pricing+network+operating+c
+ onstraints+in+the+European+market+for+electricity%22\n\nSpeaker on Scholar
+ : https://scholar.google.com/scholar?q=author%3A%22Akseli+V%C3%A4liviita%2
+ 2
+URL:https://www.helsinkigse.fi/events/akseli-valiviita
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251006-miika-paallysaho1@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251006
+DTEND;VALUE=DATE:20251007
+SUMMARY:Lunch Seminar: Miika Päällysaho — Decomposing Trends in the PIS
+ A Study (with Jani Kuhakoski and Roope…
+DESCRIPTION:Series: Lunch Seminar\nSpeaker: Miika Päällysaho (VATT)\nTitl
+ e: Decomposing Trends in the PISA Study (with Jani Kuhakoski and Roope Uus
+ italo)\n\nTime not published yet — all-day placeholder.\n\nEvent page: h
+ ttps://www.helsinkigse.fi/events/miika-paallysaho1\n\nPaper on Scholar: ht
+ tps://scholar.google.com/scholar?q=%22Decomposing+Trends+in+the+PISA+Study
+ +%28with+Jani+Kuhakoski+and+Roope+Uusitalo%29%22\n\nSpeaker on Scholar: ht
+ tps://scholar.google.com/scholar?q=author%3A%22Miika+P%C3%A4%C3%A4llysaho%
+ 22
+URL:https://www.helsinkigse.fi/events/miika-paallysaho1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251020-olivia-masi@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251020
+DTEND;VALUE=DATE:20251021
+SUMMARY:Lunch Seminar: Olivia Masi — Fast-Track to Family? Evidence from 
+ the G8 High School Reform in…
+DESCRIPTION:Series: Lunch Seminar\nSpeaker: Olivia Masi (Aalto University)\
+ nTitle: Fast-Track to Family? Evidence from the G8 High School Reform in G
+ ermany\n\nTime not published yet — all-day placeholder.\n\nEvent page: h
+ ttps://www.helsinkigse.fi/events/olivia-masi\n\nPaper on Scholar: https://
+ scholar.google.com/scholar?q=%22Fast-Track+to+Family%3F+Evidence+from+the+
+ G8+High+School+Reform+in+Germany%22\n\nSpeaker on Scholar: https://scholar
+ .google.com/scholar?q=author%3A%22Olivia+Masi%22
+URL:https://www.helsinkigse.fi/events/olivia-masi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251117-daniel-hauser@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251117
+DTEND;VALUE=DATE:20251118
+SUMMARY:Lunch Seminar: Daniel Hauser — Introspective Berk-Nash Equilibriu
+ m
+DESCRIPTION:Series: Lunch Seminar\nSpeaker: Daniel Hauser (Aalto University
+ )\nTitle: Introspective Berk-Nash Equilibrium\n\nTime not published yet 
+ — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/
+ daniel-hauser\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%2
+ 2Introspective+Berk-Nash+Equilibrium%22\n\nSpeaker on Scholar: https://sch
+ olar.google.com/scholar?q=author%3A%22Daniel+Hauser%22
+URL:https://www.helsinkigse.fi/events/daniel-hauser
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260223-pauli-murto@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260224
+SUMMARY:Lunch Seminar: Pauli Murto — Social learning with endogenous timi
+ ng (with Daniel Hauser and Juuso…
+DESCRIPTION:Series: Lunch Seminar\nSpeaker: Pauli Murto (Aalto University)\
+ nTitle: Social learning with endogenous timing (with Daniel Hauser and Juu
+ so Välimäki)\n\nTime not published yet — all-day placeholder.\n\nEvent
+  page: https://www.helsinkigse.fi/events/pauli-murto\n\nPaper on Scholar: 
+ https://scholar.google.com/scholar?q=%22Social+learning+with+endogenous+ti
+ ming+%28with+Daniel+Hauser+and+Juuso+V%C3%A4lim%C3%A4ki%29%22\n\nSpeaker o
+ n Scholar: https://scholar.google.com/scholar?q=author%3A%22Pauli+Murto%22
+URL:https://www.helsinkigse.fi/events/pauli-murto
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260316-aspasia-bizopoulou1@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:Lunch Seminar: Aspasia Bizopoulou — Anti-Discrimination Laws and 
+ the Careers of Women
+DESCRIPTION:Series: Lunch Seminar\nSpeaker: Aspasia Bizopoulou (VATT)\nTitl
+ e: Anti-Discrimination Laws and the Careers of Women\n\nTime not published
+  yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/ev
+ ents/aspasia-bizopoulou1\n\nPaper on Scholar: https://scholar.google.com/s
+ cholar?q=%22Anti-Discrimination+Laws+and+the+Careers+of+Women%22\n\nSpeake
+ r on Scholar: https://scholar.google.com/scholar?q=author%3A%22Aspasia+Biz
+ opoulou%22
+URL:https://www.helsinkigse.fi/events/aspasia-bizopoulou1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260413-mikko-silliman3@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+SUMMARY:Lunch Seminar: Mikko Silliman — The Rise of Specialists in the Wo
+ rkplace: Productivity Gains…
+DESCRIPTION:Series: Lunch Seminar\nSpeaker: Mikko Silliman (Aalto Universit
+ y)\nTitle: The Rise of Specialists in the Workplace: Productivity Gains\, 
+ Coordination Costs\, and Learning\n\nTime not published yet — all-day pl
+ aceholder.\n\nEvent page: https://www.helsinkigse.fi/events/mikko-silliman
+ 3\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22The+Rise+of
+ +Specialists+in+the+Workplace%3A+Productivity+Gains%2C+Coordination+Costs%
+ 2C+and+Learning%22\n\nSpeaker on Scholar: https://scholar.google.com/schol
+ ar?q=author%3A%22Mikko+Silliman%22
+URL:https://www.helsinkigse.fi/events/mikko-silliman3
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260420-alina-ozhegova3@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Lunch Seminar: Alina Ozhegova — Entry deterrence through restrict
+ ive covenants
+DESCRIPTION:Series: Lunch Seminar\nSpeaker: Alina Ozhegova (Aalto Universit
+ y)\nTitle: Entry deterrence through restrictive covenants\n\nTime not publ
+ ished yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.
+ fi/events/alina-ozhegova3\n\nPaper on Scholar: https://scholar.google.com/
+ scholar?q=%22Entry+deterrence+through+restrictive+covenants%22\n\nSpeaker 
+ on Scholar: https://scholar.google.com/scholar?q=author%3A%22Alina+Ozhegov
+ a%22
+URL:https://www.helsinkigse.fi/events/alina-ozhegova3
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260504-stefano-lombardi1@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+SUMMARY:Lunch Seminar: Stefano Lombardi — The Consequences of Labor Deman
+ d Shocks across Countries (with…
+DESCRIPTION:Series: Lunch Seminar\nSpeaker: Stefano Lombardi (VATT)\nTitle:
+  The Consequences of Labor Demand Shocks across Countries (with Antoine Be
+ rtheau\, Raffaele Saggio\, Oona Tuominen\, Edoardo Acabbi\, Andreas Gulyas
+ \, …\n\nTime not published yet — all-day placeholder.\n\nEvent page: h
+ ttps://www.helsinkigse.fi/events/stefano-lombardi1\n\nPaper on Scholar: ht
+ tps://scholar.google.com/scholar?q=%22The+Consequences+of+Labor+Demand+Sho
+ cks+across+Countries+%28with+Antoine+Bertheau%2C+Raffaele+Saggio%2C+Oona+T
+ uominen%2C+Edoardo+Acabbi%2C+Andreas+Gulyas%2C+%E2%80%A6%22\n\nSpeaker on 
+ Scholar: https://scholar.google.com/scholar?q=author%3A%22Stefano+Lombardi
+ %22
+URL:https://www.helsinkigse.fi/events/stefano-lombardi1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260518-atte-pudas4@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:Lunch Seminar: Atte Pudas — Having It All? Gender Differences in 
+ the Returns and Trade-Offs of…
+DESCRIPTION:Series: Lunch Seminar\nSpeaker: Atte Pudas (Aalto University)\n
+ Title: Having It All? Gender Differences in the Returns and Trade-Offs of 
+ Inventor Careers\n\nTime not published yet — all-day placeholder.\n\nEve
+ nt page: https://www.helsinkigse.fi/events/atte-pudas4\n\nPaper on Scholar
+ : https://scholar.google.com/scholar?q=%22Having+It+All%3F+Gender+Differen
+ ces+in+the+Returns+and+Trade-Offs+of+Inventor+Careers%22\n\nSpeaker on Sch
+ olar: https://scholar.google.com/scholar?q=author%3A%22Atte+Pudas%22
+URL:https://www.helsinkigse.fi/events/atte-pudas4
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

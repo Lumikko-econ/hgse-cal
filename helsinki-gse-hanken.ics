@@ -1,0 +1,269 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hgse-calendar//helsinkigse.fi scrape//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HGSE — Hanken
+NAME:HGSE — Hanken
+X-APPLE-CALENDAR-COLOR:#00ACC1
+COLOR:#00ACC1
+X-WR-TIMEZONE:Europe/Helsinki
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Helsinki
+X-LIC-LOCATION:Europe/Helsinki
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+TZNAME:EEST
+DTSTART:19700329T030000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:EET
+DTSTART:19701025T040000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:hgse-20250123-sofia-hernnas-2@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250123
+DTEND;VALUE=DATE:20250124
+SUMMARY:Hanken: Sofia Hernnäs
+DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Sofia Hernnäs (Hanken
+  School of Economics)\nTitle: TBA\n\nTime not published yet — all-day pl
+ aceholder.\n\nEvent page: https://www.helsinkigse.fi/events/sofia-hernnas-
+ 2\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22
+ Sofia+Hernn%C3%A4s%22
+URL:https://www.helsinkigse.fi/events/sofia-hernnas-2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250124-aapo-stenhammar-4@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250124
+DTEND;VALUE=DATE:20250125
+SUMMARY:Hanken: Aapo Stenhammar — Tensions of Structural Change: Evidence
+  from Finland’s Field…
+DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Aapo Stenhammar (Unive
+ rsity of Bonn / LABORE)\nTitle: Tensions of Structural Change: Evidence fr
+ om Finland’s Field Reservation Policy\n\nTime not published yet — all-
+ day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/aapo-ste
+ nhammar-4\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Ten
+ sions+of+Structural+Change%3A+Evidence+from+Finland%27s+Field+Reservation+
+ Policy%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=auth
+ or%3A%22Aapo+Stenhammar%22
+URL:https://www.helsinkigse.fi/events/aapo-stenhammar-4
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250127-marita-freimane@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250127
+DTEND;VALUE=DATE:20250128
+SUMMARY:Hanken: Marita Freimane — Gender Bias\, Feedback\, and Productivi
+ ty
+DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Marita Freimane (KU Le
+ uven / University of Zurich)\nTitle: Gender Bias\, Feedback\, and Producti
+ vity\n\nTime not published yet — all-day placeholder.\n\nEvent page: htt
+ ps://www.helsinkigse.fi/events/marita-freimane\n\nPaper on Scholar: https:
+ //scholar.google.com/scholar?q=%22Gender+Bias%2C+Feedback%2C+and+Productiv
+ ity%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%
+ 3A%22Marita+Freimane%22
+URL:https://www.helsinkigse.fi/events/marita-freimane
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250130-jaakko-merilainen1@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250130
+DTEND;VALUE=DATE:20250131
+SUMMARY:Hanken: Jaakko Meriläinen — Lasting Effects of Marxism in the Cl
+ assroom: Evidence from an…
+DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Jaakko Meriläinen (St
+ ockholm School of Economics)\nTitle: Lasting Effects of Marxism in the Cla
+ ssroom: Evidence from an Experiment\n\nTime not published yet — all-day 
+ placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/jaakko-meril
+ ainen1\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Lastin
+ g+Effects+of+Marxism+in+the+Classroom%3A+Evidence+from+an+Experiment%22\n\
+ nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Jaak
+ ko+Meril%C3%A4inen%22
+URL:https://www.helsinkigse.fi/events/jaakko-merilainen1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250318-hanken-job-market-seminar@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250318
+DTEND;VALUE=DATE:20250319
+SUMMARY:Hanken: Hanken Job Market Seminar / Tuomo Virkola — College Admis
+ sions Criteria\, Students’ Academic Performance and…
+DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Hanken Job Market Semi
+ nar / Tuomo Virkola (VATT)\nTitle: College Admissions Criteria\, Students
+ ’ Academic Performance and Social Mobility\n\nTime not published yet —
+  all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/han
+ ken-job-market-seminar\n\nPaper on Scholar: https://scholar.google.com/sch
+ olar?q=%22College+Admissions+Criteria%2C+Students%27+Academic+Performance+
+ and+Social+Mobility%22\n\nSpeaker on Scholar: https://scholar.google.com/s
+ cholar?q=author%3A%22Tuomo+Virkola%22
+URL:https://www.helsinkigse.fi/events/hanken-job-market-seminar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250319-job-market-seminar-saara-hamalainen@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250319
+DTEND;VALUE=DATE:20250320
+SUMMARY:Hanken: Hanken Job Market Seminar / Saara Hämäläinen — Heterog
+ eneous price technologies
+DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Hanken Job Market Semi
+ nar / Saara Hämäläinen (University of Helsinki)\nTitle: Heterogeneous p
+ rice technologies\n\nTime not published yet — all-day placeholder.\n\nEv
+ ent page: https://www.helsinkigse.fi/events/job-market-seminar-saara-hamal
+ ainen\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Heterog
+ eneous+price+technologies%22\n\nSpeaker on Scholar: https://scholar.google
+ .com/scholar?q=author%3A%22Saara+H%C3%A4m%C3%A4l%C3%A4inen%22
+URL:https://www.helsinkigse.fi/events/job-market-seminar-saara-hamalainen
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260114-arno-apffelstaedt1@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+SUMMARY:Hanken: Arno Apffelstaedt — Group Image Concerns (with Gönül Do
+ gan and Fabian Hoffmann)
+DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Arno Apffelstaedt (Uni
+ versity of Cologne)\nTitle: Group Image Concerns (with Gönül Dogan and F
+ abian Hoffmann)\n\nTime not published yet — all-day placeholder.\n\nEven
+ t page: https://www.helsinkigse.fi/events/arno-apffelstaedt1\n\nPaper on S
+ cholar: https://scholar.google.com/scholar?q=%22Group+Image+Concerns+%28wi
+ th+G%C3%B6n%C3%BCl+Dogan+and+Fabian+Hoffmann%29%22\n\nSpeaker on Scholar: 
+ https://scholar.google.com/scholar?q=author%3A%22Arno+Apffelstaedt%22
+URL:https://www.helsinkigse.fi/events/arno-apffelstaedt1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260115-daniel-bougt1@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:Hanken: Daniel Bougt — Ambiguity and the declining price anomaly:
+  estimation of a sequental…
+DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Daniel Bougt (Hanken a
+ nd Helsinki GSE)\nTitle: Ambiguity and the declining price anomaly: estima
+ tion of a sequental auction model\n\nTime not published yet — all-day pl
+ aceholder.\n\nEvent page: https://www.helsinkigse.fi/events/daniel-bougt1\
+ n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Ambiguity+and
+ +the+declining+price+anomaly%3A+estimation+of+a+sequental+auction+model%22
+ \n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22D
+ aniel+Bougt%22
+URL:https://www.helsinkigse.fi/events/daniel-bougt1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260120-nicole-scholz@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+SUMMARY:Hanken: Nicole Scholz — Estimating Multi-Product Production Funct
+ ions: What Can We Learn…
+DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Nicole Scholz (Univers
+ ity of Warwick)\nTitle: Estimating Multi-Product Production Functions: Wha
+ t Can We Learn Without Demand Assumptions?\n\nTime not published yet — a
+ ll-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/nicol
+ e-scholz\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Esti
+ mating+Multi-Product+Production+Functions%3A+What+Can+We+Learn+Without+Dem
+ and+Assumptions%3F%22\n\nSpeaker on Scholar: https://scholar.google.com/sc
+ holar?q=author%3A%22Nicole+Scholz%22
+URL:https://www.helsinkigse.fi/events/nicole-scholz
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260121-ulrika-ahrsjo@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260121
+DTEND;VALUE=DATE:20260122
+SUMMARY:Hanken: Ulrika Ahrsjö — Pay or Performance? Retaining Emotionall
+ y Stable Police Officers
+DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Ulrika Ahrsjö (Stockh
+ olm School of Economics)\nTitle: Pay or Performance? Retaining Emotionally
+  Stable Police Officers\n\nTime not published yet — all-day placeholder.
+ \n\nEvent page: https://www.helsinkigse.fi/events/ulrika-ahrsjo\n\nPaper o
+ n Scholar: https://scholar.google.com/scholar?q=%22Pay+or+Performance%3F+R
+ etaining+Emotionally+Stable+Police+Officers%22\n\nSpeaker on Scholar: http
+ s://scholar.google.com/scholar?q=author%3A%22Ulrika+Ahrsj%C3%B6%22
+URL:https://www.helsinkigse.fi/events/ulrika-ahrsjo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260122-raquel-lorenzo@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+SUMMARY:Hanken: Raquel Lorenzo — Misperceived Social Norms: A Unified Fra
+ mework
+DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Raquel Lorenzo (Univer
+ sitat Pompeu Fabra)\nTitle: Misperceived Social Norms: A Unified Framework
+ \n\nTime not published yet — all-day placeholder.\n\nEvent page: https:/
+ /www.helsinkigse.fi/events/raquel-lorenzo\n\nPaper on Scholar: https://sch
+ olar.google.com/scholar?q=%22Misperceived+Social+Norms%3A+A+Unified+Framew
+ ork%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%
+ 3A%22Raquel+Lorenzo%22
+URL:https://www.helsinkigse.fi/events/raquel-lorenzo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260127-maria-eskelinen@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260127
+DTEND;VALUE=DATE:20260128
+SUMMARY:Hanken: Maria Eskelinen — Monetary Policy\, Agent Heterogeneity a
+ nd Inequality – Insights from a…
+DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Maria Eskelinen (Unive
+ rsity of Oxford)\nTitle: Monetary Policy\, Agent Heterogeneity and Inequal
+ ity – Insights from a Three-Agent New Keynesian Model\n\nTime not publis
+ hed yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi
+ /events/maria-eskelinen\n\nPaper on Scholar: https://scholar.google.com/sc
+ holar?q=%22Monetary+Policy%2C+Agent+Heterogeneity+and+Inequality+-+Insight
+ s+from+a+Three-Agent+New+Keynesian+Model%22\n\nSpeaker on Scholar: https:/
+ /scholar.google.com/scholar?q=author%3A%22Maria+Eskelinen%22
+URL:https://www.helsinkigse.fi/events/maria-eskelinen
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260129-aapo-stenhammarin@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+SUMMARY:Hanken: Aapo Stenhammar — Opening Borders: Self-Selection and Lab
+ or Market Returns to Migration…
+DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Aapo Stenhammar (Unive
+ rsity of Bonn)\nTitle: Opening Borders: Self-Selection and Labor Market Re
+ turns to Migration During the EU Enlargement\n\nTime not published yet —
+  all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/aap
+ o-stenhammarin\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%
+ 22Opening+Borders%3A+Self-Selection+and+Labor+Market+Returns+to+Migration+
+ During+the+EU+Enlargement%22\n\nSpeaker on Scholar: https://scholar.google
+ .com/scholar?q=author%3A%22Aapo+Stenhammar%22
+URL:https://www.helsinkigse.fi/events/aapo-stenhammarin
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

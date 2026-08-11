@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hgse-calendar//helsinkigse.fi scrape//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HGSE — Information session
+NAME:HGSE — Information session
+X-APPLE-CALENDAR-COLOR:#43A047
+COLOR:#43A047
+X-WR-TIMEZONE:Europe/Helsinki
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Helsinki
+X-LIC-LOCATION:Europe/Helsinki
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+TZNAME:EEST
+DTSTART:19700329T030000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:EET
+DTSTART:19701025T040000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:hgse-20260309-information-session-on-phd-studies-in-economics@helsinkig
+ se.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
+SUMMARY:Information session: Information Session on PhD Studies in Economic
+ s — Information Session on PhD Studies in Economics for Master’s Stude
+ nts
+DESCRIPTION:Series: Information session\nSpeaker: Information Session on Ph
+ D Studies in Economics\nTitle: Information Session on PhD Studies in Econo
+ mics for Master’s Students\n\nTime not published yet — all-day placeho
+ lder.\n\nEvent page: https://www.helsinkigse.fi/events/information-session
+ -on-phd-studies-in-economics\n\nPaper on Scholar: https://scholar.google.c
+ om/scholar?q=%22Information+Session+on+PhD+Studies+in+Economics+for+Master
+ %27s+Students%22
+URL:https://www.helsinkigse.fi/events/information-session-on-phd-studies-in
+ -economics
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260316-job-market-information-session@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:Information session: Job market information session — Internation
+ al Academic Job Market Information Session for PhD Students
+DESCRIPTION:Series: Information session\nSpeaker: Job market information se
+ ssion\nTitle: International Academic Job Market Information Session for Ph
+ D Students\n\nTime not published yet — all-day placeholder.\n\nEvent pag
+ e: https://www.helsinkigse.fi/events/job-market-information-session\n\nPap
+ er on Scholar: https://scholar.google.com/scholar?q=%22International+Acade
+ mic+Job+Market+Information+Session+for+PhD+Students%22\n\nSpeaker on Schol
+ ar: https://scholar.google.com/scholar?q=author%3A%22Job+market+informatio
+ n+session%22
+URL:https://www.helsinkigse.fi/events/job-market-information-session
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260326-information-session-on-master-s-studies-in-economics@hels
+ inkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
+SUMMARY:Information session: Information Session on Master's Studies in Eco
+ nomics — Information Session on Master’s Studies in Economics for Bach
+ elor’s…
+DESCRIPTION:Series: Information session\nSpeaker: Information Session on Ma
+ ster's Studies in Economics\nTitle: Information Session on Master’s Stud
+ ies in Economics for Bachelor’s Students\n\nTime not published yet — a
+ ll-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/infor
+ mation-session-on-master-s-studies-in-economics\n\nPaper on Scholar: https
+ ://scholar.google.com/scholar?q=%22Information+Session+on+Master%27s+Studi
+ es+in+Economics+for+Bachelor%27s+Students%22
+URL:https://www.helsinkigse.fi/events/information-session-on-master-s-studi
+ es-in-economics
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

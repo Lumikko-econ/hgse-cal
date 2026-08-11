@@ -1,0 +1,101 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hgse-calendar//helsinkigse.fi scrape//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HGSE — Job Talk
+NAME:HGSE — Job Talk
+X-APPLE-CALENDAR-COLOR:#E53935
+COLOR:#E53935
+X-WR-TIMEZONE:Europe/Helsinki
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Helsinki
+X-LIC-LOCATION:Europe/Helsinki
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+TZNAME:EEST
+DTSTART:19700329T030000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:EET
+DTSTART:19701025T040000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:hgse-20260113-gupta-ayush@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260113
+DTEND;VALUE=DATE:20260114
+SUMMARY:Job Talk: Ayush Gupta — A Theory of Efficient Price Cycles Under 
+ Imperfect Monitoring
+DESCRIPTION:Series: Job Talk\nSpeaker: Ayush Gupta (Boston University)\nTit
+ le: A Theory of Efficient Price Cycles Under Imperfect Monitoring\n\nTime 
+ not published yet — all-day placeholder.\n\nEvent page: https://www.hels
+ inkigse.fi/events/gupta-ayush\n\nPaper on Scholar: https://scholar.google.
+ com/scholar?q=%22A+Theory+of+Efficient+Price+Cycles+Under+Imperfect+Monito
+ ring%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author
+ %3A%22Ayush+Gupta%22
+URL:https://www.helsinkigse.fi/events/gupta-ayush
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260123-tuyetanh-l-tran@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY:Job Talk: Tuyetanh L. Tran — The Trade-Offs of Curbside Parking: 
+ Evidence from Demand-Based Pricing
+DESCRIPTION:Series: Job Talk\nSpeaker: Tuyetanh L. Tran (Yale University)\n
+ Title: The Trade-Offs of Curbside Parking: Evidence from Demand-Based Pric
+ ing\n\nTime not published yet — all-day placeholder.\n\nEvent page: http
+ s://www.helsinkigse.fi/events/tuyetanh-l-tran\n\nPaper on Scholar: https:/
+ /scholar.google.com/scholar?q=%22The+Trade-Offs+of+Curbside+Parking%3A+Evi
+ dence+from+Demand-Based+Pricing%22\n\nSpeaker on Scholar: https://scholar.
+ google.com/scholar?q=author%3A%22Tuyetanh+L.+Tran%22
+URL:https://www.helsinkigse.fi/events/tuyetanh-l-tran
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260126-teng-songyuan@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+SUMMARY:Job Talk: Songyuan Teng — Innovation through Recombination
+DESCRIPTION:Series: Job Talk\nSpeaker: Songyuan Teng (Yale University)\nTit
+ le: Innovation through Recombination\n\nTime not published yet — all-day
+  placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/teng-songyu
+ an\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Innovation
+ +through+Recombination%22\n\nSpeaker on Scholar: https://scholar.google.co
+ m/scholar?q=author%3A%22Songyuan+Teng%22
+URL:https://www.helsinkigse.fi/events/teng-songyuan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260130-davide-luparello@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:Job Talk: Davide Luparello — Why Do Contract Workers Earn Less? E
+ vidence from India’s Auto Industry
+DESCRIPTION:Series: Job Talk\nSpeaker: Davide Luparello (Pennsylvania State
+  University)\nTitle: Why Do Contract Workers Earn Less? Evidence from Indi
+ a’s Auto Industry\n\nTime not published yet — all-day placeholder.\n\n
+ Event page: https://www.helsinkigse.fi/events/davide-luparello\n\nPaper on
+  Scholar: https://scholar.google.com/scholar?q=%22Why+Do+Contract+Workers+
+ Earn+Less%3F+Evidence+from+India%27s+Auto+Industry%22\n\nSpeaker on Schola
+ r: https://scholar.google.com/scholar?q=author%3A%22Davide+Luparello%22
+URL:https://www.helsinkigse.fi/events/davide-luparello
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

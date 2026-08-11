@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hgse-calendar//helsinkigse.fi scrape//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HGSE — PhD Workshop
+NAME:HGSE — PhD Workshop
+X-APPLE-CALENDAR-COLOR:#7CB342
+COLOR:#7CB342
+X-WR-TIMEZONE:Europe/Helsinki
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Helsinki
+X-LIC-LOCATION:Europe/Helsinki
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+TZNAME:EEST
+DTSTART:19700329T030000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:EET
+DTSTART:19701025T040000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:hgse-20251007-low-threshold-phd-seminar@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251007
+DTEND;VALUE=DATE:20251008
+SUMMARY:PhD Workshop: Low-threshold PhD seminar
+DESCRIPTION:Series: PhD Workshop\nSpeaker: Low-threshold PhD seminar\nTitle
+ : TBA\n\nTime not published yet — all-day placeholder.\n\nEvent page: ht
+ tps://www.helsinkigse.fi/events/low-threshold-phd-seminar
+URL:https://www.helsinkigse.fi/events/low-threshold-phd-seminar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251105-low-threshold-phd-seminar1@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251105
+DTEND;VALUE=DATE:20251106
+SUMMARY:PhD Workshop: CANCELLED Low-threshold PhD seminar
+DESCRIPTION:Series: PhD Workshop\nSpeaker: CANCELLED Low-threshold PhD semi
+ nar\nTitle: TBA\n\nTime not published yet — all-day placeholder.\n\nEven
+ t page: https://www.helsinkigse.fi/events/low-threshold-phd-seminar1
+URL:https://www.helsinkigse.fi/events/low-threshold-phd-seminar1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

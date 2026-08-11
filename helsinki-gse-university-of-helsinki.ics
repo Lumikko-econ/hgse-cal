@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hgse-calendar//helsinkigse.fi scrape//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HGSE — University of Helsinki
+NAME:HGSE — University of Helsinki
+X-APPLE-CALENDAR-COLOR:#6D4C41
+COLOR:#6D4C41
+X-WR-TIMEZONE:Europe/Helsinki
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Helsinki
+X-LIC-LOCATION:Europe/Helsinki
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+TZNAME:EEST
+DTSTART:19700329T030000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:EET
+DTSTART:19701025T040000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:hgse-20250204-toan-le@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250204
+DTEND;VALUE=DATE:20250205
+SUMMARY:University of Helsinki: Toan Le — The Simple Economics of the Imp
+ ossibility of Efficient Trade
+DESCRIPTION:Series: University of Helsinki\nType: Job Talk\nSpeaker: Toan L
+ e (University of Melbourne)\nTitle: The Simple Economics of the Impossibil
+ ity of Efficient Trade\n\nTime not published yet — all-day placeholder.\
+ n\nEvent page: https://www.helsinkigse.fi/events/toan-le\n\nPaper on Schol
+ ar: https://scholar.google.com/scholar?q=%22The+Simple+Economics+of+the+Im
+ possibility+of+Efficient+Trade%22\n\nSpeaker on Scholar: https://scholar.g
+ oogle.com/scholar?q=author%3A%22Toan+Le%22
+URL:https://www.helsinkigse.fi/events/toan-le
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250205-xueying-zhao@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250205
+DTEND;VALUE=DATE:20250206
+SUMMARY:University of Helsinki: Xueying Zhao — Tailoring Data for Profit
+DESCRIPTION:Series: University of Helsinki\nType: Job Talk\nSpeaker: Xueyin
+ g Zhao (University of Warwick)\nTitle: Tailoring Data for Profit\n\nTime n
+ ot published yet — all-day placeholder.\n\nEvent page: https://www.helsi
+ nkigse.fi/events/xueying-zhao\n\nPaper on Scholar: https://scholar.google.
+ com/scholar?q=%22Tailoring+Data+for+Profit%22\n\nSpeaker on Scholar: https
+ ://scholar.google.com/scholar?q=author%3A%22Xueying+Zhao%22
+URL:https://www.helsinkigse.fi/events/xueying-zhao
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

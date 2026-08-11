@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:HGSE — Doctoral Defences
 NAME:HGSE — Doctoral Defences
-X-APPLE-CALENDAR-COLOR:#8E24AA
-COLOR:#8E24AA
+X-APPLE-CALENDAR-COLOR:#039BE5
+COLOR:#039BE5
 X-WR-TIMEZONE:Europe/Helsinki
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
@@ -29,8 +29,391 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:hgse-20250110-maarit-olkkola-defence@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250110
+DTEND;VALUE=DATE:20250111
+SUMMARY:Doctoral Defence: Maarit Olkkola — Essays on Health Policy and Hu
+ man Capital
+DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Maar
+ it Olkkola (Aalto University)\nTitle: Essays on Health Policy and Human Ca
+ pital\n\nTime not published yet — all-day placeholder.\n\nEvent page: ht
+ tps://www.helsinkigse.fi/events/maarit-olkkola-defence\n\nSpeaker on Schol
+ ar: https://scholar.google.com/scholar?q=author%3A%22Maarit+Olkkola%22
+URL:https://www.helsinkigse.fi/events/maarit-olkkola-defence
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250124-jaakko-markkanen-defence@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250124
+DTEND;VALUE=DATE:20250125
+SUMMARY:Doctoral Defence: Jaakko Markkanen — Industrial Organization Stud
+ ies on Pharmaceutical Markets
+DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Jaak
+ ko Markkanen (Aalto University)\nTitle: Industrial Organization Studies on
+  Pharmaceutical Markets\n\nTime not published yet — all-day placeholder.
+ \n\nEvent page: https://www.helsinkigse.fi/events/jaakko-markkanen-defence
+ \n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22J
+ aakko+Markkanen%22
+URL:https://www.helsinkigse.fi/events/jaakko-markkanen-defence
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250307-jan-jaaskelainen-defence@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250307
+DTEND;VALUE=DATE:20250308
+SUMMARY:Doctoral Defence: Jan Jääskeläinen — Essays on Public Procurem
+ ent
+DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Jan 
+ Jääskeläinen (Aalto University)\nTitle: Essays on Public Procurement\n\
+ nTime not published yet — all-day placeholder.\n\nEvent page: https://ww
+ w.helsinkigse.fi/events/jan-jaaskelainen-defence\n\nSpeaker on Scholar: ht
+ tps://scholar.google.com/scholar?q=author%3A%22Jan+J%C3%A4%C3%A4skel%C3%A4
+ inen%22
+URL:https://www.helsinkigse.fi/events/jan-jaaskelainen-defence
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250321-kimmo-palanne-defence@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250321
+DTEND;VALUE=DATE:20250322
+SUMMARY:Doctoral Defence: Kimmo Palanne — Essays on Transportation and th
+ e Environment
+DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Kimm
+ o Palanne (Aalto University)\nTitle: Essays on Transportation and the Envi
+ ronment\n\nTime not published yet — all-day placeholder.\n\nEvent page: 
+ https://www.helsinkigse.fi/events/kimmo-palanne-defence\n\nSpeaker on Scho
+ lar: https://scholar.google.com/scholar?q=author%3A%22Kimmo+Palanne%22
+URL:https://www.helsinkigse.fi/events/kimmo-palanne-defence
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250411-amin-mohazab-rahimzadeh-defence@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250411
+DTEND;VALUE=DATE:20250412
+SUMMARY:Doctoral Defence: Amin Mohazab Rahimzadeh — Essays on Blockchain 
+ Technology and Digital Economics
+DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Amin
+  Mohazab Rahimzadeh (Aalto University)\nTitle: Essays on Blockchain Techno
+ logy and Digital Economics\n\nTime not published yet — all-day placehold
+ er.\n\nEvent page: https://www.helsinkigse.fi/events/amin-mohazab-rahimzad
+ eh-defence\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=aut
+ hor%3A%22Amin+Mohazab+Rahimzadeh%22
+URL:https://www.helsinkigse.fi/events/amin-mohazab-rahimzadeh-defence
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250523-petteri-palonen-defence@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250523
+DTEND;VALUE=DATE:20250524
+SUMMARY:Doctoral Defence: Petteri Palonen — Non-compliance and avoidance
+DESCRIPTION:Series: University of Helsinki\nType: Doctoral Defence\nSpeaker
+ : Petteri Palonen (University of Helsinki)\nTitle: Non-compliance and avoi
+ dance\n\nTime not published yet — all-day placeholder.\n\nEvent page: ht
+ tps://www.helsinkigse.fi/events/petteri-palonen-defence\n\nSpeaker on Scho
+ lar: https://scholar.google.com/scholar?q=author%3A%22Petteri+Palonen%22
+URL:https://www.helsinkigse.fi/events/petteri-palonen-defence
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250530-juho-koistinen-defence@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250530
+DTEND;VALUE=DATE:20250531
+SUMMARY:Doctoral Defence: Juho Koistinen — Essays in macroeconometrics un
+ der noninvertibility
+DESCRIPTION:Series: University of Helsinki\nType: Doctoral Defence\nSpeaker
+ : Juho Koistinen (University of Helsinki)\nTitle: Essays in macroeconometr
+ ics under noninvertibility\n\nTime not published yet — all-day placehold
+ er.\n\nEvent page: https://www.helsinkigse.fi/events/juho-koistinen-defenc
+ e\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22
+ Juho+Koistinen%22
+URL:https://www.helsinkigse.fi/events/juho-koistinen-defence
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250624-arttu-ahonen-defence@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250624
+DTEND;VALUE=DATE:20250625
+SUMMARY:Doctoral Defence: Arttu Ahonen — Essays on climate policy and tra
+ nsportation
+DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Artt
+ u Ahonen (Aalto University)\nTitle: Essays on climate policy and transport
+ ation\n\nTime not published yet — all-day placeholder.\n\nEvent page: ht
+ tps://www.helsinkigse.fi/events/arttu-ahonen-defence\n\nSpeaker on Scholar
+ : https://scholar.google.com/scholar?q=author%3A%22Arttu+Ahonen%22
+URL:https://www.helsinkigse.fi/events/arttu-ahonen-defence
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250820-marc-riudavets-barcons-defence@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250820
+DTEND;VALUE=DATE:20250821
+SUMMARY:Doctoral Defence: Marc Riudavets Barcons — Essays on Economics of
+  Education and the Labor Market
+DESCRIPTION:Series: University of Helsinki\nType: Doctoral Defence\nSpeaker
+ : Marc Riudavets Barcons (University of Helsinki)\nTitle: Essays on Econom
+ ics of Education and the Labor Market\n\nTime not published yet — all-da
+ y placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/marc-riuda
+ vets-barcons-defence\n\nSpeaker on Scholar: https://scholar.google.com/sch
+ olar?q=author%3A%22Marc+Riudavets+Barcons%22
+URL:https://www.helsinkigse.fi/events/marc-riudavets-barcons-defence
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250919-tuomas-markkula-defence@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250919
+DTEND;VALUE=DATE:20250920
+SUMMARY:Doctoral Defence: Tuomas Markkula — Industrial Organization Studi
+ es on Mixed Health Care Markets and…
+DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Tuom
+ as Markkula (Aalto University)\nTitle: Industrial Organization Studies on 
+ Mixed Health Care Markets and Waiting Times\n\nTime not published yet — 
+ all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/tuom
+ as-markkula-defence\n\nSpeaker on Scholar: https://scholar.google.com/scho
+ lar?q=author%3A%22Tuomas+Markkula%22
+URL:https://www.helsinkigse.fi/events/tuomas-markkula-defence
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250922-marika-viertola-defence@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20250923
+SUMMARY:Doctoral Defence: Marika Viertola — Essays on corporate income ta
+ xation and multinational enterprises
+DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Mari
+ ka Viertola (Aalto University)\nTitle: Essays on corporate income taxation
+  and multinational enterprises\n\nTime not published yet — all-day place
+ holder.\n\nEvent page: https://www.helsinkigse.fi/events/marika-viertola-d
+ efence\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%
+ 3A%22Marika+Viertola%22
+URL:https://www.helsinkigse.fi/events/marika-viertola-defence
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251003-keyan-liu@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251003
+DTEND;VALUE=DATE:20251004
+SUMMARY:Doctoral Defence: Keyan Liu — Essays on Non-Gaussian Structural V
+ ector Autoregressions
+DESCRIPTION:Series: University of Helsinki\nType: Doctoral Defence\nSpeaker
+ : Keyan Liu (University of Helsinki)\nTitle: Essays on Non-Gaussian Struct
+ ural Vector Autoregressions\n\nTime not published yet — all-day placehol
+ der.\n\nEvent page: https://www.helsinkigse.fi/events/keyan-liu\n\nSpeaker
+  on Scholar: https://scholar.google.com/scholar?q=author%3A%22Keyan+Liu%22
+URL:https://www.helsinkigse.fi/events/keyan-liu
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251023-louise-hohenthal-defence@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251023
+DTEND;VALUE=DATE:20251024
+SUMMARY:Doctoral Defence: Louise Hohenthal — Studies on Macroeconomic Eff
+ ects of Immigration
+DESCRIPTION:Series: University of Helsinki\nType: Doctoral Defence\nSpeaker
+ : Louise Hohenthal (University of Helsinki)\nTitle: Studies on Macroeconom
+ ic Effects of Immigration\n\nTime not published yet — all-day placeholde
+ r.\n\nEvent page: https://www.helsinkigse.fi/events/louise-hohenthal-defen
+ ce\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%2
+ 2Louise+Hohenthal%22
+URL:https://www.helsinkigse.fi/events/louise-hohenthal-defence
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251114-jussipekka-salo-defence@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251115
+SUMMARY:Doctoral Defence: Jussipekka Salo — Essays on Beliefs\, Incentive
+ s\, and Financial Behavior
+DESCRIPTION:Series: University of Helsinki\nType: Doctoral Defence\nSpeaker
+ : Jussipekka Salo (University of Helsinki)\nTitle: Essays on Beliefs\, Inc
+ entives\, and Financial Behavior\n\nTime not published yet — all-day pla
+ ceholder.\n\nEvent page: https://www.helsinkigse.fi/events/jussipekka-salo
+ -defence\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=autho
+ r%3A%22Jussipekka+Salo%22
+URL:https://www.helsinkigse.fi/events/jussipekka-salo-defence
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251126-joosua-virtanen-defence@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251126
+DTEND;VALUE=DATE:20251127
+SUMMARY:Doctoral Defence: Joosua Virtanen — Essays on microeconomic predi
+ ction problems: with applications to…
+DESCRIPTION:Series: Hanken\nType: Doctoral Defence\nSpeaker: Joosua Virtane
+ n (Hanken School of Economics)\nTitle: Essays on microeconomic prediction 
+ problems: with applications to firm growth and public procurement\n\nTime 
+ not published yet — all-day placeholder.\n\nEvent page: https://www.hels
+ inkigse.fi/events/joosua-virtanen-defence\n\nSpeaker on Scholar: https://s
+ cholar.google.com/scholar?q=author%3A%22Joosua+Virtanen%22
+URL:https://www.helsinkigse.fi/events/joosua-virtanen-defence
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251127-oliver-snellman-defence@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251127
+DTEND;VALUE=DATE:20251128
+SUMMARY:Doctoral Defence: Oliver Snellman — Transformer Network for Macro
+ econometric Analysis
+DESCRIPTION:Series: University of Helsinki\nType: Doctoral Defence\nSpeaker
+ : Oliver Snellman (University of Helsinki)\nTitle: Transformer Network for
+  Macroeconometric Analysis\n\nTime not published yet — all-day placehold
+ er.\n\nEvent page: https://www.helsinkigse.fi/events/oliver-snellman-defen
+ ce\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%2
+ 2Oliver+Snellman%22
+URL:https://www.helsinkigse.fi/events/oliver-snellman-defence
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251204-heikki-korpela-defence@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251204
+DTEND;VALUE=DATE:20251205
+SUMMARY:Doctoral Defence: Heikki Korpela — Essays in Economics of Unemplo
+ yment
+DESCRIPTION:Series: University of Helsinki\nType: Doctoral Defence\nSpeaker
+ : Heikki Korpela (University of Helsinki)\nTitle: Essays in Economics of U
+ nemployment\n\nTime not published yet — all-day placeholder.\n\nEvent pa
+ ge: https://www.helsinkigse.fi/events/heikki-korpela-defence\n\nSpeaker on
+  Scholar: https://scholar.google.com/scholar?q=author%3A%22Heikki+Korpela%
+ 22
+URL:https://www.helsinkigse.fi/events/heikki-korpela-defence
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260123-peter-elmgren-defence@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY:Doctoral Defence: Peter Elmgren — Essays on Structural Change wit
+ h Labour Market Frictions
+DESCRIPTION:Series: University of Helsinki\nType: Doctoral Defence\nSpeaker
+ : Peter Elmgren (University of Helsinki)\nTitle: Essays on Structural Chan
+ ge with Labour Market Frictions\n\nTime not published yet — all-day plac
+ eholder.\n\nEvent page: https://www.helsinkigse.fi/events/peter-elmgren-de
+ fence\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3
+ A%22Peter+Elmgren%22
+URL:https://www.helsinkigse.fi/events/peter-elmgren-defence
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260410-ville-voutilainen-defence@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:Doctoral Defence: Ville Voutilainen — Essays on Central Banking w
+ ith Microdata
+DESCRIPTION:Series: University of Helsinki\nType: Doctoral Defence\nSpeaker
+ : Ville Voutilainen\nTitle: Essays on Central Banking with Microdata\n\nTi
+ me not published yet — all-day placeholder.\n\nEvent page: https://www.h
+ elsinkigse.fi/events/ville-voutilainen-defence\n\nSpeaker on Scholar: http
+ s://scholar.google.com/scholar?q=author%3A%22Ville+Voutilainen%22
+URL:https://www.helsinkigse.fi/events/ville-voutilainen-defence
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260528-arttu-kauhanen3@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:Doctoral Defence: Arttu Kauhanen — The Lifecycle of Inequality: C
+ hildhood Neighborhoods\, Redistribution…
+DESCRIPTION:Series: University of Helsinki\nType: Doctoral Defence\nSpeaker
+ : Arttu Kauhanen (University of Helsinki)\nTitle: The Lifecycle of Inequal
+ ity: Childhood Neighborhoods\, Redistribution\, and Lifetime Pensions in F
+ inland and …\n\nTime not published yet — all-day placeholder.\n\nEvent
+  page: https://www.helsinkigse.fi/events/arttu-kauhanen3\n\nSpeaker on Sch
+ olar: https://scholar.google.com/scholar?q=author%3A%22Arttu+Kauhanen%22
+URL:https://www.helsinkigse.fi/events/arttu-kauhanen3
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260605-mikael-makimattila-defence@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Doctoral Defence: Mikael Mäkimattila — Designing Market Institut
+ ions
+DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Mika
+ el Mäkimattila (Aalto University)\nTitle: Designing Market Institutions\n
+ \nTime not published yet — all-day placeholder.\n\nEvent page: https://w
+ ww.helsinkigse.fi/events/mikael-makimattila-defence\n\nSpeaker on Scholar:
+  https://scholar.google.com/scholar?q=author%3A%22Mikael+M%C3%A4kimattila%
+ 22
+URL:https://www.helsinkigse.fi/events/mikael-makimattila-defence
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260623-tuomas-nurminen@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+SUMMARY:Doctoral Defence: Tuomas Nurminen — Essays on Behavioral and Expe
+ rimental Economics.
+DESCRIPTION:Series: Hanken\nType: Doctoral Defence\nSpeaker: Tuomas Nurmine
+ n (Hanken)\nTitle: Essays on Behavioral and Experimental Economics.\n\nTim
+ e not published yet — all-day placeholder.\n\nEvent page: https://www.he
+ lsinkigse.fi/events/tuomas-nurminen\n\nSpeaker on Scholar: https://scholar
+ .google.com/scholar?q=author%3A%22Tuomas+Nurminen%22
+URL:https://www.helsinkigse.fi/events/tuomas-nurminen
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260710-milla-hagg-defence@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Doctoral Defence: Milla Hägg — Essays on Industrial Organization
+  and Health Economics
+DESCRIPTION:Series: University of Helsinki\nType: Doctoral Defence\nSpeaker
+ : Milla Hägg (University of Helsinki)\nTitle: Essays on Industrial Organi
+ zation and Health Economics\n\nTime not published yet — all-day placehol
+ der.\n\nEvent page: https://www.helsinkigse.fi/events/milla-hagg-defence\n
+ \nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Mil
+ la+H%C3%A4gg%22
+URL:https://www.helsinkigse.fi/events/milla-hagg-defence
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:hgse-20260821-antto-jokelainen4@helsinkigse.fi
-DTSTAMP:20260811T043412Z
+DTSTAMP:20260811T080255Z
 DTSTART;TZID=Europe/Helsinki:20260821T120000
 DTEND;TZID=Europe/Helsinki:20260821T150000
 SUMMARY:Doctoral Defence: Antto Jokelainen — Essays on Competition and Re
@@ -48,7 +431,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260821-jerry-montonen4@helsinkigse.fi
-DTSTAMP:20260811T043412Z
+DTSTAMP:20260811T080255Z
 DTSTART;TZID=Europe/Helsinki:20260821T120000
 DTEND;TZID=Europe/Helsinki:20260821T150000
 SUMMARY:Doctoral Defence: Jerry Montonen — Essays on the economics of soc

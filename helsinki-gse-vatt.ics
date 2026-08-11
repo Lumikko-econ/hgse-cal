@@ -1,0 +1,947 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hgse-calendar//helsinkigse.fi scrape//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HGSE — VATT
+NAME:HGSE — VATT
+X-APPLE-CALENDAR-COLOR:#43A047
+COLOR:#43A047
+X-WR-TIMEZONE:Europe/Helsinki
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Helsinki
+X-LIC-LOCATION:Europe/Helsinki
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+TZNAME:EEST
+DTSTART:19700329T030000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:EET
+DTSTART:19701025T040000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:hgse-20250109-miriam-wust@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250109
+DTEND;VALUE=DATE:20250110
+SUMMARY:VATT: Miriam Wüst — Household Responses to Unconditional Child B
+ enefits / Any questions…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Miriam Wüst (University 
+ of Copenhagen)\nTitle: Household Responses to Unconditional Child Benefits
+  / Any questions regarding VATT seminars can be sent by email to events (a
+ t) vatt.fi\n\nTime not published yet — all-day placeholder.\n\nEvent pag
+ e: https://www.helsinkigse.fi/events/miriam-wust\n\nPaper on Scholar: http
+ s://scholar.google.com/scholar?q=%22Household+Responses+to+Unconditional+C
+ hild+Benefits+%2F+Any+questions+regarding+VATT+seminars+can+be+sent+by+ema
+ il+to+events+%28at%29+vatt.fi%22\n\nSpeaker on Scholar: https://scholar.go
+ ogle.com/scholar?q=author%3A%22Miriam+W%C3%BCst%22
+URL:https://www.helsinkigse.fi/events/miriam-wust
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250110-joseph-emmens@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250110
+DTEND;VALUE=DATE:20250111
+SUMMARY:VATT: Joseph Emmens — Collaborative Innovation in the Knowledge S
+ pace
+DESCRIPTION:Series: VATT\nType: Job Talk\nSpeaker: Joseph Emmens (Universit
+ at Autònoma de Barcelona and Barcelona School of Economics)\nTitle: Colla
+ borative Innovation in the Knowledge Space\n\nTime not published yet — a
+ ll-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/josep
+ h-emmens\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Coll
+ aborative+Innovation+in+the+Knowledge+Space%22\n\nSpeaker on Scholar: http
+ s://scholar.google.com/scholar?q=author%3A%22Joseph+Emmens%22
+URL:https://www.helsinkigse.fi/events/joseph-emmens
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250113-jordan-bisset@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250113
+DTEND;VALUE=DATE:20250114
+SUMMARY:VATT: Jordan Bisset — Intellectual Mobility Frictions
+DESCRIPTION:Series: VATT\nType: Job Talk\nSpeaker: Jordan Bisset (Bocconi U
+ niversity)\nTitle: Intellectual Mobility Frictions\n\nTime not published y
+ et — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/even
+ ts/jordan-bisset\n\nPaper on Scholar: https://scholar.google.com/scholar?q
+ =%22Intellectual+Mobility+Frictions%22\n\nSpeaker on Scholar: https://scho
+ lar.google.com/scholar?q=author%3A%22Jordan+Bisset%22
+URL:https://www.helsinkigse.fi/events/jordan-bisset
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250113-marika-viertola@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250113
+DTEND;VALUE=DATE:20250114
+SUMMARY:VATT: Marika Viertola — TBA
+DESCRIPTION:Series: VATT\nType: Job Talk\nSpeaker: Marika Viertola (VATT)\n
+ Title: TBA\n\nTime not published yet — all-day placeholder.\n\nEvent pag
+ e: https://www.helsinkigse.fi/events/marika-viertola\n\nPaper on Scholar: 
+ https://scholar.google.com/scholar?q=%22TBA%22\n\nSpeaker on Scholar: http
+ s://scholar.google.com/scholar?q=author%3A%22Marika+Viertola%22
+URL:https://www.helsinkigse.fi/events/marika-viertola
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250115-johannes-gessner@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+SUMMARY:VATT: Johannes Gessner — Shifting Gears: Environmental Regulation
+  in the Car Industry and…
+DESCRIPTION:Series: VATT\nType: Job Talk\nSpeaker: Johannes Gessner (Univer
+ sity of Mannheim)\nTitle: Shifting Gears: Environmental Regulation in the 
+ Car Industry and Technological Change Among Suppliers\n\nTime not publishe
+ d yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/e
+ vents/johannes-gessner\n\nPaper on Scholar: https://scholar.google.com/sch
+ olar?q=%22Shifting+Gears%3A+Environmental+Regulation+in+the+Car+Industry+a
+ nd+Technological+Change+Among+Suppliers%22\n\nSpeaker on Scholar: https://
+ scholar.google.com/scholar?q=author%3A%22Johannes+Gessner%22
+URL:https://www.helsinkigse.fi/events/johannes-gessner
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250115-maren-hedne@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+SUMMARY:VATT: Maren Hedne — Is green tehcnology skill biased?
+DESCRIPTION:Series: VATT\nType: Job Talk\nSpeaker: Maren Hedne (University 
+ of Oslo)\nTitle: Is green tehcnology skill biased?\n\nTime not published y
+ et — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/even
+ ts/maren-hedne\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%
+ 22Is+green+tehcnology+skill+biased%3F%22\n\nSpeaker on Scholar: https://sc
+ holar.google.com/scholar?q=author%3A%22Maren+Hedne%22
+URL:https://www.helsinkigse.fi/events/maren-hedne
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250128-talouspolitiikan-arviointineuvoston-raportin-julkistus-ja
+ -seminaari@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250128
+DTEND;VALUE=DATE:20250129
+SUMMARY:VATT: Talouspolitiikan arviointineuvoston raportin julkistus ja sem
+ inaari
+DESCRIPTION:Series: VATT\nSpeaker: Talouspolitiikan arviointineuvoston rapo
+ rtin julkistus ja seminaari\nTitle: TBA\n\nTime not published yet — all-
+ day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/talouspo
+ litiikan-arviointineuvoston-raportin-julkistus-ja-seminaari
+URL:https://www.helsinkigse.fi/events/talouspolitiikan-arviointineuvoston-r
+ aportin-julkistus-ja-seminaari
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250130-terhi-ravaska2@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250130
+DTEND;VALUE=DATE:20250131
+SUMMARY:VATT: Terhi Ravaska — Wage garnishment and negative bunching
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Terhi Ravaska (Tampere Un
+ iversity)\nTitle: Wage garnishment and negative bunching\n\nTime not publi
+ shed yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.f
+ i/events/terhi-ravaska2\n\nPaper on Scholar: https://scholar.google.com/sc
+ holar?q=%22Wage+garnishment+and+negative+bunching%22\n\nSpeaker on Scholar
+ : https://scholar.google.com/scholar?q=author%3A%22Terhi+Ravaska%22
+URL:https://www.helsinkigse.fi/events/terhi-ravaska2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250213-moritz-mendel2@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250213
+DTEND;VALUE=DATE:20250214
+SUMMARY:VATT: Moritz Mendel — Nonstandard Education Careers and Inequalit
+ y
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Moritz Mendel (Aalto Univ
+ ersity)\nTitle: Nonstandard Education Careers and Inequality\n\nTime not p
+ ublished yet — all-day placeholder.\n\nEvent page: https://www.helsinkig
+ se.fi/events/moritz-mendel2\n\nPaper on Scholar: https://scholar.google.co
+ m/scholar?q=%22Nonstandard+Education+Careers+and+Inequality%22\n\nSpeaker 
+ on Scholar: https://scholar.google.com/scholar?q=author%3A%22Moritz+Mendel
+ %22
+URL:https://www.helsinkigse.fi/events/moritz-mendel2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250227-ragnhild-schreiner@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250227
+DTEND;VALUE=DATE:20250228
+SUMMARY:VATT: Ragnhild Schreiner — TBA
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Ragnhild Schreiner (Unive
+ rsity of Oslo)\nTitle: TBA\n\nTime not published yet — all-day placehold
+ er.\n\nEvent page: https://www.helsinkigse.fi/events/ragnhild-schreiner\n\
+ nPaper on Scholar: https://scholar.google.com/scholar?q=%22TBA%22\n\nSpeak
+ er on Scholar: https://scholar.google.com/scholar?q=author%3A%22Ragnhild+S
+ chreiner%22
+URL:https://www.helsinkigse.fi/events/ragnhild-schreiner
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250306-maarit-olkkola2@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250306
+DTEND;VALUE=DATE:20250307
+SUMMARY:VATT: Maarit Olkkola — TBA
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Maarit Olkkola (VATT)\nTi
+ tle: TBA\n\nTime not published yet — all-day placeholder.\n\nEvent page:
+  https://www.helsinkigse.fi/events/maarit-olkkola2\n\nPaper on Scholar: ht
+ tps://scholar.google.com/scholar?q=%22TBA%22\n\nSpeaker on Scholar: https:
+ //scholar.google.com/scholar?q=author%3A%22Maarit+Olkkola%22
+URL:https://www.helsinkigse.fi/events/maarit-olkkola2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250313-erik-gronqvist@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250313
+DTEND;VALUE=DATE:20250314
+SUMMARY:VATT: Erik Grönqvist — Sick of becoming a parent: The child pena
+ lty on mental ill-health…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Erik Grönqvist (Uppsala 
+ University)\nTitle: Sick of becoming a parent: The child penalty on mental
+  ill-health (with Erica Lindahl and Elisavet Iliadi)\n\nTime not published
+  yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/ev
+ ents/erik-gronqvist\n\nPaper on Scholar: https://scholar.google.com/schola
+ r?q=%22Sick+of+becoming+a+parent%3A+The+child+penalty+on+mental+ill-health
+ +%28with+Erica+Lindahl+and+Elisavet+Iliadi%29%22\n\nSpeaker on Scholar: ht
+ tps://scholar.google.com/scholar?q=author%3A%22Erik+Gr%C3%B6nqvist%22
+URL:https://www.helsinkigse.fi/events/erik-gronqvist
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250320-albert-duodu2@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250320
+DTEND;VALUE=DATE:20250321
+SUMMARY:VATT: Albert Duodu — Economy and the Environment - Firm-level res
+ ponses to energy price…
+DESCRIPTION:Series: VATT\nSpeaker: Albert Duodu (Aalto University)\nTitle: 
+ Economy and the Environment - Firm-level responses to energy price shocks\
+ n\nTime not published yet — all-day placeholder.\n\nEvent page: https://
+ www.helsinkigse.fi/events/albert-duodu2\n\nPaper on Scholar: https://schol
+ ar.google.com/scholar?q=%22Economy+and+the+Environment+-+Firm-level+respon
+ ses+to+energy+price+shocks%22\n\nSpeaker on Scholar: https://scholar.googl
+ e.com/scholar?q=author%3A%22Albert+Duodu%22
+URL:https://www.helsinkigse.fi/events/albert-duodu2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250327-markku-siikanen2@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250327
+DTEND;VALUE=DATE:20250328
+SUMMARY:VATT: Markku Siikanen — Free Entry and Social Inefficiency in Reg
+ ulated Pharmacy Markets
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Markku Siikanen (VATT)\nT
+ itle: Free Entry and Social Inefficiency in Regulated Pharmacy Markets\n\n
+ Time not published yet — all-day placeholder.\n\nEvent page: https://www
+ .helsinkigse.fi/events/markku-siikanen2\n\nPaper on Scholar: https://schol
+ ar.google.com/scholar?q=%22Free+Entry+and+Social+Inefficiency+in+Regulated
+ +Pharmacy+Markets%22\n\nSpeaker on Scholar: https://scholar.google.com/sch
+ olar?q=author%3A%22Markku+Siikanen%22
+URL:https://www.helsinkigse.fi/events/markku-siikanen2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250403-maria-sauval@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250403
+DTEND;VALUE=DATE:20250404
+SUMMARY:VATT: Maria Sauval — The Long-Term Effects of Pre-Kindergarten on
+  Teen Births
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Maria Sauval (Aalto Unive
+ rsity)\nTitle: The Long-Term Effects of Pre-Kindergarten on Teen Births\n\
+ nTime not published yet — all-day placeholder.\n\nEvent page: https://ww
+ w.helsinkigse.fi/events/maria-sauval\n\nPaper on Scholar: https://scholar.
+ google.com/scholar?q=%22The+Long-Term+Effects+of+Pre-Kindergarten+on+Teen+
+ Births%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=auth
+ or%3A%22Maria+Sauval%22
+URL:https://www.helsinkigse.fi/events/maria-sauval
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250410-matti-sarvimaki2@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250410
+DTEND;VALUE=DATE:20250411
+SUMMARY:VATT: Matti Sarvimäki — TBA
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Matti Sarvimäki (Aalto U
+ niversity)\nTitle: TBA\n\nTime not published yet — all-day placeholder.\
+ n\nEvent page: https://www.helsinkigse.fi/events/matti-sarvimaki2\n\nPaper
+  on Scholar: https://scholar.google.com/scholar?q=%22TBA%22\n\nSpeaker on 
+ Scholar: https://scholar.google.com/scholar?q=author%3A%22Matti+Sarvim%C3%
+ A4ki%22
+URL:https://www.helsinkigse.fi/events/matti-sarvimaki2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250424-torsten-santavirta2@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250424
+DTEND;VALUE=DATE:20250425
+SUMMARY:VATT: Torsten Santavirta — Soviet Industrialization and American 
+ Skilled Labor: Transfer of…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Torsten Santavirta (Unive
+ rsity of Helsinki)\nTitle: Soviet Industrialization and American Skilled L
+ abor: Transfer of Technologies and Productivity (with Andrei Markevich)\n\
+ nTime not published yet — all-day placeholder.\n\nEvent page: https://ww
+ w.helsinkigse.fi/events/torsten-santavirta2\n\nPaper on Scholar: https://s
+ cholar.google.com/scholar?q=%22Soviet+Industrialization+and+American+Skill
+ ed+Labor%3A+Transfer+of+Technologies+and+Productivity+%28with+Andrei+Marke
+ vich%29%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=aut
+ hor%3A%22Torsten+Santavirta%22
+URL:https://www.helsinkigse.fi/events/torsten-santavirta2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250508-jens-wikstrom@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250508
+DTEND;VALUE=DATE:20250509
+SUMMARY:VATT: Jens Wikström — Should eldercare be subsidized? Theory and
+  evidence from Sweden (with…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Jens Wikström (Gothenbur
+ g University)\nTitle: Should eldercare be subsidized? Theory and evidence 
+ from Sweden (with Patrizia Massner)\n\nTime not published yet — all-day 
+ placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/jens-wikstro
+ m\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Should+elde
+ rcare+be+subsidized%3F+Theory+and+evidence+from+Sweden+%28with+Patrizia+Ma
+ ssner%29%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=au
+ thor%3A%22Jens+Wikstr%C3%B6m%22
+URL:https://www.helsinkigse.fi/events/jens-wikstrom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250515-sofia-hernnas2@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250515
+DTEND;VALUE=DATE:20250516
+SUMMARY:VATT: Sofia Hernnäs — Fiber Internet and Labor Demand (with Beng
+ t Söderlund)
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Sofia Hernnäs (Stockholm
+  School of Economics)\nTitle: Fiber Internet and Labor Demand (with Bengt 
+ Söderlund)\n\nTime not published yet — all-day placeholder.\n\nEvent pa
+ ge: https://www.helsinkigse.fi/events/sofia-hernnas2\n\nPaper on Scholar: 
+ https://scholar.google.com/scholar?q=%22Fiber+Internet+and+Labor+Demand+%2
+ 8with+Bengt+S%C3%B6derlund%29%22\n\nSpeaker on Scholar: https://scholar.go
+ ogle.com/scholar?q=author%3A%22Sofia+Hernn%C3%A4s%22
+URL:https://www.helsinkigse.fi/events/sofia-hernnas2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250522-cloe-garnache@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250522
+DTEND;VALUE=DATE:20250523
+SUMMARY:VATT: Cloé Garnache — Are Asset Prices Sticky? (with Martin Schm
+ alz and Dag Einar…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Cloé Garnache (Oslo Metr
+ opolitan University)\nTitle: Are Asset Prices Sticky? (with Martin Schmalz
+  and Dag Einar Sommervoll)\n\nTime not published yet — all-day placehold
+ er.\n\nEvent page: https://www.helsinkigse.fi/events/cloe-garnache\n\nPape
+ r on Scholar: https://scholar.google.com/scholar?q=%22Are+Asset+Prices+Sti
+ cky%3F+%28with+Martin+Schmalz+and+Dag+Einar+Sommervoll%29%22\n\nSpeaker on
+  Scholar: https://scholar.google.com/scholar?q=author%3A%22Clo%C3%A9+Garna
+ che%22
+URL:https://www.helsinkigse.fi/events/cloe-garnache
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250605-alejandro-zentner@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250605
+DTEND;VALUE=DATE:20250606
+SUMMARY:VATT: Alejandro Zentner — Frictions in Recovering Unclaimed Prope
+ rty: Evidence from a…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Alejandro Zentner (The Un
+ iversity of Texas at Dallas - Naveen Jindal School of Management)\nTitle: 
+ Frictions in Recovering Unclaimed Property: Evidence from a Large-Scale Na
+ tural Field Experiment (with Justin Holz)\n\nTime not published yet — al
+ l-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/alejan
+ dro-zentner\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22F
+ rictions+in+Recovering+Unclaimed+Property%3A+Evidence+from+a+Large-Scale+N
+ atural+Field+Experiment+%28with+Justin+Holz%29%22\n\nSpeaker on Scholar: h
+ ttps://scholar.google.com/scholar?q=author%3A%22Alejandro+Zentner%22
+URL:https://www.helsinkigse.fi/events/alejandro-zentner
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250619-cecilia-blomster-vatt@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250619
+DTEND;VALUE=DATE:20250620
+SUMMARY:VATT: Cecilia Blomster — Graduating in a Recession\, Education an
+ d Family Formation (with…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Cecilia Blomster (Hanken)
+ \nTitle: Graduating in a Recession\, Education and Family Formation (with 
+ Stefano Lombardi)\n\nTime not published yet — all-day placeholder.\n\nEv
+ ent page: https://www.helsinkigse.fi/events/cecilia-blomster-vatt\n\nPaper
+  on Scholar: https://scholar.google.com/scholar?q=%22Graduating+in+a+Reces
+ sion%2C+Education+and+Family+Formation+%28with+Stefano+Lombardi%29%22\n\nS
+ peaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Cecili
+ a+Blomster%22
+URL:https://www.helsinkigse.fi/events/cecilia-blomster-vatt
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250911-miko-lepisto@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250911
+DTEND;VALUE=DATE:20250912
+SUMMARY:VATT: Miko Lepistö — Waiting Times and Refugee Integration (with
+  Hanna Pesola and Tuomo…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Miko Lepistö (PSE)\nTitl
+ e: Waiting Times and Refugee Integration (with Hanna Pesola and Tuomo Virk
+ ola)\n\nTime not published yet — all-day placeholder.\n\nEvent page: htt
+ ps://www.helsinkigse.fi/events/miko-lepisto\n\nPaper on Scholar: https://s
+ cholar.google.com/scholar?q=%22Waiting+Times+and+Refugee+Integration+%28wi
+ th+Hanna+Pesola+and+Tuomo+Virkola%29%22\n\nSpeaker on Scholar: https://sch
+ olar.google.com/scholar?q=author%3A%22Miko+Lepist%C3%B6%22
+URL:https://www.helsinkigse.fi/events/miko-lepisto
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250925-teemu-lyytikainen1@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250925
+DTEND;VALUE=DATE:20250926
+SUMMARY:VATT: Teemu Lyytikäinen — Nominal Loss Aversion in the Housing M
+ arket and Household Mobility
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Teemu Lyytikäinen (VATT)
+ \nTitle: Nominal Loss Aversion in the Housing Market and Household Mobilit
+ y\n\nTime not published yet — all-day placeholder.\n\nEvent page: https:
+ //www.helsinkigse.fi/events/teemu-lyytikainen1\n\nPaper on Scholar: https:
+ //scholar.google.com/scholar?q=%22Nominal+Loss+Aversion+in+the+Housing+Mar
+ ket+and+Household+Mobility%22\n\nSpeaker on Scholar: https://scholar.googl
+ e.com/scholar?q=author%3A%22Teemu+Lyytik%C3%A4inen%22
+URL:https://www.helsinkigse.fi/events/teemu-lyytikainen1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251002-tuomo-virkola1@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251002
+DTEND;VALUE=DATE:20251003
+SUMMARY:VATT: Tuomo Virkola — Worker Mobility Restrictions
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Tuomo Virkola (VATT)\nTit
+ le: Worker Mobility Restrictions\n\nTime not published yet — all-day pla
+ ceholder.\n\nEvent page: https://www.helsinkigse.fi/events/tuomo-virkola1\
+ n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Worker+Mobili
+ ty+Restrictions%22\n\nSpeaker on Scholar: https://scholar.google.com/schol
+ ar?q=author%3A%22Tuomo+Virkola%22
+URL:https://www.helsinkigse.fi/events/tuomo-virkola1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251030-max-toikka1@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251030
+DTEND;VALUE=DATE:20251031
+SUMMARY:VATT: Max Toikka — Labor Market Effects of Public-Private Sector 
+ Competition in Health…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Max Toikka (Aalto Univers
+ ity)\nTitle: Labor Market Effects of Public-Private Sector Competition in 
+ Health and Social Services\n\nTime not published yet — all-day placehold
+ er.\n\nEvent page: https://www.helsinkigse.fi/events/max-toikka1\n\nPaper 
+ on Scholar: https://scholar.google.com/scholar?q=%22Labor+Market+Effects+o
+ f+Public-Private+Sector+Competition+in+Health+and+Social+Services%22\n\nSp
+ eaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Max+Toi
+ kka%22
+URL:https://www.helsinkigse.fi/events/max-toikka1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251106-arttu-kauhanen2@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251106
+DTEND;VALUE=DATE:20251107
+SUMMARY:VATT: Arttu Kauhanen — Is Redistribution Fair? The Effect of Taxe
+ s and Transfers on the…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Arttu Kauhanen (Universit
+ y of Helsinki)\nTitle: Is Redistribution Fair? The Effect of Taxes and Tra
+ nsfers on the Equality of Opportunity (with Markus Jäntti and Jukka Pirtt
+ ila)\n\nTime not published yet — all-day placeholder.\n\nEvent page: htt
+ ps://www.helsinkigse.fi/events/arttu-kauhanen2\n\nPaper on Scholar: https:
+ //scholar.google.com/scholar?q=%22Is+Redistribution+Fair%3F+The+Effect+of+
+ Taxes+and+Transfers+on+the+Equality+of+Opportunity+%28with+Markus+J%C3%A4n
+ tti+and+Jukka+Pirttila%29%22\n\nSpeaker on Scholar: https://scholar.google
+ .com/scholar?q=author%3A%22Arttu+Kauhanen%22
+URL:https://www.helsinkigse.fi/events/arttu-kauhanen2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251113-miri-stryjan3@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251113
+DTEND;VALUE=DATE:20251114
+SUMMARY:VATT: Miri Stryjan — Local Institutions and Leader Incentives: Th
+ e Political Economy of…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Miri Stryjan (Aalto Unive
+ rsity)\nTitle: Local Institutions and Leader Incentives: The Political Eco
+ nomy of Rwanda’s Fertility Transition\n\nTime not published yet — all-
+ day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/miri-str
+ yjan3\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Local+I
+ nstitutions+and+Leader+Incentives%3A+The+Political+Economy+of+Rwanda%27s+F
+ ertility+Transition%22\n\nSpeaker on Scholar: https://scholar.google.com/s
+ cholar?q=author%3A%22Miri+Stryjan%22
+URL:https://www.helsinkigse.fi/events/miri-stryjan3
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251119-giacomo-lo-conte@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251119
+DTEND;VALUE=DATE:20251120
+SUMMARY:VATT: Giacomo Lo Conte — Exposure to innovation and labor market 
+ dynamics: Evidence from the…
+DESCRIPTION:Series: VATT\nType: Job Talk\nSpeaker: Giacomo Lo Conte (Univer
+ sity College Dublin)\nTitle: Exposure to innovation and labor market dynam
+ ics: Evidence from the German manufacturing sectors\n\nTime not published 
+ yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/eve
+ nts/giacomo-lo-conte\n\nPaper on Scholar: https://scholar.google.com/schol
+ ar?q=%22Exposure+to+innovation+and+labor+market+dynamics%3A+Evidence+from+
+ the+German+manufacturing+sectors%22\n\nSpeaker on Scholar: https://scholar
+ .google.com/scholar?q=author%3A%22Giacomo+Lo+Conte%22
+URL:https://www.helsinkigse.fi/events/giacomo-lo-conte
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251120-aspasia-bizopoulou-nov20@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251120
+DTEND;VALUE=DATE:20251121
+SUMMARY:VATT: Aspasia Bizopoulou — Pay Transparency\, Wage Setting and Wo
+ rker Sorting (with Tuomo Virkola…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Aspasia Bizopoulou (VATT)
+ \nTitle: Pay Transparency\, Wage Setting and Worker Sorting (with Tuomo Vi
+ rkola and Elias Einiö)\n\nTime not published yet — all-day placeholder.
+ \n\nEvent page: https://www.helsinkigse.fi/events/aspasia-bizopoulou-nov20
+ \n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Pay+Transpar
+ ency%2C+Wage+Setting+and+Worker+Sorting+%28with+Tuomo+Virkola+and+Elias+Ei
+ ni%C3%B6%29%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q
+ =author%3A%22Aspasia+Bizopoulou%22
+URL:https://www.helsinkigse.fi/events/aspasia-bizopoulou-nov20
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251124-marten-ritterrath@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251124
+DTEND;VALUE=DATE:20251125
+SUMMARY:VATT: Marten Ritterrath — Inventors’ Personal Experience of Nat
+ ural Disasters and Green…
+DESCRIPTION:Series: VATT\nType: Job Talk\nSpeaker: Marten Ritterrath (Unive
+ rsity of Cologne)\nTitle: Inventors’ Personal Experience of Natural Disa
+ sters and Green Innovation\n\nTime not published yet — all-day placehold
+ er.\n\nEvent page: https://www.helsinkigse.fi/events/marten-ritterrath\n\n
+ Paper on Scholar: https://scholar.google.com/scholar?q=%22Inventors%27+Per
+ sonal+Experience+of+Natural+Disasters+and+Green+Innovation%22\n\nSpeaker o
+ n Scholar: https://scholar.google.com/scholar?q=author%3A%22Marten+Ritterr
+ ath%22
+URL:https://www.helsinkigse.fi/events/marten-ritterrath
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251124-regi-kusumaatmadja@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251124
+DTEND;VALUE=DATE:20251125
+SUMMARY:VATT: Regi Kusumaatmadja — Internal and External R&D: An analysis
+  of costs and benefits
+DESCRIPTION:Series: VATT\nType: Job Talk\nSpeaker: Regi Kusumaatmadja (VU A
+ msterdam)\nTitle: Internal and External R&D: An analysis of costs and bene
+ fits\n\nTime not published yet — all-day placeholder.\n\nEvent page: htt
+ ps://www.helsinkigse.fi/events/regi-kusumaatmadja\n\nPaper on Scholar: htt
+ ps://scholar.google.com/scholar?q=%22Internal+and+External+R%26D%3A+An+ana
+ lysis+of+costs+and+benefits%22\n\nSpeaker on Scholar: https://scholar.goog
+ le.com/scholar?q=author%3A%22Regi+Kusumaatmadja%22
+URL:https://www.helsinkigse.fi/events/regi-kusumaatmadja
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251127-joakim-wikstrom-vatt-jobtalk@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251127
+DTEND;VALUE=DATE:20251128
+SUMMARY:VATT: Joakim Wikström — Do Patents Tilt Standard-Setting? Eviden
+ ce from Cellular Networks
+DESCRIPTION:Series: VATT\nType: Job Talk\nSpeaker: Joakim Wikström (Aalto 
+ University)\nTitle: Do Patents Tilt Standard-Setting? Evidence from Cellul
+ ar Networks\n\nTime not published yet — all-day placeholder.\n\nEvent pa
+ ge: https://www.helsinkigse.fi/events/joakim-wikstrom-vatt-jobtalk\n\nPape
+ r on Scholar: https://scholar.google.com/scholar?q=%22Do+Patents+Tilt+Stan
+ dard-Setting%3F+Evidence+from+Cellular+Networks%22\n\nSpeaker on Scholar: 
+ https://scholar.google.com/scholar?q=author%3A%22Joakim+Wikstr%C3%B6m%22
+URL:https://www.helsinkigse.fi/events/joakim-wikstrom-vatt-jobtalk
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251127-sander-ramboer-nov27@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251127
+DTEND;VALUE=DATE:20251128
+SUMMARY:VATT: Sander Ramboer — Local Property Tax Incentives for Wind Far
+ m Development: Evidence…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Sander Ramboer (VATT)\nTi
+ tle: Local Property Tax Incentives for Wind Farm Development: Evidence fro
+ m Finland\n\nTime not published yet — all-day placeholder.\n\nEvent page
+ : https://www.helsinkigse.fi/events/sander-ramboer-nov27\n\nPaper on Schol
+ ar: https://scholar.google.com/scholar?q=%22Local+Property+Tax+Incentives+
+ for+Wind+Farm+Development%3A+Evidence+from+Finland%22\n\nSpeaker on Schola
+ r: https://scholar.google.com/scholar?q=author%3A%22Sander+Ramboer%22
+URL:https://www.helsinkigse.fi/events/sander-ramboer-nov27
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251204-kostas-matakos-dec4@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251204
+DTEND;VALUE=DATE:20251205
+SUMMARY:VATT: Kostas Matakos — Does Warm Weather Cool Voters Down? How Cl
+ imate Shocks affect Policy…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Kostas Matakos (King's Co
+ llege London)\nTitle: Does Warm Weather Cool Voters Down? How Climate Shoc
+ ks affect Policy Preferences and Climate Anxiety (with Maria Cotofan and K
+ arlygash Kurabayeva)\n\nTime not published yet — all-day placeholder.\n\
+ nEvent page: https://www.helsinkigse.fi/events/kostas-matakos-dec4\n\nPape
+ r on Scholar: https://scholar.google.com/scholar?q=%22Does+Warm+Weather+Co
+ ol+Voters+Down%3F+How+Climate+Shocks+affect+Policy+Preferences+and+Climate
+ +Anxiety+%28with+Maria+Cotofan+and+Karlygash+Kurabayeva%29%22\n\nSpeaker o
+ n Scholar: https://scholar.google.com/scholar?q=author%3A%22Kostas+Matakos
+ %22
+URL:https://www.helsinkigse.fi/events/kostas-matakos-dec4
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260129-ramin-izadi1@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+SUMMARY:VATT: Ramin Izadi — Preschool Expansion RCT: Results
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Ramin Izadi (VATT)\nTitle
+ : Preschool Expansion RCT: Results\n\nTime not published yet — all-day p
+ laceholder.\n\nEvent page: https://www.helsinkigse.fi/events/ramin-izadi1\
+ n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Preschool+Exp
+ ansion+RCT%3A+Results%22\n\nSpeaker on Scholar: https://scholar.google.com
+ /scholar?q=author%3A%22Ramin+Izadi%22
+URL:https://www.helsinkigse.fi/events/ramin-izadi1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260226-tanja-saxell@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260226
+DTEND;VALUE=DATE:20260227
+SUMMARY:VATT: CANCELLED Tanja Saxell — Allocation and Prioritization in P
+ ublic Health Care
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: CANCELLED Tanja Saxell (V
+ ATT)\nTitle: Allocation and Prioritization in Public Health Care\n\nTime n
+ ot published yet — all-day placeholder.\n\nEvent page: https://www.helsi
+ nkigse.fi/events/tanja-saxell\n\nPaper on Scholar: https://scholar.google.
+ com/scholar?q=%22Allocation+and+Prioritization+in+Public+Health+Care%22\n\
+ nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22CANC
+ ELLED+Tanja+Saxell%22
+URL:https://www.helsinkigse.fi/events/tanja-saxell
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260305-yajna-govind@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260306
+SUMMARY:VATT: Yajna Govind — Migration policy backlash\, identity\, and i
+ ntegration of…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Yajna Govind (Copengahen 
+ Business School)\nTitle: Migration policy backlash\, identity\, and integr
+ ation of second-generation migrants in France\n\nTime not published yet 
+ — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/
+ yajna-govind\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22
+ Migration+policy+backlash%2C+identity%2C+and+integration+of+second-generat
+ ion+migrants+in+France%22\n\nSpeaker on Scholar: https://scholar.google.co
+ m/scholar?q=author%3A%22Yajna+Govind%22
+URL:https://www.helsinkigse.fi/events/yajna-govind
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260312-jonas-cederlof@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260313
+SUMMARY:VATT: Jonas Cederlöf — Duration Dependence and Job Search over t
+ he Spell: Evidence from Job…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Jonas Cederlöf (IFAU Upp
+ sala)\nTitle: Duration Dependence and Job Search over the Spell: Evidence 
+ from Job Seeker Activity Reports (with Sara Roman)\n\nTime not published y
+ et — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/even
+ ts/jonas-cederlof\n\nPaper on Scholar: https://scholar.google.com/scholar?
+ q=%22Duration+Dependence+and+Job+Search+over+the+Spell%3A+Evidence+from+Jo
+ b+Seeker+Activity+Reports+%28with+Sara+Roman%29%22\n\nSpeaker on Scholar: 
+ https://scholar.google.com/scholar?q=author%3A%22Jonas+Cederl%C3%B6f%22
+URL:https://www.helsinkigse.fi/events/jonas-cederlof
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260319-joakim-wikstrom5@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:VATT: Joakim Wikström — Do Patents Tilt Standard-Setting? Eviden
+ ce from Cellular Networks
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Joakim Wikström (VATT)\n
+ Title: Do Patents Tilt Standard-Setting? Evidence from Cellular Networks\n
+ \nTime not published yet — all-day placeholder.\n\nEvent page: https://w
+ ww.helsinkigse.fi/events/joakim-wikstrom5\n\nPaper on Scholar: https://sch
+ olar.google.com/scholar?q=%22Do+Patents+Tilt+Standard-Setting%3F+Evidence+
+ from+Cellular+Networks%22\n\nSpeaker on Scholar: https://scholar.google.co
+ m/scholar?q=author%3A%22Joakim+Wikstr%C3%B6m%22
+URL:https://www.helsinkigse.fi/events/joakim-wikstrom5
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260409-johannes-gessner1@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260410
+SUMMARY:VATT: Johannes Gessner — No Place Like Home: Charging Infrastruct
+ ure and the Environmental…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Johannes Gessner (TSE)\nT
+ itle: No Place Like Home: Charging Infrastructure and the Environmental Ad
+ vantage of Plug-in Hybrid Electric Vehicles\n\nTime not published yet — 
+ all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/joha
+ nnes-gessner1\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%2
+ 2No+Place+Like+Home%3A+Charging+Infrastructure+and+the+Environmental+Advan
+ tage+of+Plug-in+Hybrid+Electric+Vehicles%22\n\nSpeaker on Scholar: https:/
+ /scholar.google.com/scholar?q=author%3A%22Johannes+Gessner%22
+URL:https://www.helsinkigse.fi/events/johannes-gessner1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260416-tuomas-kari@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:VATT: Tuomas Kari — Who Shapes the Candidate Pool? Party Leaders
+ ’ Preferences and…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Tuomas Kari (VATT)\nTitle
+ : Who Shapes the Candidate Pool? Party Leaders’ Preferences and Nominati
+ on Decisions in Finnish Municipal Politics\n\nTime not published yet — a
+ ll-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/tuoma
+ s-kari\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Who+Sh
+ apes+the+Candidate+Pool%3F+Party+Leaders%27+Preferences+and+Nomination+Dec
+ isions+in+Finnish+Municipal+Politics%22\n\nSpeaker on Scholar: https://sch
+ olar.google.com/scholar?q=author%3A%22Tuomas+Kari%22
+URL:https://www.helsinkigse.fi/events/tuomas-kari
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260423-anne-brockmeyer@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:VATT: Anne Brockmeyer — Algorithms and Bureaucrats: Evidence from
+  Tax Audit Selection in…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Anne Brockmeyer (World Ba
+ nk)\nTitle: Algorithms and Bureaucrats: Evidence from Tax Audit Selection 
+ in Senegal (with Pierre Bachas\, Alipio Ferreira\, Bassirou Sarr)\n\nTime 
+ not published yet — all-day placeholder.\n\nEvent page: https://www.hels
+ inkigse.fi/events/anne-brockmeyer\n\nPaper on Scholar: https://scholar.goo
+ gle.com/scholar?q=%22Algorithms+and+Bureaucrats%3A+Evidence+from+Tax+Audit
+ +Selection+in+Senegal+%28with+Pierre+Bachas%2C+Alipio+Ferreira%2C+Bassirou
+ +Sarr%29%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=au
+ thor%3A%22Anne+Brockmeyer%22
+URL:https://www.helsinkigse.fi/events/anne-brockmeyer
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260430-mika-kortelainen@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:VATT: Mika Kortelainen — Digital Primary Care and Health Care Uti
+ lization: Evidence from a…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Mika Kortelainen (Univers
+ ity of Turku)\nTitle: Digital Primary Care and Health Care Utilization: Ev
+ idence from a Large-Scale Randomized Trial\n\nTime not published yet — a
+ ll-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/mika-
+ kortelainen\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22D
+ igital+Primary+Care+and+Health+Care+Utilization%3A+Evidence+from+a+Large-S
+ cale+Randomized+Trial%22\n\nSpeaker on Scholar: https://scholar.google.com
+ /scholar?q=author%3A%22Mika+Kortelainen%22
+URL:https://www.helsinkigse.fi/events/mika-kortelainen
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260507-andrei-markevich1@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+SUMMARY:VATT: Andrei Markevich — Factories\, Frictions\, and the Foundati
+ ons of Growth: Microdata from…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Andrei Markevich (Univers
+ ity of Helsinki)\nTitle: Factories\, Frictions\, and the Foundations of Gr
+ owth: Microdata from the Russian Empire\, 1795–1908 (with Marvin Suess)\
+ n\nTime not published yet — all-day placeholder.\n\nEvent page: https://
+ www.helsinkigse.fi/events/andrei-markevich1\n\nPaper on Scholar: https://s
+ cholar.google.com/scholar?q=%22Factories%2C+Frictions%2C+and+the+Foundatio
+ ns+of+Growth%3A+Microdata+from+the+Russian+Empire%2C+1795-1908+%28with+Mar
+ vin+Suess%29%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?
+ q=author%3A%22Andrei+Markevich%22
+URL:https://www.helsinkigse.fi/events/andrei-markevich1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260521-jan-stuhler@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+SUMMARY:VATT: Jan Stuhler — Labor Market Drivers of Intergenerational Ear
+ nings Persistence (With…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Jan Stuhler (Universidad 
+ Carlos III de Madrid)\nTitle: Labor Market Drivers of Intergenerational Ea
+ rnings Persistence (With Erika Forsberg and Martin Nybom)\n\nTime not publ
+ ished yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.
+ fi/events/jan-stuhler\n\nPaper on Scholar: https://scholar.google.com/scho
+ lar?q=%22Labor+Market+Drivers+of+Intergenerational+Earnings+Persistence+%2
+ 8With+Erika+Forsberg+and+Martin+Nybom%29%22\n\nSpeaker on Scholar: https:/
+ /scholar.google.com/scholar?q=author%3A%22Jan+Stuhler%22
+URL:https://www.helsinkigse.fi/events/jan-stuhler
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260528-enrico-rubolino@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:VATT: Enrico Rubolino — Growing the civic mind: civic education\,
+  civic behavior and political…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Enrico Rubolino (Lausanne
+ /CREST)\nTitle: Growing the civic mind: civic education\, civic behavior a
+ nd political institutions\n\nTime not published yet — all-day placeholde
+ r.\n\nEvent page: https://www.helsinkigse.fi/events/enrico-rubolino\n\nPap
+ er on Scholar: https://scholar.google.com/scholar?q=%22Growing+the+civic+m
+ ind%3A+civic+education%2C+civic+behavior+and+political+institutions%22\n\n
+ Speaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Enric
+ o+Rubolino%22
+URL:https://www.helsinkigse.fi/events/enrico-rubolino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260604-raffaele-saggio@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:VATT: Raffaele Saggio — Careers and Wages in Family Firms: Eviden
+ ce from Matched…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Raffaele Saggio (Universi
+ ty of British Columbia)\nTitle: Careers and Wages in Family Firms: Evidenc
+ e from Matched Employer-Employee Data (with Edoardo Di Porto\, Marco Pagan
+ o\, Vincenzo Pezone and Fabiano …\n\nTime not published yet — all-day 
+ placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/raffaele-sag
+ gio\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Careers+a
+ nd+Wages+in+Family+Firms%3A+Evidence+from+Matched+Employer-Employee+Data+%
+ 28with+Edoardo+Di+Porto%2C+Marco+Pagano%2C+Vincenzo+Pezone+and+Fabiano+%E2
+ %80%A6%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=auth
+ or%3A%22Raffaele+Saggio%22
+URL:https://www.helsinkigse.fi/events/raffaele-saggio
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260610-luisa-wallossek@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:VATT: Luisa Wallossek — Opt-in or Opt-out? The Power of Defaults 
+ in Pension Enrollment…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Luisa Wallossek (Universi
+ ty of Oslo)\nTitle: Opt-in or Opt-out? The Power of Defaults in Pension En
+ rollment Choices (with Tabea Bucher-Koenen and Joachim Winter)\n\nTime not
+  published yet — all-day placeholder.\n\nEvent page: https://www.helsink
+ igse.fi/events/luisa-wallossek\n\nPaper on Scholar: https://scholar.google
+ .com/scholar?q=%22Opt-in+or+Opt-out%3F+The+Power+of+Defaults+in+Pension+En
+ rollment+Choices+%28with+Tabea+Bucher-Koenen+and+Joachim+Winter%29%22\n\nS
+ peaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Luisa+
+ Wallossek%22
+URL:https://www.helsinkigse.fi/events/luisa-wallossek
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260618-david-rivera-gonzalez1@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:VATT: David Rivera Gonzalez — Contribution Floors and Minimum Wag
+ es in Latin America
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: David Rivera Gonzalez (Bo
+ rdeaux School of Economics)\nTitle: Contribution Floors and Minimum Wages 
+ in Latin America\n\nTime not published yet — all-day placeholder.\n\nEve
+ nt page: https://www.helsinkigse.fi/events/david-rivera-gonzalez1\n\nPaper
+  on Scholar: https://scholar.google.com/scholar?q=%22Contribution+Floors+a
+ nd+Minimum+Wages+in+Latin+America%22\n\nSpeaker on Scholar: https://schola
+ r.google.com/scholar?q=author%3A%22David+Rivera+Gonzalez%22
+URL:https://www.helsinkigse.fi/events/david-rivera-gonzalez1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hgse-calendar//helsinkigse.fi scrape//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HGSE — Other Seminar
+NAME:HGSE — Other Seminar
+X-APPLE-CALENDAR-COLOR:#039BE5
+COLOR:#039BE5
+X-WR-TIMEZONE:Europe/Helsinki
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Helsinki
+X-LIC-LOCATION:Europe/Helsinki
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+TZNAME:EEST
+DTSTART:19700329T030000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:EET
+DTSTART:19701025T040000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:hgse-20260306-elamaa-elakkeiden-jalkeen-paneelikeskustelu@helsinkigse.f
+ i
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:Other Seminar: Elämää eläkkeiden jälkeen? – paneelikeskustel
+ u — Panelisteina Niku Määttänen Helsingin yliopistosta\, Ismo Risku
+ …
+DESCRIPTION:Series: Other Seminar\nSpeaker: Elämää eläkkeiden jälkeen?
+  – paneelikeskustelu\nTitle: Panelisteina Niku Määttänen Helsingin yl
+ iopistosta\, Ismo Risku Eläketurvakeskuksesta ja Antti Tanskanen Telasta\
+ n\nTime not published yet — all-day placeholder.\n\nEvent page: https://
+ www.helsinkigse.fi/events/elamaa-elakkeiden-jalkeen-paneelikeskustelu\n\nP
+ aper on Scholar: https://scholar.google.com/scholar?q=%22Panelisteina+Niku
+ +M%C3%A4%C3%A4tt%C3%A4nen+Helsingin+yliopistosta%2C+Ismo+Risku+El%C3%A4ket
+ urvakeskuksesta+ja+Antti+Tanskanen+Telasta%22
+URL:https://www.helsinkigse.fi/events/elamaa-elakkeiden-jalkeen-paneelikesk
+ ustelu
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

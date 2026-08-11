@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:HGSE — Colloquium
 NAME:HGSE — Colloquium
-X-APPLE-CALENDAR-COLOR:#00897B
-COLOR:#00897B
+X-APPLE-CALENDAR-COLOR:#F4511E
+COLOR:#F4511E
 X-WR-TIMEZONE:Europe/Helsinki
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
@@ -29,8 +29,455 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:hgse-20250131-carol-propper@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:Colloquium: Carol Propper — The Effects of Pension Reforms on Doc
+ tor Labour Supply: Evidence from…
+DESCRIPTION:Series: Colloquium\nSpeaker: Carol Propper (Imperial College)\n
+ Title: The Effects of Pension Reforms on Doctor Labour Supply: Evidence fr
+ om the English NHS (with George Stoye and Max Warner)\n\nTime not publishe
+ d yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/e
+ vents/carol-propper\n\nPaper on Scholar: https://scholar.google.com/schola
+ r?q=%22The+Effects+of+Pension+Reforms+on+Doctor+Labour+Supply%3A+Evidence+
+ from+the+English+NHS+%28with+George+Stoye+and+Max+Warner%29%22\n\nSpeaker 
+ on Scholar: https://scholar.google.com/scholar?q=author%3A%22Carol+Propper
+ %22
+URL:https://www.helsinkigse.fi/events/carol-propper
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250228-nikolaus-wolf@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250228
+DTEND;VALUE=DATE:20250301
+SUMMARY:Colloquium: Nikolaus Wolf — Fickle Fossils. Economic Growth\, Coa
+ l and the European Oil Invasion…
+DESCRIPTION:Series: Colloquium\nSpeaker: Nikolaus Wolf (Humboldt University
+  Berlin)\nTitle: Fickle Fossils. Economic Growth\, Coal and the European O
+ il Invasion\, 1900-2015 (with Miriam Fritzsche)\n\nTime not published yet 
+ — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/
+ nikolaus-wolf\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%2
+ 2Fickle+Fossils.+Economic+Growth%2C+Coal+and+the+European+Oil+Invasion%2C+
+ 1900-2015+%28with+Miriam+Fritzsche%29%22\n\nSpeaker on Scholar: https://sc
+ holar.google.com/scholar?q=author%3A%22Nikolaus+Wolf%22
+URL:https://www.helsinkigse.fi/events/nikolaus-wolf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250321-albert-j-menkveld@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250321
+DTEND;VALUE=DATE:20250322
+SUMMARY:Colloquium: Albert J. Menkveld — Pricing Variance in a Model with
+  Fire Sales
+DESCRIPTION:Series: Colloquium\nSpeaker: Albert J. Menkveld (Vrije Universi
+ teit Amsterdam)\nTitle: Pricing Variance in a Model with Fire Sales\n\nTim
+ e not published yet — all-day placeholder.\n\nEvent page: https://www.he
+ lsinkigse.fi/events/albert-j-menkveld\n\nPaper on Scholar: https://scholar
+ .google.com/scholar?q=%22Pricing+Variance+in+a+Model+with+Fire+Sales%22\n\
+ nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Albe
+ rt+J.+Menkveld%22
+URL:https://www.helsinkigse.fi/events/albert-j-menkveld
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250328-volker-nocke@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250328
+DTEND;VALUE=DATE:20250329
+SUMMARY:Colloquium: Volker Nocke — Optimal Merger Remedies (with Andrew R
+ hodes)
+DESCRIPTION:Series: Colloquium\nSpeaker: Volker Nocke (University of Mannhe
+ im)\nTitle: Optimal Merger Remedies (with Andrew Rhodes)\n\nTime not publi
+ shed yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.f
+ i/events/volker-nocke\n\nPaper on Scholar: https://scholar.google.com/scho
+ lar?q=%22Optimal+Merger+Remedies+%28with+Andrew+Rhodes%29%22\n\nSpeaker on
+  Scholar: https://scholar.google.com/scholar?q=author%3A%22Volker+Nocke%22
+URL:https://www.helsinkigse.fi/events/volker-nocke
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250404-andy-neumeyer@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250404
+DTEND;VALUE=DATE:20250405
+SUMMARY:Colloquium: P. Andrés Neumeyer — The Economic Ripple Effects of 
+ a Temporary Shutdown (with Francisco…
+DESCRIPTION:Series: Colloquium\nSpeaker: P. Andrés Neumeyer (Universidad T
+ orcuato di Tella)\nTitle: The Economic Ripple Effects of a Temporary Shutd
+ own (with Francisco J. Buera\, Roberto N. Fattal-Jaef\, Hugo Hopenhayn\, a
+ nd Yongseok Shin)\n\nTime not published yet — all-day placeholder.\n\nEv
+ ent page: https://www.helsinkigse.fi/events/andy-neumeyer\n\nPaper on Scho
+ lar: https://scholar.google.com/scholar?q=%22The+Economic+Ripple+Effects+o
+ f+a+Temporary+Shutdown+%28with+Francisco+J.+Buera%2C+Roberto+N.+Fattal-Jae
+ f%2C+Hugo+Hopenhayn%2C+and+Yongseok+Shin%29%22\n\nSpeaker on Scholar: http
+ s://scholar.google.com/scholar?q=author%3A%22P.+Andr%C3%A9s+Neumeyer%22
+URL:https://www.helsinkigse.fi/events/andy-neumeyer
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250411-arash-nekoei-2025@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250411
+DTEND;VALUE=DATE:20250412
+SUMMARY:Colloquium: Arash Nekoei — Who Can Have It All? The Unequal Cost 
+ of Career\, Inter-generational…
+DESCRIPTION:Series: Colloquium\nSpeaker: Arash Nekoei (IIES)\nTitle: Who Ca
+ n Have It All? The Unequal Cost of Career\, Inter-generational Mobility\, 
+ and Equality of Opportunity (with Patrizia Massner)\n\nTime not published 
+ yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/eve
+ nts/arash-nekoei-2025\n\nPaper on Scholar: https://scholar.google.com/scho
+ lar?q=%22Who+Can+Have+It+All%3F+The+Unequal+Cost+of+Career%2C+Inter-genera
+ tional+Mobility%2C+and+Equality+of+Opportunity+%28with+Patrizia+Massner%29
+ %22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%
+ 22Arash+Nekoei%22
+URL:https://www.helsinkigse.fi/events/arash-nekoei-2025
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250509-johanna-wallenius@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250509
+DTEND;VALUE=DATE:20250510
+SUMMARY:Colloquium: Johanna Wallenius — Does Student Aid Improve Educatio
+ nal Mobility? (with Frederik Bjørn…
+DESCRIPTION:Series: Colloquium\nSpeaker: Johanna Wallenius (Stockholm Schoo
+ l of Economics)\nTitle: Does Student Aid Improve Educational Mobility? (wi
+ th Frederik Bjørn Christensen)\n\nTime not published yet — all-day plac
+ eholder.\n\nEvent page: https://www.helsinkigse.fi/events/johanna-walleniu
+ s\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Does+Studen
+ t+Aid+Improve+Educational+Mobility%3F+%28with+Frederik+Bj%C3%B8rn+Christen
+ sen%29%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=auth
+ or%3A%22Johanna+Wallenius%22
+URL:https://www.helsinkigse.fi/events/johanna-wallenius
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250516-monika-mrazova@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250516
+DTEND;VALUE=DATE:20250517
+SUMMARY:Colloquium: Monika Mrazova
+DESCRIPTION:Series: Colloquium\nSpeaker: Monika Mrazova (University of Gene
+ va)\nTitle: TBA\n\nTime not published yet — all-day placeholder.\n\nEven
+ t page: https://www.helsinkigse.fi/events/monika-mrazova\n\nSpeaker on Sch
+ olar: https://scholar.google.com/scholar?q=author%3A%22Monika+Mrazova%22
+URL:https://www.helsinkigse.fi/events/monika-mrazova
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250606-georgy-egorov@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250606
+DTEND;VALUE=DATE:20250607
+SUMMARY:Colloquium: Georgy Egorov — I’d Be Surprisingly Good for You: P
+ olitical Information and Network…
+DESCRIPTION:Series: Colloquium\nSpeaker: Georgy Egorov (Northwestern Univer
+ sity)\nTitle: I’d Be Surprisingly Good for You: Political Information an
+ d Network Effects” (with Sergei Guriev\, Maxim Mironov\, and Ekaterina 
+ …\n\nTime not published yet — all-day placeholder.\n\nEvent page: http
+ s://www.helsinkigse.fi/events/georgy-egorov\n\nPaper on Scholar: https://s
+ cholar.google.com/scholar?q=%22I%27d+Be+Surprisingly+Good+for+You%3A+Polit
+ ical+Information+and+Network+Effects+%28with+Sergei+Guriev%2C+Maxim+Mirono
+ v%2C+and+Ekaterina+%E2%80%A6%22\n\nSpeaker on Scholar: https://scholar.goo
+ gle.com/scholar?q=author%3A%22Georgy+Egorov%22
+URL:https://www.helsinkigse.fi/events/georgy-egorov
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250613-zach-y-brown@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250613
+DTEND;VALUE=DATE:20250614
+SUMMARY:Colloquium: Zach Y. Brown — Information and Disparities in Health
+  Care Quality: Evidence from GP…
+DESCRIPTION:Series: Colloquium\nSpeaker: Zach Y. Brown (University of Michi
+ gan)\nTitle: Information and Disparities in Health Care Quality: Evidence 
+ from GP Choice in England\n\nTime not published yet — all-day placeholde
+ r.\n\nEvent page: https://www.helsinkigse.fi/events/zach-y-brown\n\nPaper 
+ on Scholar: https://scholar.google.com/scholar?q=%22Information+and+Dispar
+ ities+in+Health+Care+Quality%3A+Evidence+from+GP+Choice+in+England%22\n\nS
+ peaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Zach+Y
+ .+Brown%22
+URL:https://www.helsinkigse.fi/events/zach-y-brown
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250912-matthew-rabin@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250912
+DTEND;VALUE=DATE:20250913
+SUMMARY:Colloquium: Matthew Rabin — News Utility\, Insurance\, and Risky 
+ Living
+DESCRIPTION:Series: Colloquium\nSpeaker: Matthew Rabin (Harvard University)
+ \nTitle: News Utility\, Insurance\, and Risky Living\n\nTime not published
+  yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/ev
+ ents/matthew-rabin\n\nPaper on Scholar: https://scholar.google.com/scholar
+ ?q=%22News+Utility%2C+Insurance%2C+and+Risky+Living%22\n\nSpeaker on Schol
+ ar: https://scholar.google.com/scholar?q=author%3A%22Matthew+Rabin%22
+URL:https://www.helsinkigse.fi/events/matthew-rabin
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250926-johannes-horner1@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20250926
+DTEND;VALUE=DATE:20250927
+SUMMARY:Colloquium: Johannes Hörner — Separating the Wheat from the Chaf
+ f
+DESCRIPTION:Series: Colloquium\nSpeaker: Johannes Hörner (TSE)\nTitle: Sep
+ arating the Wheat from the Chaff\n\nTime not published yet — all-day pla
+ ceholder.\n\nEvent page: https://www.helsinkigse.fi/events/johannes-horner
+ 1\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Separating+
+ the+Wheat+from+the+Chaff%22\n\nSpeaker on Scholar: https://scholar.google.
+ com/scholar?q=author%3A%22Johannes+H%C3%B6rner%22
+URL:https://www.helsinkigse.fi/events/johannes-horner1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251010-andrea-ichino1@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251010
+DTEND;VALUE=DATE:20251011
+SUMMARY:Colloquium: Andrea Ichino — College\, cognitive ability\, and soc
+ ioeconomic disadvantage: policy…
+DESCRIPTION:Series: Colloquium\nSpeaker: Andrea Ichino (EUI)\nTitle: Colleg
+ e\, cognitive ability\, and socioeconomic disadvantage: policy lessons fro
+ m the UK in 1960-2004 (with Aldo Rustichini and Giulio Zanella)\n\nTime no
+ t published yet — all-day placeholder.\n\nEvent page: https://www.helsin
+ kigse.fi/events/andrea-ichino1\n\nPaper on Scholar: https://scholar.google
+ .com/scholar?q=%22College%2C+cognitive+ability%2C+and+socioeconomic+disadv
+ antage%3A+policy+lessons+from+the+UK+in+1960-2004+%28with+Aldo+Rustichini+
+ and+Giulio+Zanella%29%22\n\nSpeaker on Scholar: https://scholar.google.com
+ /scholar?q=author%3A%22Andrea+Ichino%22
+URL:https://www.helsinkigse.fi/events/andrea-ichino1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251107-jonathan-zinman@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251108
+SUMMARY:Colloquium: Jonathan Zinman — Working it out: Randomized modifica
+ tion and entrepreneurial effort in…
+DESCRIPTION:Series: Colloquium\nSpeaker: Jonathan Zinman (Dartmouth)\nTitle
+ : Working it out: Randomized modification and entrepreneurial effort in a 
+ collateralized debt market (with Christopher Eaglin\, Apoorv Gupta and Fil
+ ippo …\n\nTime not published yet — all-day placeholder.\n\nEvent page:
+  https://www.helsinkigse.fi/events/jonathan-zinman\n\nPaper on Scholar: ht
+ tps://scholar.google.com/scholar?q=%22Working+it+out%3A+Randomized+modific
+ ation+and+entrepreneurial+effort+in+a+collateralized+debt+market+%28with+C
+ hristopher+Eaglin%2C+Apoorv+Gupta+and+Filippo+%E2%80%A6%22\n\nSpeaker on S
+ cholar: https://scholar.google.com/scholar?q=author%3A%22Jonathan+Zinman%2
+ 2
+URL:https://www.helsinkigse.fi/events/jonathan-zinman
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251121-gilat-levy1@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251121
+DTEND;VALUE=DATE:20251122
+SUMMARY:Colloquium: Gilat Levy — Research Waves
+DESCRIPTION:Series: Colloquium\nSpeaker: Gilat Levy (LSE)\nTitle: Research 
+ Waves\n\nTime not published yet — all-day placeholder.\n\nEvent page: ht
+ tps://www.helsinkigse.fi/events/gilat-levy1\n\nPaper on Scholar: https://s
+ cholar.google.com/scholar?q=%22Research+Waves%22\n\nSpeaker on Scholar: ht
+ tps://scholar.google.com/scholar?q=author%3A%22Gilat+Levy%22
+URL:https://www.helsinkigse.fi/events/gilat-levy1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251205-kevin-sheedy1@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20251205
+DTEND;VALUE=DATE:20251206
+SUMMARY:Colloquium: Kevin Sheedy — Matching People to Properties: A Match
+ ing Function for the Housing…
+DESCRIPTION:Series: Colloquium\nSpeaker: Kevin Sheedy (London School of Eco
+ nomics)\nTitle: Matching People to Properties: A Matching Function for the
+  Housing Market (with Rachel Ngai\, Felix Iglhaut\, Fei Wu\, and Shuang Zh
+ ang)\n\nTime not published yet — all-day placeholder.\n\nEvent page: htt
+ ps://www.helsinkigse.fi/events/kevin-sheedy1\n\nPaper on Scholar: https://
+ scholar.google.com/scholar?q=%22Matching+People+to+Properties%3A+A+Matchin
+ g+Function+for+the+Housing+Market+%28with+Rachel+Ngai%2C+Felix+Iglhaut%2C+
+ Fei+Wu%2C+and+Shuang+Zhang%29%22\n\nSpeaker on Scholar: https://scholar.go
+ ogle.com/scholar?q=author%3A%22Kevin+Sheedy%22
+URL:https://www.helsinkigse.fi/events/kevin-sheedy1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260227-jacob-moscona@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260228
+SUMMARY:Colloquium: Jacob Moscona — Public R&D Meets Economics Developmen
+ t: Embrapa and Brazil’s…
+DESCRIPTION:Series: Colloquium\nSpeaker: Jacob Moscona (MIT)\nTitle: Public
+  R&D Meets Economics Development: Embrapa and Brazil’s Agricultural Revo
+ lution (with Ariel Akerman\, Heitor S. Pellegrina and Karthik Sastry)\n\nT
+ ime not published yet — all-day placeholder.\n\nEvent page: https://www.
+ helsinkigse.fi/events/jacob-moscona\n\nPaper on Scholar: https://scholar.g
+ oogle.com/scholar?q=%22Public+R%26D+Meets+Economics+Development%3A+Embrapa
+ +and+Brazil%27s+Agricultural+Revolution+%28with+Ariel+Akerman%2C+Heitor+S.
+ +Pellegrina+and+Karthik+Sastry%29%22\n\nSpeaker on Scholar: https://schola
+ r.google.com/scholar?q=author%3A%22Jacob+Moscona%22
+URL:https://www.helsinkigse.fi/events/jacob-moscona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260313-rachel-ngai@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260314
+SUMMARY:Colloquium: Rachel Ngai — Sowing Seeds of Mobility: The Uneven Im
+ pact of Land Reform (with Ting…
+DESCRIPTION:Series: Colloquium\nSpeaker: Rachel Ngai (LSE)\nTitle: Sowing S
+ eeds of Mobility: The Uneven Impact of Land Reform (with Ting Chen\, Jiaji
+ a Gu and Jin Wang)\n\nTime not published yet — all-day placeholder.\n\nE
+ vent page: https://www.helsinkigse.fi/events/rachel-ngai\n\nPaper on Schol
+ ar: https://scholar.google.com/scholar?q=%22Sowing+Seeds+of+Mobility%3A+Th
+ e+Uneven+Impact+of+Land+Reform+%28with+Ting+Chen%2C+Jiajia+Gu+and+Jin+Wang
+ %29%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%
+ 3A%22Rachel+Ngai%22
+URL:https://www.helsinkigse.fi/events/rachel-ngai
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260327-nicolas-de-roos@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+SUMMARY:Colloquium: Nicolas de Roos — Negotiating Coordination: A Study i
+ n Retail Gasoline
+DESCRIPTION:Series: Colloquium\nSpeaker: Nicolas de Roos (University of Liv
+ erpool)\nTitle: Negotiating Coordination: A Study in Retail Gasoline\n\nTi
+ me not published yet — all-day placeholder.\n\nEvent page: https://www.h
+ elsinkigse.fi/events/nicolas-de-roos\n\nPaper on Scholar: https://scholar.
+ google.com/scholar?q=%22Negotiating+Coordination%3A+A+Study+in+Retail+Gaso
+ line%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author
+ %3A%22Nicolas+de+Roos%22
+URL:https://www.helsinkigse.fi/events/nicolas-de-roos
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260410-ferenc-szucs@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:Colloquium: Ferenc Szucs — Facing the Hard Truth: Evidence from C
+ limate Change Ignorance
+DESCRIPTION:Series: Colloquium\nSpeaker: Ferenc Szucs (Stockholm University
+ )\nTitle: Facing the Hard Truth: Evidence from Climate Change Ignorance\n\
+ nTime not published yet — all-day placeholder.\n\nEvent page: https://ww
+ w.helsinkigse.fi/events/ferenc-szucs\n\nPaper on Scholar: https://scholar.
+ google.com/scholar?q=%22Facing+the+Hard+Truth%3A+Evidence+from+Climate+Cha
+ nge+Ignorance%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar
+ ?q=author%3A%22Ferenc+Szucs%22
+URL:https://www.helsinkigse.fi/events/ferenc-szucs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260424-sakari-saaritsa@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:Colloquium: Sakari Saaritsa — In Search of ‘Missing Girls’ in
+  Finland: Child Sex Ratios\, Sex Ratios…
+DESCRIPTION:Series: Colloquium\nSpeaker: Sakari Saaritsa (University of Hel
+ sinki)\nTitle: In Search of ‘Missing Girls’ in Finland: Child Sex Rati
+ os\, Sex Ratios at Birth and Determinants of Discrimination\, 1880-1930\n\
+ nTime not published yet — all-day placeholder.\n\nEvent page: https://ww
+ w.helsinkigse.fi/events/sakari-saaritsa\n\nPaper on Scholar: https://schol
+ ar.google.com/scholar?q=%22In+Search+of+%27Missing+Girls%27+in+Finland%3A+
+ Child+Sex+Ratios%2C+Sex+Ratios+at+Birth+and+Determinants+of+Discrimination
+ %2C+1880-1930%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar
+ ?q=author%3A%22Sakari+Saaritsa%22
+URL:https://www.helsinkigse.fi/events/sakari-saaritsa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260508-luca-braghieri@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Colloquium: Luca Braghieri — Behavioral and Information Frictions
+  in News Consumption: Evidence…
+DESCRIPTION:Series: Colloquium\nSpeaker: Luca Braghieri (Bocconi University
+ )\nTitle: Behavioral and Information Frictions in News Consumption: Eviden
+ ce from Social Media\n\nTime not published yet — all-day placeholder.\n\
+ nEvent page: https://www.helsinkigse.fi/events/luca-braghieri\n\nPaper on 
+ Scholar: https://scholar.google.com/scholar?q=%22Behavioral+and+Informatio
+ n+Frictions+in+News+Consumption%3A+Evidence+from+Social+Media%22\n\nSpeake
+ r on Scholar: https://scholar.google.com/scholar?q=author%3A%22Luca+Braghi
+ eri%22
+URL:https://www.helsinkigse.fi/events/luca-braghieri
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260522-eric-taylor@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:Colloquium: Eric Taylor — Employee Evaluation and Skill Investmen
+ ts: Evidence from Public…
+DESCRIPTION:Series: Colloquium\nSpeaker: Eric Taylor (Harvard University)\n
+ Title: Employee Evaluation and Skill Investments: Evidence from Public Sch
+ ool Teachers\n\nTime not published yet — all-day placeholder.\n\nEvent p
+ age: https://www.helsinkigse.fi/events/eric-taylor\n\nPaper on Scholar: ht
+ tps://scholar.google.com/scholar?q=%22Employee+Evaluation+and+Skill+Invest
+ ments%3A+Evidence+from+Public+School+Teachers%22\n\nSpeaker on Scholar: ht
+ tps://scholar.google.com/scholar?q=author%3A%22Eric+Taylor%22
+URL:https://www.helsinkigse.fi/events/eric-taylor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260605-milena-almagro@helsinkigse.fi
+DTSTAMP:20260811T080255Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Colloquium: Milena Almagro — Choices or Constraints? Disentanglin
+ g Preferences from Restrictions…
+DESCRIPTION:Series: Colloquium\nSpeaker: Milena Almagro (Chicago Booth)\nTi
+ tle: Choices or Constraints? Disentangling Preferences from Restrictions i
+ n Housing Markets (with Aradhya Sood)\n\nTime not published yet — all-da
+ y placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/milena-alm
+ agro\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Choices+
+ or+Constraints%3F+Disentangling+Preferences+from+Restrictions+in+Housing+M
+ arkets+%28with+Aradhya+Sood%29%22\n\nSpeaker on Scholar: https://scholar.g
+ oogle.com/scholar?q=author%3A%22Milena+Almagro%22
+URL:https://www.helsinkigse.fi/events/milena-almagro
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:hgse-20260911-leander-heldring@helsinkigse.fi
-DTSTAMP:20260811T043412Z
+DTSTAMP:20260811T080255Z
 DTSTART;TZID=Europe/Helsinki:20260911T143000
 DTEND;TZID=Europe/Helsinki:20260911T154500
 SUMMARY:Colloquium: Leander Heldring
@@ -44,7 +491,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260925-gisle-natvik@helsinkigse.fi
-DTSTAMP:20260811T043412Z
+DTSTAMP:20260811T080255Z
 DTSTART;TZID=Europe/Helsinki:20260925T143000
 DTEND;TZID=Europe/Helsinki:20260925T154500
 SUMMARY:Colloquium: Gisle Natvik
@@ -59,7 +506,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261009-mathias-reynaert@helsinkigse.fi
-DTSTAMP:20260811T043412Z
+DTSTAMP:20260811T080255Z
 DTSTART;TZID=Europe/Helsinki:20261009T143000
 DTEND;TZID=Europe/Helsinki:20261009T154500
 SUMMARY:Colloquium: Mathias Reynaert
@@ -74,7 +521,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261023-basile-grassi@helsinkigse.fi
-DTSTAMP:20260811T043412Z
+DTSTAMP:20260811T080255Z
 DTSTART;TZID=Europe/Helsinki:20261023T143000
 DTEND;TZID=Europe/Helsinki:20261023T154500
 SUMMARY:Colloquium: Basile Grassi
@@ -89,7 +536,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261120-joyee-deb@helsinkigse.fi
-DTSTAMP:20260811T043412Z
+DTSTAMP:20260811T080255Z
 DTSTART;TZID=Europe/Helsinki:20261120T143000
 DTEND;TZID=Europe/Helsinki:20261120T154500
 SUMMARY:Colloquium: Joyee Deb
