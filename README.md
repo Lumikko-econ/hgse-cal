@@ -88,8 +88,9 @@ https://cdn.jsdelivr.net/gh/Lumikko-econ/hgse-cal@main/
 ## What's in an event
 
 Series, speaker and affiliation, title once announced, host, venue, a link to
-the event page, and a Google Scholar search — for the paper if it has a title,
-otherwise for the speaker's own work.
+the event page, and Google Scholar searches — the speaker always, plus the paper
+once a title is announced. Both, because a talk is often titled differently from
+the published paper.
 
 Feeds are read-only — to add a note or an alert to a seminar, copy that event
 into your own calendar and edit the copy.
