@@ -89,8 +89,9 @@ https://cdn.jsdelivr.net/gh/Lumikko-econ/hgse-cal@main/
 
 Series, speaker and affiliation, title once announced, host, venue, a link to
 the event page, and Google Scholar searches — the speaker always, plus the paper
-once a title is announced. Both, because a talk is often titled differently from
-the published paper.
+once a title is announced (a talk is often titled differently from the published
+paper, so both are offered). Defences get the speaker search only, since a
+thesis title is rarely indexed.
 
 Feeds are read-only — to add a note or an alert to a seminar, copy that event
 into your own calendar and edit the copy.
