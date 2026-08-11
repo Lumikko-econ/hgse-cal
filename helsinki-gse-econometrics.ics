@@ -30,15 +30,14 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260923-christian-brownlees@helsinkigse.fi
-DTSTAMP:20260810T204724Z
+DTSTAMP:20260811T041049Z
 DTSTART;TZID=Europe/Helsinki:20260923T160000
 DTEND;TZID=Europe/Helsinki:20260923T170000
 SUMMARY:Econometrics: Christian Brownlees
 DESCRIPTION:Series: Econometrics\nSpeaker: Christian Brownlees (LUISS Guido
-  Carli)\nTitle: TBA\nHost: Mika Meitz\n\nMethod — relevant to identifica
- tion/instruments.\n\nEvent page: https://www.helsinkigse.fi/events/christi
- an-brownlees\nSpeaker on Scholar: https://scholar.google.com/scholar?q=aut
- hor%3A%22Christian+Brownlees%22
+  Carli)\nTitle: TBA\nHost: Mika Meitz\n\nEvent page: https://www.helsinkig
+ se.fi/events/christian-brownlees\nSpeaker on Scholar: https://scholar.goog
+ le.com/scholar?q=author%3A%22Christian+Brownlees%22
 LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/christian-brownlees
 STATUS:CONFIRMED

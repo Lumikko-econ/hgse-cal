@@ -30,15 +30,14 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20261001-lea-bignon@helsinkigse.fi
-DTSTAMP:20260810T204724Z
+DTSTAMP:20260811T041049Z
 DTSTART;TZID=Europe/Helsinki:20261001T150000
 DTEND;TZID=Europe/Helsinki:20261001T160000
 SUMMARY:Industrial Organization: Léa Bignon
 DESCRIPTION:Series: Industrial Organization\nType: Seminar\nSpeaker: Léa B
- ignon (KU Leuven)\nTitle: TBA\nHost: Alina Ozhegova\n\nIO — core field f
- or the thesis.\n\nEvent page: https://www.helsinkigse.fi/events/lea-bignon
- \nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22L%C
- 3%A9a+Bignon%22
+ ignon (KU Leuven)\nTitle: TBA\nHost: Alina Ozhegova\n\nEvent page: https:/
+ /www.helsinkigse.fi/events/lea-bignon\nSpeaker on Scholar: https://scholar
+ .google.com/scholar?q=author%3A%22L%C3%A9a+Bignon%22
 LOCATION:V001\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/lea-bignon
@@ -47,15 +46,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261029-yann-delaprez@helsinkigse.fi
-DTSTAMP:20260810T204724Z
+DTSTAMP:20260811T041049Z
 DTSTART;TZID=Europe/Helsinki:20261029T150000
 DTEND;TZID=Europe/Helsinki:20261029T160000
 SUMMARY:Industrial Organization: Yann Delaprez
 DESCRIPTION:Series: Industrial Organization\nType: Seminar\nSpeaker: Yann D
- elaprez (University of Chicago)\nTitle: TBA\nHost: Alina Ozhegova\n\nIO 
- — core field for the thesis.\n\nEvent page: https://www.helsinkigse.fi/e
- vents/yann-delaprez\nSpeaker on Scholar: https://scholar.google.com/schola
- r?q=author%3A%22Yann+Delaprez%22
+ elaprez (University of Chicago)\nTitle: TBA\nHost: Alina Ozhegova\n\nEvent
+  page: https://www.helsinkigse.fi/events/yann-delaprez\nSpeaker on Scholar
+ : https://scholar.google.com/scholar?q=author%3A%22Yann+Delaprez%22
 LOCATION:Q203\, Aalto University Väre Building\, Otaniementie 14\, Espoo
 URL:https://www.helsinkigse.fi/events/yann-delaprez
 STATUS:CONFIRMED
@@ -63,15 +61,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261126-rodrigo-carril@helsinkigse.fi
-DTSTAMP:20260810T204724Z
+DTSTAMP:20260811T041049Z
 DTSTART;TZID=Europe/Helsinki:20261126T150000
 DTEND;TZID=Europe/Helsinki:20261126T160000
 SUMMARY:Industrial Organization: Rodrigo Carril
 DESCRIPTION:Series: Industrial Organization\nType: Seminar\nSpeaker: Rodrig
- o Carril (Pompeu Fabra University)\nTitle: TBA\nHost: Alina Ozhegova\n\nIO
-  — core field for the thesis.\n\nEvent page: https://www.helsinkigse.fi/
- events/rodrigo-carril\nSpeaker on Scholar: https://scholar.google.com/scho
- lar?q=author%3A%22Rodrigo+Carril%22
+ o Carril (Pompeu Fabra University)\nTitle: TBA\nHost: Alina Ozhegova\n\nEv
+ ent page: https://www.helsinkigse.fi/events/rodrigo-carril\nSpeaker on Sch
+ olar: https://scholar.google.com/scholar?q=author%3A%22Rodrigo+Carril%22
 LOCATION:Q203\, Aalto University Väre Building\, Otaniementie 14\, Espoo
 URL:https://www.helsinkigse.fi/events/rodrigo-carril
 STATUS:CONFIRMED
