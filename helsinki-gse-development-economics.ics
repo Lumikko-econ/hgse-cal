@@ -30,14 +30,14 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260914-eleonora-guarnieri@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20260914T150000
 DTEND;TZID=Europe/Helsinki:20260914T160000
 SUMMARY:Development Economics: Eleonora Guarnieri
 DESCRIPTION:Series: Development Economics\nType: Seminar\nSpeaker: Eleonora
   Guarnieri (University of Bristol)\nTitle: TBA\n\nEvent page: https://www.
- helsinkigse.fi/events/eleonora-guarnieri\nSpeaker on Scholar: https://scho
- lar.google.com/scholar?q=author%3A%22Eleonora+Guarnieri%22
+ helsinkigse.fi/events/eleonora-guarnieri\n\nSpeaker on Scholar: https://sc
+ holar.google.com/scholar?q=author%3A%22Eleonora+Guarnieri%22
 URL:https://www.helsinkigse.fi/events/eleonora-guarnieri
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

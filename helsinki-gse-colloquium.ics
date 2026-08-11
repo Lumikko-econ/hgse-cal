@@ -30,28 +30,28 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260911-leander-heldring@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20260911T143000
 DTEND;TZID=Europe/Helsinki:20260911T154500
 SUMMARY:Colloquium: Leander Heldring
 DESCRIPTION:Series: Colloquium\nSpeaker: Leander Heldring (Northwestern Uni
  versity)\nTitle: TBA\nHost: Matti Mitrunen\n\nEvent page: https://www.hels
- inkigse.fi/events/leander-heldring\nSpeaker on Scholar: https://scholar.go
- ogle.com/scholar?q=author%3A%22Leander+Heldring%22
+ inkigse.fi/events/leander-heldring\n\nSpeaker on Scholar: https://scholar.
+ google.com/scholar?q=author%3A%22Leander+Heldring%22
 URL:https://www.helsinkigse.fi/events/leander-heldring
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260925-gisle-natvik@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20260925T143000
 DTEND;TZID=Europe/Helsinki:20260925T154500
 SUMMARY:Colloquium: Gisle Natvik
 DESCRIPTION:Series: Colloquium\nSpeaker: Gisle Natvik (BI Norwegian Busines
  s School)\nTitle: TBA\nHost: Niku Määttänen\n\nEvent page: https://www.
- helsinkigse.fi/events/gisle-natvik\nSpeaker on Scholar: https://scholar.go
- ogle.com/scholar?q=author%3A%22Gisle+Natvik%22
+ helsinkigse.fi/events/gisle-natvik\n\nSpeaker on Scholar: https://scholar.
+ google.com/scholar?q=author%3A%22Gisle+Natvik%22
 LOCATION:A411\, Hanken School of Economics\, Arkadiankatu 22\, Helsinki
 URL:https://www.helsinkigse.fi/events/gisle-natvik
 STATUS:CONFIRMED
@@ -59,14 +59,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261009-mathias-reynaert@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261009T143000
 DTEND;TZID=Europe/Helsinki:20261009T154500
 SUMMARY:Colloquium: Mathias Reynaert
 DESCRIPTION:Series: Colloquium\nSpeaker: Mathias Reynaert (TSE)\nTitle: TBA
  \nHost: Julia Salmi\n\nEvent page: https://www.helsinkigse.fi/events/mathi
- as-reynaert\nSpeaker on Scholar: https://scholar.google.com/scholar?q=auth
- or%3A%22Mathias+Reynaert%22
+ as-reynaert\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=au
+ thor%3A%22Mathias+Reynaert%22
 LOCATION:Seminar hall\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/mathias-reynaert
 STATUS:CONFIRMED
@@ -74,14 +74,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261023-basile-grassi@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261023T143000
 DTEND;TZID=Europe/Helsinki:20261023T154500
 SUMMARY:Colloquium: Basile Grassi
 DESCRIPTION:Series: Colloquium\nSpeaker: Basile Grassi (Bocconi University)
  \nTitle: TBA\nHost: Niku Määttänen\n\nEvent page: https://www.helsinkig
- se.fi/events/basile-grassi\nSpeaker on Scholar: https://scholar.google.com
- /scholar?q=author%3A%22Basile+Grassi%22
+ se.fi/events/basile-grassi\n\nSpeaker on Scholar: https://scholar.google.c
+ om/scholar?q=author%3A%22Basile+Grassi%22
 LOCATION:Seminar hall\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/basile-grassi
 STATUS:CONFIRMED
@@ -89,14 +89,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261120-joyee-deb@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261120T143000
 DTEND;TZID=Europe/Helsinki:20261120T154500
 SUMMARY:Colloquium: Joyee Deb
 DESCRIPTION:Series: Colloquium\nSpeaker: Joyee Deb (New York University)\nT
  itle: TBA\nHost: Julia Salmi\n\nEvent page: https://www.helsinkigse.fi/eve
- nts/joyee-deb\nSpeaker on Scholar: https://scholar.google.com/scholar?q=au
- thor%3A%22Joyee+Deb%22
+ nts/joyee-deb\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=
+ author%3A%22Joyee+Deb%22
 URL:https://www.helsinkigse.fi/events/joyee-deb
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

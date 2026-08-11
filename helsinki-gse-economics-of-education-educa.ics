@@ -31,7 +31,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260826-2nd-edition-of-the-helsinki-economics-of-education-worksh
  op@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:Economics of Education (Educa): 2nd Edition of the Helsinki Economi
@@ -50,15 +50,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261006-jenifer-ruiz-valenzuela@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261006T120000
 DTEND;TZID=Europe/Helsinki:20261006T130000
 SUMMARY:Economics of Education (Educa): Jenifer Ruiz Valenzuela
 DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
   Jenifer Ruiz Valenzuela (University of Barcelona)\nTitle: TBA\nHost: Mari
  a Sauval\n\nEvent page: https://www.helsinkigse.fi/events/jenifer-ruiz-val
- enzuela\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3
- A%22Jenifer+Ruiz+Valenzuela%22
+ enzuela\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author
+ %3A%22Jenifer+Ruiz+Valenzuela%22
 LOCATION:V101\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/jenifer-ruiz-valenzuela
@@ -67,15 +67,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261103-petter-lundborg1@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261103T120000
 DTEND;TZID=Europe/Helsinki:20261103T130000
 SUMMARY:Economics of Education (Educa): Petter Lundborg
 DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
   Petter Lundborg (Lund University)\nTitle: TBA\nHost: Cécile Bonneau\n\nE
- vent page: https://www.helsinkigse.fi/events/petter-lundborg1\nSpeaker on 
- Scholar: https://scholar.google.com/scholar?q=author%3A%22Petter+Lundborg%
- 22
+ vent page: https://www.helsinkigse.fi/events/petter-lundborg1\n\nSpeaker o
+ n Scholar: https://scholar.google.com/scholar?q=author%3A%22Petter+Lundbor
+ g%22
 LOCATION:V101\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/petter-lundborg1

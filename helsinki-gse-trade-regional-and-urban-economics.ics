@@ -30,15 +30,15 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260907-jos-van-ommeren@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20260907T150000
 DTEND;TZID=Europe/Helsinki:20260907T160000
 SUMMARY:Trade\, Regional and Urban Economics: Jos van Ommeren
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  eaker: Jos van Ommeren (VU Amsterdam)\nTitle: TBA\nHost: Tuukka Saarimaa\n
- \nEvent page: https://www.helsinkigse.fi/events/jos-van-ommeren\nSpeaker o
- n Scholar: https://scholar.google.com/scholar?q=author%3A%22Jos+van+Ommere
- n%22
+ \nEvent page: https://www.helsinkigse.fi/events/jos-van-ommeren\n\nSpeaker
+  on Scholar: https://scholar.google.com/scholar?q=author%3A%22Jos+van+Omme
+ ren%22
 LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/jos-van-ommeren
@@ -47,7 +47,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260921-andrea-herrera@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20260921T150000
 DTEND;TZID=Europe/Helsinki:20260921T160000
 SUMMARY:Trade\, Regional and Urban Economics: Andrea Herrera — Regulating
@@ -55,10 +55,10 @@ SUMMARY:Trade\, Regional and Urban Economics: Andrea Herrera — Regulating
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  eaker: Andrea Herrera (Aalto University)\nTitle: Regulating the Skyline: E
  vidence from London’s Protected Vistas\nHost: Prottoy Akbar\n\nEvent pag
- e: https://www.helsinkigse.fi/events/andrea-herrera\nPaper on Scholar: htt
- ps://scholar.google.com/scholar?q=%22Regulating+the+Skyline%3A+Evidence+fr
- om+London%27s+Protected+Vistas%22\nSpeaker on Scholar: https://scholar.goo
- gle.com/scholar?q=author%3A%22Andrea+Herrera%22
+ e: https://www.helsinkigse.fi/events/andrea-herrera\n\nPaper on Scholar: h
+ ttps://scholar.google.com/scholar?q=%22Regulating+the+Skyline%3A+Evidence+
+ from+London%27s+Protected+Vistas%22\n\nSpeaker on Scholar: https://scholar
+ .google.com/scholar?q=author%3A%22Andrea+Herrera%22
 LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/andrea-herrera
@@ -67,15 +67,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261005-caterina-soto-vieira@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261005T150000
 DTEND;TZID=Europe/Helsinki:20261005T160000
 SUMMARY:Trade\, Regional and Urban Economics: Caterina Soto-Vieira
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  eaker: Caterina Soto-Vieira (IIES)\nTitle: TBA\nHost: Pablo Warnes\n\nEven
- t page: https://www.helsinkigse.fi/events/caterina-soto-vieira\nSpeaker on
-  Scholar: https://scholar.google.com/scholar?q=author%3A%22Caterina+Soto-V
- ieira%22
+ t page: https://www.helsinkigse.fi/events/caterina-soto-vieira\n\nSpeaker 
+ on Scholar: https://scholar.google.com/scholar?q=author%3A%22Caterina+Soto
+ -Vieira%22
 LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/caterina-soto-vieira
@@ -84,15 +84,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261109-albert-sole-olle@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261109T150000
 DTEND;TZID=Europe/Helsinki:20261109T160000
 SUMMARY:Trade\, Regional and Urban Economics: Albert Solé Ollé
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  eaker: Albert Solé Ollé (University of Barcelona)\nTitle: TBA\n\nEvent p
- age: https://www.helsinkigse.fi/events/albert-sole-olle\nSpeaker on Schola
- r: https://scholar.google.com/scholar?q=author%3A%22Albert+Sol%C3%A9+Oll%C
- 3%A9%22
+ age: https://www.helsinkigse.fi/events/albert-sole-olle\n\nSpeaker on Scho
+ lar: https://scholar.google.com/scholar?q=author%3A%22Albert+Sol%C3%A9+Oll
+ %C3%A9%22
 LOCATION:M202\, Aalto University Väre Building\, Otaniementie 14\, Espoo
 URL:https://www.helsinkigse.fi/events/albert-sole-olle
 STATUS:CONFIRMED
@@ -100,14 +100,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261123-ignacio-aravena-gonzalez@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261123T150000
 DTEND;TZID=Europe/Helsinki:20261123T160000
 SUMMARY:Trade\, Regional and Urban Economics: Ignacio Aravena-Gonzalez
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  eaker: Ignacio Aravena-Gonzalez (LSE)\nTitle: TBA\n\nEvent page: https://w
- ww.helsinkigse.fi/events/ignacio-aravena-gonzalez\nSpeaker on Scholar: htt
- ps://scholar.google.com/scholar?q=author%3A%22Ignacio+Aravena-Gonzalez%22
+ ww.helsinkigse.fi/events/ignacio-aravena-gonzalez\n\nSpeaker on Scholar: h
+ ttps://scholar.google.com/scholar?q=author%3A%22Ignacio+Aravena-Gonzalez%2
+ 2
 LOCATION:1571 Meitner\, Aalto University Kide building\, Konemiehentie 1\, 
  Espoo
 URL:https://www.helsinkigse.fi/events/ignacio-aravena-gonzalez

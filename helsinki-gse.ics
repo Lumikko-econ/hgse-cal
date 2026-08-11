@@ -30,14 +30,14 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260819-anh-nguyen@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20260819T160000
 DTEND;TZID=Europe/Helsinki:20260819T170000
 SUMMARY:Behavioral Economics: Anh Nguyen
 DESCRIPTION:Series: Behavioral Economics\nType: Brown Bag Seminar\nSpeaker:
   Anh Nguyen (Hanken)\nTitle: TBA\nHost: Daniel Bougt\n\nEvent page: https:
- //www.helsinkigse.fi/events/anh-nguyen\nSpeaker on Scholar: https://schola
- r.google.com/scholar?q=author%3A%22Anh+Nguyen%22
+ //www.helsinkigse.fi/events/anh-nguyen\n\nSpeaker on Scholar: https://scho
+ lar.google.com/scholar?q=author%3A%22Anh+Nguyen%22
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/anh-nguyen
 STATUS:CONFIRMED
@@ -45,16 +45,16 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260821-antto-jokelainen4@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20260821T120000
 DTEND;TZID=Europe/Helsinki:20260821T150000
 SUMMARY:Doctoral Defence: Antto Jokelainen — Essays on Competition and Re
  gulation
 DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Antt
  o Jokelainen (Aalto University)\nTitle: Essays on Competition and Regulati
- on\n\nEvent page: https://www.helsinkigse.fi/events/antto-jokelainen4\nSpe
- aker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Antto+Jo
- kelainen%22
+ on\n\nEvent page: https://www.helsinkigse.fi/events/antto-jokelainen4\n\nS
+ peaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Antto+
+ Jokelainen%22
 LOCATION:R001 / H304 Opettajaneuvoston istuntosali\, Undergraduate Centre\,
   Otakaari 1\, Espoo
 URL:https://www.helsinkigse.fi/events/antto-jokelainen4
@@ -63,7 +63,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260821-jerry-montonen4@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20260821T120000
 DTEND;TZID=Europe/Helsinki:20260821T150000
 SUMMARY:Doctoral Defence: Jerry Montonen — Essays on the economics of soc
@@ -71,8 +71,8 @@ SUMMARY:Doctoral Defence: Jerry Montonen — Essays on the economics of soc
 DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Jerr
  y Montonen (Aalto University)\nTitle: Essays on the economics of social in
  teractions\n\nEvent page: https://www.helsinkigse.fi/events/jerry-montonen
- 4\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Je
- rry+Montonen%22
+ 4\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22
+ Jerry+Montonen%22
 LOCATION:V002\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/jerry-montonen4
@@ -82,7 +82,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260826-2nd-edition-of-the-helsinki-economics-of-education-worksh
  op@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:Economics of Education (Educa): 2nd Edition of the Helsinki Economi
@@ -101,30 +101,30 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260901-jakob-egholt-sogaard@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20260901T150000
 DTEND;TZID=Europe/Helsinki:20260901T160000
 SUMMARY:Labor & Public Economics: Jakob Egholt Søgaard
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Jakob
   Egholt Søgaard (Center for Economic Behavior and Inequality (CEBI))\nTit
  le: TBA\nHost: Salla Kalin\n\nEvent page: https://www.helsinkigse.fi/event
- s/jakob-egholt-sogaard\nSpeaker on Scholar: https://scholar.google.com/sch
- olar?q=author%3A%22Jakob+Egholt+S%C3%B8gaard%22
+ s/jakob-egholt-sogaard\n\nSpeaker on Scholar: https://scholar.google.com/s
+ cholar?q=author%3A%22Jakob+Egholt+S%C3%B8gaard%22
 URL:https://www.helsinkigse.fi/events/jakob-egholt-sogaard
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260907-jos-van-ommeren@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20260907T150000
 DTEND;TZID=Europe/Helsinki:20260907T160000
 SUMMARY:Trade\, Regional and Urban Economics: Jos van Ommeren
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  eaker: Jos van Ommeren (VU Amsterdam)\nTitle: TBA\nHost: Tuukka Saarimaa\n
- \nEvent page: https://www.helsinkigse.fi/events/jos-van-ommeren\nSpeaker o
- n Scholar: https://scholar.google.com/scholar?q=author%3A%22Jos+van+Ommere
- n%22
+ \nEvent page: https://www.helsinkigse.fi/events/jos-van-ommeren\n\nSpeaker
+  on Scholar: https://scholar.google.com/scholar?q=author%3A%22Jos+van+Omme
+ ren%22
 LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/jos-van-ommeren
@@ -133,71 +133,71 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260908-pia-nilsson@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20260908T150000
 DTEND;TZID=Europe/Helsinki:20260908T160000
 SUMMARY:Environmental Economics: Pia Nilsson
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Pia Ni
  lsson (University of Helsinki)\nTitle: TBA\nHost: Anna Sahari\n\nEvent pag
- e: https://www.helsinkigse.fi/events/pia-nilsson\nSpeaker on Scholar: http
- s://scholar.google.com/scholar?q=author%3A%22Pia+Nilsson%22
+ e: https://www.helsinkigse.fi/events/pia-nilsson\n\nSpeaker on Scholar: ht
+ tps://scholar.google.com/scholar?q=author%3A%22Pia+Nilsson%22
 URL:https://www.helsinkigse.fi/events/pia-nilsson
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260911-leander-heldring@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20260911T143000
 DTEND;TZID=Europe/Helsinki:20260911T154500
 SUMMARY:Colloquium: Leander Heldring
 DESCRIPTION:Series: Colloquium\nSpeaker: Leander Heldring (Northwestern Uni
  versity)\nTitle: TBA\nHost: Matti Mitrunen\n\nEvent page: https://www.hels
- inkigse.fi/events/leander-heldring\nSpeaker on Scholar: https://scholar.go
- ogle.com/scholar?q=author%3A%22Leander+Heldring%22
+ inkigse.fi/events/leander-heldring\n\nSpeaker on Scholar: https://scholar.
+ google.com/scholar?q=author%3A%22Leander+Heldring%22
 URL:https://www.helsinkigse.fi/events/leander-heldring
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260914-eleonora-guarnieri@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20260914T150000
 DTEND;TZID=Europe/Helsinki:20260914T160000
 SUMMARY:Development Economics: Eleonora Guarnieri
 DESCRIPTION:Series: Development Economics\nType: Seminar\nSpeaker: Eleonora
   Guarnieri (University of Bristol)\nTitle: TBA\n\nEvent page: https://www.
- helsinkigse.fi/events/eleonora-guarnieri\nSpeaker on Scholar: https://scho
- lar.google.com/scholar?q=author%3A%22Eleonora+Guarnieri%22
+ helsinkigse.fi/events/eleonora-guarnieri\n\nSpeaker on Scholar: https://sc
+ holar.google.com/scholar?q=author%3A%22Eleonora+Guarnieri%22
 URL:https://www.helsinkigse.fi/events/eleonora-guarnieri
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260915-andrew-shephard@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Labor & Public Economics: Andrew Shephard
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Andre
  w Shephard (KU Leuven)\nTitle: TBA\nHost: Ciprian Domnisoru\n\nTime not pu
  blished yet — all-day placeholder.\n\nEvent page: https://www.helsinkigs
- e.fi/events/andrew-shephard\nSpeaker on Scholar: https://scholar.google.co
- m/scholar?q=author%3A%22Andrew+Shephard%22
+ e.fi/events/andrew-shephard\n\nSpeaker on Scholar: https://scholar.google.
+ com/scholar?q=author%3A%22Andrew+Shephard%22
 URL:https://www.helsinkigse.fi/events/andrew-shephard
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260916-philip-jung@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20260916T150000
 DTEND;TZID=Europe/Helsinki:20260916T160000
 SUMMARY:Macroeconomics: Philip Jung
 DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Philip Jung (TU
   Dortmund)\nTitle: TBA\nHost: Timm Prein\n\nEvent page: https://www.helsin
- kigse.fi/events/philip-jung\nSpeaker on Scholar: https://scholar.google.co
- m/scholar?q=author%3A%22Philip+Jung%22
+ kigse.fi/events/philip-jung\n\nSpeaker on Scholar: https://scholar.google.
+ com/scholar?q=author%3A%22Philip+Jung%22
 LOCATION:Seminar room 2\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/philip-jung
 STATUS:CONFIRMED
@@ -205,14 +205,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260917-sandro-shelegia@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20260917T150000
 DTEND;TZID=Europe/Helsinki:20260917T160000
 SUMMARY:Seminar: Sandro Shelegia
 DESCRIPTION:Series: Seminar\nSpeaker: Sandro Shelegia (Universitat Pompeu F
  abra)\nTitle: TBA\n\nEvent page: https://www.helsinkigse.fi/events/sandro-
- shelegia\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%
- 3A%22Sandro+Shelegia%22
+ shelegia\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=autho
+ r%3A%22Sandro+Shelegia%22
 LOCATION:V001\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/sandro-shelegia
@@ -221,7 +221,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260921-andrea-herrera@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20260921T150000
 DTEND;TZID=Europe/Helsinki:20260921T160000
 SUMMARY:Trade\, Regional and Urban Economics: Andrea Herrera — Regulating
@@ -229,10 +229,10 @@ SUMMARY:Trade\, Regional and Urban Economics: Andrea Herrera — Regulating
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  eaker: Andrea Herrera (Aalto University)\nTitle: Regulating the Skyline: E
  vidence from London’s Protected Vistas\nHost: Prottoy Akbar\n\nEvent pag
- e: https://www.helsinkigse.fi/events/andrea-herrera\nPaper on Scholar: htt
- ps://scholar.google.com/scholar?q=%22Regulating+the+Skyline%3A+Evidence+fr
- om+London%27s+Protected+Vistas%22\nSpeaker on Scholar: https://scholar.goo
- gle.com/scholar?q=author%3A%22Andrea+Herrera%22
+ e: https://www.helsinkigse.fi/events/andrea-herrera\n\nPaper on Scholar: h
+ ttps://scholar.google.com/scholar?q=%22Regulating+the+Skyline%3A+Evidence+
+ from+London%27s+Protected+Vistas%22\n\nSpeaker on Scholar: https://scholar
+ .google.com/scholar?q=author%3A%22Andrea+Herrera%22
 LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/andrea-herrera
@@ -241,28 +241,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260922-marten-ritterrath1@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20260922T150000
 DTEND;TZID=Europe/Helsinki:20260922T160000
 SUMMARY:Seminar: Marten Ritterrath
 DESCRIPTION:Series: Seminar\nSpeaker: Marten Ritterrath (VATT)\nTitle: TBA\
  nHost: Anna Sahari\n\nEvent page: https://www.helsinkigse.fi/events/marten
- -ritterrath1\nSpeaker on Scholar: https://scholar.google.com/scholar?q=aut
- hor%3A%22Marten+Ritterrath%22
+ -ritterrath1\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=a
+ uthor%3A%22Marten+Ritterrath%22
 URL:https://www.helsinkigse.fi/events/marten-ritterrath1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260923-christian-brownlees@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20260923T160000
 DTEND;TZID=Europe/Helsinki:20260923T170000
 SUMMARY:Econometrics: Christian Brownlees
 DESCRIPTION:Series: Econometrics\nSpeaker: Christian Brownlees (LUISS Guido
   Carli)\nTitle: TBA\nHost: Mika Meitz\n\nEvent page: https://www.helsinkig
- se.fi/events/christian-brownlees\nSpeaker on Scholar: https://scholar.goog
- le.com/scholar?q=author%3A%22Christian+Brownlees%22
+ se.fi/events/christian-brownlees\n\nSpeaker on Scholar: https://scholar.go
+ ogle.com/scholar?q=author%3A%22Christian+Brownlees%22
 LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/christian-brownlees
 STATUS:CONFIRMED
@@ -270,28 +270,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260924-zhengqing-gui@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20260924T150000
 DTEND;TZID=Europe/Helsinki:20260924T160000
 SUMMARY:Microeconomics: Zhengqing Gui
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Zhengqing Gui (
  National University of Singapore)\nTitle: TBA\n\nEvent page: https://www.h
- elsinkigse.fi/events/zhengqing-gui\nSpeaker on Scholar: https://scholar.go
- ogle.com/scholar?q=author%3A%22Zhengqing+Gui%22
+ elsinkigse.fi/events/zhengqing-gui\n\nSpeaker on Scholar: https://scholar.
+ google.com/scholar?q=author%3A%22Zhengqing+Gui%22
 URL:https://www.helsinkigse.fi/events/zhengqing-gui
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260925-gisle-natvik@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20260925T143000
 DTEND;TZID=Europe/Helsinki:20260925T154500
 SUMMARY:Colloquium: Gisle Natvik
 DESCRIPTION:Series: Colloquium\nSpeaker: Gisle Natvik (BI Norwegian Busines
  s School)\nTitle: TBA\nHost: Niku Määttänen\n\nEvent page: https://www.
- helsinkigse.fi/events/gisle-natvik\nSpeaker on Scholar: https://scholar.go
- ogle.com/scholar?q=author%3A%22Gisle+Natvik%22
+ helsinkigse.fi/events/gisle-natvik\n\nSpeaker on Scholar: https://scholar.
+ google.com/scholar?q=author%3A%22Gisle+Natvik%22
 LOCATION:A411\, Hanken School of Economics\, Arkadiankatu 22\, Helsinki
 URL:https://www.helsinkigse.fi/events/gisle-natvik
 STATUS:CONFIRMED
@@ -299,28 +299,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260929-jakob-miethe@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20260929T150000
 DTEND;TZID=Europe/Helsinki:20260929T160000
 SUMMARY:Labor & Public Economics: Jakob Miethe
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Jakob
   Miethe (LMU Munich)\nTitle: TBA\nHost: Salla Kalin\n\nEvent page: https:/
- /www.helsinkigse.fi/events/jakob-miethe\nSpeaker on Scholar: https://schol
- ar.google.com/scholar?q=author%3A%22Jakob+Miethe%22
+ /www.helsinkigse.fi/events/jakob-miethe\n\nSpeaker on Scholar: https://sch
+ olar.google.com/scholar?q=author%3A%22Jakob+Miethe%22
 URL:https://www.helsinkigse.fi/events/jakob-miethe
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261001-lea-bignon@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261001T150000
 DTEND;TZID=Europe/Helsinki:20261001T160000
 SUMMARY:Industrial Organization: Léa Bignon
 DESCRIPTION:Series: Industrial Organization\nType: Seminar\nSpeaker: Léa B
  ignon (KU Leuven)\nTitle: TBA\nHost: Alina Ozhegova\n\nEvent page: https:/
- /www.helsinkigse.fi/events/lea-bignon\nSpeaker on Scholar: https://scholar
- .google.com/scholar?q=author%3A%22L%C3%A9a+Bignon%22
+ /www.helsinkigse.fi/events/lea-bignon\n\nSpeaker on Scholar: https://schol
+ ar.google.com/scholar?q=author%3A%22L%C3%A9a+Bignon%22
 LOCATION:V001\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/lea-bignon
@@ -329,15 +329,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261005-caterina-soto-vieira@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261005T150000
 DTEND;TZID=Europe/Helsinki:20261005T160000
 SUMMARY:Trade\, Regional and Urban Economics: Caterina Soto-Vieira
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  eaker: Caterina Soto-Vieira (IIES)\nTitle: TBA\nHost: Pablo Warnes\n\nEven
- t page: https://www.helsinkigse.fi/events/caterina-soto-vieira\nSpeaker on
-  Scholar: https://scholar.google.com/scholar?q=author%3A%22Caterina+Soto-V
- ieira%22
+ t page: https://www.helsinkigse.fi/events/caterina-soto-vieira\n\nSpeaker 
+ on Scholar: https://scholar.google.com/scholar?q=author%3A%22Caterina+Soto
+ -Vieira%22
 LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/caterina-soto-vieira
@@ -346,15 +346,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261006-jenifer-ruiz-valenzuela@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261006T120000
 DTEND;TZID=Europe/Helsinki:20261006T130000
 SUMMARY:Economics of Education (Educa): Jenifer Ruiz Valenzuela
 DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
   Jenifer Ruiz Valenzuela (University of Barcelona)\nTitle: TBA\nHost: Mari
  a Sauval\n\nEvent page: https://www.helsinkigse.fi/events/jenifer-ruiz-val
- enzuela\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3
- A%22Jenifer+Ruiz+Valenzuela%22
+ enzuela\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author
+ %3A%22Jenifer+Ruiz+Valenzuela%22
 LOCATION:V101\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/jenifer-ruiz-valenzuela
@@ -363,28 +363,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261006-asa-lofgren1@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261006T150000
 DTEND;TZID=Europe/Helsinki:20261006T160000
 SUMMARY:Environmental Economics: Åsa Löfgren
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Åsa L
  öfgren (Gothenburg University)\nTitle: TBA\nHost: Anna Sahari\n\nEvent pa
- ge: https://www.helsinkigse.fi/events/asa-lofgren1\nSpeaker on Scholar: ht
- tps://scholar.google.com/scholar?q=author%3A%22%C3%85sa+L%C3%B6fgren%22
+ ge: https://www.helsinkigse.fi/events/asa-lofgren1\n\nSpeaker on Scholar: 
+ https://scholar.google.com/scholar?q=author%3A%22%C3%85sa+L%C3%B6fgren%22
 URL:https://www.helsinkigse.fi/events/asa-lofgren1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261008-martin-vaeth@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261008T150000
 DTEND;TZID=Europe/Helsinki:20261008T160000
 SUMMARY:Microeconomics: Martin Vaeth
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Martin Vaeth (P
  aris School of Economics)\nTitle: TBA\n\nEvent page: https://www.helsinkig
- se.fi/events/martin-vaeth\nSpeaker on Scholar: https://scholar.google.com/
- scholar?q=author%3A%22Martin+Vaeth%22
+ se.fi/events/martin-vaeth\n\nSpeaker on Scholar: https://scholar.google.co
+ m/scholar?q=author%3A%22Martin+Vaeth%22
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/martin-vaeth
 STATUS:CONFIRMED
@@ -392,14 +392,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261009-mathias-reynaert@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261009T143000
 DTEND;TZID=Europe/Helsinki:20261009T154500
 SUMMARY:Colloquium: Mathias Reynaert
 DESCRIPTION:Series: Colloquium\nSpeaker: Mathias Reynaert (TSE)\nTitle: TBA
  \nHost: Julia Salmi\n\nEvent page: https://www.helsinkigse.fi/events/mathi
- as-reynaert\nSpeaker on Scholar: https://scholar.google.com/scholar?q=auth
- or%3A%22Mathias+Reynaert%22
+ as-reynaert\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=au
+ thor%3A%22Mathias+Reynaert%22
 LOCATION:Seminar hall\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/mathias-reynaert
 STATUS:CONFIRMED
@@ -407,14 +407,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261013-panu-poutavaara@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261013T150000
 DTEND;TZID=Europe/Helsinki:20261013T160000
 SUMMARY:Labor & Public Economics: Panu Poutavaara
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Panu 
  Poutavaara (IFO)\nTitle: TBA\nHost: Ciprian Domnisoru\n\nEvent page: https
- ://www.helsinkigse.fi/events/panu-poutavaara\nSpeaker on Scholar: https://
- scholar.google.com/scholar?q=author%3A%22Panu+Poutavaara%22
+ ://www.helsinkigse.fi/events/panu-poutavaara\n\nSpeaker on Scholar: https:
+ //scholar.google.com/scholar?q=author%3A%22Panu+Poutavaara%22
 LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/panu-poutavaara
@@ -423,14 +423,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261022-florian-brandl@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261022T150000
 DTEND;TZID=Europe/Helsinki:20261022T160000
 SUMMARY:Microeconomics: Florian Brandl
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Florian Brandl 
  (University of Bonn)\nTitle: TBA\n\nEvent page: https://www.helsinkigse.fi
- /events/florian-brandl\nSpeaker on Scholar: https://scholar.google.com/sch
- olar?q=author%3A%22Florian+Brandl%22
+ /events/florian-brandl\n\nSpeaker on Scholar: https://scholar.google.com/s
+ cholar?q=author%3A%22Florian+Brandl%22
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/florian-brandl
 STATUS:CONFIRMED
@@ -438,14 +438,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261023-basile-grassi@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261023T143000
 DTEND;TZID=Europe/Helsinki:20261023T154500
 SUMMARY:Colloquium: Basile Grassi
 DESCRIPTION:Series: Colloquium\nSpeaker: Basile Grassi (Bocconi University)
  \nTitle: TBA\nHost: Niku Määttänen\n\nEvent page: https://www.helsinkig
- se.fi/events/basile-grassi\nSpeaker on Scholar: https://scholar.google.com
- /scholar?q=author%3A%22Basile+Grassi%22
+ se.fi/events/basile-grassi\n\nSpeaker on Scholar: https://scholar.google.c
+ om/scholar?q=author%3A%22Basile+Grassi%22
 LOCATION:Seminar hall\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/basile-grassi
 STATUS:CONFIRMED
@@ -453,14 +453,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261026-veronica-salazar-restrepo@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261026T150000
 DTEND;TZID=Europe/Helsinki:20261026T160000
 SUMMARY:Seminar: Veronica Salazar-Restrepo
 DESCRIPTION:Series: Seminar\nSpeaker: Veronica Salazar-Restrepo (IIES\, Sto
  ckholm University)\nTitle: TBA\n\nEvent page: https://www.helsinkigse.fi/e
- vents/veronica-salazar-restrepo\nSpeaker on Scholar: https://scholar.googl
- e.com/scholar?q=author%3A%22Veronica+Salazar-Restrepo%22
+ vents/veronica-salazar-restrepo\n\nSpeaker on Scholar: https://scholar.goo
+ gle.com/scholar?q=author%3A%22Veronica+Salazar-Restrepo%22
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/veronica-salazar-restrepo
 STATUS:CONFIRMED
@@ -468,7 +468,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261028-elias-tsakas-evangelos-mourelatos@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Behavioral Economics: Elias Tsakas & Evangelos Mourelatos
@@ -476,36 +476,36 @@ DESCRIPTION:Series: Behavioral Economics\nType: Seminar\nSpeaker: Elias Tsa
  kas & Evangelos Mourelatos (Graduate School of Business and Economics (GSB
  E) & University of Oulu)\nTitle: TBA\n\nTime not published yet — all-day
   placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/elias-tsaka
- s-evangelos-mourelatos\nSpeaker on Scholar: https://scholar.google.com/sch
- olar?q=author%3A%22Elias+Tsakas%22
+ s-evangelos-mourelatos\n\nSpeaker on Scholar: https://scholar.google.com/s
+ cholar?q=author%3A%22Elias+Tsakas%22
 URL:https://www.helsinkigse.fi/events/elias-tsakas-evangelos-mourelatos
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261028-see-yu-chan@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261028T150000
 DTEND;TZID=Europe/Helsinki:20261028T160000
 SUMMARY:Macroeconomics: See-Yu Chan
 DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: See-Yu Chan (Un
  iversity of Mannheim)\nTitle: TBA\nHost: Oskari Vähämaa\n\nEvent page: h
- ttps://www.helsinkigse.fi/events/see-yu-chan\nSpeaker on Scholar: https://
- scholar.google.com/scholar?q=author%3A%22See-Yu+Chan%22
+ ttps://www.helsinkigse.fi/events/see-yu-chan\n\nSpeaker on Scholar: https:
+ //scholar.google.com/scholar?q=author%3A%22See-Yu+Chan%22
 URL:https://www.helsinkigse.fi/events/see-yu-chan
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261029-yann-delaprez@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261029T150000
 DTEND;TZID=Europe/Helsinki:20261029T160000
 SUMMARY:Industrial Organization: Yann Delaprez
 DESCRIPTION:Series: Industrial Organization\nType: Seminar\nSpeaker: Yann D
  elaprez (University of Chicago)\nTitle: TBA\nHost: Alina Ozhegova\n\nEvent
-  page: https://www.helsinkigse.fi/events/yann-delaprez\nSpeaker on Scholar
- : https://scholar.google.com/scholar?q=author%3A%22Yann+Delaprez%22
+  page: https://www.helsinkigse.fi/events/yann-delaprez\n\nSpeaker on Schol
+ ar: https://scholar.google.com/scholar?q=author%3A%22Yann+Delaprez%22
 LOCATION:Q203\, Aalto University Väre Building\, Otaniementie 14\, Espoo
 URL:https://www.helsinkigse.fi/events/yann-delaprez
 STATUS:CONFIRMED
@@ -513,15 +513,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261103-petter-lundborg1@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261103T120000
 DTEND;TZID=Europe/Helsinki:20261103T130000
 SUMMARY:Economics of Education (Educa): Petter Lundborg
 DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
   Petter Lundborg (Lund University)\nTitle: TBA\nHost: Cécile Bonneau\n\nE
- vent page: https://www.helsinkigse.fi/events/petter-lundborg1\nSpeaker on 
- Scholar: https://scholar.google.com/scholar?q=author%3A%22Petter+Lundborg%
- 22
+ vent page: https://www.helsinkigse.fi/events/petter-lundborg1\n\nSpeaker o
+ n Scholar: https://scholar.google.com/scholar?q=author%3A%22Petter+Lundbor
+ g%22
 LOCATION:V101\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/petter-lundborg1
@@ -530,15 +530,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261109-albert-sole-olle@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261109T150000
 DTEND;TZID=Europe/Helsinki:20261109T160000
 SUMMARY:Trade\, Regional and Urban Economics: Albert Solé Ollé
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  eaker: Albert Solé Ollé (University of Barcelona)\nTitle: TBA\n\nEvent p
- age: https://www.helsinkigse.fi/events/albert-sole-olle\nSpeaker on Schola
- r: https://scholar.google.com/scholar?q=author%3A%22Albert+Sol%C3%A9+Oll%C
- 3%A9%22
+ age: https://www.helsinkigse.fi/events/albert-sole-olle\n\nSpeaker on Scho
+ lar: https://scholar.google.com/scholar?q=author%3A%22Albert+Sol%C3%A9+Oll
+ %C3%A9%22
 LOCATION:M202\, Aalto University Väre Building\, Otaniementie 14\, Espoo
 URL:https://www.helsinkigse.fi/events/albert-sole-olle
 STATUS:CONFIRMED
@@ -546,71 +546,72 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261110-hugo-reichardt@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Labor & Public Economics: Hugo Reichardt
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Hugo 
  Reichardt (Centre de Recerca en Economia Internacional (CREi))\nTitle: TBA
  \n\nTime not published yet — all-day placeholder.\n\nEvent page: https:/
- /www.helsinkigse.fi/events/hugo-reichardt\nSpeaker on Scholar: https://sch
- olar.google.com/scholar?q=author%3A%22Hugo+Reichardt%22
+ /www.helsinkigse.fi/events/hugo-reichardt\n\nSpeaker on Scholar: https://s
+ cholar.google.com/scholar?q=author%3A%22Hugo+Reichardt%22
 URL:https://www.helsinkigse.fi/events/hugo-reichardt
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261117-tuomas-kaariaho@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261117T150000
 DTEND;TZID=Europe/Helsinki:20261117T160000
 SUMMARY:Environmental Economics: Tuomas Kaariaho
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Tuomas
   Kaariaho (University of Helsinki)\nTitle: TBA\nHost: Anna Sahari\n\nEvent
-  page: https://www.helsinkigse.fi/events/tuomas-kaariaho\nSpeaker on Schol
- ar: https://scholar.google.com/scholar?q=author%3A%22Tuomas+Kaariaho%22
+  page: https://www.helsinkigse.fi/events/tuomas-kaariaho\n\nSpeaker on Sch
+ olar: https://scholar.google.com/scholar?q=author%3A%22Tuomas+Kaariaho%22
 URL:https://www.helsinkigse.fi/events/tuomas-kaariaho
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261119-pia-ennuchat@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261119T150000
 DTEND;TZID=Europe/Helsinki:20261119T160000
 SUMMARY:Microeconomics: Pia Ennuchat
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Pia Ennuchat (U
  niversity of Mannheim)\nTitle: TBA\n\nEvent page: https://www.helsinkigse.
- fi/events/pia-ennuchat\nSpeaker on Scholar: https://scholar.google.com/sch
- olar?q=author%3A%22Pia+Ennuchat%22
+ fi/events/pia-ennuchat\n\nSpeaker on Scholar: https://scholar.google.com/s
+ cholar?q=author%3A%22Pia+Ennuchat%22
 URL:https://www.helsinkigse.fi/events/pia-ennuchat
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261120-joyee-deb@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261120T143000
 DTEND;TZID=Europe/Helsinki:20261120T154500
 SUMMARY:Colloquium: Joyee Deb
 DESCRIPTION:Series: Colloquium\nSpeaker: Joyee Deb (New York University)\nT
  itle: TBA\nHost: Julia Salmi\n\nEvent page: https://www.helsinkigse.fi/eve
- nts/joyee-deb\nSpeaker on Scholar: https://scholar.google.com/scholar?q=au
- thor%3A%22Joyee+Deb%22
+ nts/joyee-deb\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=
+ author%3A%22Joyee+Deb%22
 URL:https://www.helsinkigse.fi/events/joyee-deb
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261123-ignacio-aravena-gonzalez@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261123T150000
 DTEND;TZID=Europe/Helsinki:20261123T160000
 SUMMARY:Trade\, Regional and Urban Economics: Ignacio Aravena-Gonzalez
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  eaker: Ignacio Aravena-Gonzalez (LSE)\nTitle: TBA\n\nEvent page: https://w
- ww.helsinkigse.fi/events/ignacio-aravena-gonzalez\nSpeaker on Scholar: htt
- ps://scholar.google.com/scholar?q=author%3A%22Ignacio+Aravena-Gonzalez%22
+ ww.helsinkigse.fi/events/ignacio-aravena-gonzalez\n\nSpeaker on Scholar: h
+ ttps://scholar.google.com/scholar?q=author%3A%22Ignacio+Aravena-Gonzalez%2
+ 2
 LOCATION:1571 Meitner\, Aalto University Kide building\, Konemiehentie 1\, 
  Espoo
 URL:https://www.helsinkigse.fi/events/ignacio-aravena-gonzalez
@@ -619,28 +620,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261124-wouter-leenders@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261124T150000
 DTEND;TZID=Europe/Helsinki:20261124T160000
 SUMMARY:Labor & Public Economics: Wouter Leenders
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Woute
  r Leenders (Sciences Po)\nTitle: TBA\nHost: Salla Kalin\n\nEvent page: htt
- ps://www.helsinkigse.fi/events/wouter-leenders\nSpeaker on Scholar: https:
- //scholar.google.com/scholar?q=author%3A%22Wouter+Leenders%22
+ ps://www.helsinkigse.fi/events/wouter-leenders\n\nSpeaker on Scholar: http
+ s://scholar.google.com/scholar?q=author%3A%22Wouter+Leenders%22
 URL:https://www.helsinkigse.fi/events/wouter-leenders
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261126-rodrigo-carril@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261126T150000
 DTEND;TZID=Europe/Helsinki:20261126T160000
 SUMMARY:Industrial Organization: Rodrigo Carril
 DESCRIPTION:Series: Industrial Organization\nType: Seminar\nSpeaker: Rodrig
  o Carril (Pompeu Fabra University)\nTitle: TBA\nHost: Alina Ozhegova\n\nEv
- ent page: https://www.helsinkigse.fi/events/rodrigo-carril\nSpeaker on Sch
- olar: https://scholar.google.com/scholar?q=author%3A%22Rodrigo+Carril%22
+ ent page: https://www.helsinkigse.fi/events/rodrigo-carril\n\nSpeaker on S
+ cholar: https://scholar.google.com/scholar?q=author%3A%22Rodrigo+Carril%22
 LOCATION:Q203\, Aalto University Väre Building\, Otaniementie 14\, Espoo
 URL:https://www.helsinkigse.fi/events/rodrigo-carril
 STATUS:CONFIRMED
@@ -648,21 +649,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261201-piia-remes@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261201T150000
 DTEND;TZID=Europe/Helsinki:20261201T160000
 SUMMARY:Environmental Economics: Piia Remes
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Piia R
  emes (VATT)\nTitle: TBA\nHost: Anna Sahari\n\nEvent page: https://www.hels
- inkigse.fi/events/piia-remes\nSpeaker on Scholar: https://scholar.google.c
- om/scholar?q=author%3A%22Piia+Remes%22
+ inkigse.fi/events/piia-remes\n\nSpeaker on Scholar: https://scholar.google
+ .com/scholar?q=author%3A%22Piia+Remes%22
 URL:https://www.helsinkigse.fi/events/piia-remes
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261209-alvaro-cox@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261209T150000
 DTEND;TZID=Europe/Helsinki:20261209T160000
 SUMMARY:Macroeconomics: Alvaro Cox — Bringing Demand Within Reach: Digita
@@ -671,24 +672,24 @@ DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Alvaro Cox (Uni
  versidad Carlos III de Madrid)\nTitle: Bringing Demand Within Reach: Digit
  al Platforms\, Market Access\, and the Allocation of Firm Scale\nHost: Osk
  ari Vähämaa\n\nEvent page: https://www.helsinkigse.fi/events/alvaro-cox\
- nPaper on Scholar: https://scholar.google.com/scholar?q=%22Bringing+Demand
- +Within+Reach%3A+Digital+Platforms%2C+Market+Access%2C+and+the+Allocation+
- of+Firm+Scale%22\nSpeaker on Scholar: https://scholar.google.com/scholar?q
- =author%3A%22Alvaro+Cox%22
+ n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Bringing+Dema
+ nd+Within+Reach%3A+Digital+Platforms%2C+Market+Access%2C+and+the+Allocatio
+ n+of+Firm+Scale%22\n\nSpeaker on Scholar: https://scholar.google.com/schol
+ ar?q=author%3A%22Alvaro+Cox%22
 URL:https://www.helsinkigse.fi/events/alvaro-cox
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261215-linde-kattenberg@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20261215T150000
 DTEND;TZID=Europe/Helsinki:20261215T160000
 SUMMARY:Environmental Economics: Linde Kattenberg
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Linde 
  Kattenberg (Aarhus University)\nTitle: TBA\nHost: Anna Sahari\n\nEvent pag
- e: https://www.helsinkigse.fi/events/linde-kattenberg\nSpeaker on Scholar:
-  https://scholar.google.com/scholar?q=author%3A%22Linde+Kattenberg%22
+ e: https://www.helsinkigse.fi/events/linde-kattenberg\n\nSpeaker on Schola
+ r: https://scholar.google.com/scholar?q=author%3A%22Linde+Kattenberg%22
 URL:https://www.helsinkigse.fi/events/linde-kattenberg
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

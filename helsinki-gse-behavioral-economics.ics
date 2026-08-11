@@ -30,14 +30,14 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260819-anh-nguyen@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;TZID=Europe/Helsinki:20260819T160000
 DTEND;TZID=Europe/Helsinki:20260819T170000
 SUMMARY:Behavioral Economics: Anh Nguyen
 DESCRIPTION:Series: Behavioral Economics\nType: Brown Bag Seminar\nSpeaker:
   Anh Nguyen (Hanken)\nTitle: TBA\nHost: Daniel Bougt\n\nEvent page: https:
- //www.helsinkigse.fi/events/anh-nguyen\nSpeaker on Scholar: https://schola
- r.google.com/scholar?q=author%3A%22Anh+Nguyen%22
+ //www.helsinkigse.fi/events/anh-nguyen\n\nSpeaker on Scholar: https://scho
+ lar.google.com/scholar?q=author%3A%22Anh+Nguyen%22
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/anh-nguyen
 STATUS:CONFIRMED
@@ -45,7 +45,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261028-elias-tsakas-evangelos-mourelatos@helsinkigse.fi
-DTSTAMP:20260811T041923Z
+DTSTAMP:20260811T042138Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Behavioral Economics: Elias Tsakas & Evangelos Mourelatos
@@ -53,8 +53,8 @@ DESCRIPTION:Series: Behavioral Economics\nType: Seminar\nSpeaker: Elias Tsa
  kas & Evangelos Mourelatos (Graduate School of Business and Economics (GSB
  E) & University of Oulu)\nTitle: TBA\n\nTime not published yet — all-day
   placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/elias-tsaka
- s-evangelos-mourelatos\nSpeaker on Scholar: https://scholar.google.com/sch
- olar?q=author%3A%22Elias+Tsakas%22
+ s-evangelos-mourelatos\n\nSpeaker on Scholar: https://scholar.google.com/s
+ cholar?q=author%3A%22Elias+Tsakas%22
 URL:https://www.helsinkigse.fi/events/elias-tsakas-evangelos-mourelatos
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
