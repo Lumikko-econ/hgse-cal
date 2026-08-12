@@ -16,7 +16,7 @@ cron job scrapes it twice a week and republishes it here.
 
 | Calendar | Subscription URL | Events |
 |---|---|---:|
-| Everything | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse.ics` | 443 |
+| Everything | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse.ics` | 445 |
 
 ### Two calendars you can colour separately
 
@@ -27,7 +27,7 @@ together, the full schedule.
 | Calendar | Subscription URL | Events |
 |---|---|---:|
 | Core | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-core.ics` | 160 |
-| Other | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-other.ics` | 283 |
+| Other | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-other.ics` | 285 |
 
 ### One per series
 
@@ -39,14 +39,14 @@ Take as many as you like — they don't overlap.
 | Colloquium | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-colloquium.ics` | 29 |
 | Development Economics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-development-economics.ics` | 13 |
 | Doctoral Defences | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-doctoral-defences.ics` | 25 |
-| Econometrics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-econometrics.ics` | 9 |
+| Econometrics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-econometrics.ics` | 10 |
 | Economics of Education (Educa) | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-economics-of-education-educa.ics` | 17 |
 | Environmental Economics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-environmental-economics.ics` | 31 |
 | Industrial Organization | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-industrial-organization.ics` | 64 |
 | Labor & Public Economics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-labor-public-economics.ics` | 57 |
 | Macroeconomics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-macroeconomics.ics` | 12 |
 | Microeconomics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-microeconomics.ics` | 20 |
-| Seminar | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-seminar.ics` | 8 |
+| Seminar | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-seminar.ics` | 9 |
 | Trade, Regional and Urban Economics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-trade-regional-and-urban-economics.ics` | 22 |
 
 <!-- feeds:end -->
@@ -115,3 +115,8 @@ Twice a week from <https://www.helsinkigse.fi/events>, pushed only when
 something actually changed — so the commit history is a log of schedule
 changes, not of the job running. If the page layout ever changes the scraper
 parses zero events and stops without overwriting anything.
+
+---
+
+Built and maintained by **Mikko Lumme**, Helsinki GSE / Aalto University.
+If a series is missing, a link misbehaves, or something looks wrong, get in touch.
