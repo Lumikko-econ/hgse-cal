@@ -111,10 +111,13 @@ back to find who spoke and what the paper was.
 
 ## How it updates
 
-Twice a week from <https://www.helsinkigse.fi/events>, pushed only when
-something actually changed — so the commit history is a log of schedule
+Every weekday morning from <https://www.helsinkigse.fi/events>, pushed only
+when something actually changed — so the commit history is a log of schedule
 changes, not of the job running. If the page layout ever changes the scraper
 parses zero events and stops without overwriting anything.
+
+Your calendar app decides how often it re-reads the feed, so a newly announced
+seminar may take a few hours to appear on your side.
 
 ---
 
