@@ -1,16 +1,15 @@
 # hgse-cal
 
-Helsinki GSE seminars and doctoral defences as subscribable calendar feeds.
-
-HGSE's own per-series Google Calendars stopped updating in December 2024 and
-`helsinkigse.fi/seminar-calendar` is a 404. The events page is current, so a
-cron job scrapes it twice a week and republishes it here.
+Helsinki GSE seminars and doctoral defences as subscribable calendar feeds,
+updated every weekday morning from the
+[Helsinki GSE events page](https://www.helsinkigse.fi/events).
 
 ## Feeds
 
 <!-- feeds:start -->
 
-**Pick one scheme.** Mixing them shows events twice.
+**Pick one or the other.** Taking the combined feed *and* a per-series
+one shows those events twice.
 
 ### Everything in one calendar
 
@@ -18,18 +17,7 @@ cron job scrapes it twice a week and republishes it here.
 |---|---|---:|
 | Everything | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse.ics` | 446 |
 
-### Two calendars you can colour separately
-
-Core is Colloquium · Industrial Organization · Microeconomics · Trade,
-Regional and Urban Economics · doctoral defences. Other is the rest —
-together, the full schedule.
-
-| Calendar | Subscription URL | Events |
-|---|---|---:|
-| Core | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-core.ics` | 160 |
-| Other | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-other.ics` | 286 |
-
-### One per series
+### One calendar per series
 
 Take as many as you like — they don't overlap.
 
@@ -76,21 +64,12 @@ empty, with no error.
 **View → Arrange Calendars → Overlay** (not available in Month view). On the
 web: switch off **Split view**.
 
-If a client rejects a feed, try the same file via jsDelivr — identical content
-served as `text/calendar` rather than GitHub's `text/plain`, though cached for
-up to 12 hours:
-
-```
-https://cdn.jsdelivr.net/gh/Lumikko-econ/hgse-cal@main/
-```
-
 ---
 
 ## What's in an event
 
 Series, speaker and affiliation, title once announced, host, venue, and a link
-to the event page. Everything comes from Helsinki GSE — nothing is inferred or
-looked up elsewhere.
+to the event page.
 
 Feeds are read-only — to add a note or an alert to a seminar, copy that event
 into your own calendar and edit the copy.
