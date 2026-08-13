@@ -16,7 +16,7 @@ cron job scrapes it twice a week and republishes it here.
 
 | Calendar | Subscription URL | Events |
 |---|---|---:|
-| Everything | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse.ics` | 445 |
+| Everything | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse.ics` | 446 |
 
 ### Two calendars you can colour separately
 
@@ -27,7 +27,7 @@ together, the full schedule.
 | Calendar | Subscription URL | Events |
 |---|---|---:|
 | Core | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-core.ics` | 160 |
-| Other | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-other.ics` | 285 |
+| Other | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-other.ics` | 286 |
 
 ### One per series
 
@@ -48,6 +48,7 @@ Take as many as you like — they don't overlap.
 | Microeconomics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-microeconomics.ics` | 20 |
 | Seminar | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-seminar.ics` | 9 |
 | Trade, Regional and Urban Economics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-trade-regional-and-urban-economics.ics` | 22 |
+| Workshop | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-workshop.ics` | 2 |
 
 <!-- feeds:end -->
 
@@ -87,11 +88,9 @@ https://cdn.jsdelivr.net/gh/Lumikko-econ/hgse-cal@main/
 
 ## What's in an event
 
-Series, speaker and affiliation, title once announced, host, venue, a link to
-the event page, and Google Scholar searches — the speaker always, plus the paper
-once a title is announced (a talk is often titled differently from the published
-paper, so both are offered). Defences get the speaker search only, since a
-thesis title is rarely indexed.
+Series, speaker and affiliation, title once announced, host, venue, and a link
+to the event page. Everything comes from Helsinki GSE — nothing is inferred or
+looked up elsewhere.
 
 Feeds are read-only — to add a note or an alert to a seminar, copy that event
 into your own calendar and edit the copy.

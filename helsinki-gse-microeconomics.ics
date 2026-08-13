@@ -30,22 +30,21 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250319-piero-gottardi@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250319
 DTEND;VALUE=DATE:20250320
 SUMMARY:Microeconomics: CANCELLED Piero Gottardi
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: CANCELLED Piero
   Gottardi (University of Essex)\nTitle: TBA\n\nTime not published yet — 
  all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/pier
- o-gottardi\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=aut
- hor%3A%22CANCELLED+Piero+Gottardi%22
+ o-gottardi
 URL:https://www.helsinkigse.fi/events/piero-gottardi
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250521-ludvig-sinander@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250521
 DTEND;VALUE=DATE:20250522
 SUMMARY:Microeconomics: Ludvig Sinander — Risk attitudes\, dominance\, an
@@ -54,33 +53,28 @@ DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Ludvig Sinander
   (University of Oxford)\nTitle: Risk attitudes\, dominance\, and outside o
  ptions (with Gregorio Curello and Mark Whitmeyer)\n\nTime not published ye
  t — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/event
- s/ludvig-sinander\n\nPaper on Scholar: https://scholar.google.com/scholar?
- q=%22Risk+attitudes%2C+dominance%2C+and+outside+options+%28with+Gregorio+C
- urello+and+Mark+Whitmeyer%29%22\n\nSpeaker on Scholar: https://scholar.goo
- gle.com/scholar?q=author%3A%22Ludvig+Sinander%22
+ s/ludvig-sinander
 URL:https://www.helsinkigse.fi/events/ludvig-sinander
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250522-toomas-hinnosaar@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250522
 DTEND;VALUE=DATE:20250523
 SUMMARY:Microeconomics: Toomas Hinnosaar — Pricing Novel Goods
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Toomas Hinnosaa
  r (University of Nottingham)\nTitle: Pricing Novel Goods\n\nTime not publi
  shed yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.f
- i/events/toomas-hinnosaar\n\nPaper on Scholar: https://scholar.google.com/
- scholar?q=%22Pricing+Novel+Goods%22\n\nSpeaker on Scholar: https://scholar
- .google.com/scholar?q=author%3A%22Toomas+Hinnosaar%22
+ i/events/toomas-hinnosaar
 URL:https://www.helsinkigse.fi/events/toomas-hinnosaar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250604-andreas-kleiner@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250604
 DTEND;VALUE=DATE:20250605
 SUMMARY:Microeconomics: Andreas Kleiner — Optimal Delegation in a Multidi
@@ -88,17 +82,14 @@ SUMMARY:Microeconomics: Andreas Kleiner — Optimal Delegation in a Multidi
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Andreas Kleiner
   (University of Bonn)\nTitle: Optimal Delegation in a Multidimensional Wor
  ld\n\nTime not published yet — all-day placeholder.\n\nEvent page: https
- ://www.helsinkigse.fi/events/andreas-kleiner\n\nPaper on Scholar: https://
- scholar.google.com/scholar?q=%22Optimal+Delegation+in+a+Multidimensional+W
- orld%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author
- %3A%22Andreas+Kleiner%22
+ ://www.helsinkigse.fi/events/andreas-kleiner
 URL:https://www.helsinkigse.fi/events/andreas-kleiner
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250924-julia-wirtz@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250924
 DTEND;VALUE=DATE:20250925
 SUMMARY:Microeconomics: Julia Wirtz — Optimal Delegated Search with Hidde
@@ -107,17 +98,14 @@ DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Julia Wirtz (Un
  iversity of Bristol)\nTitle: Optimal Delegated Search with Hidden Informat
  ion: Screening without Transfers (with Elnaz Bajoori)\n\nTime not publishe
  d yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/e
- vents/julia-wirtz\n\nPaper on Scholar: https://scholar.google.com/scholar?
- q=%22Optimal+Delegated+Search+with+Hidden+Information%3A+Screening+without
- +Transfers+%28with+Elnaz+Bajoori%29%22\n\nSpeaker on Scholar: https://scho
- lar.google.com/scholar?q=author%3A%22Julia+Wirtz%22
+ vents/julia-wirtz
 URL:https://www.helsinkigse.fi/events/julia-wirtz
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251001-david-myatt@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251001
 DTEND;VALUE=DATE:20251002
 SUMMARY:Microeconomics: David Myatt — Finding a Good Deal: Stable Prices\
@@ -125,18 +113,14 @@ SUMMARY:Microeconomics: David Myatt — Finding a Good Deal: Stable Prices\
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: David Myatt (LB
  S)\nTitle: Finding a Good Deal: Stable Prices\, Costly Search\, and the Ef
  fect of Entry (with David Ronayne)\n\nTime not published yet — all-day p
- laceholder.\n\nEvent page: https://www.helsinkigse.fi/events/david-myatt\n
- \nPaper on Scholar: https://scholar.google.com/scholar?q=%22Finding+a+Good
- +Deal%3A+Stable+Prices%2C+Costly+Search%2C+and+the+Effect+of+Entry+%28with
- +David+Ronayne%29%22\n\nSpeaker on Scholar: https://scholar.google.com/sch
- olar?q=author%3A%22David+Myatt%22
+ laceholder.\n\nEvent page: https://www.helsinkigse.fi/events/david-myatt
 URL:https://www.helsinkigse.fi/events/david-myatt
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251015-ludmila-matyskova@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251015
 DTEND;VALUE=DATE:20251016
 SUMMARY:Microeconomics: Ludmila Matyskova — Gaming the test: When should 
@@ -144,17 +128,14 @@ SUMMARY:Microeconomics: Ludmila Matyskova — Gaming the test: When should
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Ludmila Matysko
  va (University of Alicante)\nTitle: Gaming the test: When should test thre
  sholds be unpredictable?\n\nTime not published yet — all-day placeholder
- .\n\nEvent page: https://www.helsinkigse.fi/events/ludmila-matyskova\n\nPa
- per on Scholar: https://scholar.google.com/scholar?q=%22Gaming+the+test%3A
- +When+should+test+thresholds+be+unpredictable%3F%22\n\nSpeaker on Scholar:
-  https://scholar.google.com/scholar?q=author%3A%22Ludmila+Matyskova%22
+ .\n\nEvent page: https://www.helsinkigse.fi/events/ludmila-matyskova
 URL:https://www.helsinkigse.fi/events/ludmila-matyskova
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251029-alexander-frug@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251029
 DTEND;VALUE=DATE:20251030
 SUMMARY:Microeconomics: Alexander Frug — Keeping in the dark with hard ev
@@ -162,17 +143,14 @@ SUMMARY:Microeconomics: Alexander Frug — Keeping in the dark with hard ev
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Alexander Frug 
  (UPF)\nTitle: Keeping in the dark with hard evidence (joint work with Dani
  el Bird)\n\nTime not published yet — all-day placeholder.\n\nEvent page:
-  https://www.helsinkigse.fi/events/alexander-frug\n\nPaper on Scholar: htt
- ps://scholar.google.com/scholar?q=%22Keeping+in+the+dark+with+hard+evidenc
- e+%28joint+work+with+Daniel+Bird%29%22\n\nSpeaker on Scholar: https://scho
- lar.google.com/scholar?q=author%3A%22Alexander+Frug%22
+  https://www.helsinkigse.fi/events/alexander-frug
 URL:https://www.helsinkigse.fi/events/alexander-frug
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251112-piero-gottardi1@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251112
 DTEND;VALUE=DATE:20251113
 SUMMARY:Microeconomics: Piero Gottardi — Time Trumps Quantity in the Mark
@@ -181,17 +159,14 @@ DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Piero Gottardi
  (University of Essex)\nTitle: Time Trumps Quantity in the Market for Lemon
  s (with William Fuchs and Humberto Moreira)\n\nTime not published yet — 
  all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/pier
- o-gottardi1\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22T
- ime+Trumps+Quantity+in+the+Market+for+Lemons+%28with+William+Fuchs+and+Hum
- berto+Moreira%29%22\n\nSpeaker on Scholar: https://scholar.google.com/scho
- lar?q=author%3A%22Piero+Gottardi%22
+ o-gottardi1
 URL:https://www.helsinkigse.fi/events/piero-gottardi1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251126-cesar-barilla@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251126
 DTEND;VALUE=DATE:20251127
 SUMMARY:Microeconomics: César Barilla — When and what to learn in a chan
@@ -199,17 +174,14 @@ SUMMARY:Microeconomics: César Barilla — When and what to learn in a chan
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: César Barilla 
  (University of Oxford)\nTitle: When and what to learn in a changing world\
  n\nTime not published yet — all-day placeholder.\n\nEvent page: https://
- www.helsinkigse.fi/events/cesar-barilla\n\nPaper on Scholar: https://schol
- ar.google.com/scholar?q=%22When+and+what+to+learn+in+a+changing+world%22\n
- \nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22C%C
- 3%A9sar+Barilla%22
+ www.helsinkigse.fi/events/cesar-barilla
 URL:https://www.helsinkigse.fi/events/cesar-barilla
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260212-haoran-lei@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260212
 DTEND;VALUE=DATE:20260213
 SUMMARY:Microeconomics: Haoran Lei — Irrelevance of Personalized Pricing 
@@ -218,17 +190,14 @@ DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Haoran Lei (Hun
  an University)\nTitle: Irrelevance of Personalized Pricing for Privately I
  nformed Monopolists (with Xiaoxiao Hu)\n\nTime not published yet — all-d
  ay placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/haoran-le
- i\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Irrelevance
- +of+Personalized+Pricing+for+Privately+Informed+Monopolists+%28with+Xiaoxi
- ao+Hu%29%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=au
- thor%3A%22Haoran+Lei%22
+ i
 URL:https://www.helsinkigse.fi/events/haoran-lei
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260225-toan-le1@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260225
 DTEND;VALUE=DATE:20260226
 SUMMARY:Microeconomics: Toan Le — Strategy-proofness versus collusion-pro
@@ -236,33 +205,28 @@ SUMMARY:Microeconomics: Toan Le — Strategy-proofness versus collusion-pro
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Toan Le (Univer
  sity of Oxford)\nTitle: Strategy-proofness versus collusion-proofness\n\nT
  ime not published yet — all-day placeholder.\n\nEvent page: https://www.
- helsinkigse.fi/events/toan-le1\n\nPaper on Scholar: https://scholar.google
- .com/scholar?q=%22Strategy-proofness+versus+collusion-proofness%22\n\nSpea
- ker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Toan+Le%2
- 2
+ helsinkigse.fi/events/toan-le1
 URL:https://www.helsinkigse.fi/events/toan-le1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260318-amit-dekel@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260318
 DTEND;VALUE=DATE:20260319
 SUMMARY:Microeconomics: Amit Dekel — Free Play Equilibrium
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Amit Dekel (Aix
  -Marseille School of Economics)\nTitle: Free Play Equilibrium\n\nTime not 
  published yet — all-day placeholder.\n\nEvent page: https://www.helsinki
- gse.fi/events/amit-dekel\n\nPaper on Scholar: https://scholar.google.com/s
- cholar?q=%22Free+Play+Equilibrium%22\n\nSpeaker on Scholar: https://schola
- r.google.com/scholar?q=author%3A%22Amit+Dekel%22
+ gse.fi/events/amit-dekel
 URL:https://www.helsinkigse.fi/events/amit-dekel
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260429-andreas-asseyer@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
 SUMMARY:Microeconomics: Andreas Asseyer — Information Design with Competi
@@ -270,18 +234,14 @@ SUMMARY:Microeconomics: Andreas Asseyer — Information Design with Competi
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Andreas Asseyer
   (Freie Universität Berlin)\nTitle: Information Design with Competing Rec
  eivers (with Dilip Ravindran)\n\nTime not published yet — all-day placeh
- older.\n\nEvent page: https://www.helsinkigse.fi/events/andreas-asseyer\n\
- nPaper on Scholar: https://scholar.google.com/scholar?q=%22Information+Des
- ign+with+Competing+Receivers+%28with+Dilip+Ravindran%29%22\n\nSpeaker on S
- cholar: https://scholar.google.com/scholar?q=author%3A%22Andreas+Asseyer%2
- 2
+ older.\n\nEvent page: https://www.helsinkigse.fi/events/andreas-asseyer
 URL:https://www.helsinkigse.fi/events/andreas-asseyer
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260513-james-best@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20260514
 SUMMARY:Microeconomics: James Best — Divide and Confer: Aggregating Infor
@@ -289,17 +249,14 @@ SUMMARY:Microeconomics: James Best — Divide and Confer: Aggregating Infor
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: James Best (Car
  negie Mellon University)\nTitle: Divide and Confer: Aggregating Informatio
  n without Verification\n\nTime not published yet — all-day placeholder.\
- n\nEvent page: https://www.helsinkigse.fi/events/james-best\n\nPaper on Sc
- holar: https://scholar.google.com/scholar?q=%22Divide+and+Confer%3A+Aggreg
- ating+Information+without+Verification%22\n\nSpeaker on Scholar: https://s
- cholar.google.com/scholar?q=author%3A%22James+Best%22
+ n\nEvent page: https://www.helsinkigse.fi/events/james-best
 URL:https://www.helsinkigse.fi/events/james-best
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260527-justus-preusser@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260528
 SUMMARY:Microeconomics: Justus Preusser — The Division of Surplus and the
@@ -308,38 +265,33 @@ DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Justus Preusser
   (Bocconi University)\nTitle: The Division of Surplus and the Burden of Pr
  oof (joint with Deniz Kattwinkel)\n\nTime not published yet — all-day pl
  aceholder.\n\nEvent page: https://www.helsinkigse.fi/events/justus-preusse
- r\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22The+Divisio
- n+of+Surplus+and+the+Burden+of+Proof+%28joint+with+Deniz+Kattwinkel%29%22\
- n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Ju
- stus+Preusser%22
+ r
 URL:https://www.helsinkigse.fi/events/justus-preusser
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260924-zhengqing-gui@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;TZID=Europe/Helsinki:20260924T150000
 DTEND;TZID=Europe/Helsinki:20260924T160000
 SUMMARY:Microeconomics: Zhengqing Gui
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Zhengqing Gui (
  National University of Singapore)\nTitle: TBA\n\nEvent page: https://www.h
- elsinkigse.fi/events/zhengqing-gui\n\nSpeaker on Scholar: https://scholar.
- google.com/scholar?q=author%3A%22Zhengqing+Gui%22
+ elsinkigse.fi/events/zhengqing-gui
 URL:https://www.helsinkigse.fi/events/zhengqing-gui
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261008-martin-vaeth@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;TZID=Europe/Helsinki:20261008T150000
 DTEND;TZID=Europe/Helsinki:20261008T160000
 SUMMARY:Microeconomics: Martin Vaeth
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Martin Vaeth (P
  aris School of Economics)\nTitle: TBA\n\nEvent page: https://www.helsinkig
- se.fi/events/martin-vaeth\n\nSpeaker on Scholar: https://scholar.google.co
- m/scholar?q=author%3A%22Martin+Vaeth%22
+ se.fi/events/martin-vaeth
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/martin-vaeth
 STATUS:CONFIRMED
@@ -347,14 +299,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261022-florian-brandl@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;TZID=Europe/Helsinki:20261022T150000
 DTEND;TZID=Europe/Helsinki:20261022T160000
 SUMMARY:Microeconomics: Florian Brandl
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Florian Brandl 
  (University of Bonn)\nTitle: TBA\n\nEvent page: https://www.helsinkigse.fi
- /events/florian-brandl\n\nSpeaker on Scholar: https://scholar.google.com/s
- cholar?q=author%3A%22Florian+Brandl%22
+ /events/florian-brandl
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/florian-brandl
 STATUS:CONFIRMED
@@ -362,14 +313,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261119-pia-ennuchat@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;TZID=Europe/Helsinki:20261119T150000
 DTEND;TZID=Europe/Helsinki:20261119T160000
 SUMMARY:Microeconomics: Pia Ennuchat
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Pia Ennuchat (U
  niversity of Mannheim)\nTitle: TBA\n\nEvent page: https://www.helsinkigse.
- fi/events/pia-ennuchat\n\nSpeaker on Scholar: https://scholar.google.com/s
- cholar?q=author%3A%22Pia+Ennuchat%22
+ fi/events/pia-ennuchat
 URL:https://www.helsinkigse.fi/events/pia-ennuchat
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

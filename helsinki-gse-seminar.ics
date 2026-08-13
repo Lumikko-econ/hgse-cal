@@ -30,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250318-abhijeet-singh@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250318
 DTEND;VALUE=DATE:20250319
 SUMMARY:Seminar: Abhijeet Singh — Navigating Multiple Frictions: Experime
@@ -38,18 +38,14 @@ SUMMARY:Seminar: Abhijeet Singh — Navigating Multiple Frictions: Experime
 DESCRIPTION:Series: Seminar\nSpeaker: Abhijeet Singh (SSE)\nTitle: Navigati
  ng Multiple Frictions: Experimental evidence for impacting voucher take-up
   at scale (with Mauricio Romero)\n\nTime not published yet — all-day pla
- ceholder.\n\nEvent page: https://www.helsinkigse.fi/events/abhijeet-singh\
- n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Navigating+Mu
- ltiple+Frictions%3A+Experimental+evidence+for+impacting+voucher+take-up+at
- +scale+%28with+Mauricio+Romero%29%22\n\nSpeaker on Scholar: https://schola
- r.google.com/scholar?q=author%3A%22Abhijeet+Singh%22
+ ceholder.\n\nEvent page: https://www.helsinkigse.fi/events/abhijeet-singh
 URL:https://www.helsinkigse.fi/events/abhijeet-singh
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250602-ritwik-banerjee@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250602
 DTEND;VALUE=DATE:20250603
 SUMMARY:Seminar: Ritwik Banerjee — Interpreting Intolerance (with Lata Ga
@@ -57,18 +53,14 @@ SUMMARY:Seminar: Ritwik Banerjee — Interpreting Intolerance (with Lata Ga
 DESCRIPTION:Series: Seminar\nSpeaker: Ritwik Banerjee (Indian Institute of 
  Management Bangalore)\nTitle: Interpreting Intolerance (with Lata Gangadha
  ran and Marie Claire Villeval)\n\nTime not published yet — all-day place
- holder.\n\nEvent page: https://www.helsinkigse.fi/events/ritwik-banerjee\n
- \nPaper on Scholar: https://scholar.google.com/scholar?q=%22Interpreting+I
- ntolerance+%28with+Lata+Gangadharan+and+Marie+Claire+Villeval%29%22\n\nSpe
- aker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Ritwik+B
- anerjee%22
+ holder.\n\nEvent page: https://www.helsinkigse.fi/events/ritwik-banerjee
 URL:https://www.helsinkigse.fi/events/ritwik-banerjee
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251007-catalina-franco@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251007
 DTEND;VALUE=DATE:20251008
 SUMMARY:Seminar: Catalina Franco — Who’s in the Exam Room? Gender Compo
@@ -76,17 +68,14 @@ SUMMARY:Seminar: Catalina Franco — Who’s in the Exam Room? Gender Compo
 DESCRIPTION:Series: Seminar\nSpeaker: Catalina Franco (NHH)\nTitle: Who’s
   in the Exam Room? Gender Composition and Student performance\n\nTime not 
  published yet — all-day placeholder.\n\nEvent page: https://www.helsinki
- gse.fi/events/catalina-franco\n\nPaper on Scholar: https://scholar.google.
- com/scholar?q=%22Who%27s+in+the+Exam+Room%3F+Gender+Composition+and+Studen
- t+performance%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar
- ?q=author%3A%22Catalina+Franco%22
+ gse.fi/events/catalina-franco
 URL:https://www.helsinkigse.fi/events/catalina-franco
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251211-low-threshold-phd-seminar2@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251211
 DTEND;VALUE=DATE:20251212
 SUMMARY:Seminar: CANCELLED Low-threshold PhD seminar
@@ -99,30 +88,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260219-constitution-of-innovation-webinaari@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260219
 DTEND;VALUE=DATE:20260220
 SUMMARY:Seminar: Constitution of Innovation Webinar
 DESCRIPTION:Series: Seminar\nSpeaker: Constitution of Innovation Webinar (O
  rganized by Helsinki GSE and the Finnish Economic Association)\nTitle: TBA
  \n\nTime not published yet — all-day placeholder.\n\nEvent page: https:/
- /www.helsinkigse.fi/events/constitution-of-innovation-webinaari\n\nSpeaker
-  on Scholar: https://scholar.google.com/scholar?q=author%3A%22Constitution
- +of+Innovation+Webinar%22
+ /www.helsinkigse.fi/events/constitution-of-innovation-webinaari
 URL:https://www.helsinkigse.fi/events/constitution-of-innovation-webinaari
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260917-sandro-shelegia@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;TZID=Europe/Helsinki:20260917T150000
 DTEND;TZID=Europe/Helsinki:20260917T160000
 SUMMARY:Seminar: Sandro Shelegia
 DESCRIPTION:Series: Seminar\nSpeaker: Sandro Shelegia (Universitat Pompeu F
  abra)\nTitle: TBA\n\nEvent page: https://www.helsinkigse.fi/events/sandro-
- shelegia\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=autho
- r%3A%22Sandro+Shelegia%22
+ shelegia
 LOCATION:V001\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/sandro-shelegia
@@ -131,28 +117,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260922-marten-ritterrath1@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;TZID=Europe/Helsinki:20260922T150000
 DTEND;TZID=Europe/Helsinki:20260922T160000
 SUMMARY:Seminar: Marten Ritterrath
 DESCRIPTION:Series: Seminar\nSpeaker: Marten Ritterrath (VATT)\nTitle: TBA\
  nHost: Anna Sahari\n\nEvent page: https://www.helsinkigse.fi/events/marten
- -ritterrath1\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=a
- uthor%3A%22Marten+Ritterrath%22
+ -ritterrath1
 URL:https://www.helsinkigse.fi/events/marten-ritterrath1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261026-veronica-salazar-restrepo@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;TZID=Europe/Helsinki:20261026T150000
 DTEND;TZID=Europe/Helsinki:20261026T160000
 SUMMARY:Seminar: Veronica Salazar-Restrepo
 DESCRIPTION:Series: Seminar\nSpeaker: Veronica Salazar-Restrepo (IIES\, Sto
  ckholm University)\nTitle: TBA\n\nEvent page: https://www.helsinkigse.fi/e
- vents/veronica-salazar-restrepo\n\nSpeaker on Scholar: https://scholar.goo
- gle.com/scholar?q=author%3A%22Veronica+Salazar-Restrepo%22
+ vents/veronica-salazar-restrepo
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/veronica-salazar-restrepo
 STATUS:CONFIRMED
@@ -160,13 +144,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261130-lucas-conwell@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;TZID=Europe/Helsinki:20261130T150000
 DTEND;TZID=Europe/Helsinki:20261130T160000
 SUMMARY:Seminar: Lucas Conwell
 DESCRIPTION:Series: Seminar\nSpeaker: Lucas Conwell (UCL)\nTitle: TBA\n\nEv
- ent page: https://www.helsinkigse.fi/events/lucas-conwell\n\nSpeaker on Sc
- holar: https://scholar.google.com/scholar?q=author%3A%22Lucas+Conwell%22
+ ent page: https://www.helsinkigse.fi/events/lucas-conwell
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/lucas-conwell
 STATUS:CONFIRMED

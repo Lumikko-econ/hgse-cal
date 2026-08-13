@@ -30,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250303-kwabena-adu-ababio1@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250303
 DTEND;VALUE=DATE:20250304
 SUMMARY:Development Economics: Kwabena Adu-Ababio — Climate Shocks and Ec
@@ -39,17 +39,14 @@ DESCRIPTION:Series: Development Economics\nType: Brown Bag Seminar\nSpeaker
  : Kwabena Adu-Ababio (UNU-WIDER)\nTitle: Climate Shocks and Economic Resil
  ience: evidence from Zambia’s Formal Sector\n\nTime not published yet 
  — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/
- kwabena-adu-ababio1\n\nPaper on Scholar: https://scholar.google.com/schola
- r?q=%22Climate+Shocks+and+Economic+Resilience%3A+evidence+from+Zambia%27s+
- Formal+Sector%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar
- ?q=author%3A%22Kwabena+Adu-Ababio%22
+ kwabena-adu-ababio1
 URL:https://www.helsinkigse.fi/events/kwabena-adu-ababio1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250414-daniel-peredo-siles@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250414
 DTEND;VALUE=DATE:20250415
 SUMMARY:Development Economics: Daniel Peredo-Siles — Heterogeneous Costs\
@@ -59,18 +56,14 @@ DESCRIPTION:Series: Development Economics\nType: Brown Bag Seminar\nSpeaker
  osts\, Homogeneous Transfers: Reassessing the impact of a large-scale cond
  itional cash transfer program in Bolivia\n\nTime not published yet — all
  -day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/daniel-
- peredo-siles\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22
- Heterogeneous+Costs%2C+Homogeneous+Transfers%3A+Reassessing+the+impact+of+
- a+large-scale+conditional+cash+transfer+program+in+Bolivia%22\n\nSpeaker o
- n Scholar: https://scholar.google.com/scholar?q=author%3A%22Daniel+Peredo-
- Siles%22
+ peredo-siles
 URL:https://www.helsinkigse.fi/events/daniel-peredo-siles
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250505-amma-panin@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250505
 DTEND;VALUE=DATE:20250506
 SUMMARY:Development Economics: Amma Panin — Cognitive consequences of ins
@@ -79,18 +72,14 @@ DESCRIPTION:Series: Development Economics\nType: Seminar\nSpeaker: Amma Pan
  in (University of Louvain)\nTitle: Cognitive consequences of insecure nati
  onal belonging (with Ritwik Banerjee\, Joseph Gomes\, and Emmy Lindstam)\n
  \nTime not published yet — all-day placeholder.\n\nEvent page: https://w
- ww.helsinkigse.fi/events/amma-panin\n\nPaper on Scholar: https://scholar.g
- oogle.com/scholar?q=%22Cognitive+consequences+of+insecure+national+belongi
- ng+%28with+Ritwik+Banerjee%2C+Joseph+Gomes%2C+and+Emmy+Lindstam%29%22\n\nS
- peaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Amma+P
- anin%22
+ ww.helsinkigse.fi/events/amma-panin
 URL:https://www.helsinkigse.fi/events/amma-panin
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250512-dean-yang1@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250512
 DTEND;VALUE=DATE:20250513
 SUMMARY:Development Economics: Dean Yang — Ancient Epics in the Televisio
@@ -99,17 +88,14 @@ DESCRIPTION:Series: Development Economics\nType: Seminar\nSpeaker: Dean Yan
  g (University of Michigan)\nTitle: Ancient Epics in the Television Age: Ma
  ss Media\, Identity\, and the Rise of Hindu Nationalism in India\n\nTime n
  ot published yet — all-day placeholder.\n\nEvent page: https://www.helsi
- nkigse.fi/events/dean-yang1\n\nPaper on Scholar: https://scholar.google.co
- m/scholar?q=%22Ancient+Epics+in+the+Television+Age%3A+Mass+Media%2C+Identi
- ty%2C+and+the+Rise+of+Hindu+Nationalism+in+India%22\n\nSpeaker on Scholar:
-  https://scholar.google.com/scholar?q=author%3A%22Dean+Yang%22
+ nkigse.fi/events/dean-yang1
 URL:https://www.helsinkigse.fi/events/dean-yang1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250929-nhi-cao1@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250929
 DTEND;VALUE=DATE:20250930
 SUMMARY:Development Economics: Nhi Cao — Persistent effects of colonial r
@@ -117,17 +103,14 @@ SUMMARY:Development Economics: Nhi Cao — Persistent effects of colonial r
 DESCRIPTION:Series: Development Economics\nType: Brown Bag Seminar\nSpeaker
  : Nhi Cao (Hanken School of Economics)\nTitle: Persistent effects of colon
  ial rubber plantations\n\nTime not published yet — all-day placeholder.\
- n\nEvent page: https://www.helsinkigse.fi/events/nhi-cao1\n\nPaper on Scho
- lar: https://scholar.google.com/scholar?q=%22Persistent+effects+of+colonia
- l+rubber+plantations%22\n\nSpeaker on Scholar: https://scholar.google.com/
- scholar?q=author%3A%22Nhi+Cao%22
+ n\nEvent page: https://www.helsinkigse.fi/events/nhi-cao1
 URL:https://www.helsinkigse.fi/events/nhi-cao1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251027-raissa-fabregas@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251027
 DTEND;VALUE=DATE:20251028
 SUMMARY:Development Economics: Raissa Fabregas — The Well-Being Effects o
@@ -135,10 +118,7 @@ SUMMARY:Development Economics: Raissa Fabregas — The Well-Being Effects o
 DESCRIPTION:Series: Development Economics\nType: Seminar\nSpeaker: Raissa F
  abregas (University of Texas at Austin)\nTitle: The Well-Being Effects of 
  Digital Mental Health Care\n\nTime not published yet — all-day placehold
- er.\n\nEvent page: https://www.helsinkigse.fi/events/raissa-fabregas\n\nPa
- per on Scholar: https://scholar.google.com/scholar?q=%22The+Well-Being+Eff
- ects+of+Digital+Mental+Health+Care%22\n\nSpeaker on Scholar: https://schol
- ar.google.com/scholar?q=author%3A%22Raissa+Fabregas%22
+ er.\n\nEvent page: https://www.helsinkigse.fi/events/raissa-fabregas
 URL:https://www.helsinkigse.fi/events/raissa-fabregas
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -146,7 +126,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251110-laura-contreras-portela-and-natalia-labrador-bernate-aix-
  marseille-school-of-economics-unu-wider@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251110
 DTEND;VALUE=DATE:20251111
 SUMMARY:Development Economics: Laura Contreras-Portela and Natalia Labrador
@@ -159,13 +139,7 @@ DESCRIPTION:Series: Development Economics\nType: Brown Bag Seminar\nSpeaker
  cks\, and Labor Supply Decisions: …\n\nTime not published yet — all-da
  y placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/laura-cont
  reras-portela-and-natalia-labrador-bernate-aix-marseille-school-of-economi
- cs-unu-wider\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22
- The+Unintended+Consequences+of+Place-Based+Industrial+Policies%3A+Evidence
- +from+Colombia+AND+Gender%2C+Weather+Shocks%2C+and+Labor+Supply+Decisions%
- 3A+%E2%80%A6%22\n\nLaura Contreras-Portela on Scholar: https://scholar.goo
- gle.com/scholar?q=author%3A%22Laura+Contreras-Portela%22\n\nNatalia Labrad
- or Bernate on Scholar: https://scholar.google.com/scholar?q=author%3A%22Na
- talia+Labrador+Bernate%22
+ cs-unu-wider
 URL:https://www.helsinkigse.fi/events/laura-contreras-portela-and-natalia-l
  abrador-bernate-aix-marseille-school-of-economics-unu-wider
 STATUS:CONFIRMED
@@ -173,7 +147,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251124-javier-feinman@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251124
 DTEND;VALUE=DATE:20251125
 SUMMARY:Development Economics: Javier Feinman — Income Shifting vs Real R
@@ -181,18 +155,14 @@ SUMMARY:Development Economics: Javier Feinman — Income Shifting vs Real R
 DESCRIPTION:Series: Development Economics\nType: Seminar\nSpeaker: Javier F
  einman (PSE)\nTitle: Income Shifting vs Real Responses in Presumptive Tax 
  Regimes: Evidence from Brazil\n\nTime not published yet — all-day placeh
- older.\n\nEvent page: https://www.helsinkigse.fi/events/javier-feinman\n\n
- Paper on Scholar: https://scholar.google.com/scholar?q=%22Income+Shifting+
- vs+Real+Responses+in+Presumptive+Tax+Regimes%3A+Evidence+from+Brazil%22\n\
- nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Javi
- er+Feinman%22
+ older.\n\nEvent page: https://www.helsinkigse.fi/events/javier-feinman
 URL:https://www.helsinkigse.fi/events/javier-feinman
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260413-martina-querejeta@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260414
 SUMMARY:Development Economics: Martina Querejeta — Intergenerational Tran
@@ -201,18 +171,14 @@ DESCRIPTION:Series: Development Economics\nType: Brown Bag Seminar\nSpeaker
  : Martina Querejeta (Universidad de la República (Uruguay))\nTitle: Inter
  generational Transmission of Working Behaviour: Preferences or Gender Role
   Identity?\n\nTime not published yet — all-day placeholder.\n\nEvent pag
- e: https://www.helsinkigse.fi/events/martina-querejeta\n\nPaper on Scholar
- : https://scholar.google.com/scholar?q=%22Intergenerational+Transmission+o
- f+Working+Behaviour%3A+Preferences+or+Gender+Role+Identity%3F%22\n\nSpeake
- r on Scholar: https://scholar.google.com/scholar?q=author%3A%22Martina+Que
- rejeta%22
+ e: https://www.helsinkigse.fi/events/martina-querejeta
 URL:https://www.helsinkigse.fi/events/martina-querejeta
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260427-viola-asri@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260427
 DTEND;VALUE=DATE:20260428
 SUMMARY:Development Economics: Viola Asri — Missing the target: Does incr
@@ -221,19 +187,14 @@ DESCRIPTION:Series: Development Economics\nType: Seminar\nSpeaker: Viola As
  ri (CMI)\nTitle: Missing the target: Does increasing the capacity of the l
  ocal government improve beneficiary selection? (with Kumar Biswas\, Sebast
  ian Fehrler\, Urs …\n\nTime not published yet — all-day placeholder.\n
- \nEvent page: https://www.helsinkigse.fi/events/viola-asri\n\nPaper on Sch
- olar: https://scholar.google.com/scholar?q=%22Missing+the+target%3A+Does+i
- ncreasing+the+capacity+of+the+local+government+improve+beneficiary+selecti
- on%3F+%28with+Kumar+Biswas%2C+Sebastian+Fehrler%2C+Urs+%E2%80%A6%22\n\nSpe
- aker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Viola+As
- ri%22
+ \nEvent page: https://www.helsinkigse.fi/events/viola-asri
 URL:https://www.helsinkigse.fi/events/viola-asri
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260511-david-rivera-gonzalez@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260511
 DTEND;VALUE=DATE:20260512
 SUMMARY:Development Economics: David Rivera Gonzalez — Contribution floor
@@ -242,17 +203,14 @@ DESCRIPTION:Series: Development Economics\nType: Brown Bag Seminar\nSpeaker
  : David Rivera Gonzalez (Bordeaux School of Economics\, UNU-WIDER)\nTitle:
   Contribution floors\, Informality and Inequality in Latin America\n\nTime
   not published yet — all-day placeholder.\n\nEvent page: https://www.hel
- sinkigse.fi/events/david-rivera-gonzalez\n\nPaper on Scholar: https://scho
- lar.google.com/scholar?q=%22Contribution+floors%2C+Informality+and+Inequal
- ity+in+Latin+America%22\n\nSpeaker on Scholar: https://scholar.google.com/
- scholar?q=author%3A%22David+Rivera+Gonzalez%22
+ sinkigse.fi/events/david-rivera-gonzalez
 URL:https://www.helsinkigse.fi/events/david-rivera-gonzalez
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260525-justine-knebelmann@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
 SUMMARY:Development Economics: Justine Knebelmann — Scaling Fiscal Capaci
@@ -261,25 +219,22 @@ DESCRIPTION:Series: Development Economics\nType: Seminar\nSpeaker: Justine
  Knebelmann (Sciences Po)\nTitle: Scaling Fiscal Capacity: Evidence from Se
  negal’s Capital City (with Bilal Choho and Victor Pouliquen)\n\nTime not
   published yet — all-day placeholder.\n\nEvent page: https://www.helsink
- igse.fi/events/justine-knebelmann\n\nPaper on Scholar: https://scholar.goo
- gle.com/scholar?q=%22Scaling+Fiscal+Capacity%3A+Evidence+from+Senegal%27s+
- Capital+City+%28with+Bilal+Choho+and+Victor+Pouliquen%29%22\n\nSpeaker on 
- Scholar: https://scholar.google.com/scholar?q=author%3A%22Justine+Knebelma
- nn%22
+ igse.fi/events/justine-knebelmann
 URL:https://www.helsinkigse.fi/events/justine-knebelmann
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260914-eleonora-guarnieri@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;TZID=Europe/Helsinki:20260914T150000
 DTEND;TZID=Europe/Helsinki:20260914T160000
-SUMMARY:Development Economics: Eleonora Guarnieri
+SUMMARY:Development Economics: Eleonora Guarnieri — Male Dominance and Cu
+ ltural Extinction (with Ana Tur-Prats)
 DESCRIPTION:Series: Development Economics\nType: Seminar\nSpeaker: Eleonora
-  Guarnieri (University of Bristol)\nTitle: TBA\n\nEvent page: https://www.
- helsinkigse.fi/events/eleonora-guarnieri\n\nSpeaker on Scholar: https://sc
- holar.google.com/scholar?q=author%3A%22Eleonora+Guarnieri%22
+  Guarnieri (University of Bristol)\nTitle: Male Dominance and Cultural Ext
+ inction (with Ana Tur-Prats)\n\nEvent page: https://www.helsinkigse.fi/eve
+ nts/eleonora-guarnieri
 URL:https://www.helsinkigse.fi/events/eleonora-guarnieri
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -30,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250225-hannu-huuki@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250225
 DTEND;VALUE=DATE:20250226
 SUMMARY:Environmental Economics: Hannu Huuki — Price information and elec
@@ -39,27 +39,21 @@ DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Hannu
  Huuki (Finnish Environment Institute / University of Oulu Business School)
  \nTitle: Price information and electricity consumption: lessons learned fr
  om a randomized control trial\n\nTime not published yet — all-day placeh
- older.\n\nEvent page: https://www.helsinkigse.fi/events/hannu-huuki\n\nPap
- er on Scholar: https://scholar.google.com/scholar?q=%22Price+information+a
- nd+electricity+consumption%3A+lessons+learned+from+a+randomized+control+tr
- ial%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%
- 3A%22Hannu+Huuki%22
+ older.\n\nEvent page: https://www.helsinkigse.fi/events/hannu-huuki
 URL:https://www.helsinkigse.fi/events/hannu-huuki
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250304-environmental-economics-reading-group11@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250304
 DTEND;VALUE=DATE:20250305
 SUMMARY:Environmental Economics: Environmental Economics Reading Group
 DESCRIPTION:Series: Environmental Economics\nType: Reading Group\nSpeaker: 
  Environmental Economics Reading Group\nTitle: TBA\n\nTime not published ye
  t — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/event
- s/environmental-economics-reading-group11\n\nSpeaker on Scholar: https://s
- cholar.google.com/scholar?q=author%3A%22Environmental+Economics+Reading+Gr
- oup%22
+ s/environmental-economics-reading-group11
 URL:https://www.helsinkigse.fi/events/environmental-economics-reading-group
  11
 STATUS:CONFIRMED
@@ -67,7 +61,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250311-leopold-monjoie@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250311
 DTEND;VALUE=DATE:20250312
 SUMMARY:Environmental Economics: Leopold Monjoie — Self-Selection in Reta
@@ -76,17 +70,14 @@ DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Leopol
  d Monjoie (Aalto University)\nTitle: Self-Selection in Retail Electricity 
  Contracts – Competition\, Regulation\, and Welfare Implications\n\nTime 
  not published yet — all-day placeholder.\n\nEvent page: https://www.hels
- inkigse.fi/events/leopold-monjoie\n\nPaper on Scholar: https://scholar.goo
- gle.com/scholar?q=%22Self-Selection+in+Retail+Electricity+Contracts+-+Comp
- etition%2C+Regulation%2C+and+Welfare+Implications%22\n\nSpeaker on Scholar
- : https://scholar.google.com/scholar?q=author%3A%22Leopold+Monjoie%22
+ inkigse.fi/events/leopold-monjoie
 URL:https://www.helsinkigse.fi/events/leopold-monjoie
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250325-piero-basaglia@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250325
 DTEND;VALUE=DATE:20250326
 SUMMARY:Environmental Economics: Piero Basaglia — Demand for healthcare s
@@ -95,27 +86,21 @@ DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Piero
  Basaglia (University of Hamburg)\nTitle: Demand for healthcare services an
  d air pollution: Quasi-experimental evidence from Mexico (with Luis Sarmie
  nto at the Bank of Mexico)\n\nTime not published yet — all-day placehold
- er.\n\nEvent page: https://www.helsinkigse.fi/events/piero-basaglia\n\nPap
- er on Scholar: https://scholar.google.com/scholar?q=%22Demand+for+healthca
- re+services+and+air+pollution%3A+Quasi-experimental+evidence+from+Mexico+%
- 28with+Luis+Sarmiento+at+the+Bank+of+Mexico%29%22\n\nSpeaker on Scholar: h
- ttps://scholar.google.com/scholar?q=author%3A%22Piero+Basaglia%22
+ er.\n\nEvent page: https://www.helsinkigse.fi/events/piero-basaglia
 URL:https://www.helsinkigse.fi/events/piero-basaglia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250401-environmental-economics-reading-group12@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250401
 DTEND;VALUE=DATE:20250402
 SUMMARY:Environmental Economics: Environmental Economics Reading Group
 DESCRIPTION:Series: Environmental Economics\nType: Reading Group\nSpeaker: 
  Environmental Economics Reading Group\nTitle: TBA\n\nTime not published ye
  t — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/event
- s/environmental-economics-reading-group12\n\nSpeaker on Scholar: https://s
- cholar.google.com/scholar?q=author%3A%22Environmental+Economics+Reading+Gr
- oup%22
+ s/environmental-economics-reading-group12
 URL:https://www.helsinkigse.fi/events/environmental-economics-reading-group
  12
 STATUS:CONFIRMED
@@ -123,7 +108,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250408-camille-hainnaux@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250408
 DTEND;VALUE=DATE:20250409
 SUMMARY:Environmental Economics: Camille Hainnaux — Reverse education and
@@ -132,17 +117,14 @@ DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Camill
  e Hainnaux (University of Helsinki)\nTitle: Reverse education and endogeno
  us green preferences in environmental policies\n\nTime not published yet 
  — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/
- camille-hainnaux\n\nPaper on Scholar: https://scholar.google.com/scholar?q
- =%22Reverse+education+and+endogenous+green+preferences+in+environmental+po
- licies%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=auth
- or%3A%22Camille+Hainnaux%22
+ camille-hainnaux
 URL:https://www.helsinkigse.fi/events/camille-hainnaux
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250422-madeline-werthschulte@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250422
 DTEND;VALUE=DATE:20250423
 SUMMARY:Environmental Economics: Madeline Werthschulte — Do energy-saving
@@ -151,27 +133,21 @@ DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Madeli
  ne Werthschulte (Vrije Universiteit Amsterdam)\nTitle: Do energy-saving nu
  dges deliver during peak prices? Field experimental evidence from the Euro
  pean Energy Crisis\n\nTime not published yet — all-day placeholder.\n\nE
- vent page: https://www.helsinkigse.fi/events/madeline-werthschulte\n\nPape
- r on Scholar: https://scholar.google.com/scholar?q=%22Do+energy-saving+nud
- ges+deliver+during+peak+prices%3F+Field+experimental+evidence+from+the+Eur
- opean+Energy+Crisis%22\n\nSpeaker on Scholar: https://scholar.google.com/s
- cholar?q=author%3A%22Madeline+Werthschulte%22
+ vent page: https://www.helsinkigse.fi/events/madeline-werthschulte
 URL:https://www.helsinkigse.fi/events/madeline-werthschulte
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250429-environmental-economics-reading-group13@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250429
 DTEND;VALUE=DATE:20250430
 SUMMARY:Environmental Economics: Environmental Economics Reading Group
 DESCRIPTION:Series: Environmental Economics\nType: Reading Group\nSpeaker: 
  Environmental Economics Reading Group\nTitle: TBA\n\nTime not published ye
  t — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/event
- s/environmental-economics-reading-group13\n\nSpeaker on Scholar: https://s
- cholar.google.com/scholar?q=author%3A%22Environmental+Economics+Reading+Gr
- oup%22
+ s/environmental-economics-reading-group13
 URL:https://www.helsinkigse.fi/events/environmental-economics-reading-group
  13
 STATUS:CONFIRMED
@@ -179,7 +155,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250520-stefan-ambec@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250520
 DTEND;VALUE=DATE:20250521
 SUMMARY:Environmental Economics: CANCELLED: Stefan Ambec — Pricing interm
@@ -188,17 +164,14 @@ DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: CANCEL
  LED: Stefan Ambec (Toulouse School of Economics)\nTitle: Pricing intermitt
  ent renewable energy” (with Claude Crampes and Stefan Lamp)\n\nTime not 
  published yet — all-day placeholder.\n\nEvent page: https://www.helsinki
- gse.fi/events/stefan-ambec\n\nPaper on Scholar: https://scholar.google.com
- /scholar?q=%22Pricing+intermittent+renewable+energy+%28with+Claude+Crampes
- +and+Stefan+Lamp%29%22\n\nSpeaker on Scholar: https://scholar.google.com/s
- cholar?q=author%3A%22CANCELLED%3A+Stefan+Ambec%22
+ gse.fi/events/stefan-ambec
 URL:https://www.helsinkigse.fi/events/stefan-ambec
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250520-salomo-hirvonen@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250520
 DTEND;VALUE=DATE:20250521
 SUMMARY:Environmental Economics: Salomo Hirvonen — Weather Sensitivity of
@@ -207,17 +180,14 @@ DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Salomo
   Hirvonen (University of Turku)\nTitle: Weather Sensitivity of Energy Clas
  sification Premiums: Evidence From Finnish Housing Market\n\nTime not publ
  ished yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.
- fi/events/salomo-hirvonen\n\nPaper on Scholar: https://scholar.google.com/
- scholar?q=%22Weather+Sensitivity+of+Energy+Classification+Premiums%3A+Evid
- ence+From+Finnish+Housing+Market%22\n\nSpeaker on Scholar: https://scholar
- .google.com/scholar?q=author%3A%22Salomo+Hirvonen%22
+ fi/events/salomo-hirvonen
 URL:https://www.helsinkigse.fi/events/salomo-hirvonen
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250527-environmental-economics-reading-group14@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250527
 DTEND;VALUE=DATE:20250528
 SUMMARY:Environmental Economics: CANCELLED Environmental Economics Reading 
@@ -225,8 +195,7 @@ SUMMARY:Environmental Economics: CANCELLED Environmental Economics Reading
 DESCRIPTION:Series: Environmental Economics\nType: Reading Group\nSpeaker: 
  CANCELLED Environmental Economics Reading Group\nTitle: CANCELLED\n\nTime 
  not published yet — all-day placeholder.\n\nEvent page: https://www.hels
- inkigse.fi/events/environmental-economics-reading-group14\n\nPaper on Scho
- lar: https://scholar.google.com/scholar?q=%22CANCELLED%22
+ inkigse.fi/events/environmental-economics-reading-group14
 URL:https://www.helsinkigse.fi/events/environmental-economics-reading-group
  14
 STATUS:CONFIRMED
@@ -234,7 +203,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250603-albert-duodu@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250603
 DTEND;VALUE=DATE:20250604
 SUMMARY:Environmental Economics: Albert Duodu — Carbon offshoring and man
@@ -242,17 +211,14 @@ SUMMARY:Environmental Economics: Albert Duodu — Carbon offshoring and man
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Albert
   Duodu (Aalto University)\nTitle: Carbon offshoring and manufacturing clea
  nup\n\nTime not published yet — all-day placeholder.\n\nEvent page: http
- s://www.helsinkigse.fi/events/albert-duodu\n\nPaper on Scholar: https://sc
- holar.google.com/scholar?q=%22Carbon+offshoring+and+manufacturing+cleanup%
- 22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%2
- 2Albert+Duodu%22
+ s://www.helsinkigse.fi/events/albert-duodu
 URL:https://www.helsinkigse.fi/events/albert-duodu
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250923-prottoy-akbar3@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250923
 DTEND;VALUE=DATE:20250924
 SUMMARY:Environmental Economics: Prottoy Akbar — Drivers of Habit: Eviden
@@ -260,26 +226,21 @@ SUMMARY:Environmental Economics: Prottoy Akbar — Drivers of Habit: Eviden
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Protto
  y Akbar (Aalto University)\nTitle: Drivers of Habit: Evidence of Persisten
  ce from Neighborhood Moves\n\nTime not published yet — all-day placehold
- er.\n\nEvent page: https://www.helsinkigse.fi/events/prottoy-akbar3\n\nPap
- er on Scholar: https://scholar.google.com/scholar?q=%22Drivers+of+Habit%3A
- +Evidence+of+Persistence+from+Neighborhood+Moves%22\n\nSpeaker on Scholar:
-  https://scholar.google.com/scholar?q=author%3A%22Prottoy+Akbar%22
+ er.\n\nEvent page: https://www.helsinkigse.fi/events/prottoy-akbar3
 URL:https://www.helsinkigse.fi/events/prottoy-akbar3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250930-environmental-economics-reading-group10@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250930
 DTEND;VALUE=DATE:20251001
 SUMMARY:Environmental Economics: Environmental Economics Reading Group
 DESCRIPTION:Series: Environmental Economics\nType: Reading Group\nSpeaker: 
  Environmental Economics Reading Group\nTitle: TBA\n\nTime not published ye
  t — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/event
- s/environmental-economics-reading-group10\n\nSpeaker on Scholar: https://s
- cholar.google.com/scholar?q=author%3A%22Environmental+Economics+Reading+Gr
- oup%22
+ s/environmental-economics-reading-group10
 URL:https://www.helsinkigse.fi/events/environmental-economics-reading-group
  10
 STATUS:CONFIRMED
@@ -287,7 +248,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251007-amanda-ang2@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251007
 DTEND;VALUE=DATE:20251008
 SUMMARY:Environmental Economics: Amanda Ang — Population Growth and Wildf
@@ -295,17 +256,14 @@ SUMMARY:Environmental Economics: Amanda Ang — Population Growth and Wildf
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Amanda
   Ang (Aalto University)\nTitle: Population Growth and Wildfire Mitigation\
  n\nTime not published yet — all-day placeholder.\n\nEvent page: https://
- www.helsinkigse.fi/events/amanda-ang2\n\nPaper on Scholar: https://scholar
- .google.com/scholar?q=%22Population+Growth+and+Wildfire+Mitigation%22\n\nS
- peaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Amanda
- +Ang%22
+ www.helsinkigse.fi/events/amanda-ang2
 URL:https://www.helsinkigse.fi/events/amanda-ang2
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251021-leo-reitzmann@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251021
 DTEND;VALUE=DATE:20251022
 SUMMARY:Environmental Economics: Léo Reitzmann — Heterogeneous beliefs i
@@ -314,26 +272,21 @@ DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Léo R
  eitzmann (PSE and University of Helsinki)\nTitle: Heterogeneous beliefs in
   climate change damages: the whistleblower’s dilemma\n\nTime not publish
  ed yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/
- events/leo-reitzmann\n\nPaper on Scholar: https://scholar.google.com/schol
- ar?q=%22Heterogeneous+beliefs+in+climate+change+damages%3A+the+whistleblow
- er%27s+dilemma%22\n\nSpeaker on Scholar: https://scholar.google.com/schola
- r?q=author%3A%22L%C3%A9o+Reitzmann%22
+ events/leo-reitzmann
 URL:https://www.helsinkigse.fi/events/leo-reitzmann
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251028-environmental-economics-reading-group20@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251028
 DTEND;VALUE=DATE:20251029
 SUMMARY:Environmental Economics: Environmental Economics Reading Group
 DESCRIPTION:Series: Environmental Economics\nType: Reading Group\nSpeaker: 
  Environmental Economics Reading Group\nTitle: TBA\n\nTime not published ye
  t — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/event
- s/environmental-economics-reading-group20\n\nSpeaker on Scholar: https://s
- cholar.google.com/scholar?q=author%3A%22Environmental+Economics+Reading+Gr
- oup%22
+ s/environmental-economics-reading-group20
 URL:https://www.helsinkigse.fi/events/environmental-economics-reading-group
  20
 STATUS:CONFIRMED
@@ -341,7 +294,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251111-stefan-ambec1@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251111
 DTEND;VALUE=DATE:20251112
 SUMMARY:Environmental Economics: Stefan Ambec — Pricing Intermittent Rene
@@ -350,17 +303,14 @@ DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Stefan
   Ambec (Toulouse School of Economics)\nTitle: Pricing Intermittent Renewab
  les (with Stefan Lamp and Claude Crampes)\n\nTime not published yet — al
  l-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/stefan
- -ambec1\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Prici
- ng+Intermittent+Renewables+%28with+Stefan+Lamp+and+Claude+Crampes%29%22\n\
- nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Stef
- an+Ambec%22
+ -ambec1
 URL:https://www.helsinkigse.fi/events/stefan-ambec1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251118-isabel-hovdahl@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251118
 DTEND;VALUE=DATE:20251119
 SUMMARY:Environmental Economics: Isabel Hovdahl — Charging the Transition
@@ -368,17 +318,14 @@ SUMMARY:Environmental Economics: Isabel Hovdahl — Charging the Transition
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Isabel
   Hovdahl (NHH)\nTitle: Charging the Transition: Energy Storage Innovation 
  and Climate Policy\n\nTime not published yet — all-day placeholder.\n\nE
- vent page: https://www.helsinkigse.fi/events/isabel-hovdahl\n\nPaper on Sc
- holar: https://scholar.google.com/scholar?q=%22Charging+the+Transition%3A+
- Energy+Storage+Innovation+and+Climate+Policy%22\n\nSpeaker on Scholar: htt
- ps://scholar.google.com/scholar?q=author%3A%22Isabel+Hovdahl%22
+ vent page: https://www.helsinkigse.fi/events/isabel-hovdahl
 URL:https://www.helsinkigse.fi/events/isabel-hovdahl
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251202-jaqueline-adelowo@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251202
 DTEND;VALUE=DATE:20251203
 SUMMARY:Environmental Economics: Jaqueline Adelowo — Deregulation in elec
@@ -387,17 +334,14 @@ DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Jaquel
  ine Adelowo (Politecnico di Torino)\nTitle: Deregulation in electricity re
  tail markets — default prices as outside option\n\nTime not published ye
  t — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/event
- s/jaqueline-adelowo\n\nPaper on Scholar: https://scholar.google.com/schola
- r?q=%22Deregulation+in+electricity+retail+markets+-+default+prices+as+outs
- ide+option%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=
- author%3A%22Jaqueline+Adelowo%22
+ s/jaqueline-adelowo
 URL:https://www.helsinkigse.fi/events/jaqueline-adelowo
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251216-william-odgen4@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251216
 DTEND;VALUE=DATE:20251217
 SUMMARY:Environmental Economics: William Odgen — Estimating Transaction F
@@ -405,17 +349,14 @@ SUMMARY:Environmental Economics: William Odgen — Estimating Transaction F
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Willia
  m Odgen (Aalto University)\nTitle: Estimating Transaction Frictions in Car
   Choice\n\nTime not published yet — all-day placeholder.\n\nEvent page: 
- https://www.helsinkigse.fi/events/william-odgen4\n\nPaper on Scholar: http
- s://scholar.google.com/scholar?q=%22Estimating+Transaction+Frictions+in+Ca
- r+Choice%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=au
- thor%3A%22William+Odgen%22
+ https://www.helsinkigse.fi/events/william-odgen4
 URL:https://www.helsinkigse.fi/events/william-odgen4
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260224-benjamin-hattemer@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260224
 DTEND;VALUE=DATE:20260225
 SUMMARY:Environmental Economics: Benjamin Hattemer — From Free to Fee: Ho
@@ -424,17 +365,14 @@ DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Benjam
  in Hattemer (University of Helsinki)\nTitle: From Free to Fee: How Emissio
  n Permit Allocation Affect Firms\n\nTime not published yet — all-day pla
  ceholder.\n\nEvent page: https://www.helsinkigse.fi/events/benjamin-hattem
- er\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22From+Free+
- to+Fee%3A+How+Emission+Permit+Allocation+Affect+Firms%22\n\nSpeaker on Sch
- olar: https://scholar.google.com/scholar?q=author%3A%22Benjamin+Hattemer%2
- 2
+ er
 URL:https://www.helsinkigse.fi/events/benjamin-hattemer
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260310-francesco-vona@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260310
 DTEND;VALUE=DATE:20260311
 SUMMARY:Environmental Economics: Francesco Vona — The impact of the Europ
@@ -444,18 +382,14 @@ DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: France
   Emission Trading Schemes on career and earnings trajectories of Italian w
  orkers: it is all about the rents\, no troubles!\n\nTime not published yet
   — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events
- /francesco-vona\n\nPaper on Scholar: https://scholar.google.com/scholar?q=
- %22The+impact+of+the+European+Emission+Trading+Schemes+on+career+and+earni
- ngs+trajectories+of+Italian+workers%3A+it+is+all+about+the+rents%2C+no+tro
- ubles%21%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=au
- thor%3A%22Francesco+Vona%22
+ /francesco-vona
 URL:https://www.helsinkigse.fi/events/francesco-vona
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260324-sander-ramboer2@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260324
 DTEND;VALUE=DATE:20260325
 SUMMARY:Environmental Economics: Sander Ramboer — Local Property Tax Ince
@@ -463,17 +397,14 @@ SUMMARY:Environmental Economics: Sander Ramboer — Local Property Tax Ince
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Sander
   Ramboer (VATT)\nTitle: Local Property Tax Incentives for Wind Farm Develo
  pment\n\nTime not published yet — all-day placeholder.\n\nEvent page: ht
- tps://www.helsinkigse.fi/events/sander-ramboer2\n\nPaper on Scholar: https
- ://scholar.google.com/scholar?q=%22Local+Property+Tax+Incentives+for+Wind+
- Farm+Development%22\n\nSpeaker on Scholar: https://scholar.google.com/scho
- lar?q=author%3A%22Sander+Ramboer%22
+ tps://www.helsinkigse.fi/events/sander-ramboer2
 URL:https://www.helsinkigse.fi/events/sander-ramboer2
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260421-thomas-douenne@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260422
 SUMMARY:Environmental Economics: Thomas Douenne — Optimal Climate Policy 
@@ -482,17 +413,14 @@ DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Thomas
   Douenne (University of Amsterdam)\nTitle: Optimal Climate Policy with Inc
  omplete Markets (with S. Dyrda\, A. J. Hummel and M. Pedroni)\n\nTime not 
  published yet — all-day placeholder.\n\nEvent page: https://www.helsinki
- gse.fi/events/thomas-douenne\n\nPaper on Scholar: https://scholar.google.c
- om/scholar?q=%22Optimal+Climate+Policy+with+Incomplete+Markets+%28with+S.+
- Dyrda%2C+A.+J.+Hummel+and+M.+Pedroni%29%22\n\nSpeaker on Scholar: https://
- scholar.google.com/scholar?q=author%3A%22Thomas+Douenne%22
+ gse.fi/events/thomas-douenne
 URL:https://www.helsinkigse.fi/events/thomas-douenne
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260519-ludovica-gazze@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260519
 DTEND;VALUE=DATE:20260520
 SUMMARY:Environmental Economics: Ludovica Gazze — People\, places or hous
@@ -501,81 +429,72 @@ DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Ludovi
  ca Gazze (University of Warwick)\nTitle: People\, places or houses? Househ
  olds’ carbon emissions in the UK (with Lucie Gadenne\, Peter Levell\, Da
  vide Sansone)\n\nTime not published yet — all-day placeholder.\n\nEvent 
- page: https://www.helsinkigse.fi/events/ludovica-gazze\n\nPaper on Scholar
- : https://scholar.google.com/scholar?q=%22People%2C+places+or+houses%3F+Ho
- useholds%27+carbon+emissions+in+the+UK+%28with+Lucie+Gadenne%2C+Peter+Leve
- ll%2C+Davide+Sansone%29%22\n\nSpeaker on Scholar: https://scholar.google.c
- om/scholar?q=author%3A%22Ludovica+Gazze%22
+ page: https://www.helsinkigse.fi/events/ludovica-gazze
 URL:https://www.helsinkigse.fi/events/ludovica-gazze
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260908-pia-nilsson@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;TZID=Europe/Helsinki:20260908T150000
 DTEND;TZID=Europe/Helsinki:20260908T160000
 SUMMARY:Environmental Economics: Pia Nilsson
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Pia Ni
  lsson (University of Helsinki)\nTitle: TBA\nHost: Anna Sahari\n\nEvent pag
- e: https://www.helsinkigse.fi/events/pia-nilsson\n\nSpeaker on Scholar: ht
- tps://scholar.google.com/scholar?q=author%3A%22Pia+Nilsson%22
+ e: https://www.helsinkigse.fi/events/pia-nilsson
 URL:https://www.helsinkigse.fi/events/pia-nilsson
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261006-asa-lofgren1@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;TZID=Europe/Helsinki:20261006T150000
 DTEND;TZID=Europe/Helsinki:20261006T160000
 SUMMARY:Environmental Economics: Åsa Löfgren
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Åsa L
  öfgren (Gothenburg University)\nTitle: TBA\nHost: Anna Sahari\n\nEvent pa
- ge: https://www.helsinkigse.fi/events/asa-lofgren1\n\nSpeaker on Scholar: 
- https://scholar.google.com/scholar?q=author%3A%22%C3%85sa+L%C3%B6fgren%22
+ ge: https://www.helsinkigse.fi/events/asa-lofgren1
 URL:https://www.helsinkigse.fi/events/asa-lofgren1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261117-tuomas-kaariaho@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;TZID=Europe/Helsinki:20261117T150000
 DTEND;TZID=Europe/Helsinki:20261117T160000
 SUMMARY:Environmental Economics: Tuomas Kaariaho
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Tuomas
   Kaariaho (University of Helsinki)\nTitle: TBA\nHost: Anna Sahari\n\nEvent
-  page: https://www.helsinkigse.fi/events/tuomas-kaariaho\n\nSpeaker on Sch
- olar: https://scholar.google.com/scholar?q=author%3A%22Tuomas+Kaariaho%22
+  page: https://www.helsinkigse.fi/events/tuomas-kaariaho
 URL:https://www.helsinkigse.fi/events/tuomas-kaariaho
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261201-piia-remes@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;TZID=Europe/Helsinki:20261201T150000
 DTEND;TZID=Europe/Helsinki:20261201T160000
 SUMMARY:Environmental Economics: Piia Remes
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Piia R
  emes (VATT)\nTitle: TBA\nHost: Anna Sahari\n\nEvent page: https://www.hels
- inkigse.fi/events/piia-remes\n\nSpeaker on Scholar: https://scholar.google
- .com/scholar?q=author%3A%22Piia+Remes%22
+ inkigse.fi/events/piia-remes
 URL:https://www.helsinkigse.fi/events/piia-remes
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261215-linde-kattenberg@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;TZID=Europe/Helsinki:20261215T150000
 DTEND;TZID=Europe/Helsinki:20261215T160000
 SUMMARY:Environmental Economics: Linde Kattenberg
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Linde 
  Kattenberg (Aarhus University)\nTitle: TBA\nHost: Anna Sahari\n\nEvent pag
- e: https://www.helsinkigse.fi/events/linde-kattenberg\n\nSpeaker on Schola
- r: https://scholar.google.com/scholar?q=author%3A%22Linde+Kattenberg%22
+ e: https://www.helsinkigse.fi/events/linde-kattenberg
 URL:https://www.helsinkigse.fi/events/linde-kattenberg
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

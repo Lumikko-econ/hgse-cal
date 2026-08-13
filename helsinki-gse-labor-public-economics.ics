@@ -30,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250218-dan-olof-rooth1@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250218
 DTEND;VALUE=DATE:20250219
 SUMMARY:Labor & Public Economics: Dan-Olof Rooth — Work from home and dis
@@ -38,18 +38,14 @@ SUMMARY:Labor & Public Economics: Dan-Olof Rooth — Work from home and dis
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Dan-O
  lof Rooth (SOFI)\nTitle: Work from home and disability employment (with Ni
  ck Bloom and Gordon Dahl)\n\nTime not published yet — all-day placeholde
- r.\n\nEvent page: https://www.helsinkigse.fi/events/dan-olof-rooth1\n\nPap
- er on Scholar: https://scholar.google.com/scholar?q=%22Work+from+home+and+
- disability+employment+%28with+Nick+Bloom+and+Gordon+Dahl%29%22\n\nSpeaker 
- on Scholar: https://scholar.google.com/scholar?q=author%3A%22Dan-Olof+Root
- h%22
+ r.\n\nEvent page: https://www.helsinkigse.fi/events/dan-olof-rooth1
 URL:https://www.helsinkigse.fi/events/dan-olof-rooth1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250226-lachlan-paterson@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250226
 DTEND;VALUE=DATE:20250227
 SUMMARY:Labor & Public Economics: CANCELLED Lachlan Paterson — Variation 
@@ -58,17 +54,14 @@ DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: C
  ANCELLED Lachlan Paterson (Aalto University)\nTitle: Variation in quality 
  of language-focused integration training\n\nTime not published yet — all
  -day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/lachlan
- -paterson\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Var
- iation+in+quality+of+language-focused+integration+training%22\n\nSpeaker o
- n Scholar: https://scholar.google.com/scholar?q=author%3A%22CANCELLED+Lach
- lan+Paterson%22
+ -paterson
 URL:https://www.helsinkigse.fi/events/lachlan-paterson
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250304-enea-baselgia@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250304
 DTEND;VALUE=DATE:20250305
 SUMMARY:Labor & Public Economics: Enea Baselgia — The Compliance Effects 
@@ -77,17 +70,14 @@ DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Enea
  Baselgia (ETH Zurich)\nTitle: The Compliance Effects of the Automatic Exch
  ange of Information: Evidence from the Swiss Tax Amnesty\n\nTime not publi
  shed yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.f
- i/events/enea-baselgia\n\nPaper on Scholar: https://scholar.google.com/sch
- olar?q=%22The+Compliance+Effects+of+the+Automatic+Exchange+of+Information%
- 3A+Evidence+from+the+Swiss+Tax+Amnesty%22\n\nSpeaker on Scholar: https://s
- cholar.google.com/scholar?q=author%3A%22Enea+Baselgia%22
+ i/events/enea-baselgia
 URL:https://www.helsinkigse.fi/events/enea-baselgia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250312-ella-mattinen1@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250312
 DTEND;VALUE=DATE:20250313
 SUMMARY:Labor & Public Economics: Ella Mattinen — The Impact of Successio
@@ -96,17 +86,14 @@ DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: E
  lla Mattinen (Tampere University)\nTitle: The Impact of Succession Taxes o
  n Family Firm Performance and Composition\n\nTime not published yet — al
  l-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/ella-m
- attinen1\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22The+
- Impact+of+Succession+Taxes+on+Family+Firm+Performance+and+Composition%22\n
- \nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Ell
- a+Mattinen%22
+ attinen1
 URL:https://www.helsinkigse.fi/events/ella-mattinen1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250326-tuomas-hiilamo@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250326
 DTEND;VALUE=DATE:20250327
 SUMMARY:Labor & Public Economics: Tuomas Hiilamo — Partial Retirement in 
@@ -114,17 +101,14 @@ SUMMARY:Labor & Public Economics: Tuomas Hiilamo — Partial Retirement in
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: T
  uomas Hiilamo (University of Helsinki)\nTitle: Partial Retirement in a Hur
  ry: Earnings and Regret\n\nTime not published yet — all-day placeholder.
- \n\nEvent page: https://www.helsinkigse.fi/events/tuomas-hiilamo\n\nPaper 
- on Scholar: https://scholar.google.com/scholar?q=%22Partial+Retirement+in+
- a+Hurry%3A+Earnings+and+Regret%22\n\nSpeaker on Scholar: https://scholar.g
- oogle.com/scholar?q=author%3A%22Tuomas+Hiilamo%22
+ \n\nEvent page: https://www.helsinkigse.fi/events/tuomas-hiilamo
 URL:https://www.helsinkigse.fi/events/tuomas-hiilamo
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250401-max-lofflerin@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250401
 DTEND;VALUE=DATE:20250402
 SUMMARY:Labor & Public Economics: Max Löffler — Welfare Effects of Subsi
@@ -132,17 +116,14 @@ SUMMARY:Labor & Public Economics: Max Löffler — Welfare Effects of Subsi
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Max L
  öffler (Maastrich University)\nTitle: Welfare Effects of Subsidizing Firs
  t-Time Homebuyers\n\nTime not published yet — all-day placeholder.\n\nEv
- ent page: https://www.helsinkigse.fi/events/max-lofflerin\n\nPaper on Scho
- lar: https://scholar.google.com/scholar?q=%22Welfare+Effects+of+Subsidizin
- g+First-Time+Homebuyers%22\n\nSpeaker on Scholar: https://scholar.google.c
- om/scholar?q=author%3A%22Max+L%C3%B6ffler%22
+ ent page: https://www.helsinkigse.fi/events/max-lofflerin
 URL:https://www.helsinkigse.fi/events/max-lofflerin
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250409-ossi-tahvonen1@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250409
 DTEND;VALUE=DATE:20250410
 SUMMARY:Labor & Public Economics: Ossi Tahvonen — Long-term Effects of a 
@@ -150,17 +131,14 @@ SUMMARY:Labor & Public Economics: Ossi Tahvonen — Long-term Effects of a
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: O
  ssi Tahvonen (University of Helsinki)\nTitle: Long-term Effects of a Youth
   Disability Benefit\n\nTime not published yet — all-day placeholder.\n\n
- Event page: https://www.helsinkigse.fi/events/ossi-tahvonen1\n\nPaper on S
- cholar: https://scholar.google.com/scholar?q=%22Long-term+Effects+of+a+You
- th+Disability+Benefit%22\n\nSpeaker on Scholar: https://scholar.google.com
- /scholar?q=author%3A%22Ossi+Tahvonen%22
+ Event page: https://www.helsinkigse.fi/events/ossi-tahvonen1
 URL:https://www.helsinkigse.fi/events/ossi-tahvonen1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250415-arnaud-maurel1@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:Labor & Public Economics: Arnaud Maurel — Sequential College Admi
@@ -169,18 +147,14 @@ DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Arnau
  d Maurel (Duke University)\nTitle: Sequential College Admission Mechanisms
   and Off-Platform Options (joint with O. De Groote\, A. Fabre and M. Lufla
  de)\n\nTime not published yet — all-day placeholder.\n\nEvent page: http
- s://www.helsinkigse.fi/events/arnaud-maurel1\n\nPaper on Scholar: https://
- scholar.google.com/scholar?q=%22Sequential+College+Admission+Mechanisms+an
- d+Off-Platform+Options+%28joint+with+O.+De+Groote%2C+A.+Fabre+and+M.+Lufla
- de%29%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=autho
- r%3A%22Arnaud+Maurel%22
+ s://www.helsinkigse.fi/events/arnaud-maurel1
 URL:https://www.helsinkigse.fi/events/arnaud-maurel1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250423-veikko-uusitalo@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250423
 DTEND;VALUE=DATE:20250424
 SUMMARY:Labor & Public Economics: Veikko Uusitalo — Commuting expenses de
@@ -189,32 +163,28 @@ DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: V
  eikko Uusitalo (University of Helsinki)\nTitle: Commuting expenses deducti
  on: effects on commutes and labor market outcomes\n\nTime not published ye
  t — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/event
- s/veikko-uusitalo\n\nPaper on Scholar: https://scholar.google.com/scholar?
- q=%22Commuting+expenses+deduction%3A+effects+on+commutes+and+labor+market+
- outcomes%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=au
- thor%3A%22Veikko+Uusitalo%22
+ s/veikko-uusitalo
 URL:https://www.helsinkigse.fi/events/veikko-uusitalo
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250429-tuomas-matikka3@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250429
 DTEND;VALUE=DATE:20250430
 SUMMARY:Labor & Public Economics: Tuomas Matikka
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Tuoma
  s Matikka (VATT and FIT)\nTitle: TBA\n\nTime not published yet — all-day
   placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/tuomas-mati
- kka3\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A
- %22Tuomas+Matikka%22
+ kka3
 URL:https://www.helsinkigse.fi/events/tuomas-matikka3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250507-jerry-montonen1@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250507
 DTEND;VALUE=DATE:20250508
 SUMMARY:Labor & Public Economics: Jerry Montonen — Shaping Young Minds: T
@@ -222,17 +192,14 @@ SUMMARY:Labor & Public Economics: Jerry Montonen — Shaping Young Minds: T
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: J
  erry Montonen (Aalto University)\nTitle: Shaping Young Minds: The Effects 
  of Teachers on Social Skills\n\nTime not published yet — all-day placeho
- lder.\n\nEvent page: https://www.helsinkigse.fi/events/jerry-montonen1\n\n
- Paper on Scholar: https://scholar.google.com/scholar?q=%22Shaping+Young+Mi
- nds%3A+The+Effects+of+Teachers+on+Social+Skills%22\n\nSpeaker on Scholar: 
- https://scholar.google.com/scholar?q=author%3A%22Jerry+Montonen%22
+ lder.\n\nEvent page: https://www.helsinkigse.fi/events/jerry-montonen1
 URL:https://www.helsinkigse.fi/events/jerry-montonen1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250513-nadja-dwenger@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250513
 DTEND;VALUE=DATE:20250514
 SUMMARY:Labor & Public Economics: Nadja Dwenger — Building Capacity in th
@@ -241,18 +208,14 @@ DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Nadja
   Dwenger (University of Hohenheim)\nTitle: Building Capacity in the Public
   Administration: Evidence from German Reunification (joint work with Anna 
  Gumpert)\n\nTime not published yet — all-day placeholder.\n\nEvent page:
-  https://www.helsinkigse.fi/events/nadja-dwenger\n\nPaper on Scholar: http
- s://scholar.google.com/scholar?q=%22Building+Capacity+in+the+Public+Admini
- stration%3A+Evidence+from+German+Reunification+%28joint+work+with+Anna+Gum
- pert%29%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=aut
- hor%3A%22Nadja+Dwenger%22
+  https://www.helsinkigse.fi/events/nadja-dwenger
 URL:https://www.helsinkigse.fi/events/nadja-dwenger
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250521-satu-suonto@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250521
 DTEND;VALUE=DATE:20250522
 SUMMARY:Labor & Public Economics: Satu Suonto — Determinants of Redistrib
@@ -261,17 +224,14 @@ DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: S
  atu Suonto (University of Helsinki / VATT)\nTitle: Determinants of Redistr
  ibutive Preferences: Evidence from natural and survey experiment\n\nTime n
  ot published yet — all-day placeholder.\n\nEvent page: https://www.helsi
- nkigse.fi/events/satu-suonto\n\nPaper on Scholar: https://scholar.google.c
- om/scholar?q=%22Determinants+of+Redistributive+Preferences%3A+Evidence+fro
- m+natural+and+survey+experiment%22\n\nSpeaker on Scholar: https://scholar.
- google.com/scholar?q=author%3A%22Satu+Suonto%22
+ nkigse.fi/events/satu-suonto
 URL:https://www.helsinkigse.fi/events/satu-suonto
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250527-christopher-carpenter@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250527
 DTEND;VALUE=DATE:20250528
 SUMMARY:Labor & Public Economics: Christopher Carpenter — Transgender Ear
@@ -280,18 +240,14 @@ DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Chris
  topher Carpenter (Vanderbilt)\nTitle: Transgender Earnings Gaps in the Uni
  ted States: Evidence from Administrative Data (with Lucas Goodman & Maxine
   J. Lee)\n\nTime not published yet — all-day placeholder.\n\nEvent page:
-  https://www.helsinkigse.fi/events/christopher-carpenter\n\nPaper on Schol
- ar: https://scholar.google.com/scholar?q=%22Transgender+Earnings+Gaps+in+t
- he+United+States%3A+Evidence+from+Administrative+Data+%28with+Lucas+Goodma
- n+%26+Maxine+J.+Lee%29%22\n\nSpeaker on Scholar: https://scholar.google.co
- m/scholar?q=author%3A%22Christopher+Carpenter%22
+  https://www.helsinkigse.fi/events/christopher-carpenter
 URL:https://www.helsinkigse.fi/events/christopher-carpenter
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250527-ylva-moberg@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250527
 DTEND;VALUE=DATE:20250528
 SUMMARY:Labor & Public Economics: Ylva Moberg — Moberg: LGBTQ populations
@@ -299,9 +255,7 @@ SUMMARY:Labor & Public Economics: Ylva Moberg — Moberg: LGBTQ populations
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Ylva 
  Moberg (SOFI)\nTitle: Moberg: LGBTQ populations in the Nordics\n\nTime not
   published yet — all-day placeholder.\n\nEvent page: https://www.helsink
- igse.fi/events/ylva-moberg\n\nPaper on Scholar: https://scholar.google.com
- /scholar?q=%22Moberg%3A+LGBTQ+populations+in+the+Nordics%22\n\nSpeaker on 
- Scholar: https://scholar.google.com/scholar?q=author%3A%22Ylva+Moberg%22
+ igse.fi/events/ylva-moberg
 URL:https://www.helsinkigse.fi/events/ylva-moberg
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -309,7 +263,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250528-labor-and-public-economics-phd-workshop-2025@helsinkigse.
  fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250528
 DTEND;VALUE=DATE:20250529
 SUMMARY:Labor & Public Economics: Labor and Public Economics PhD Workshop 
@@ -318,8 +272,7 @@ DESCRIPTION:Series: Labor & Public Economics\nType: PhD Workshop\nSpeaker:
  Labor and Public Economics PhD Workshop\nTitle: Workshop for Helsinki GSE 
  and FDPE PhD students\n\nTime not published yet — all-day placeholder.\n
  \nEvent page: https://www.helsinkigse.fi/events/labor-and-public-economics
- -phd-workshop-2025\n\nPaper on Scholar: https://scholar.google.com/scholar
- ?q=%22Workshop+for+Helsinki+GSE+and+FDPE+PhD+students%22
+ -phd-workshop-2025
 URL:https://www.helsinkigse.fi/events/labor-and-public-economics-phd-worksh
  op-2025
 STATUS:CONFIRMED
@@ -327,7 +280,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250604-marc-riudavets1@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250604
 DTEND;VALUE=DATE:20250605
 SUMMARY:Labor & Public Economics: Marc Riudavets — The Interaction betwee
@@ -336,17 +289,14 @@ DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: M
  arc Riudavets (University of Helsinki)\nTitle: The Interaction between Min
  imum Wages and Collective Bargaining: Explaining Wage Spillovers.\n\nTime 
  not published yet — all-day placeholder.\n\nEvent page: https://www.hels
- inkigse.fi/events/marc-riudavets1\n\nPaper on Scholar: https://scholar.goo
- gle.com/scholar?q=%22The+Interaction+between+Minimum+Wages+and+Collective+
- Bargaining%3A+Explaining+Wage+Spillovers.%22\n\nSpeaker on Scholar: https:
- //scholar.google.com/scholar?q=author%3A%22Marc+Riudavets%22
+ inkigse.fi/events/marc-riudavets1
 URL:https://www.helsinkigse.fi/events/marc-riudavets1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250617-eric-zwick@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250617
 DTEND;VALUE=DATE:20250618
 SUMMARY:Labor & Public Economics: Eric Zwick — Tax Policy and Investment 
@@ -355,18 +305,14 @@ DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Eric
  Zwick (University of Chicago Booth School of Business and NBER)\nTitle: Ta
  x Policy and Investment in a Global Economy (joint with Gabriel Chodorow-R
  eich\, Matthew Smith and Owen Zidar)\n\nTime not published yet — all-day
-  placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/eric-zwick\
- n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Tax+Policy+an
- d+Investment+in+a+Global+Economy+%28joint+with+Gabriel+Chodorow-Reich%2C+M
- atthew+Smith+and+Owen+Zidar%29%22\n\nSpeaker on Scholar: https://scholar.g
- oogle.com/scholar?q=author%3A%22Eric+Zwick%22
+  placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/eric-zwick
 URL:https://www.helsinkigse.fi/events/eric-zwick
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250903-juho-junttila1@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250903
 DTEND;VALUE=DATE:20250904
 SUMMARY:Labor & Public Economics: Juho Junttila — Anatomy of a Compulsory
@@ -374,17 +320,14 @@ SUMMARY:Labor & Public Economics: Juho Junttila — Anatomy of a Compulsory
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: J
  uho Junttila (University of Helsinki)\nTitle: Anatomy of a Compulsory Scho
  oling Law\n\nTime not published yet — all-day placeholder.\n\nEvent page
- : https://www.helsinkigse.fi/events/juho-junttila1\n\nPaper on Scholar: ht
- tps://scholar.google.com/scholar?q=%22Anatomy+of+a+Compulsory+Schooling+La
- w%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A
- %22Juho+Junttila%22
+ : https://www.helsinkigse.fi/events/juho-junttila1
 URL:https://www.helsinkigse.fi/events/juho-junttila1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250909-tom-zohar@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250909
 DTEND;VALUE=DATE:20250910
 SUMMARY:Labor & Public Economics: Tom Zohar — On Causal Inference with Mo
@@ -393,17 +336,14 @@ DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Tom Z
  ohar (CEMFI)\nTitle: On Causal Inference with Model-Based Outcomes (with D
  mitry Arkhangelsky and Kazuharo Yanagimoto)\n\nTime not published yet — 
  all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/tom-
- zohar\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22On+Caus
- al+Inference+with+Model-Based+Outcomes+%28with+Dmitry+Arkhangelsky+and+Kaz
- uharo+Yanagimoto%29%22\n\nSpeaker on Scholar: https://scholar.google.com/s
- cholar?q=author%3A%22Tom+Zohar%22
+ zohar
 URL:https://www.helsinkigse.fi/events/tom-zohar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250916-martin-brun@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250916
 DTEND;VALUE=DATE:20250917
 SUMMARY:Labor & Public Economics: Martín Brun — A Cognitive Root in Fair
@@ -411,16 +351,14 @@ SUMMARY:Labor & Public Economics: Martín Brun — A Cognitive Root in Fair
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Mart
  ín Brun (Tampere University)\nTitle: A Cognitive Root in Fairness\n\nTime
   not published yet — all-day placeholder.\n\nEvent page: https://www.hel
- sinkigse.fi/events/martin-brun\n\nPaper on Scholar: https://scholar.google
- .com/scholar?q=%22A+Cognitive+Root+in+Fairness%22\n\nSpeaker on Scholar: h
- ttps://scholar.google.com/scholar?q=author%3A%22Mart%C3%ADn+Brun%22
+ sinkigse.fi/events/martin-brun
 URL:https://www.helsinkigse.fi/events/martin-brun
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250930-lena-hensvik1@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250930
 DTEND;VALUE=DATE:20251001
 SUMMARY:Labor & Public Economics: Lena Hensvik — How do Migrants and Nati
@@ -428,17 +366,14 @@ SUMMARY:Labor & Public Economics: Lena Hensvik — How do Migrants and Nati
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Lena 
  Hensvik (Uppsala University)\nTitle: How do Migrants and Natives Search fo
  r Jobs?\n\nTime not published yet — all-day placeholder.\n\nEvent page: 
- https://www.helsinkigse.fi/events/lena-hensvik1\n\nPaper on Scholar: https
- ://scholar.google.com/scholar?q=%22How+do+Migrants+and+Natives+Search+for+
- Jobs%3F%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=aut
- hor%3A%22Lena+Hensvik%22
+ https://www.helsinkigse.fi/events/lena-hensvik1
 URL:https://www.helsinkigse.fi/events/lena-hensvik1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251001-atte-pudas3@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251001
 DTEND;VALUE=DATE:20251002
 SUMMARY:Labor & Public Economics: Atte Pudas — Gender Differences in the 
@@ -446,17 +381,14 @@ SUMMARY:Labor & Public Economics: Atte Pudas — Gender Differences in the
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: A
  tte Pudas (Aalto University)\nTitle: Gender Differences in the Returns and
   Costs of Patenting\n\nTime not published yet — all-day placeholder.\n\n
- Event page: https://www.helsinkigse.fi/events/atte-pudas3\n\nPaper on Scho
- lar: https://scholar.google.com/scholar?q=%22Gender+Differences+in+the+Ret
- urns+and+Costs+of+Patenting%22\n\nSpeaker on Scholar: https://scholar.goog
- le.com/scholar?q=author%3A%22Atte+Pudas%22
+ Event page: https://www.helsinkigse.fi/events/atte-pudas3
 URL:https://www.helsinkigse.fi/events/atte-pudas3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251015-gopinath-annadurai@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251015
 DTEND;VALUE=DATE:20251016
 SUMMARY:Labor & Public Economics: Gopinath Annadurai — Improving First-Ge
@@ -466,17 +398,14 @@ DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: G
  ving First-Generation College Students’ Education and Employment: Effect
  s of a Targeted Scholarship Program\n\nTime not published yet — all-day 
  placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/gopinath-ann
- adurai\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Improv
- ing+First-Generation+College+Students%27+Education+and+Employment%3A+Effec
- ts+of+a+Targeted+Scholarship+Program%22\n\nSpeaker on Scholar: https://sch
- olar.google.com/scholar?q=author%3A%22Gopinath+Annadurai%22
+ adurai
 URL:https://www.helsinkigse.fi/events/gopinath-annadurai
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251111-simen-markussen@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251111
 DTEND;VALUE=DATE:20251112
 SUMMARY:Labor & Public Economics: Simen Markussen — Unemployment benefits
@@ -485,17 +414,14 @@ DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Simen
   Markussen (Frisch Center)\nTitle: Unemployment benefits for labor market 
  entrants: A cross-country study using micro data\n\nTime not published yet
   — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events
- /simen-markussen\n\nPaper on Scholar: https://scholar.google.com/scholar?q
- =%22Unemployment+benefits+for+labor+market+entrants%3A+A+cross-country+stu
- dy+using+micro+data%22\n\nSpeaker on Scholar: https://scholar.google.com/s
- cholar?q=author%3A%22Simen+Markussen%22
+ /simen-markussen
 URL:https://www.helsinkigse.fi/events/simen-markussen
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251112-ellen-sahlstrom1@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251112
 DTEND;VALUE=DATE:20251113
 SUMMARY:Labor & Public Economics: Ellen Sahlström — Preventing Social Ex
@@ -503,17 +429,14 @@ SUMMARY:Labor & Public Economics: Ellen Sahlström — Preventing Social Ex
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: E
  llen Sahlström (Aalto University)\nTitle: Preventing Social Exclusion of 
  Immigrants\n\nTime not published yet — all-day placeholder.\n\nEvent pag
- e: https://www.helsinkigse.fi/events/ellen-sahlstrom1\n\nPaper on Scholar:
-  https://scholar.google.com/scholar?q=%22Preventing+Social+Exclusion+of+Im
- migrants%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=au
- thor%3A%22Ellen+Sahlstr%C3%B6m%22
+ e: https://www.helsinkigse.fi/events/ellen-sahlstrom1
 URL:https://www.helsinkigse.fi/events/ellen-sahlstrom1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251125-ana-costa-ramon@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251125
 DTEND;VALUE=DATE:20251126
 SUMMARY:Labor & Public Economics: Ana Costa-Ramón — The Long-Run Effects
@@ -523,18 +446,14 @@ DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Ana C
  l Anti-Bullying Intervention (with Tabea Braun\, Ana Rodríguez-González\
  , Ursina Schaede\, and Christina Salmivalli)\n\nTime not published yet —
   all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/ana
- -costa-ramon\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22
- The+Long-Run+Effects+of+a+School+Anti-Bullying+Intervention+%28with+Tabea+
- Braun%2C+Ana+Rodr%C3%ADguez-Gonz%C3%A1lez%2C+Ursina+Schaede%2C+and+Christi
- na+Salmivalli%29%22\n\nSpeaker on Scholar: https://scholar.google.com/scho
- lar?q=author%3A%22Ana+Costa-Ram%C3%B3n%22
+ -costa-ramon
 URL:https://www.helsinkigse.fi/events/ana-costa-ramon
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251126-jerry-montonen3@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251126
 DTEND;VALUE=DATE:20251127
 SUMMARY:Labor & Public Economics: CANCELLED: Jerry Montonen — Shaping You
@@ -543,17 +462,14 @@ DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: C
  ANCELLED: Jerry Montonen (Aalto University)\nTitle: Shaping Young Minds: T
  he Effects of Teachers on Social Skills\n\nTime not published yet — all-
  day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/jerry-mo
- ntonen3\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Shapi
- ng+Young+Minds%3A+The+Effects+of+Teachers+on+Social+Skills%22\n\nSpeaker o
- n Scholar: https://scholar.google.com/scholar?q=author%3A%22CANCELLED%3A+J
- erry+Montonen%22
+ ntonen3
 URL:https://www.helsinkigse.fi/events/jerry-montonen3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251209-arnaldur-stefanson@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251209
 DTEND;VALUE=DATE:20251210
 SUMMARY:Labor & Public Economics: Arnaldur Stefanson — Labor Supply Respo
@@ -562,26 +478,21 @@ DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Arnal
  dur Stefanson (University of Iceland)\nTitle: Labor Supply Response to a T
  ax Holiday: The Take-Home from a Large and Salient Shock\n\nTime not publi
  shed yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.f
- i/events/arnaldur-stefanson\n\nPaper on Scholar: https://scholar.google.co
- m/scholar?q=%22Labor+Supply+Response+to+a+Tax+Holiday%3A+The+Take-Home+fro
- m+a+Large+and+Salient+Shock%22\n\nSpeaker on Scholar: https://scholar.goog
- le.com/scholar?q=author%3A%22Arnaldur+Stefanson%22
+ i/events/arnaldur-stefanson
 URL:https://www.helsinkigse.fi/events/arnaldur-stefanson
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251210-saara-haikonen2@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251210
 DTEND;VALUE=DATE:20251211
 SUMMARY:Labor & Public Economics: CANCELLED: Saara Haikonen — TBA
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: C
  ANCELLED: Saara Haikonen (University of Helsinki)\nTitle: TBA\n\nTime not 
  published yet — all-day placeholder.\n\nEvent page: https://www.helsinki
- gse.fi/events/saara-haikonen2\n\nPaper on Scholar: https://scholar.google.
- com/scholar?q=%22TBA%22\n\nSpeaker on Scholar: https://scholar.google.com/
- scholar?q=author%3A%22CANCELLED%3A+Saara+Haikonen%22
+ gse.fi/events/saara-haikonen2
 URL:https://www.helsinkigse.fi/events/saara-haikonen2
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -589,7 +500,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251217-rasmus-mellanen-ossi-tahvonen-and-tuomas-hiilamo@helsinki
  gse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251217
 DTEND;VALUE=DATE:20251218
 SUMMARY:Labor & Public Economics: Rasmus Mellanen\, Ossi Tahvonen and Tuoma
@@ -601,14 +512,7 @@ DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: R
  ge IV with empirical Bayes / Hiilamo: Raising the Retirement Age: Claiming
   and Exit\n\nTime not published yet — all-day placeholder.\n\nEvent page
  : https://www.helsinkigse.fi/events/rasmus-mellanen-ossi-tahvonen-and-tuom
- as-hiilamo\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Me
- llanen%3A+Inequality+in+primary+schools+%2F+Tahvonen%3A+Improving+Judge+IV
- +with+empirical+Bayes+%2F+Hiilamo%3A+Raising+the+Retirement+Age%3A+Claimin
- g+and+Exit%22\n\nRasmus Mellanen on Scholar: https://scholar.google.com/sc
- holar?q=author%3A%22Rasmus+Mellanen%22\n\nOssi Tahvonen on Scholar: https:
- //scholar.google.com/scholar?q=author%3A%22Ossi+Tahvonen%22\n\nTuomas Hiil
- amo on Scholar: https://scholar.google.com/scholar?q=author%3A%22Tuomas+Hi
- ilamo%22
+ as-hiilamo
 URL:https://www.helsinkigse.fi/events/rasmus-mellanen-ossi-tahvonen-and-tuo
  mas-hiilamo
 STATUS:CONFIRMED
@@ -617,7 +521,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251218-labor-and-public-economics-phd-workshop-2025-2@helsinkigs
  e.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251218
 DTEND;VALUE=DATE:20251219
 SUMMARY:Labor & Public Economics: Labor and Public Economics PhD Workshop 
@@ -626,8 +530,7 @@ DESCRIPTION:Series: Labor & Public Economics\nType: PhD Workshop\nSpeaker:
  Labor and Public Economics PhD Workshop\nTitle: Workshop for Helsinki GSE 
  and FDPE PhD students\n\nTime not published yet — all-day placeholder.\n
  \nEvent page: https://www.helsinkigse.fi/events/labor-and-public-economics
- -phd-workshop-2025-2\n\nPaper on Scholar: https://scholar.google.com/schol
- ar?q=%22Workshop+for+Helsinki+GSE+and+FDPE+PhD+students%22
+ -phd-workshop-2025-2
 URL:https://www.helsinkigse.fi/events/labor-and-public-economics-phd-worksh
  op-2025-2
 STATUS:CONFIRMED
@@ -635,7 +538,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260203-camilla-christensen@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260203
 DTEND;VALUE=DATE:20260204
 SUMMARY:Labor & Public Economics: Camilla Christensen — Are People System
@@ -645,18 +548,14 @@ DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Camil
  ople Systematically Inactive Across Financial Decisions? Linking Evidence 
  from Mortgage and Retirement Saving Decisions (with Henrik Yde …\n\nTime
   not published yet — all-day placeholder.\n\nEvent page: https://www.hel
- sinkigse.fi/events/camilla-christensen\n\nPaper on Scholar: https://schola
- r.google.com/scholar?q=%22Are+People+Systematically+Inactive+Across+Financ
- ial+Decisions%3F+Linking+Evidence+from+Mortgage+and+Retirement+Saving+Deci
- sions+%28with+Henrik+Yde+%E2%80%A6%22\n\nSpeaker on Scholar: https://schol
- ar.google.com/scholar?q=author%3A%22Camilla+Christensen%22
+ sinkigse.fi/events/camilla-christensen
 URL:https://www.helsinkigse.fi/events/camilla-christensen
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260211-lachlan-paterson1@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260211
 DTEND;VALUE=DATE:20260212
 SUMMARY:Labor & Public Economics: Lachlan Paterson — The role of training
@@ -664,17 +563,14 @@ SUMMARY:Labor & Public Economics: Lachlan Paterson — The role of training
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: L
  achlan Paterson (Aalto University)\nTitle: The role of training providers 
  in integration training\n\nTime not published yet — all-day placeholder.
- \n\nEvent page: https://www.helsinkigse.fi/events/lachlan-paterson1\n\nPap
- er on Scholar: https://scholar.google.com/scholar?q=%22The+role+of+trainin
- g+providers+in+integration+training%22\n\nSpeaker on Scholar: https://scho
- lar.google.com/scholar?q=author%3A%22Lachlan+Paterson%22
+ \n\nEvent page: https://www.helsinkigse.fi/events/lachlan-paterson1
 URL:https://www.helsinkigse.fi/events/lachlan-paterson1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260217-tuuli-tahtinen4@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260217
 DTEND;VALUE=DATE:20260218
 SUMMARY:Labor & Public Economics: Tuuli Tähtinen — Growing up with Immig
@@ -683,17 +579,14 @@ DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Tuuli
   Tähtinen (IFO)\nTitle: Growing up with Immigrants: The Long-Run Effects 
  of Peers on Political Participation and Attitudes\n\nTime not published ye
  t — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/event
- s/tuuli-tahtinen4\n\nPaper on Scholar: https://scholar.google.com/scholar?
- q=%22Growing+up+with+Immigrants%3A+The+Long-Run+Effects+of+Peers+on+Politi
- cal+Participation+and+Attitudes%22\n\nSpeaker on Scholar: https://scholar.
- google.com/scholar?q=author%3A%22Tuuli+T%C3%A4htinen%22
+ s/tuuli-tahtinen4
 URL:https://www.helsinkigse.fi/events/tuuli-tahtinen4
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260225-veikko-uusitalo1@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260225
 DTEND;VALUE=DATE:20260226
 SUMMARY:Labor & Public Economics: Veikko Uusitalo — Which path pays off? 
@@ -702,17 +595,14 @@ DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: V
  eikko Uusitalo (University of Helsinki)\nTitle: Which path pays off? Retur
  ns to universities of applied sciences\n\nTime not published yet — all-d
  ay placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/veikko-uu
- sitalo1\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Which
- +path+pays+off%3F+Returns+to+universities+of+applied+sciences%22\n\nSpeake
- r on Scholar: https://scholar.google.com/scholar?q=author%3A%22Veikko+Uusi
- talo%22
+ sitalo1
 URL:https://www.helsinkigse.fi/events/veikko-uusitalo1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260303-giacomo-brusco@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260303
 DTEND;VALUE=DATE:20260304
 SUMMARY:Labor & Public Economics: Giacomo Brusco — Guess Who’s Evading 
@@ -721,17 +611,14 @@ DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Giaco
  mo Brusco (University of Tübingen)\nTitle: Guess Who’s Evading on Dinne
  r: Experimental Evidence on the Incidence of Evasion\n\nTime not published
   yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/ev
- ents/giacomo-brusco\n\nPaper on Scholar: https://scholar.google.com/schola
- r?q=%22Guess+Who%27s+Evading+on+Dinner%3A+Experimental+Evidence+on+the+Inc
- idence+of+Evasion%22\n\nSpeaker on Scholar: https://scholar.google.com/sch
- olar?q=author%3A%22Giacomo+Brusco%22
+ ents/giacomo-brusco
 URL:https://www.helsinkigse.fi/events/giacomo-brusco
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260311-selina-clarke1@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260311
 DTEND;VALUE=DATE:20260312
 SUMMARY:Labor & Public Economics: Selina Clarke — The environmental effec
@@ -739,17 +626,14 @@ SUMMARY:Labor & Public Economics: Selina Clarke — The environmental effec
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: S
  elina Clarke (University of Helsinki)\nTitle: The environmental effects of
   historical mining\n\nTime not published yet — all-day placeholder.\n\nE
- vent page: https://www.helsinkigse.fi/events/selina-clarke1\n\nPaper on Sc
- holar: https://scholar.google.com/scholar?q=%22The+environmental+effects+o
- f+historical+mining%22\n\nSpeaker on Scholar: https://scholar.google.com/s
- cholar?q=author%3A%22Selina+Clarke%22
+ vent page: https://www.helsinkigse.fi/events/selina-clarke1
 URL:https://www.helsinkigse.fi/events/selina-clarke1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260324-laura-khoury@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260324
 DTEND;VALUE=DATE:20260325
 SUMMARY:Labor & Public Economics: Laura Khoury — The Wage and Mobility Ef
@@ -758,17 +642,14 @@ DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Laura
   Khoury (University Paris Dauphine-PSL)\nTitle: The Wage and Mobility Effe
  cts of Remote Work (with F. Alosa and Y. Souidi)\n\nTime not published yet
   — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events
- /laura-khoury\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%2
- 2The+Wage+and+Mobility+Effects+of+Remote+Work+%28with+F.+Alosa+and+Y.+Soui
- di%29%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=autho
- r%3A%22Laura+Khoury%22
+ /laura-khoury
 URL:https://www.helsinkigse.fi/events/laura-khoury
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260325-ulla-wirtanen@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260325
 DTEND;VALUE=DATE:20260326
 SUMMARY:Labor & Public Economics: Ulla Wirtanen — Short talk: Monopsony p
@@ -777,17 +658,14 @@ DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: U
  lla Wirtanen (University of Helsinki)\nTitle: Short talk: Monopsony power 
  in early childhood education and care\n\nTime not published yet — all-da
  y placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/ulla-wirta
- nen\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Short+tal
- k%3A+Monopsony+power+in+early+childhood+education+and+care%22\n\nSpeaker o
- n Scholar: https://scholar.google.com/scholar?q=author%3A%22Ulla+Wirtanen%
- 22
+ nen
 URL:https://www.helsinkigse.fi/events/ulla-wirtanen
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260331-alessandro-pizzigolotto@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260331
 DTEND;VALUE=DATE:20260401
 SUMMARY:Labor & Public Economics: Alessandro Pizzigolotto — Volcanic Prot
@@ -796,18 +674,14 @@ DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Aless
  andro Pizzigolotto (University of Copenhagen)\nTitle: Volcanic Protests (w
  ith Jaakko Meriläinen\, Matti Mitrunen\, Arash Nekoei and Jósef Sigurdss
  on)\n\nTime not published yet — all-day placeholder.\n\nEvent page: http
- s://www.helsinkigse.fi/events/alessandro-pizzigolotto\n\nPaper on Scholar:
-  https://scholar.google.com/scholar?q=%22Volcanic+Protests+%28with+Jaakko+
- Meril%C3%A4inen%2C+Matti+Mitrunen%2C+Arash+Nekoei+and+J%C3%B3sef+Sigurdsso
- n%29%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author
- %3A%22Alessandro+Pizzigolotto%22
+ s://www.helsinkigse.fi/events/alessandro-pizzigolotto
 URL:https://www.helsinkigse.fi/events/alessandro-pizzigolotto
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260414-jakob-beuschlein@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260415
 SUMMARY:Labor & Public Economics: Jakob Beuschlein — Designing Debt Restr
@@ -817,17 +691,14 @@ DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Jakob
  Economics / Humboldt University of Berlin)\nTitle: Designing Debt Restruct
  uring: The Adverse Effects on Labor Market Outcomes\n\nTime not published 
  yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/eve
- nts/jakob-beuschlein\n\nPaper on Scholar: https://scholar.google.com/schol
- ar?q=%22Designing+Debt+Restructuring%3A+The+Adverse+Effects+on+Labor+Marke
- t+Outcomes%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=
- author%3A%22Jakob+Beuschlein%22
+ nts/jakob-beuschlein
 URL:https://www.helsinkigse.fi/events/jakob-beuschlein
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260415-ossi-tahvonen2@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:Labor & Public Economics: Ossi Tahvonen — Long-term effects of a 
@@ -835,17 +706,14 @@ SUMMARY:Labor & Public Economics: Ossi Tahvonen — Long-term effects of a
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: O
  ssi Tahvonen (University of Helsinki)\nTitle: Long-term effects of a youth
   cash transfer\n\nTime not published yet — all-day placeholder.\n\nEvent
-  page: https://www.helsinkigse.fi/events/ossi-tahvonen2\n\nPaper on Schola
- r: https://scholar.google.com/scholar?q=%22Long-term+effects+of+a+youth+ca
- sh+transfer%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q
- =author%3A%22Ossi+Tahvonen%22
+  page: https://www.helsinkigse.fi/events/ossi-tahvonen2
 URL:https://www.helsinkigse.fi/events/ossi-tahvonen2
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260428-matias-giaccobasso5@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260429
 SUMMARY:Labor & Public Economics: Matias Giaccobasso — Signaling Effects 
@@ -854,17 +722,14 @@ DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Matia
  s Giaccobasso (VATT)\nTitle: Signaling Effects in Higher Education: Experi
  mental Evidence from France (with Gedeão Locks)\n\nTime not published yet
   — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events
- /matias-giaccobasso5\n\nPaper on Scholar: https://scholar.google.com/schol
- ar?q=%22Signaling+Effects+in+Higher+Education%3A+Experimental+Evidence+fro
- m+France+%28with+Gede%C3%A3o+Locks%29%22\n\nSpeaker on Scholar: https://sc
- holar.google.com/scholar?q=author%3A%22Matias+Giaccobasso%22
+ /matias-giaccobasso5
 URL:https://www.helsinkigse.fi/events/matias-giaccobasso5
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260512-david-jaeger@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260512
 DTEND;VALUE=DATE:20260513
 SUMMARY:Labor & Public Economics: David Jaeger — Robustness? On Evaluatin
@@ -872,17 +737,14 @@ SUMMARY:Labor & Public Economics: David Jaeger — Robustness? On Evaluatin
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: David
   Jaeger (University of St Andrews)\nTitle: Robustness? On Evaluating Equiv
  alence Across Specifications\n\nTime not published yet — all-day placeho
- lder.\n\nEvent page: https://www.helsinkigse.fi/events/david-jaeger\n\nPap
- er on Scholar: https://scholar.google.com/scholar?q=%22Robustness%3F+On+Ev
- aluating+Equivalence+Across+Specifications%22\n\nSpeaker on Scholar: https
- ://scholar.google.com/scholar?q=author%3A%22David+Jaeger%22
+ lder.\n\nEvent page: https://www.helsinkigse.fi/events/david-jaeger
 URL:https://www.helsinkigse.fi/events/david-jaeger
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260513-labor-and-public-phd-workshop-2026-1@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20260514
 SUMMARY:Labor & Public Economics: Labor and Public Economics PhD workshop 
@@ -891,15 +753,14 @@ DESCRIPTION:Series: Labor & Public Economics\nType: PhD Workshop\nSpeaker:
  Labor and Public Economics PhD workshop\nTitle: Workshop for Helsinki GSE 
  and FDPE PhD students\n\nTime not published yet — all-day placeholder.\n
  \nEvent page: https://www.helsinkigse.fi/events/labor-and-public-phd-works
- hop-2026-1\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Wo
- rkshop+for+Helsinki+GSE+and+FDPE+PhD+students%22
+ hop-2026-1
 URL:https://www.helsinkigse.fi/events/labor-and-public-phd-workshop-2026-1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260519-denvil-duncan@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260519
 DTEND;VALUE=DATE:20260520
 SUMMARY:Labor & Public Economics: Denvil Duncan — Taxing residential elec
@@ -907,17 +768,14 @@ SUMMARY:Labor & Public Economics: Denvil Duncan — Taxing residential elec
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Denvi
  l Duncan (Indiana University)\nTitle: Taxing residential electricity consu
  mption\n\nTime not published yet — all-day placeholder.\n\nEvent page: h
- ttps://www.helsinkigse.fi/events/denvil-duncan\n\nPaper on Scholar: https:
- //scholar.google.com/scholar?q=%22Taxing+residential+electricity+consumpti
- on%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3
- A%22Denvil+Duncan%22
+ ttps://www.helsinkigse.fi/events/denvil-duncan
 URL:https://www.helsinkigse.fi/events/denvil-duncan
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260526-davide-cipullo@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260527
 SUMMARY:Labor & Public Economics: Davide Cipullo — Inverting The Chain: V
@@ -926,17 +784,14 @@ DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: David
  e Cipullo (Università Cattolica del Sacro Cuore)\nTitle: Inverting The Ch
  ain: VAT Collection Regimes and Tax Compliance\n\nTime not published yet 
  — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/
- davide-cipullo\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%
- 22Inverting+The+Chain%3A+VAT+Collection+Regimes+and+Tax+Compliance%22\n\nS
- peaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Davide
- +Cipullo%22
+ davide-cipullo
 URL:https://www.helsinkigse.fi/events/davide-cipullo
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260603-ellen-sahlstrom2@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
 SUMMARY:Labor & Public Economics: Ellen Sahlström — Effects of providing
@@ -945,17 +800,14 @@ DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: E
  llen Sahlström (Aalto University)\nTitle: Effects of providing long-term 
  preventive support to disadvantaged boys\n\nTime not published yet — all
  -day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/ellen-s
- ahlstrom2\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22Eff
- ects+of+providing+long-term+preventive+support+to+disadvantaged+boys%22\n\
- nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Elle
- n+Sahlstr%C3%B6m%22
+ ahlstrom2
 URL:https://www.helsinkigse.fi/events/ellen-sahlstrom2
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260609-greta-morando@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260610
 SUMMARY:Labor & Public Economics: Greta Morando — Why Fathers Don’t Tak
@@ -965,18 +817,14 @@ DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Greta
  al Leave: Understanding and Shaping Beliefs About the Returns to Paternal 
  Leave (with Laura Fumagalli and Sonkurt Senn)\n\nTime not published yet 
  — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/
- greta-morando\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%2
- 2Why+Fathers+Don%27t+Take+Parental+Leave%3A+Understanding+and+Shaping+Beli
- efs+About+the+Returns+to+Paternal+Leave+%28with+Laura+Fumagalli+and+Sonkur
- t+Senn%29%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=a
- uthor%3A%22Greta+Morando%22
+ greta-morando
 URL:https://www.helsinkigse.fi/events/greta-morando
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260616-omar-bamieh@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260617
 SUMMARY:Labor & Public Economics: Omar Bamieh — The Price of Presence: Ho
@@ -984,68 +832,62 @@ SUMMARY:Labor & Public Economics: Omar Bamieh — The Price of Presence: Ho
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Omar 
  Bamieh (Universidad Andrés Bello\, Chile)\nTitle: The Price of Presence: 
  How Much Workers Value Remote Work\n\nTime not published yet — all-day p
- laceholder.\n\nEvent page: https://www.helsinkigse.fi/events/omar-bamieh\n
- \nPaper on Scholar: https://scholar.google.com/scholar?q=%22The+Price+of+P
- resence%3A+How+Much+Workers+Value+Remote+Work%22\n\nSpeaker on Scholar: ht
- tps://scholar.google.com/scholar?q=author%3A%22Omar+Bamieh%22
+ laceholder.\n\nEvent page: https://www.helsinkigse.fi/events/omar-bamieh
 URL:https://www.helsinkigse.fi/events/omar-bamieh
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260901-jakob-egholt-sogaard@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;TZID=Europe/Helsinki:20260901T150000
 DTEND;TZID=Europe/Helsinki:20260901T160000
-SUMMARY:Labor & Public Economics: Jakob Egholt Søgaard
+SUMMARY:Labor & Public Economics: Jakob Egholt Søgaard — Within-Firm Ine
+ quality Aversion: Evidence & Implications
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Jakob
-  Egholt Søgaard (Center for Economic Behavior and Inequality (CEBI))\nTit
- le: TBA\nHost: Salla Kalin\n\nEvent page: https://www.helsinkigse.fi/event
- s/jakob-egholt-sogaard\n\nSpeaker on Scholar: https://scholar.google.com/s
- cholar?q=author%3A%22Jakob+Egholt+S%C3%B8gaard%22
+  Egholt Søgaard (CEBI)\nTitle: Within-Firm Inequality Aversion: Evidence 
+ & Implications\nHost: Salla Kalin\n\nEvent page: https://www.helsinkigse.f
+ i/events/jakob-egholt-sogaard
 URL:https://www.helsinkigse.fi/events/jakob-egholt-sogaard
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260915-andrew-shephard@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Labor & Public Economics: Andrew Shephard
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Andre
  w Shephard (KU Leuven)\nTitle: TBA\nHost: Ciprian Domnisoru\n\nTime not pu
  blished yet — all-day placeholder.\n\nEvent page: https://www.helsinkigs
- e.fi/events/andrew-shephard\n\nSpeaker on Scholar: https://scholar.google.
- com/scholar?q=author%3A%22Andrew+Shephard%22
+ e.fi/events/andrew-shephard
 URL:https://www.helsinkigse.fi/events/andrew-shephard
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260929-jakob-miethe@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;TZID=Europe/Helsinki:20260929T150000
 DTEND;TZID=Europe/Helsinki:20260929T160000
 SUMMARY:Labor & Public Economics: Jakob Miethe
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Jakob
   Miethe (LMU Munich)\nTitle: TBA\nHost: Salla Kalin\n\nEvent page: https:/
- /www.helsinkigse.fi/events/jakob-miethe\n\nSpeaker on Scholar: https://sch
- olar.google.com/scholar?q=author%3A%22Jakob+Miethe%22
+ /www.helsinkigse.fi/events/jakob-miethe
 URL:https://www.helsinkigse.fi/events/jakob-miethe
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261013-panu-poutavaara@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;TZID=Europe/Helsinki:20261013T150000
 DTEND;TZID=Europe/Helsinki:20261013T160000
 SUMMARY:Labor & Public Economics: Panu Poutavaara
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Panu 
  Poutavaara (IFO)\nTitle: TBA\nHost: Ciprian Domnisoru\n\nEvent page: https
- ://www.helsinkigse.fi/events/panu-poutavaara\n\nSpeaker on Scholar: https:
- //scholar.google.com/scholar?q=author%3A%22Panu+Poutavaara%22
+ ://www.helsinkigse.fi/events/panu-poutavaara
 LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/panu-poutavaara
@@ -1054,29 +896,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261110-hugo-reichardt@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Labor & Public Economics: Hugo Reichardt
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Hugo 
  Reichardt (Centre de Recerca en Economia Internacional (CREi))\nTitle: TBA
  \n\nTime not published yet — all-day placeholder.\n\nEvent page: https:/
- /www.helsinkigse.fi/events/hugo-reichardt\n\nSpeaker on Scholar: https://s
- cholar.google.com/scholar?q=author%3A%22Hugo+Reichardt%22
+ /www.helsinkigse.fi/events/hugo-reichardt
 URL:https://www.helsinkigse.fi/events/hugo-reichardt
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261124-wouter-leenders@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;TZID=Europe/Helsinki:20261124T150000
 DTEND;TZID=Europe/Helsinki:20261124T160000
 SUMMARY:Labor & Public Economics: Wouter Leenders
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Woute
  r Leenders (Sciences Po)\nTitle: TBA\nHost: Salla Kalin\n\nEvent page: htt
- ps://www.helsinkigse.fi/events/wouter-leenders\n\nSpeaker on Scholar: http
- s://scholar.google.com/scholar?q=author%3A%22Wouter+Leenders%22
+ ps://www.helsinkigse.fi/events/wouter-leenders
 URL:https://www.helsinkigse.fi/events/wouter-leenders
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

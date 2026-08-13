@@ -30,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250310-matthias-sutter1@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250310
 DTEND;VALUE=DATE:20250311
 SUMMARY:Behavioral Economics: ONLINE Matthias Sutter — The Right Timing M
@@ -40,18 +40,14 @@ DESCRIPTION:Series: Behavioral Economics\nType: Seminar\nSpeaker: ONLINE Ma
  rs: Sensitive Periods in the Formation of Socio-Emotional Skills (with Lau
  ra Breitkopf\, Shyamal Chowdhury\, Daniel A. Kamhöfer …\n\nTime not pub
  lished yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse
- .fi/events/matthias-sutter1\n\nPaper on Scholar: https://scholar.google.co
- m/scholar?q=%22The+Right+Timing+Matters%3A+Sensitive+Periods+in+the+Format
- ion+of+Socio-Emotional+Skills+%28with+Laura+Breitkopf%2C+Shyamal+Chowdhury
- %2C+Daniel+A.+Kamh%C3%B6fer+%E2%80%A6%22\n\nSpeaker on Scholar: https://sc
- holar.google.com/scholar?q=author%3A%22ONLINE+Matthias+Sutter%22
+ .fi/events/matthias-sutter1
 URL:https://www.helsinkigse.fi/events/matthias-sutter1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250327-gustav-karreskog-rehbinder@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250327
 DTEND;VALUE=DATE:20250328
 SUMMARY:Behavioral Economics: Gustav Karreskog Rehbinder — Learning in Ga
@@ -60,17 +56,14 @@ DESCRIPTION:Series: Behavioral Economics\nType: Seminar\nSpeaker: Gustav Ka
  rreskog Rehbinder (Uppsala University)\nTitle: Learning in Games: New Esti
  mation Method\, Data\, and Models\n\nTime not published yet — all-day pl
  aceholder.\n\nEvent page: https://www.helsinkigse.fi/events/gustav-karresk
- og-rehbinder\n\nPaper on Scholar: https://scholar.google.com/scholar?q=%22
- Learning+in+Games%3A+New+Estimation+Method%2C+Data%2C+and+Models%22\n\nSpe
- aker on Scholar: https://scholar.google.com/scholar?q=author%3A%22Gustav+K
- arreskog+Rehbinder%22
+ og-rehbinder
 URL:https://www.helsinkigse.fi/events/gustav-karreskog-rehbinder
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250424-juho-nuutinen-and-matias-giaccobasso@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250424
 DTEND;VALUE=DATE:20250425
 SUMMARY:Behavioral Economics: Juho Nuutinen and Matias Giaccobasso
@@ -78,16 +71,14 @@ DESCRIPTION:Series: Behavioral Economics\nType: Brown Bag Seminar\nSpeaker:
   Juho Nuutinen and Matias Giaccobasso (Nuutinen: Hanken / Giaccobasso: VAT
  T)\nTitle: TBA\n\nTime not published yet — all-day placeholder.\n\nEvent
   page: https://www.helsinkigse.fi/events/juho-nuutinen-and-matias-giaccoba
- sso\n\nJuho Nuutinen on Scholar: https://scholar.google.com/scholar?q=auth
- or%3A%22Juho+Nuutinen%22\n\nMatias Giaccobasso on Scholar: https://scholar
- .google.com/scholar?q=author%3A%22Matias+Giaccobasso%22
+ sso
 URL:https://www.helsinkigse.fi/events/juho-nuutinen-and-matias-giaccobasso
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250515-tuuli-sen-and-martin-brun@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250515
 DTEND;VALUE=DATE:20250516
 SUMMARY:Behavioral Economics: Tuuli Sen and Martín Brun — Brun: How Expe
@@ -96,19 +87,14 @@ DESCRIPTION:Series: Behavioral Economics\nType: Brown Bag Seminar\nSpeaker:
   Tuuli Sen and Martín Brun (Sen: TAU/PTT and Brun: TAU/FIT)\nTitle: Brun:
   How Experiencing Unequal Circumstances Shapes Redistribution Decisions\n\
  nTime not published yet — all-day placeholder.\n\nEvent page: https://ww
- w.helsinkigse.fi/events/tuuli-sen-and-martin-brun\n\nPaper on Scholar: htt
- ps://scholar.google.com/scholar?q=%22Brun%3A+How+Experiencing+Unequal+Circ
- umstances+Shapes+Redistribution+Decisions%22\n\nTuuli Sen on Scholar: http
- s://scholar.google.com/scholar?q=author%3A%22Tuuli+Sen%22\n\nMartín Brun 
- on Scholar: https://scholar.google.com/scholar?q=author%3A%22Mart%C3%ADn+B
- run%22
+ w.helsinkigse.fi/events/tuuli-sen-and-martin-brun
 URL:https://www.helsinkigse.fi/events/tuuli-sen-and-martin-brun
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250605-tuomas-kosonen1@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250605
 DTEND;VALUE=DATE:20250606
 SUMMARY:Behavioral Economics: Tuomas Kosonen — Optimization Errors in Tax
@@ -116,16 +102,14 @@ SUMMARY:Behavioral Economics: Tuomas Kosonen — Optimization Errors in Tax
 DESCRIPTION:Series: Behavioral Economics\nType: Seminar\nSpeaker: Tuomas Ko
  sonen (VATT)\nTitle: Optimization Errors in Taxes\n\nTime not published ye
  t — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/event
- s/tuomas-kosonen1\n\nPaper on Scholar: https://scholar.google.com/scholar?
- q=%22Optimization+Errors+in+Taxes%22\n\nSpeaker on Scholar: https://schola
- r.google.com/scholar?q=author%3A%22Tuomas+Kosonen%22
+ s/tuomas-kosonen1
 URL:https://www.helsinkigse.fi/events/tuomas-kosonen1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250918-tilman-fries@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20250918
 DTEND;VALUE=DATE:20250919
 SUMMARY:Behavioral Economics: Tilman Fries — Narratives\, Belief Movement
@@ -133,17 +117,14 @@ SUMMARY:Behavioral Economics: Tilman Fries — Narratives\, Belief Movement
 DESCRIPTION:Series: Behavioral Economics\nType: Seminar\nSpeaker: Tilman Fr
  ies (LMU Munich)\nTitle: Narratives\, Belief Movements\, and Economic Fluc
  tuations\n\nTime not published yet — all-day placeholder.\n\nEvent page:
-  https://www.helsinkigse.fi/events/tilman-fries\n\nPaper on Scholar: https
- ://scholar.google.com/scholar?q=%22Narratives%2C+Belief+Movements%2C+and+E
- conomic+Fluctuations%22\n\nSpeaker on Scholar: https://scholar.google.com/
- scholar?q=author%3A%22Tilman+Fries%22
+  https://www.helsinkigse.fi/events/tilman-fries
 URL:https://www.helsinkigse.fi/events/tilman-fries
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251002-christoph-huber@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251002
 DTEND;VALUE=DATE:20251003
 SUMMARY:Behavioral Economics: Christoph Huber — Do experimental asset mar
@@ -152,17 +133,14 @@ DESCRIPTION:Series: Behavioral Economics\nType: Seminar\nSpeaker: Christoph
   Huber (Aalto University)\nTitle: Do experimental asset market results rep
  licate? High-powered preregistered replications of 17 key results\n\nTime 
  not published yet — all-day placeholder.\n\nEvent page: https://www.hels
- inkigse.fi/events/christoph-huber\n\nPaper on Scholar: https://scholar.goo
- gle.com/scholar?q=%22Do+experimental+asset+market+results+replicate%3F+Hig
- h-powered+preregistered+replications+of+17+key+results%22\n\nSpeaker on Sc
- holar: https://scholar.google.com/scholar?q=author%3A%22Christoph+Huber%22
+ inkigse.fi/events/christoph-huber
 URL:https://www.helsinkigse.fi/events/christoph-huber
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251009-nancy-chau@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251009
 DTEND;VALUE=DATE:20251010
 SUMMARY:Behavioral Economics: Nancy Chau — Dishonesty Concessions in Team
@@ -171,17 +149,14 @@ DESCRIPTION:Series: Behavioral Economics\nType: Seminar\nSpeaker: Nancy Cha
  u (Cornell University)\nTitle: Dishonesty Concessions in Teams: Theory\, a
  nd Experimental Insights from Local Politicians in India\n\nTime not publi
  shed yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.f
- i/events/nancy-chau\n\nPaper on Scholar: https://scholar.google.com/schola
- r?q=%22Dishonesty+Concessions+in+Teams%3A+Theory%2C+and+Experimental+Insig
- hts+from+Local+Politicians+in+India%22\n\nSpeaker on Scholar: https://scho
- lar.google.com/scholar?q=author%3A%22Nancy+Chau%22
+ i/events/nancy-chau
 URL:https://www.helsinkigse.fi/events/nancy-chau
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251106-yiming-liu@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251106
 DTEND;VALUE=DATE:20251107
 SUMMARY:Behavioral Economics: Yiming Liu — Dreaming rich: How inequality 
@@ -190,33 +165,28 @@ DESCRIPTION:Series: Behavioral Economics\nType: Seminar\nSpeaker: Yiming Li
  u (University of Berlin/WZB Berlin Social Science Center)\nTitle: Dreaming
   rich: How inequality sustains itself through motivated beliefs\n\nTime no
  t published yet — all-day placeholder.\n\nEvent page: https://www.helsin
- kigse.fi/events/yiming-liu\n\nPaper on Scholar: https://scholar.google.com
- /scholar?q=%22Dreaming+rich%3A+How+inequality+sustains+itself+through+moti
- vated+beliefs%22\n\nSpeaker on Scholar: https://scholar.google.com/scholar
- ?q=author%3A%22Yiming+Liu%22
+ kigse.fi/events/yiming-liu
 URL:https://www.helsinkigse.fi/events/yiming-liu
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251127-evan-friedman@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20251127
 DTEND;VALUE=DATE:20251128
 SUMMARY:Behavioral Economics: Evan Friedman — Deception Aversion
 DESCRIPTION:Series: Behavioral Economics\nType: Seminar\nSpeaker: Evan Frie
  dman (Paris School of Economics)\nTitle: Deception Aversion\n\nTime not pu
  blished yet — all-day placeholder.\n\nEvent page: https://www.helsinkigs
- e.fi/events/evan-friedman\n\nPaper on Scholar: https://scholar.google.com/
- scholar?q=%22Deception+Aversion%22\n\nSpeaker on Scholar: https://scholar.
- google.com/scholar?q=author%3A%22Evan+Friedman%22
+ e.fi/events/evan-friedman
 URL:https://www.helsinkigse.fi/events/evan-friedman
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260225-juho-nuutinen-and-nhi-cao@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260225
 DTEND;VALUE=DATE:20260226
 SUMMARY:Behavioral Economics: Juho Nuutinen and Nhi Cao — Age norms and g
@@ -226,19 +196,14 @@ DESCRIPTION:Series: Behavioral Economics\nType: Brown Bag Seminar\nSpeaker:
  lving: an experiment by Nhi Cao and Equality of opportunity and preference
  s for redistribution by Juho Nuutinen\n\nTime not published yet — all-da
  y placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/juho-nuuti
- nen-and-nhi-cao\n\nPaper on Scholar: https://scholar.google.com/scholar?q=
- %22Age+norms+and+group+problem-solving%3A+an+experiment+by+Nhi+Cao+and+Equ
- ality+of+opportunity+and+preferences+for+redistribution+by+Juho+Nuutinen%2
- 2\n\nJuho Nuutinen on Scholar: https://scholar.google.com/scholar?q=author
- %3A%22Juho+Nuutinen%22\n\nNhi Cao on Scholar: https://scholar.google.com/s
- cholar?q=author%3A%22Nhi+Cao%22
+ nen-and-nhi-cao
 URL:https://www.helsinkigse.fi/events/juho-nuutinen-and-nhi-cao
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260304-gonzalo-arrieta@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260304
 DTEND;VALUE=DATE:20260305
 SUMMARY:Behavioral Economics: Gonzalo Arrieta — Procedural Decision-Makin
@@ -246,17 +211,14 @@ SUMMARY:Behavioral Economics: Gonzalo Arrieta — Procedural Decision-Makin
 DESCRIPTION:Series: Behavioral Economics\nType: Seminar\nSpeaker: Gonzalo A
  rrieta (University of Zurich)\nTitle: Procedural Decision-Making in the Fa
  ce of Complexity\n\nTime not published yet — all-day placeholder.\n\nEve
- nt page: https://www.helsinkigse.fi/events/gonzalo-arrieta\n\nPaper on Sch
- olar: https://scholar.google.com/scholar?q=%22Procedural+Decision-Making+i
- n+the+Face+of+Complexity%22\n\nSpeaker on Scholar: https://scholar.google.
- com/scholar?q=author%3A%22Gonzalo+Arrieta%22
+ nt page: https://www.helsinkigse.fi/events/gonzalo-arrieta
 URL:https://www.helsinkigse.fi/events/gonzalo-arrieta
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260319-marja-liisa-halko-daniel-carvajal@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260320
 SUMMARY:Behavioral Economics: Marja-Liisa Halko & Daniel Carvajal
@@ -264,16 +226,14 @@ DESCRIPTION:Series: Behavioral Economics\nType: Brown Bag Seminar\nSpeaker:
   Marja-Liisa Halko & Daniel Carvajal (University of Helsinki and Aalto Uni
  versity)\nTitle: TBA\n\nTime not published yet — all-day placeholder.\n\
  nEvent page: https://www.helsinkigse.fi/events/marja-liisa-halko-daniel-ca
- rvajal\n\nMarja-Liisa Halko on Scholar: https://scholar.google.com/scholar
- ?q=author%3A%22Marja-Liisa+Halko%22\n\nDaniel Carvajal on Scholar: https:/
- /scholar.google.com/scholar?q=author%3A%22Daniel+Carvajal%22
+ rvajal
 URL:https://www.helsinkigse.fi/events/marja-liisa-halko-daniel-carvajal
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260409-daniel-hauser-daniel-peredo-siles@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260409
 DTEND;VALUE=DATE:20260410
 SUMMARY:Behavioral Economics: Daniel Hauser & Daniel Peredo Siles
@@ -281,16 +241,14 @@ DESCRIPTION:Series: Behavioral Economics\nType: Brown Bag Seminar\nSpeaker:
   Daniel Hauser & Daniel Peredo Siles (Aalto University and Hanken School o
  f Economics)\nTitle: TBA\n\nTime not published yet — all-day placeholder
  .\n\nEvent page: https://www.helsinkigse.fi/events/daniel-hauser-daniel-pe
- redo-siles\n\nDaniel Hauser on Scholar: https://scholar.google.com/scholar
- ?q=author%3A%22Daniel+Hauser%22\n\nDaniel Peredo Siles on Scholar: https:/
- /scholar.google.com/scholar?q=author%3A%22Daniel+Peredo+Siles%22
+ redo-siles
 URL:https://www.helsinkigse.fi/events/daniel-hauser-daniel-peredo-siles
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260422-pauline-vorjohann@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
 SUMMARY:Behavioral Economics: Pauline Vorjohann — Reference-dependent cho
@@ -298,17 +256,14 @@ SUMMARY:Behavioral Economics: Pauline Vorjohann — Reference-dependent cho
 DESCRIPTION:Series: Behavioral Economics\nType: Seminar\nSpeaker: Pauline V
  orjohann (University of Exeter)\nTitle: Reference-dependent choice bracket
  ing\n\nTime not published yet — all-day placeholder.\n\nEvent page: http
- s://www.helsinkigse.fi/events/pauline-vorjohann\n\nPaper on Scholar: https
- ://scholar.google.com/scholar?q=%22Reference-dependent+choice+bracketing%2
- 2\n\nSpeaker on Scholar: https://scholar.google.com/scholar?q=author%3A%22
- Pauline+Vorjohann%22
+ s://www.helsinkigse.fi/events/pauline-vorjohann
 URL:https://www.helsinkigse.fi/events/pauline-vorjohann
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260507-juho-nuutinen-lauri-saaksvuori@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
 SUMMARY:Behavioral Economics: Juho Nuutinen & Lauri Sääksvuori
@@ -316,17 +271,14 @@ DESCRIPTION:Series: Behavioral Economics\nType: Brown Bag Seminar\nSpeaker:
   Juho Nuutinen & Lauri Sääksvuori (Hanken School of Business and Finnish
   Institute for Health and Welfare (THL))\nTitle: TBA\n\nTime not published
   yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/ev
- ents/juho-nuutinen-lauri-saaksvuori\n\nJuho Nuutinen on Scholar: https://s
- cholar.google.com/scholar?q=author%3A%22Juho+Nuutinen%22\n\nLauri Sääksv
- uori on Scholar: https://scholar.google.com/scholar?q=author%3A%22Lauri+S%
- C3%A4%C3%A4ksvuori%22
+ ents/juho-nuutinen-lauri-saaksvuori
 URL:https://www.helsinkigse.fi/events/juho-nuutinen-lauri-saaksvuori
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260521-ola-andersson@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260522
 SUMMARY:Behavioral Economics: Ola Andersson — Arbitrary signal correlatio
@@ -334,17 +286,14 @@ SUMMARY:Behavioral Economics: Ola Andersson — Arbitrary signal correlatio
 DESCRIPTION:Series: Behavioral Economics\nType: Seminar\nSpeaker: Ola Ander
  sson (Uppsala University)\nTitle: Arbitrary signal correlation in contests
  : Experimental evidence\n\nTime not published yet — all-day placeholder.
- \n\nEvent page: https://www.helsinkigse.fi/events/ola-andersson\n\nPaper o
- n Scholar: https://scholar.google.com/scholar?q=%22Arbitrary+signal+correl
- ation+in+contests%3A+Experimental+evidence%22\n\nSpeaker on Scholar: https
- ://scholar.google.com/scholar?q=author%3A%22Ola+Andersson%22
+ \n\nEvent page: https://www.helsinkigse.fi/events/ola-andersson
 URL:https://www.helsinkigse.fi/events/ola-andersson
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260528-gary-bolton@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260529
 SUMMARY:Behavioral Economics: Gary Bolton — Keeping your story straight: 
@@ -353,24 +302,20 @@ DESCRIPTION:Series: Behavioral Economics\nType: Seminar\nSpeaker: Gary Bolt
  on (University of Texas at Dallas)\nTitle: Keeping your story straight: Qu
  ery and credible bargaining (with Junya Zhou and Zhongheng Qiao)\n\nTime n
  ot published yet — all-day placeholder.\n\nEvent page: https://www.helsi
- nkigse.fi/events/gary-bolton\n\nPaper on Scholar: https://scholar.google.c
- om/scholar?q=%22Keeping+your+story+straight%3A+Query+and+credible+bargaini
- ng+%28with+Junya+Zhou+and+Zhongheng+Qiao%29%22\n\nSpeaker on Scholar: http
- s://scholar.google.com/scholar?q=author%3A%22Gary+Bolton%22
+ nkigse.fi/events/gary-bolton
 URL:https://www.helsinkigse.fi/events/gary-bolton
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260819-anh-nguyen@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;TZID=Europe/Helsinki:20260819T160000
 DTEND;TZID=Europe/Helsinki:20260819T170000
 SUMMARY:Behavioral Economics: Anh Nguyen
 DESCRIPTION:Series: Behavioral Economics\nType: Brown Bag Seminar\nSpeaker:
   Anh Nguyen (Hanken)\nTitle: TBA\nHost: Daniel Bougt\n\nEvent page: https:
- //www.helsinkigse.fi/events/anh-nguyen\n\nSpeaker on Scholar: https://scho
- lar.google.com/scholar?q=author%3A%22Anh+Nguyen%22
+ //www.helsinkigse.fi/events/anh-nguyen
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/anh-nguyen
 STATUS:CONFIRMED
@@ -378,7 +323,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261028-elias-tsakas-evangelos-mourelatos@helsinkigse.fi
-DTSTAMP:20260812T135948Z
+DTSTAMP:20260813T114633Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Behavioral Economics: Elias Tsakas & Evangelos Mourelatos
@@ -386,10 +331,7 @@ DESCRIPTION:Series: Behavioral Economics\nType: Seminar\nSpeaker: Elias Tsa
  kas & Evangelos Mourelatos (Graduate School of Business and Economics (GSB
  E) & University of Oulu)\nTitle: TBA\n\nTime not published yet — all-day
   placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/elias-tsaka
- s-evangelos-mourelatos\n\nElias Tsakas on Scholar: https://scholar.google.
- com/scholar?q=author%3A%22Elias+Tsakas%22\n\nEvangelos Mourelatos on Schol
- ar: https://scholar.google.com/scholar?q=author%3A%22Evangelos+Mourelatos%
- 22
+ s-evangelos-mourelatos
 URL:https://www.helsinkigse.fi/events/elias-tsakas-evangelos-mourelatos
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
