@@ -1,0 +1,670 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hgse-calendar//helsinkigse.fi scrape//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HGSE — VATT
+NAME:HGSE — VATT
+X-APPLE-CALENDAR-COLOR:#00897B
+COLOR:#00897B
+X-WR-TIMEZONE:Europe/Helsinki
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Helsinki
+X-LIC-LOCATION:Europe/Helsinki
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+TZNAME:EEST
+DTSTART:19700329T030000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:EET
+DTSTART:19701025T040000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:hgse-20250109-miriam-wust@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20250109
+DTEND;VALUE=DATE:20250110
+SUMMARY:VATT: Miriam Wüst — Household Responses to Unconditional Child B
+ enefits / Any questions…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Miriam Wüst (University 
+ of Copenhagen)\nTitle: Household Responses to Unconditional Child Benefits
+  / Any questions regarding VATT seminars can be sent by email to events (a
+ t) vatt.fi\n\nTime not published yet — all-day placeholder.\n\nEvent pag
+ e: https://www.helsinkigse.fi/events/miriam-wust
+URL:https://www.helsinkigse.fi/events/miriam-wust
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250128-talouspolitiikan-arviointineuvoston-raportin-julkistus-ja
+ -seminaari@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20250128
+DTEND;VALUE=DATE:20250129
+SUMMARY:VATT: Talouspolitiikan arviointineuvoston raportin julkistus ja sem
+ inaari
+DESCRIPTION:Series: VATT\nSpeaker: Talouspolitiikan arviointineuvoston rapo
+ rtin julkistus ja seminaari\nTitle: TBA\n\nTime not published yet — all-
+ day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/talouspo
+ litiikan-arviointineuvoston-raportin-julkistus-ja-seminaari
+URL:https://www.helsinkigse.fi/events/talouspolitiikan-arviointineuvoston-r
+ aportin-julkistus-ja-seminaari
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250130-terhi-ravaska2@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20250130
+DTEND;VALUE=DATE:20250131
+SUMMARY:VATT: Terhi Ravaska — Wage garnishment and negative bunching
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Terhi Ravaska (Tampere Un
+ iversity)\nTitle: Wage garnishment and negative bunching\n\nTime not publi
+ shed yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.f
+ i/events/terhi-ravaska2
+URL:https://www.helsinkigse.fi/events/terhi-ravaska2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250213-moritz-mendel2@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20250213
+DTEND;VALUE=DATE:20250214
+SUMMARY:VATT: Moritz Mendel — Nonstandard Education Careers and Inequalit
+ y
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Moritz Mendel (Aalto Univ
+ ersity)\nTitle: Nonstandard Education Careers and Inequality\n\nTime not p
+ ublished yet — all-day placeholder.\n\nEvent page: https://www.helsinkig
+ se.fi/events/moritz-mendel2
+URL:https://www.helsinkigse.fi/events/moritz-mendel2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250227-ragnhild-schreiner@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20250227
+DTEND;VALUE=DATE:20250228
+SUMMARY:VATT: Ragnhild Schreiner — TBA
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Ragnhild Schreiner (Unive
+ rsity of Oslo)\nTitle: TBA\n\nTime not published yet — all-day placehold
+ er.\n\nEvent page: https://www.helsinkigse.fi/events/ragnhild-schreiner
+URL:https://www.helsinkigse.fi/events/ragnhild-schreiner
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250306-maarit-olkkola2@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20250306
+DTEND;VALUE=DATE:20250307
+SUMMARY:VATT: Maarit Olkkola — TBA
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Maarit Olkkola (VATT)\nTi
+ tle: TBA\n\nTime not published yet — all-day placeholder.\n\nEvent page:
+  https://www.helsinkigse.fi/events/maarit-olkkola2
+URL:https://www.helsinkigse.fi/events/maarit-olkkola2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250313-erik-gronqvist@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20250313
+DTEND;VALUE=DATE:20250314
+SUMMARY:VATT: Erik Grönqvist — Sick of becoming a parent: The child pena
+ lty on mental ill-health…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Erik Grönqvist (Uppsala 
+ University)\nTitle: Sick of becoming a parent: The child penalty on mental
+  ill-health (with Erica Lindahl and Elisavet Iliadi)\n\nTime not published
+  yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/ev
+ ents/erik-gronqvist
+URL:https://www.helsinkigse.fi/events/erik-gronqvist
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250320-albert-duodu2@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20250320
+DTEND;VALUE=DATE:20250321
+SUMMARY:VATT: Albert Duodu — Economy and the Environment - Firm-level res
+ ponses to energy price…
+DESCRIPTION:Series: VATT\nSpeaker: Albert Duodu (Aalto University)\nTitle: 
+ Economy and the Environment - Firm-level responses to energy price shocks\
+ n\nTime not published yet — all-day placeholder.\n\nEvent page: https://
+ www.helsinkigse.fi/events/albert-duodu2
+URL:https://www.helsinkigse.fi/events/albert-duodu2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250327-markku-siikanen2@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20250327
+DTEND;VALUE=DATE:20250328
+SUMMARY:VATT: Markku Siikanen — Free Entry and Social Inefficiency in Reg
+ ulated Pharmacy Markets
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Markku Siikanen (VATT)\nT
+ itle: Free Entry and Social Inefficiency in Regulated Pharmacy Markets\n\n
+ Time not published yet — all-day placeholder.\n\nEvent page: https://www
+ .helsinkigse.fi/events/markku-siikanen2
+URL:https://www.helsinkigse.fi/events/markku-siikanen2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250403-maria-sauval@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20250403
+DTEND;VALUE=DATE:20250404
+SUMMARY:VATT: Maria Sauval — The Long-Term Effects of Pre-Kindergarten on
+  Teen Births
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Maria Sauval (Aalto Unive
+ rsity)\nTitle: The Long-Term Effects of Pre-Kindergarten on Teen Births\n\
+ nTime not published yet — all-day placeholder.\n\nEvent page: https://ww
+ w.helsinkigse.fi/events/maria-sauval
+URL:https://www.helsinkigse.fi/events/maria-sauval
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250410-matti-sarvimaki2@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20250410
+DTEND;VALUE=DATE:20250411
+SUMMARY:VATT: Matti Sarvimäki — TBA
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Matti Sarvimäki (Aalto U
+ niversity)\nTitle: TBA\n\nTime not published yet — all-day placeholder.\
+ n\nEvent page: https://www.helsinkigse.fi/events/matti-sarvimaki2
+URL:https://www.helsinkigse.fi/events/matti-sarvimaki2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250424-torsten-santavirta2@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20250424
+DTEND;VALUE=DATE:20250425
+SUMMARY:VATT: Torsten Santavirta — Soviet Industrialization and American 
+ Skilled Labor: Transfer of…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Torsten Santavirta (Unive
+ rsity of Helsinki)\nTitle: Soviet Industrialization and American Skilled L
+ abor: Transfer of Technologies and Productivity (with Andrei Markevich)\n\
+ nTime not published yet — all-day placeholder.\n\nEvent page: https://ww
+ w.helsinkigse.fi/events/torsten-santavirta2
+URL:https://www.helsinkigse.fi/events/torsten-santavirta2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250508-jens-wikstrom@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20250508
+DTEND;VALUE=DATE:20250509
+SUMMARY:VATT: Jens Wikström — Should eldercare be subsidized? Theory and
+  evidence from Sweden (with…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Jens Wikström (Gothenbur
+ g University)\nTitle: Should eldercare be subsidized? Theory and evidence 
+ from Sweden (with Patrizia Massner)\n\nTime not published yet — all-day 
+ placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/jens-wikstro
+ m
+URL:https://www.helsinkigse.fi/events/jens-wikstrom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250515-sofia-hernnas2@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20250515
+DTEND;VALUE=DATE:20250516
+SUMMARY:VATT: Sofia Hernnäs — Fiber Internet and Labor Demand (with Beng
+ t Söderlund)
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Sofia Hernnäs (Stockholm
+  School of Economics)\nTitle: Fiber Internet and Labor Demand (with Bengt 
+ Söderlund)\n\nTime not published yet — all-day placeholder.\n\nEvent pa
+ ge: https://www.helsinkigse.fi/events/sofia-hernnas2
+URL:https://www.helsinkigse.fi/events/sofia-hernnas2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250522-cloe-garnache@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20250522
+DTEND;VALUE=DATE:20250523
+SUMMARY:VATT: Cloé Garnache — Are Asset Prices Sticky? (with Martin Schm
+ alz and Dag Einar…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Cloé Garnache (Oslo Metr
+ opolitan University)\nTitle: Are Asset Prices Sticky? (with Martin Schmalz
+  and Dag Einar Sommervoll)\n\nTime not published yet — all-day placehold
+ er.\n\nEvent page: https://www.helsinkigse.fi/events/cloe-garnache
+URL:https://www.helsinkigse.fi/events/cloe-garnache
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250605-alejandro-zentner@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20250605
+DTEND;VALUE=DATE:20250606
+SUMMARY:VATT: Alejandro Zentner — Frictions in Recovering Unclaimed Prope
+ rty: Evidence from a…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Alejandro Zentner (The Un
+ iversity of Texas at Dallas - Naveen Jindal School of Management)\nTitle: 
+ Frictions in Recovering Unclaimed Property: Evidence from a Large-Scale Na
+ tural Field Experiment (with Justin Holz)\n\nTime not published yet — al
+ l-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/alejan
+ dro-zentner
+URL:https://www.helsinkigse.fi/events/alejandro-zentner
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250619-cecilia-blomster-vatt@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20250619
+DTEND;VALUE=DATE:20250620
+SUMMARY:VATT: Cecilia Blomster — Graduating in a Recession\, Education an
+ d Family Formation (with…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Cecilia Blomster (Hanken)
+ \nTitle: Graduating in a Recession\, Education and Family Formation (with 
+ Stefano Lombardi)\n\nTime not published yet — all-day placeholder.\n\nEv
+ ent page: https://www.helsinkigse.fi/events/cecilia-blomster-vatt
+URL:https://www.helsinkigse.fi/events/cecilia-blomster-vatt
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250911-miko-lepisto@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20250911
+DTEND;VALUE=DATE:20250912
+SUMMARY:VATT: Miko Lepistö — Waiting Times and Refugee Integration (with
+  Hanna Pesola and Tuomo…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Miko Lepistö (PSE)\nTitl
+ e: Waiting Times and Refugee Integration (with Hanna Pesola and Tuomo Virk
+ ola)\n\nTime not published yet — all-day placeholder.\n\nEvent page: htt
+ ps://www.helsinkigse.fi/events/miko-lepisto
+URL:https://www.helsinkigse.fi/events/miko-lepisto
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20250925-teemu-lyytikainen1@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20250925
+DTEND;VALUE=DATE:20250926
+SUMMARY:VATT: Teemu Lyytikäinen — Nominal Loss Aversion in the Housing M
+ arket and Household Mobility
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Teemu Lyytikäinen (VATT)
+ \nTitle: Nominal Loss Aversion in the Housing Market and Household Mobilit
+ y\n\nTime not published yet — all-day placeholder.\n\nEvent page: https:
+ //www.helsinkigse.fi/events/teemu-lyytikainen1
+URL:https://www.helsinkigse.fi/events/teemu-lyytikainen1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251002-tuomo-virkola1@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20251002
+DTEND;VALUE=DATE:20251003
+SUMMARY:VATT: Tuomo Virkola — Worker Mobility Restrictions
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Tuomo Virkola (VATT)\nTit
+ le: Worker Mobility Restrictions\n\nTime not published yet — all-day pla
+ ceholder.\n\nEvent page: https://www.helsinkigse.fi/events/tuomo-virkola1
+URL:https://www.helsinkigse.fi/events/tuomo-virkola1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251030-max-toikka1@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20251030
+DTEND;VALUE=DATE:20251031
+SUMMARY:VATT: Max Toikka — Labor Market Effects of Public-Private Sector 
+ Competition in Health…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Max Toikka (Aalto Univers
+ ity)\nTitle: Labor Market Effects of Public-Private Sector Competition in 
+ Health and Social Services\n\nTime not published yet — all-day placehold
+ er.\n\nEvent page: https://www.helsinkigse.fi/events/max-toikka1
+URL:https://www.helsinkigse.fi/events/max-toikka1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251106-arttu-kauhanen2@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20251106
+DTEND;VALUE=DATE:20251107
+SUMMARY:VATT: Arttu Kauhanen — Is Redistribution Fair? The Effect of Taxe
+ s and Transfers on the…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Arttu Kauhanen (Universit
+ y of Helsinki)\nTitle: Is Redistribution Fair? The Effect of Taxes and Tra
+ nsfers on the Equality of Opportunity (with Markus Jäntti and Jukka Pirtt
+ ila)\n\nTime not published yet — all-day placeholder.\n\nEvent page: htt
+ ps://www.helsinkigse.fi/events/arttu-kauhanen2
+URL:https://www.helsinkigse.fi/events/arttu-kauhanen2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251113-miri-stryjan3@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20251113
+DTEND;VALUE=DATE:20251114
+SUMMARY:VATT: Miri Stryjan — Local Institutions and Leader Incentives: Th
+ e Political Economy of…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Miri Stryjan (Aalto Unive
+ rsity)\nTitle: Local Institutions and Leader Incentives: The Political Eco
+ nomy of Rwanda’s Fertility Transition\n\nTime not published yet — all-
+ day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/miri-str
+ yjan3
+URL:https://www.helsinkigse.fi/events/miri-stryjan3
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251120-aspasia-bizopoulou-nov20@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20251120
+DTEND;VALUE=DATE:20251121
+SUMMARY:VATT: Aspasia Bizopoulou — Pay Transparency\, Wage Setting and Wo
+ rker Sorting (with Tuomo Virkola…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Aspasia Bizopoulou (VATT)
+ \nTitle: Pay Transparency\, Wage Setting and Worker Sorting (with Tuomo Vi
+ rkola and Elias Einiö)\n\nTime not published yet — all-day placeholder.
+ \n\nEvent page: https://www.helsinkigse.fi/events/aspasia-bizopoulou-nov20
+URL:https://www.helsinkigse.fi/events/aspasia-bizopoulou-nov20
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251127-sander-ramboer-nov27@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20251127
+DTEND;VALUE=DATE:20251128
+SUMMARY:VATT: Sander Ramboer — Local Property Tax Incentives for Wind Far
+ m Development: Evidence…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Sander Ramboer (VATT)\nTi
+ tle: Local Property Tax Incentives for Wind Farm Development: Evidence fro
+ m Finland\n\nTime not published yet — all-day placeholder.\n\nEvent page
+ : https://www.helsinkigse.fi/events/sander-ramboer-nov27
+URL:https://www.helsinkigse.fi/events/sander-ramboer-nov27
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251204-kostas-matakos-dec4@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20251204
+DTEND;VALUE=DATE:20251205
+SUMMARY:VATT: Kostas Matakos — Does Warm Weather Cool Voters Down? How Cl
+ imate Shocks affect Policy…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Kostas Matakos (King's Co
+ llege London)\nTitle: Does Warm Weather Cool Voters Down? How Climate Shoc
+ ks affect Policy Preferences and Climate Anxiety (with Maria Cotofan and K
+ arlygash Kurabayeva)\n\nTime not published yet — all-day placeholder.\n\
+ nEvent page: https://www.helsinkigse.fi/events/kostas-matakos-dec4
+URL:https://www.helsinkigse.fi/events/kostas-matakos-dec4
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260129-ramin-izadi1@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+SUMMARY:VATT: Ramin Izadi — Preschool Expansion RCT: Results
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Ramin Izadi (VATT)\nTitle
+ : Preschool Expansion RCT: Results\n\nTime not published yet — all-day p
+ laceholder.\n\nEvent page: https://www.helsinkigse.fi/events/ramin-izadi1
+URL:https://www.helsinkigse.fi/events/ramin-izadi1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260226-tanja-saxell@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20260226
+DTEND;VALUE=DATE:20260227
+SUMMARY:VATT: CANCELLED Tanja Saxell — Allocation and Prioritization in P
+ ublic Health Care
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: CANCELLED Tanja Saxell (V
+ ATT)\nTitle: Allocation and Prioritization in Public Health Care\n\nTime n
+ ot published yet — all-day placeholder.\n\nEvent page: https://www.helsi
+ nkigse.fi/events/tanja-saxell
+URL:https://www.helsinkigse.fi/events/tanja-saxell
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260305-yajna-govind@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260306
+SUMMARY:VATT: Yajna Govind — Migration policy backlash\, identity\, and i
+ ntegration of…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Yajna Govind (Copengahen 
+ Business School)\nTitle: Migration policy backlash\, identity\, and integr
+ ation of second-generation migrants in France\n\nTime not published yet 
+ — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/
+ yajna-govind
+URL:https://www.helsinkigse.fi/events/yajna-govind
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260312-jonas-cederlof@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260313
+SUMMARY:VATT: Jonas Cederlöf — Duration Dependence and Job Search over t
+ he Spell: Evidence from Job…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Jonas Cederlöf (IFAU Upp
+ sala)\nTitle: Duration Dependence and Job Search over the Spell: Evidence 
+ from Job Seeker Activity Reports (with Sara Roman)\n\nTime not published y
+ et — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/even
+ ts/jonas-cederlof
+URL:https://www.helsinkigse.fi/events/jonas-cederlof
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260319-joakim-wikstrom5@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:VATT: Joakim Wikström — Do Patents Tilt Standard-Setting? Eviden
+ ce from Cellular Networks
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Joakim Wikström (VATT)\n
+ Title: Do Patents Tilt Standard-Setting? Evidence from Cellular Networks\n
+ \nTime not published yet — all-day placeholder.\n\nEvent page: https://w
+ ww.helsinkigse.fi/events/joakim-wikstrom5
+URL:https://www.helsinkigse.fi/events/joakim-wikstrom5
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260409-johannes-gessner1@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260410
+SUMMARY:VATT: Johannes Gessner — No Place Like Home: Charging Infrastruct
+ ure and the Environmental…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Johannes Gessner (TSE)\nT
+ itle: No Place Like Home: Charging Infrastructure and the Environmental Ad
+ vantage of Plug-in Hybrid Electric Vehicles\n\nTime not published yet — 
+ all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/joha
+ nnes-gessner1
+URL:https://www.helsinkigse.fi/events/johannes-gessner1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260416-tuomas-kari@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:VATT: Tuomas Kari — Who Shapes the Candidate Pool? Party Leaders
+ ’ Preferences and…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Tuomas Kari (VATT)\nTitle
+ : Who Shapes the Candidate Pool? Party Leaders’ Preferences and Nominati
+ on Decisions in Finnish Municipal Politics\n\nTime not published yet — a
+ ll-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/tuoma
+ s-kari
+URL:https://www.helsinkigse.fi/events/tuomas-kari
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260423-anne-brockmeyer@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:VATT: Anne Brockmeyer — Algorithms and Bureaucrats: Evidence from
+  Tax Audit Selection in…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Anne Brockmeyer (World Ba
+ nk)\nTitle: Algorithms and Bureaucrats: Evidence from Tax Audit Selection 
+ in Senegal (with Pierre Bachas\, Alipio Ferreira\, Bassirou Sarr)\n\nTime 
+ not published yet — all-day placeholder.\n\nEvent page: https://www.hels
+ inkigse.fi/events/anne-brockmeyer
+URL:https://www.helsinkigse.fi/events/anne-brockmeyer
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260430-mika-kortelainen@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:VATT: Mika Kortelainen — Digital Primary Care and Health Care Uti
+ lization: Evidence from a…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Mika Kortelainen (Univers
+ ity of Turku)\nTitle: Digital Primary Care and Health Care Utilization: Ev
+ idence from a Large-Scale Randomized Trial\n\nTime not published yet — a
+ ll-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/mika-
+ kortelainen
+URL:https://www.helsinkigse.fi/events/mika-kortelainen
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260507-andrei-markevich1@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+SUMMARY:VATT: Andrei Markevich — Factories\, Frictions\, and the Foundati
+ ons of Growth: Microdata from…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Andrei Markevich (Univers
+ ity of Helsinki)\nTitle: Factories\, Frictions\, and the Foundations of Gr
+ owth: Microdata from the Russian Empire\, 1795–1908 (with Marvin Suess)\
+ n\nTime not published yet — all-day placeholder.\n\nEvent page: https://
+ www.helsinkigse.fi/events/andrei-markevich1
+URL:https://www.helsinkigse.fi/events/andrei-markevich1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260521-jan-stuhler@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+SUMMARY:VATT: Jan Stuhler — Labor Market Drivers of Intergenerational Ear
+ nings Persistence (With…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Jan Stuhler (Universidad 
+ Carlos III de Madrid)\nTitle: Labor Market Drivers of Intergenerational Ea
+ rnings Persistence (With Erika Forsberg and Martin Nybom)\n\nTime not publ
+ ished yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.
+ fi/events/jan-stuhler
+URL:https://www.helsinkigse.fi/events/jan-stuhler
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260528-enrico-rubolino@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:VATT: Enrico Rubolino — Growing the civic mind: civic education\,
+  civic behavior and political…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Enrico Rubolino (Lausanne
+ /CREST)\nTitle: Growing the civic mind: civic education\, civic behavior a
+ nd political institutions\n\nTime not published yet — all-day placeholde
+ r.\n\nEvent page: https://www.helsinkigse.fi/events/enrico-rubolino
+URL:https://www.helsinkigse.fi/events/enrico-rubolino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260604-raffaele-saggio@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:VATT: Raffaele Saggio — Careers and Wages in Family Firms: Eviden
+ ce from Matched…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Raffaele Saggio (Universi
+ ty of British Columbia)\nTitle: Careers and Wages in Family Firms: Evidenc
+ e from Matched Employer-Employee Data (with Edoardo Di Porto\, Marco Pagan
+ o\, Vincenzo Pezone and Fabiano …\n\nTime not published yet — all-day 
+ placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/raffaele-sag
+ gio
+URL:https://www.helsinkigse.fi/events/raffaele-saggio
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260610-luisa-wallossek@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:VATT: Luisa Wallossek — Opt-in or Opt-out? The Power of Defaults 
+ in Pension Enrollment…
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Luisa Wallossek (Universi
+ ty of Oslo)\nTitle: Opt-in or Opt-out? The Power of Defaults in Pension En
+ rollment Choices (with Tabea Bucher-Koenen and Joachim Winter)\n\nTime not
+  published yet — all-day placeholder.\n\nEvent page: https://www.helsink
+ igse.fi/events/luisa-wallossek
+URL:https://www.helsinkigse.fi/events/luisa-wallossek
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260618-david-rivera-gonzalez1@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:VATT: David Rivera Gonzalez — Contribution Floors and Minimum Wag
+ es in Latin America
+DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: David Rivera Gonzalez (Bo
+ rdeaux School of Economics)\nTitle: Contribution Floors and Minimum Wages 
+ in Latin America\n\nTime not published yet — all-day placeholder.\n\nEve
+ nt page: https://www.helsinkigse.fi/events/david-rivera-gonzalez1
+URL:https://www.helsinkigse.fi/events/david-rivera-gonzalez1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20260922-marten-ritterrath1@helsinkigse.fi
+DTSTAMP:20260820T081556Z
+DTSTART;TZID=Europe/Helsinki:20260922T150000
+DTEND;TZID=Europe/Helsinki:20260922T160000
+SUMMARY:VATT & Environmental Economics: Marten Ritterrath
+DESCRIPTION:Series: Seminar\nSpeaker: Marten Ritterrath (VATT)\nTitle: TBA\
+ nHost: Anna Sahari\n\nEvent page: https://www.helsinkigse.fi/events/marten
+ -ritterrath1
+URL:https://www.helsinkigse.fi/events/marten-ritterrath1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
