@@ -19,7 +19,9 @@ one shows those events twice.
 
 ### One calendar per series
 
-Take as many as you like — they don't overlap.
+Take as many as you like. A seminar run jointly by two research
+groups appears in both of their calendars, so it will show twice if
+you subscribe to both — otherwise these do not overlap.
 
 | Calendar | Subscription URL | Events |
 |---|---|---:|
