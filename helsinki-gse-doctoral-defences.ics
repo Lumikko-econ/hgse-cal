@@ -30,9 +30,9 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250110-maarit-olkkola-defence@helsinkigse.fi
-DTSTAMP:20260822T084626Z
-SEQUENCE:8
-LAST-MODIFIED:20260822T084626Z
+DTSTAMP:20260822T102219Z
+SEQUENCE:9
+LAST-MODIFIED:20260822T102219Z
 DTSTART;VALUE=DATE:20250110
 DTEND;VALUE=DATE:20250111
 SUMMARY:Doctoral Defence: Maarit Olkkola — Essays on Health Policy and Hu
@@ -41,23 +41,19 @@ DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Maar
  it Olkkola (Aalto University)\nTitle: Essays on Health Policy and Human Ca
  pital\nOpponent: Prof. Miriam Wüst\, University of Copenhagen\, Denmark\n
  Custos: Prof. Matti Sarvimäki\, Aalto University School of Business\, Dep
- artment of Economics\n\nMaarit Olkkola’s dissertation demonstrates that 
- the evaluation of public policies targeting children should also consider 
- potential long-term benefits\, such as human capital formation. The disser
- tation consists of three essays\, two of which focus on the introduction o
- f a network of child health centers in Finland.\n\nTime not published yet 
- — all-day placeholder.\n\nDefence announcement: https://www.aalto.fi/en/
- events/public-defence-in-economics-msocsc-maarit-olkkola\nEvent page: http
- s://www.helsinkigse.fi/events/maarit-olkkola-defence
+ artment of Economics\n\nTime not published yet — all-day placeholder.\n\
+ nDefence announcement: https://www.aalto.fi/en/events/public-defence-in-ec
+ onomics-msocsc-maarit-olkkola\nEvent page: https://www.helsinkigse.fi/even
+ ts/maarit-olkkola-defence
 URL:https://www.helsinkigse.fi/events/maarit-olkkola-defence
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250124-jaakko-markkanen-defence@helsinkigse.fi
-DTSTAMP:20260822T084626Z
-SEQUENCE:8
-LAST-MODIFIED:20260822T084626Z
+DTSTAMP:20260822T102219Z
+SEQUENCE:9
+LAST-MODIFIED:20260822T102219Z
 DTSTART;VALUE=DATE:20250124
 DTEND;VALUE=DATE:20250125
 SUMMARY:Doctoral Defence: Jaakko Markkanen — Industrial Organization Stud
@@ -66,23 +62,21 @@ DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Jaak
  ko Markkanen (Aalto University)\nTitle: Industrial Organization Studies on
   Pharmaceutical Markets\nOpponent: Prof. Anders Munk-Nielsen\, University 
  of Copenhagen\, Denmark\nCustos: Prof. Otto Toivanen\, Aalto University Sc
- hool of Business\, Department of Economics\n\nThe dissertation examines th
- e effects of pharmaceutical market regulation on market outcomes in Finlan
- d and in the Nordic countries.\n\nTime not published yet — all-day place
- holder.\n\nArticle on the thesis: https://www.helsinkigse.fi/articles/indu
- strial-organization-studies-on-pharmaceutical-markets\nDefence announcemen
- t: https://www.aalto.fi/en/events/public-defence-in-economics-msc-econ-jaa
- kko-markkanen\nEvent page: https://www.helsinkigse.fi/events/jaakko-markka
- nen-defence
+ hool of Business\, Department of Economics\n\nTime not published yet — a
+ ll-day placeholder.\n\nArticle on the thesis: https://www.helsinkigse.fi/a
+ rticles/industrial-organization-studies-on-pharmaceutical-markets\nDefence
+  announcement: https://www.aalto.fi/en/events/public-defence-in-economics-
+ msc-econ-jaakko-markkanen\nEvent page: https://www.helsinkigse.fi/events/j
+ aakko-markkanen-defence
 URL:https://www.helsinkigse.fi/events/jaakko-markkanen-defence
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250307-jan-jaaskelainen-defence@helsinkigse.fi
-DTSTAMP:20260822T084626Z
-SEQUENCE:8
-LAST-MODIFIED:20260822T084626Z
+DTSTAMP:20260822T102219Z
+SEQUENCE:9
+LAST-MODIFIED:20260822T102219Z
 DTSTART;VALUE=DATE:20250307
 DTEND;VALUE=DATE:20250308
 SUMMARY:Doctoral Defence: Jan Jääskeläinen — Essays on Public Procurem
@@ -101,9 +95,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250321-kimmo-palanne-defence@helsinkigse.fi
-DTSTAMP:20260822T084626Z
-SEQUENCE:8
-LAST-MODIFIED:20260822T084626Z
+DTSTAMP:20260822T102219Z
+SEQUENCE:9
+LAST-MODIFIED:20260822T102219Z
 DTSTART;VALUE=DATE:20250321
 DTEND;VALUE=DATE:20250322
 SUMMARY:Doctoral Defence: Kimmo Palanne — Essays on Transportation and th
@@ -122,9 +116,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250411-amin-mohazab-rahimzadeh-defence@helsinkigse.fi
-DTSTAMP:20260822T084626Z
-SEQUENCE:8
-LAST-MODIFIED:20260822T084626Z
+DTSTAMP:20260822T102219Z
+SEQUENCE:9
+LAST-MODIFIED:20260822T102219Z
 DTSTART;VALUE=DATE:20250411
 DTEND;VALUE=DATE:20250412
 SUMMARY:Doctoral Defence: Amin Mohazab Rahimzadeh — Essays on Blockchain 
@@ -133,24 +127,19 @@ DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Amin
   Mohazab Rahimzadeh (Aalto University)\nTitle: Essays on Blockchain Techno
  logy and Digital Economics\nOpponent: Doctor Saara Hämäläinen\, Univers
  ity of Helsinki\nCustos: Professor Otto Toivanen\, Aalto University School
-  of Business\, Department of Economics\n\nBitcoin Payment System is the fi
- rst and the most prominent decentralized protocol to send monetary transac
- tions worldwide. In other words\, it guarantees secure payments without th
- e need for any regulation framework. However\, it suffers from the problem
-  of scalability since it is only capable of sending 7-10 transactions per 
- second.\n\nTime not published yet — all-day placeholder.\n\nDefence anno
- uncement: https://www.aalto.fi/en/events/public-defence-in-economics-mba-a
- min-mohazab-rahimzadeh\nEvent page: https://www.helsinkigse.fi/events/amin
- -mohazab-rahimzadeh-defence
+  of Business\, Department of Economics\n\nTime not published yet — all-d
+ ay placeholder.\n\nDefence announcement: https://www.aalto.fi/en/events/pu
+ blic-defence-in-economics-mba-amin-mohazab-rahimzadeh\nEvent page: https:/
+ /www.helsinkigse.fi/events/amin-mohazab-rahimzadeh-defence
 URL:https://www.helsinkigse.fi/events/amin-mohazab-rahimzadeh-defence
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250523-petteri-palonen-defence@helsinkigse.fi
-DTSTAMP:20260822T084626Z
-SEQUENCE:8
-LAST-MODIFIED:20260822T084626Z
+DTSTAMP:20260822T102219Z
+SEQUENCE:9
+LAST-MODIFIED:20260822T102219Z
 DTSTART;VALUE=DATE:20250523
 DTEND;VALUE=DATE:20250524
 SUMMARY:Doctoral Defence: Petteri Palonen — Non-compliance and avoidance
@@ -164,9 +153,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250530-juho-koistinen-defence@helsinkigse.fi
-DTSTAMP:20260822T084626Z
-SEQUENCE:8
-LAST-MODIFIED:20260822T084626Z
+DTSTAMP:20260822T102219Z
+SEQUENCE:9
+LAST-MODIFIED:20260822T102219Z
 DTSTART;VALUE=DATE:20250530
 DTEND;VALUE=DATE:20250531
 SUMMARY:Doctoral Defence: Juho Koistinen — Essays in macroeconometrics un
@@ -182,9 +171,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250624-arttu-ahonen-defence@helsinkigse.fi
-DTSTAMP:20260822T084626Z
-SEQUENCE:8
-LAST-MODIFIED:20260822T084626Z
+DTSTAMP:20260822T102219Z
+SEQUENCE:9
+LAST-MODIFIED:20260822T102219Z
 DTSTART;VALUE=DATE:20250624
 DTEND;VALUE=DATE:20250625
 SUMMARY:Doctoral Defence: Arttu Ahonen — Essays on climate policy and tra
@@ -193,22 +182,19 @@ DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Artt
  u Ahonen (Aalto University)\nTitle: Essays on climate policy and transport
  ation\nOpponent: Prof. Moritz Drupp\, ETH Zurich / University of Hamburg\n
  Custos: Prof. Matti Liski\, Aalto University School of Business\, Departme
- nt of Economics\n\nRoad transportation is a major source of global carbon 
- dioxide emissions\, and a particularly difficult-to-abate sector\, requiri
- ng a mass of individual consumers to invest in cleaner technologies or red
- uce their kilometers driven.\n\nTime not published yet — all-day placeho
- lder.\n\nDefence announcement: https://www.aalto.fi/en/events/public-defen
- ce-in-economics-msc-econ-arttu-ahonen\nEvent page: https://www.helsinkigse
- .fi/events/arttu-ahonen-defence
+ nt of Economics\n\nTime not published yet — all-day placeholder.\n\nDefe
+ nce announcement: https://www.aalto.fi/en/events/public-defence-in-economi
+ cs-msc-econ-arttu-ahonen\nEvent page: https://www.helsinkigse.fi/events/ar
+ ttu-ahonen-defence
 URL:https://www.helsinkigse.fi/events/arttu-ahonen-defence
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250820-marc-riudavets-barcons-defence@helsinkigse.fi
-DTSTAMP:20260822T084626Z
-SEQUENCE:8
-LAST-MODIFIED:20260822T084626Z
+DTSTAMP:20260822T102219Z
+SEQUENCE:9
+LAST-MODIFIED:20260822T102219Z
 DTSTART;TZID=Europe/Helsinki:20250820T120000
 DTEND;TZID=Europe/Helsinki:20250820T140000
 SUMMARY:Doctoral Defence: Marc Riudavets Barcons — Essays on Economics of
@@ -229,9 +215,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250919-tuomas-markkula-defence@helsinkigse.fi
-DTSTAMP:20260822T084626Z
-SEQUENCE:8
-LAST-MODIFIED:20260822T084626Z
+DTSTAMP:20260822T102219Z
+SEQUENCE:9
+LAST-MODIFIED:20260822T102219Z
 DTSTART;VALUE=DATE:20250919
 DTEND;VALUE=DATE:20250920
 SUMMARY:Doctoral Defence: Tuomas Markkula — Industrial Organization Studi
@@ -241,21 +227,19 @@ DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Tuom
  Mixed Health Care Markets and Waiting Times\nOpponent: Prof. Morten Sæthr
  e\, NHH Norwegian School of Economics / Bergen Center for Competition Law 
  and Economics\nCustos: Prof. Otto Toivanen\, Aalto University School of Bu
- siness\, Department of Economics\n\nThe dissertation examines the interact
- ion between private and public production and waiting times in Finnish ora
- l health care.\n\nTime not published yet — all-day placeholder.\n\nDefen
- ce announcement: https://www.aalto.fi/en/events/public-defence-in-economic
- s-msc-econ-tuomas-markkula\nEvent page: https://www.helsinkigse.fi/events/
- tuomas-markkula-defence
+ siness\, Department of Economics\n\nTime not published yet — all-day pla
+ ceholder.\n\nDefence announcement: https://www.aalto.fi/en/events/public-d
+ efence-in-economics-msc-econ-tuomas-markkula\nEvent page: https://www.hels
+ inkigse.fi/events/tuomas-markkula-defence
 URL:https://www.helsinkigse.fi/events/tuomas-markkula-defence
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250922-marika-viertola-defence@helsinkigse.fi
-DTSTAMP:20260822T084626Z
-SEQUENCE:8
-LAST-MODIFIED:20260822T084626Z
+DTSTAMP:20260822T102219Z
+SEQUENCE:9
+LAST-MODIFIED:20260822T102219Z
 DTSTART;VALUE=DATE:20250922
 DTEND;VALUE=DATE:20250923
 SUMMARY:Doctoral Defence: Marika Viertola — Essays on corporate income ta
@@ -264,24 +248,19 @@ DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Mari
  ka Viertola (Aalto University)\nTitle: Essays on corporate income taxation
   and multinational enterprises\nOpponent: Prof. İrem Güçeri\, Universit
  y of Oxford\nCustos: Prof. Tuukka Saarimaa\, Aalto University School of Bu
- siness\, Department of Economics\n\nTaxation influences corporate activity
-  and decision-making in many ways\, and these behavioral responses impact 
- the efficiency of the tax system. Multinational enterprises with operation
- s in several countries may react to differences in tax rates and regulatio
- n by allocating their activities and profits across jurisdictions.\n\nTime
-  not published yet — all-day placeholder.\n\nDefence announcement: https
- ://www.aalto.fi/en/events/public-defence-in-economics-msc-econ-marika-vier
- tola\nEvent page: https://www.helsinkigse.fi/events/marika-viertola-defenc
- e
+ siness\, Department of Economics\n\nTime not published yet — all-day pla
+ ceholder.\n\nDefence announcement: https://www.aalto.fi/en/events/public-d
+ efence-in-economics-msc-econ-marika-viertola\nEvent page: https://www.hels
+ inkigse.fi/events/marika-viertola-defence
 URL:https://www.helsinkigse.fi/events/marika-viertola-defence
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251003-keyan-liu@helsinkigse.fi
-DTSTAMP:20260822T084626Z
-SEQUENCE:8
-LAST-MODIFIED:20260822T084626Z
+DTSTAMP:20260822T102219Z
+SEQUENCE:9
+LAST-MODIFIED:20260822T102219Z
 DTSTART;TZID=Europe/Helsinki:20251003T130000
 DTEND;TZID=Europe/Helsinki:20251003T150000
 SUMMARY:Doctoral Defence: Keyan Liu — Essays on Non-Gaussian Structural V
@@ -301,9 +280,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251023-louise-hohenthal-defence@helsinkigse.fi
-DTSTAMP:20260822T084626Z
-SEQUENCE:8
-LAST-MODIFIED:20260822T084626Z
+DTSTAMP:20260822T102219Z
+SEQUENCE:9
+LAST-MODIFIED:20260822T102219Z
 DTSTART;TZID=Europe/Helsinki:20251023T140000
 DTEND;TZID=Europe/Helsinki:20251023T160000
 SUMMARY:Doctoral Defence: Louise Hohenthal — Studies on Macroeconomic Eff
@@ -324,9 +303,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251114-jussipekka-salo-defence@helsinkigse.fi
-DTSTAMP:20260822T084626Z
-SEQUENCE:8
-LAST-MODIFIED:20260822T084626Z
+DTSTAMP:20260822T102219Z
+SEQUENCE:9
+LAST-MODIFIED:20260822T102219Z
 DTSTART;TZID=Europe/Helsinki:20251114T130000
 DTEND;TZID=Europe/Helsinki:20251114T150000
 SUMMARY:Doctoral Defence: Jussipekka Salo — Essays on Beliefs\, Incentive
@@ -347,9 +326,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251126-joosua-virtanen-defence@helsinkigse.fi
-DTSTAMP:20260822T084626Z
-SEQUENCE:8
-LAST-MODIFIED:20260822T084626Z
+DTSTAMP:20260822T102219Z
+SEQUENCE:9
+LAST-MODIFIED:20260822T102219Z
 DTSTART;VALUE=DATE:20251126
 DTEND;VALUE=DATE:20251127
 SUMMARY:Doctoral Defence: Joosua Virtanen — Essays on microeconomic predi
@@ -358,22 +337,20 @@ DESCRIPTION:Series: Hanken\nType: Doctoral Defence\nSpeaker: Joosua Virtane
  n (Hanken School of Economics)\nTitle: Essays on microeconomic prediction 
  problems: with applications to firm growth and public procurement\nOpponen
  t: Associate professor Johan Lundberg\, Umeå School of Business\, Economi
- cs and Statistics (USBE)\nCustos: Professor Ari Hyytinen\n\nThe doctoral d
- efence will be held as a hybrid event. Participants can attend on site or 
- via video conference. You can find the link to the video conference here.\
- n\nTime not published yet — all-day placeholder.\n\nThesis: http://hdl.h
- andle.net/10138/602885\nDefence announcement: https://www.hanken.fi/en/cal
- endar/doctoral-defence-joosua-virtanen\nEvent page: https://www.helsinkigs
- e.fi/events/joosua-virtanen-defence
+ cs and Statistics (USBE)\nCustos: Professor Ari Hyytinen\n\nTime not publi
+ shed yet — all-day placeholder.\n\nThesis: http://hdl.handle.net/10138/6
+ 02885\nDefence announcement: https://www.hanken.fi/en/calendar/doctoral-de
+ fence-joosua-virtanen\nEvent page: https://www.helsinkigse.fi/events/joosu
+ a-virtanen-defence
 URL:https://www.helsinkigse.fi/events/joosua-virtanen-defence
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251127-oliver-snellman-defence@helsinkigse.fi
-DTSTAMP:20260822T084626Z
-SEQUENCE:8
-LAST-MODIFIED:20260822T084626Z
+DTSTAMP:20260822T102219Z
+SEQUENCE:9
+LAST-MODIFIED:20260822T102219Z
 DTSTART;TZID=Europe/Helsinki:20251127T140000
 DTEND;TZID=Europe/Helsinki:20251127T160000
 SUMMARY:Doctoral Defence: Oliver Snellman — Transformer Network for Macro
@@ -394,9 +371,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251204-heikki-korpela-defence@helsinkigse.fi
-DTSTAMP:20260822T084626Z
-SEQUENCE:8
-LAST-MODIFIED:20260822T084626Z
+DTSTAMP:20260822T102219Z
+SEQUENCE:9
+LAST-MODIFIED:20260822T102219Z
 DTSTART;TZID=Europe/Helsinki:20251204T130000
 DTEND;TZID=Europe/Helsinki:20251204T150000
 SUMMARY:Doctoral Defence: Heikki Korpela — Essays in Economics of Unemplo
@@ -416,9 +393,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260123-peter-elmgren-defence@helsinkigse.fi
-DTSTAMP:20260822T084626Z
-SEQUENCE:8
-LAST-MODIFIED:20260822T084626Z
+DTSTAMP:20260822T102219Z
+SEQUENCE:9
+LAST-MODIFIED:20260822T102219Z
 DTSTART;TZID=Europe/Helsinki:20260123T130000
 DTEND;TZID=Europe/Helsinki:20260123T150000
 SUMMARY:Doctoral Defence: Peter Elmgren — Essays on Structural Change wit
@@ -439,9 +416,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260410-ville-voutilainen-defence@helsinkigse.fi
-DTSTAMP:20260822T084626Z
-SEQUENCE:8
-LAST-MODIFIED:20260822T084626Z
+DTSTAMP:20260822T102219Z
+SEQUENCE:9
+LAST-MODIFIED:20260822T102219Z
 DTSTART;TZID=Europe/Helsinki:20260410T130000
 DTEND;TZID=Europe/Helsinki:20260410T150000
 SUMMARY:Doctoral Defence: Ville Voutilainen — Essays on Central Banking w
@@ -461,9 +438,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260528-arttu-kauhanen3@helsinkigse.fi
-DTSTAMP:20260822T084626Z
-SEQUENCE:8
-LAST-MODIFIED:20260822T084626Z
+DTSTAMP:20260822T102219Z
+SEQUENCE:9
+LAST-MODIFIED:20260822T102219Z
 DTSTART;TZID=Europe/Helsinki:20260528T130000
 DTEND;TZID=Europe/Helsinki:20260528T150000
 SUMMARY:Doctoral Defence: Arttu Kauhanen — The Lifecycle of Inequality: C
@@ -484,9 +461,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260605-mikael-makimattila-defence@helsinkigse.fi
-DTSTAMP:20260822T084626Z
-SEQUENCE:8
-LAST-MODIFIED:20260822T084626Z
+DTSTAMP:20260822T102219Z
+SEQUENCE:9
+LAST-MODIFIED:20260822T102219Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
 SUMMARY:Doctoral Defence: Mikael Mäkimattila — Designing Market Institut
@@ -495,22 +472,19 @@ DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Mika
  el Mäkimattila (Aalto University)\nTitle: Designing Market Institutions\n
  Opponent: Prof. Jan Knoepfle\, Queen Mary University of London\nCustos: Pr
  of. Juuso Välimäki\, Aalto University School of Business\, Department of
-  Economics\n\nMarkets allocate a wide range of goods and services\, from j
- obs and university admissions to permits to emit carbon or access to healt
- h care. The rules and organization of a market shape its outcomes: who get
- s what and at what price.\n\nTime not published yet — all-day placeholde
- r.\n\nDefence announcement: https://www.aalto.fi/en/events/public-defence-
- in-economics-msc-econ-mikael-makimattila\nEvent page: https://www.helsinki
- gse.fi/events/mikael-makimattila-defence
+  Economics\n\nTime not published yet — all-day placeholder.\n\nDefence a
+ nnouncement: https://www.aalto.fi/en/events/public-defence-in-economics-ms
+ c-econ-mikael-makimattila\nEvent page: https://www.helsinkigse.fi/events/m
+ ikael-makimattila-defence
 URL:https://www.helsinkigse.fi/events/mikael-makimattila-defence
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260623-tuomas-nurminen@helsinkigse.fi
-DTSTAMP:20260822T084626Z
-SEQUENCE:8
-LAST-MODIFIED:20260822T084626Z
+DTSTAMP:20260822T102219Z
+SEQUENCE:9
+LAST-MODIFIED:20260822T102219Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
 SUMMARY:Doctoral Defence: Tuomas Nurminen — Essays on Behavioral and Expe
@@ -528,9 +502,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260710-milla-hagg-defence@helsinkigse.fi
-DTSTAMP:20260822T084626Z
-SEQUENCE:8
-LAST-MODIFIED:20260822T084626Z
+DTSTAMP:20260822T102219Z
+SEQUENCE:9
+LAST-MODIFIED:20260822T102219Z
 DTSTART;TZID=Europe/Helsinki:20260710T160000
 DTEND;TZID=Europe/Helsinki:20260710T180000
 SUMMARY:Doctoral Defence: Milla Hägg — Essays on Industrial Organization
@@ -550,9 +524,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260821-antto-jokelainen4@helsinkigse.fi
-DTSTAMP:20260822T084626Z
-SEQUENCE:8
-LAST-MODIFIED:20260822T084626Z
+DTSTAMP:20260822T102219Z
+SEQUENCE:9
+LAST-MODIFIED:20260822T102219Z
 DTSTART;TZID=Europe/Helsinki:20260821T120000
 DTEND;TZID=Europe/Helsinki:20260821T150000
 SUMMARY:Doctoral Defence: Antto Jokelainen — Essays on Competition and Re
@@ -561,12 +535,9 @@ DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Antt
  o Jokelainen (Aalto University)\nTitle: Essays on Competition and Regulati
  on\nOpponent: Data Management Specialist Bundesbank\, Andre Romahn\nCustos
  : Distinguished Professor Otto Toivanen\, Aalto University School of Busin
- ess\, Department of Economics\n\nThis doctoral thesis consists of three es
- says related to competition and regulation. Competition is a central mecha
- nism through which markets can achieve efficiency and increase welfare.\n\
- nDefence announcement: https://www.aalto.fi/en/events/vaitos-taloustieteen
- -alalta-ktm-antto-jokelainen\nEvent page: https://www.helsinkigse.fi/event
- s/antto-jokelainen4
+ ess\, Department of Economics\n\nDefence announcement: https://www.aalto.f
+ i/en/events/vaitos-taloustieteen-alalta-ktm-antto-jokelainen\nEvent page: 
+ https://www.helsinkigse.fi/events/antto-jokelainen4
 LOCATION:R001 / H304 Opettajaneuvoston istuntosali\, Undergraduate Centre\,
   Otakaari 1\, Espoo
 URL:https://www.helsinkigse.fi/events/antto-jokelainen4
@@ -575,9 +546,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260821-jerry-montonen4@helsinkigse.fi
-DTSTAMP:20260822T084626Z
-SEQUENCE:8
-LAST-MODIFIED:20260822T084626Z
+DTSTAMP:20260822T102219Z
+SEQUENCE:9
+LAST-MODIFIED:20260822T102219Z
 DTSTART;TZID=Europe/Helsinki:20260821T120000
 DTEND;TZID=Europe/Helsinki:20260821T150000
 SUMMARY:Doctoral Defence: Jerry Montonen — Essays on the economics of soc
@@ -585,12 +556,10 @@ SUMMARY:Doctoral Defence: Jerry Montonen — Essays on the economics of soc
 DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Jerr
  y Montonen (Aalto University)\nTitle: Essays on the economics of social in
  teractions\nOpponent: Professor Jonas Vlachos\, Stockholm University\nCust
- os: Assistant Professor Ciprian Domnisoru\, Aalto University\n\nSocial int
- eractions between individuals happen everywhere in society\, and they ofte
- n have meaningful impacts on the participants. In this thesis\, I study th
- e economic consequences of three such interactions.\n\nDefence announcemen
- t: https://www.aalto.fi/en/events/public-defence-in-economics-msc-jerry-mo
- ntonen\nEvent page: https://www.helsinkigse.fi/events/jerry-montonen4
+ os: Assistant Professor Ciprian Domnisoru\, Aalto University\n\nDefence an
+ nouncement: https://www.aalto.fi/en/events/public-defence-in-economics-msc
+ -jerry-montonen\nEvent page: https://www.helsinkigse.fi/events/jerry-monto
+ nen4
 LOCATION:V002\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/jerry-montonen4
