@@ -31,46 +31,46 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250506-competition-and-efficiency-in-public-procurement-workshop
  @helsinkigse.fi
-DTSTAMP:20260822T103244Z
-SEQUENCE:10
-LAST-MODIFIED:20260822T103244Z
+DTSTAMP:20260823T123517Z
+SEQUENCE:11
+LAST-MODIFIED:20260823T123517Z
 DTSTART;TZID=Europe/Helsinki:20250506T083000
 DTEND;TZID=Europe/Helsinki:20250506T171000
 SUMMARY:Workshop: COMPETITION AND EFFICIENCY IN PUBLIC PROCUREMENT WORKSHOP
-DESCRIPTION:Series: Workshop\nSpeaker: COMPETITION AND EFFICIENCY IN PUBLIC
-  PROCUREMENT WORKSHOP (Organizers: Hanken\, Aalto University\, University 
- of Turku and University of Lapland)\nTitle: TBA\n\nProgramme:\n08:30–09:
- 00  Morning coffee\, complimentary — Research workshop on competition an
- d efficiency in public…\n09:00–09:30  Paola Valbonesi\, University of 
- Padova\, “Public Procurement and the Risk of Severe Weather…\n09:30–
- 10:00  Saso Polanec\, University of Ljubljana\, “Trade frictions in Euro
- pean public procurement”\n10:00–10:30  Joosua Virtanen\, Hanken School
-  of Economics\, “Detecting Favoritism in Public Procurement”\n10:30–
- 11:00  Coffee break\n11:00–11:30  Janne Tukiainen\, University of Turku\
- , “Entry barriers in public procurement: Evidence from…\n11:30–12:00
-   Matti Sarvimäki\, Aalto University\, ”Randomization as an Incentive D
- evice: Evidence from Public…\n12:00–13:30  Lunch\, complimentary — P
- olicy workshop on competition and efficiency in public procurement…\n13:
- 30–13:50  Vitezslav Titl\, Utrecht University\, ”The one and only: Sin
- gle bidding in public procurement”\n13:50–14:00  Questions & discussio
- n\n14:00–14:20  Sofia Lundberg\, University of Umeå\, ”Assurance of q
- uality”\n14:20–14:30  Questions & discussion\n14:30–14:50  Jan Jää
- skeläinen\, Finnish Competition and Consumer Authority\, “Implementing 
- better procurement…\n14:50–15:00  Questions & discussion\n15:00–15:3
- 0  Coffee break\, complimentary — Afternoon part II: 15:30-17:10 — How
-  can procurement outcomes be…\n15:30–15:50  Olli Hyvärinen\, Ministry
-  of Employment and the Economy\, ”Ongoing policy reforms of public…\n1
- 5:50–15:55  Questions & discussion\n15:55–16:15  Kirsi-Maria Halonen\,
-  University of Lapland\, ”Efficiency in public procurement judicial revi
- ew”\n16:15–16:20  Questions & discussion\n16:20–16:40  Juho Savonen\
- , State Treasury\, ”Public procurement data infrastructure”\n16:40–1
- 6:45  Questions & discussion\n16:45–17:05  Janne Tukiainen\, University 
- of Turku\, ”Competition and efficiency in public procurement”\n17:05
- –17:10  Questions & discussion\n\nTimes read from the programme.\n\nFull
-  programme: https://www.helsinkigse.fi/media/pages/events/competition-and-
- efficiency-in-public-procurement-workshop/97bef0785d-1746167890/academic-p
- p-workshop-program-for-2025-05-06-v11.pdf\nEvent page: https://www.helsink
- igse.fi/events/competition-and-efficiency-in-public-procurement-workshop
+DESCRIPTION:Series: Workshop\nTitle: COMPETITION AND EFFICIENCY IN PUBLIC P
+ ROCUREMENT WORKSHOP (Organizers: Hanken\, Aalto University\, University of
+  Turku and University of Lapland)\n\nProgramme:\n08:30–09:00  Morning co
+ ffee\, complimentary — Research workshop on competition and efficiency i
+ n public…\n09:00–09:30  Paola Valbonesi\, University of Padova\, “Pu
+ blic Procurement and the Risk of Severe Weather…\n09:30–10:00  Saso Po
+ lanec\, University of Ljubljana\, “Trade frictions in European public pr
+ ocurement”\n10:00–10:30  Joosua Virtanen\, Hanken School of Economics\
+ , “Detecting Favoritism in Public Procurement”\n10:30–11:00  Coffee 
+ break\n11:00–11:30  Janne Tukiainen\, University of Turku\, “Entry bar
+ riers in public procurement: Evidence from…\n11:30–12:00  Matti Sarvim
+ äki\, Aalto University\, ”Randomization as an Incentive Device: Evidenc
+ e from Public…\n12:00–13:30  Lunch\, complimentary — Policy workshop
+  on competition and efficiency in public procurement…\n13:30–13:50  Vi
+ tezslav Titl\, Utrecht University\, ”The one and only: Single bidding in
+  public procurement”\n13:50–14:00  Questions & discussion\n14:00–14:
+ 20  Sofia Lundberg\, University of Umeå\, ”Assurance of quality”\n14:
+ 20–14:30  Questions & discussion\n14:30–14:50  Jan Jääskeläinen\, F
+ innish Competition and Consumer Authority\, “Implementing better procure
+ ment…\n14:50–15:00  Questions & discussion\n15:00–15:30  Coffee brea
+ k\, complimentary — Afternoon part II: 15:30-17:10 — How can procureme
+ nt outcomes be…\n15:30–15:50  Olli Hyvärinen\, Ministry of Employment
+  and the Economy\, ”Ongoing policy reforms of public…\n15:50–15:55  
+ Questions & discussion\n15:55–16:15  Kirsi-Maria Halonen\, University of
+  Lapland\, ”Efficiency in public procurement judicial review”\n16:15
+ –16:20  Questions & discussion\n16:20–16:40  Juho Savonen\, State Trea
+ sury\, ”Public procurement data infrastructure”\n16:40–16:45  Questi
+ ons & discussion\n16:45–17:05  Janne Tukiainen\, University of Turku\, 
+ ”Competition and efficiency in public procurement”\n17:05–17:10  Que
+ stions & discussion\n\nTimes read from the programme.\n\nFull programme: h
+ ttps://www.helsinkigse.fi/media/pages/events/competition-and-efficiency-in
+ -public-procurement-workshop/97bef0785d-1746167890/academic-pp-workshop-pr
+ ogram-for-2025-05-06-v11.pdf\nEvent page: https://www.helsinkigse.fi/event
+ s/competition-and-efficiency-in-public-procurement-workshop
 URL:https://www.helsinkigse.fi/events/competition-and-efficiency-in-public-
  procurement-workshop
 STATUS:CONFIRMED
@@ -78,17 +78,41 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260828-tuomas-pekkarinen-memorial-workshop@helsinkigse.fi
-DTSTAMP:20260822T103244Z
-SEQUENCE:10
-LAST-MODIFIED:20260822T103244Z
+DTSTAMP:20260823T123517Z
+SEQUENCE:11
+LAST-MODIFIED:20260823T123517Z
 DTSTART;TZID=Europe/Helsinki:20260828T093000
 DTEND;TZID=Europe/Helsinki:20260828T173000
 SUMMARY:Workshop: Tuomas Pekkarinen Memorial Workshop — The workshop prog
  ram and other information can be found by following…
-DESCRIPTION:Series: Workshop\nSpeaker: Tuomas Pekkarinen Memorial Workshop\
- nTitle: The workshop program and other information can be found by followi
- ng the link on this page.\nHost: Marko Terviö\n\nEvent page: https://www.
- helsinkigse.fi/events/tuomas-pekkarinen-memorial-workshop
+DESCRIPTION:Series: Workshop\nTitle: Tuomas Pekkarinen Memorial Workshop 
+ — The workshop program and other information can be found by following t
+ he link on this page.\nHost: Marko Terviö\n\nProgramme:\n9:30–10:30   R
+ oope Uusitalo — Work in Progress\n             Marko Terviö — Conscri
+ pt Underachievement\n             Juhana Vartiainen — The Economist as a
+  Mayor: Climbing Towards the Pareto Frontier\n10:30–11:00  Coffee\n11:00
+ –12:45  Konstantinos Tatsiramos — On the Origins of Socioeconomic Ineq
+ ualities: Evidence from Twin…\n             Daniela Vuri — Degrees of 
+ Deception: How Test Score Manipulation Mitigates Temperature’s Impact…
+ \n             Ana Sanz de Galdeano — Strength in Numbers? Immigrant Pee
+ rs and the Immigrant–Native Gap in…\n             Miquel Pellicer — 
+ Is there a bias in the tax policy-making process towards better-off citize
+ ns?\n             Andrea Ichino — Gender-based policy and signaling\n12:
+ 45–14:00  Lunch At Sokos Presidentti\n14:00–16:00  Steve Machin — Pr
+ oductivity in Teams: Double Crewing For Police\n             Manuel Bagues
+  & Natalia Zinovyeva — Female Promotions and the Academic Pipeline: Evid
+ ence from…\n             Peter Fredriksson — Outside Job Opportunities
+  and the Gender Gap in Pay\n             Kjell Salvanes — The Making of 
+ Equality: How the Second World War Shaped the Norwegian Income…\n       
+       Sari Pekkala Kerr — Gender Differences in Experiments and Natural 
+ Experiments\n16:00–16:30  Coffee\n16:30–17:30  Matti Sarvimäki — Fi
+ nding One’s Path: Career-Counselor Training and Students’ Educational
+ …\n             Hanna Virtanen — Education\, Gender\, and Family Forma
+ tion\n             Tuomo Virkola — College Admissions Criteria\, Student
+ s' Academic Performance and Social Mobility\n19:00        Dinner Restauran
+ t 305\n\nFull programme: https://aalto-econ.fi/esimerkki/tuomas-pekkarinen
+ -memorial-workshop.html\nEvent page: https://www.helsinkigse.fi/events/tuo
+ mas-pekkarinen-memorial-workshop
 LOCATION:Seminar room Carl Gustaf\, Original Sokos Hotel Presidentti\, Etel
  äinen Rautatiekatu 4\, Helsinki
 URL:https://www.helsinkigse.fi/events/tuomas-pekkarinen-memorial-workshop
