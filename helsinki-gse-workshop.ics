@@ -31,9 +31,9 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250506-competition-and-efficiency-in-public-procurement-workshop
  @helsinkigse.fi
-DTSTAMP:20260825T044032Z
-SEQUENCE:11
-LAST-MODIFIED:20260823T123517Z
+DTSTAMP:20260825T091550Z
+SEQUENCE:12
+LAST-MODIFIED:20260825T091550Z
 DTSTART;TZID=Europe/Helsinki:20250506T083000
 DTEND;TZID=Europe/Helsinki:20250506T171000
 SUMMARY:Workshop: COMPETITION AND EFFICIENCY IN PUBLIC PROCUREMENT WORKSHOP
@@ -71,6 +71,7 @@ DESCRIPTION:Series: Workshop\nTitle: COMPETITION AND EFFICIENCY IN PUBLIC P
  -public-procurement-workshop/97bef0785d-1746167890/academic-pp-workshop-pr
  ogram-for-2025-05-06-v11.pdf\nEvent page: https://www.helsinkigse.fi/event
  s/competition-and-efficiency-in-public-procurement-workshop
+LOCATION:HUONE Kaivopiha\, Mannerheimintie 3\, Helsinki
 URL:https://www.helsinkigse.fi/events/competition-and-efficiency-in-public-
  procurement-workshop
 STATUS:CONFIRMED
@@ -78,7 +79,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260828-tuomas-pekkarinen-memorial-workshop@helsinkigse.fi
-DTSTAMP:20260825T044032Z
+DTSTAMP:20260825T091550Z
 SEQUENCE:11
 LAST-MODIFIED:20260823T123517Z
 DTSTART;TZID=Europe/Helsinki:20260828T093000
