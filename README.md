@@ -1,7 +1,7 @@
 # hgse-cal
 
 Helsinki GSE seminars and doctoral defences as subscribable calendar feeds,
-updated every weekday morning from the
+updated every morning except Sunday from the
 [Helsinki GSE events page](https://www.helsinkigse.fi/events).
 
 ## Feeds
@@ -90,8 +90,8 @@ back to find who spoke and what the paper was.
 
 ## How it updates
 
-Every weekday morning from <https://www.helsinkigse.fi/events>, pushed only
-when something actually changed — so the commit history is a log of schedule
+Every morning except Sunday, from <https://www.helsinkigse.fi/events>, pushed
+only when something actually changed — so the commit history is a log of schedule
 changes, not of the job running. If the page layout ever changes the scraper
 parses zero events and stops without overwriting anything.
 
