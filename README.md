@@ -49,9 +49,10 @@ you subscribe to both — otherwise these do not overlap.
 re-importing duplicates everything. Subscribed feeds stay in sync: events have
 stable UIDs, so a changed time, venue or speaker updates in place.
 
-Copy the URLs from the tables above. A `github.com/.../blob/` link looks fine
-and returns HTTP 200, but serves a web page — the calendar simply comes up
-empty, with no error.
+Use the addresses in the tables above (`raw.githubusercontent.com/…`). If
+you copy a file's address from GitHub's own page instead
+(`github.com/…/blob/…`), the calendar app accepts it but shows no events:
+that address serves the web page about the file, not the file itself.
 
 | Client | How |
 |---|---|
