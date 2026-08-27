@@ -31,7 +31,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250506-competition-and-efficiency-in-public-procurement-workshop
  @helsinkigse.fi
-DTSTAMP:20260825T091550Z
+DTSTAMP:20260827T044027Z
 SEQUENCE:12
 LAST-MODIFIED:20260825T091550Z
 DTSTART;TZID=Europe/Helsinki:20250506T083000
@@ -79,9 +79,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260828-tuomas-pekkarinen-memorial-workshop@helsinkigse.fi
-DTSTAMP:20260825T091550Z
-SEQUENCE:11
-LAST-MODIFIED:20260823T123517Z
+DTSTAMP:20260827T044027Z
+SEQUENCE:12
+LAST-MODIFIED:20260827T044027Z
 DTSTART;TZID=Europe/Helsinki:20260828T093000
 DTEND;TZID=Europe/Helsinki:20260828T173000
 SUMMARY:Workshop: Tuomas Pekkarinen Memorial Workshop — The workshop prog
@@ -89,31 +89,30 @@ SUMMARY:Workshop: Tuomas Pekkarinen Memorial Workshop — The workshop prog
 DESCRIPTION:Series: Workshop\nTitle: Tuomas Pekkarinen Memorial Workshop 
  — The workshop program and other information can be found by following t
  he link on this page.\nHost: Marko Terviö\n\nProgramme:\n9:30–10:30   R
- oope Uusitalo — Work in Progress\n             Marko Terviö — Conscri
- pt Underachievement\n             Juhana Vartiainen — The Economist as a
-  Mayor: Climbing Towards the Pareto Frontier\n10:30–11:00  Coffee\n11:00
- –12:45  Konstantinos Tatsiramos — On the Origins of Socioeconomic Ineq
- ualities: Evidence from Twin…\n             Daniela Vuri — Degrees of 
- Deception: How Test Score Manipulation Mitigates Temperature’s Impact…
- \n             Ana Sanz de Galdeano — Strength in Numbers? Immigrant Pee
- rs and the Immigrant–Native Gap in…\n             Miquel Pellicer — 
- Is there a bias in the tax policy-making process towards better-off citize
- ns?\n             Andrea Ichino — Gender-based policy and signaling\n12:
- 45–14:00  Lunch At Sokos Presidentti\n14:00–16:00  Steve Machin — Pr
- oductivity in Teams: Double Crewing For Police\n             Manuel Bagues
-  & Natalia Zinovyeva — Female Promotions and the Academic Pipeline: Evid
- ence from…\n             Peter Fredriksson — Outside Job Opportunities
-  and the Gender Gap in Pay\n             Kjell Salvanes — The Making of 
- Equality: How the Second World War Shaped the Norwegian Income…\n       
-       Sari Pekkala Kerr — Gender Differences in Experiments and Natural 
- Experiments\n16:00–16:30  Coffee\n16:30–17:30  Matti Sarvimäki — Fi
- nding One’s Path: Career-Counselor Training and Students’ Educational
- …\n             Hanna Virtanen — Education\, Gender\, and Family Forma
- tion\n             Tuomo Virkola — College Admissions Criteria\, Student
- s' Academic Performance and Social Mobility\n19:00        Dinner Restauran
- t 305\n\nFull programme: https://aalto-econ.fi/esimerkki/tuomas-pekkarinen
- -memorial-workshop.html\nEvent page: https://www.helsinkigse.fi/events/tuo
- mas-pekkarinen-memorial-workshop
+ oope Uusitalo — Work in Progress\n             Marko Terviö — Underac
+ hievement in Cognitive Tests: Evidence from Finnish Military Conscripts\n 
+             Juhana Vartiainen — The Economist as a Mayor: Climbing Towar
+ ds the Pareto Frontier\n10:30–11:00  Coffee\n11:00–12:40  Konstantinos
+  Tatsiramos — On the Origins of Socioeconomic Inequalities: Evidence fro
+ m Twin…\n             Daniela Vuri — Degrees of Deception: How Test Sc
+ ore Manipulation Mitigates Temperature’s Impact…\n             Miquel 
+ Pellicer — Is there a bias in the tax policy-making process towards bett
+ er-off citizens?\n             Andrea Ichino — Gender-based policy and s
+ ignaling\n12:40–14:00  Lunch At Sokos Presidentti\n14:00–16:00  Steve 
+ Machin — Productivity in Teams: Double Crewing For Police\n             
+ Manuel Bagues & Natalia Zinovyeva — Female Promotions and the Academic P
+ ipeline: Evidence from…\n             Peter Fredriksson — Outside Job 
+ Opportunities and the Gender Gap in Pay\n             Kjell Salvanes — T
+ he Making of Equality: How the Second World War Shaped the Norwegian Incom
+ e…\n             Sari Pekkala Kerr — Gender Differences in Experiments
+  and Natural Experiments\n16:00–16:30  Coffee\n16:30–17:30  Matti Sarv
+ imäki — Finding One’s Path: Career-Counselor Training and Students’
+  Educational…\n             Hanna Virtanen — Education\, Gender\, and 
+ Family Formation\n             Tuomo Virkola — College Admissions Criter
+ ia\, Students' Academic Performance and Social Mobility\n19:00        Dinn
+ er Restaurant 305\n\nFull programme: https://aalto-econ.fi/esimerkki/tuoma
+ s-pekkarinen-memorial-workshop.html\nEvent page: https://www.helsinkigse.f
+ i/events/tuomas-pekkarinen-memorial-workshop
 LOCATION:Seminar room Carl Gustaf\, Original Sokos Hotel Presidentti\, Etel
  äinen Rautatiekatu 4\, Helsinki
 URL:https://www.helsinkigse.fi/events/tuomas-pekkarinen-memorial-workshop
