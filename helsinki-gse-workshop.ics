@@ -31,7 +31,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250506-competition-and-efficiency-in-public-procurement-workshop
  @helsinkigse.fi
-DTSTAMP:20260827T044027Z
+DTSTAMP:20260827T105007Z
 SEQUENCE:12
 LAST-MODIFIED:20260825T091550Z
 DTSTART;TZID=Europe/Helsinki:20250506T083000
@@ -79,9 +79,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260828-tuomas-pekkarinen-memorial-workshop@helsinkigse.fi
-DTSTAMP:20260827T044027Z
-SEQUENCE:12
-LAST-MODIFIED:20260827T044027Z
+DTSTAMP:20260827T105007Z
+SEQUENCE:13
+LAST-MODIFIED:20260827T105007Z
 DTSTART;TZID=Europe/Helsinki:20260828T093000
 DTEND;TZID=Europe/Helsinki:20260828T173000
 SUMMARY:Workshop: Tuomas Pekkarinen Memorial Workshop — The workshop prog
@@ -96,8 +96,8 @@ DESCRIPTION:Series: Workshop\nTitle: Tuomas Pekkarinen Memorial Workshop
   Tatsiramos — On the Origins of Socioeconomic Inequalities: Evidence fro
  m Twin…\n             Daniela Vuri — Degrees of Deception: How Test Sc
  ore Manipulation Mitigates Temperature’s Impact…\n             Miquel 
- Pellicer — Is there a bias in the tax policy-making process towards bett
- er-off citizens?\n             Andrea Ichino — Gender-based policy and s
+ Pellicer — Is There a Bias in the Tax Policy-Making Process towards Bett
+ er-Off Citizens?\n             Andrea Ichino — Gender-Based Policy and S
  ignaling\n12:40–14:00  Lunch At Sokos Presidentti\n14:00–16:00  Steve 
  Machin — Productivity in Teams: Double Crewing For Police\n             
  Manuel Bagues & Natalia Zinovyeva — Female Promotions and the Academic P

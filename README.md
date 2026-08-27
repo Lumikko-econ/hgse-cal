@@ -15,7 +15,7 @@ one shows those events twice.
 
 | Calendar | Subscription URL | Events |
 |---|---|---:|
-| Everything | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse.ics` | 460 |
+| Everything | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse.ics` | 461 |
 
 ### One calendar per series
 
@@ -27,7 +27,7 @@ you subscribe to both — otherwise these do not overlap.
 |---|---|---:|
 | Behavioral Economics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-behavioral-economics.ics` | 20 |
 | Colloquium | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-colloquium.ics` | 30 |
-| Development Economics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-development-economics.ics` | 15 |
+| Development Economics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-development-economics.ics` | 16 |
 | Econometrics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-econometrics.ics` | 10 |
 | Economics of Education (Educa) | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-economics-of-education-educa.ics` | 17 |
 | Environmental Economics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-environmental-economics.ics` | 32 |
