@@ -37,7 +37,6 @@ you subscribe to both — otherwise these do not overlap.
 | Microeconomics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-microeconomics.ics` | 21 |
 | Trade, Regional and Urban Economics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-trade-regional-and-urban-economics.ics` | 24 |
 | VATT | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-vatt.ics` | 42 |
-| Workshop | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-workshop.ics` | 2 |
 
 <!-- feeds:end -->
 
