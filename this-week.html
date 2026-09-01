@@ -4,7 +4,15 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<!-- Apple Mail honours this and leaves the light design alone. -->
+<!-- Apple Mail honours this and leaves the light design alone.
+     DELIBERATELY light-only. An author dark scheme was tried and reverted
+     the same day (2026-08-31, commits 10f96df..f1e053a and the revert):
+     the new-Outlook family ignored the declaration in dark view and, on
+     the declared letter, its per-message light toggle rendered a broken
+     mixed state — original dark text on un-restored dark-gray cards.
+     Undeclared mail is the path every client tests daily; dark-mode
+     readers get their client's own transform, which the glyph disc and
+     the td-borne rules are built to survive. -->
 <meta name="color-scheme" content="light">
 <meta name="supported-color-schemes" content="light">
 <title>Seminars at Helsinki GSE, Week 36 &middot; 31 August &ndash; 6 September 2026</title>
@@ -19,12 +27,20 @@
   table { border-collapse:collapse !important; }
   img { border:0; outline:none; text-decoration:none; -ms-interpolation-mode:bicubic; }
   a { color:#C18B5C; text-decoration:underline; }
-  /* Phones: shrink the gutters, never the type. */
+  /* Phones: shrink the gutters, never the type. Class selectors, not the
+     exact-match attribute-selector kind: several elements now carry a
+     second class (card, ink, rule3...) and an exact match would silently
+     stop applying to them. */
   @media only screen and (max-width:620px) {
-    table[class=wrap] { width:100% !important; }
-    td[class=pad] { padding-left:22px !important; padding-right:22px !important; }
-    h1[class=lettertitle] { font-size:22px !important; }
+    table.wrap { width:100% !important; }
+    td.pad { padding-left:22px !important; padding-right:22px !important; }
+    h1.lettertitle { font-size:22px !important; }
   }
+  /* NO dark-mode CSS, deliberately — see the comment on the meta tags.
+     The ink/mut/card/foot/rule1/rule3/ground classes beside the inline
+     styles stay: they are inert, they keep the hook audit in the test
+     suite meaningful, and they make any future attempt a one-block
+     change instead of a re-plumbing. */
 </style>
 </head>
 <body style="margin:0;padding:0;background:#F7F7F8;">
@@ -33,7 +49,7 @@
   Seminars at Helsinki GSE and partner institutions, Week 36 &middot; 31 August &ndash; 6 September 2026.
   &#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;
 </div>
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"
+<table role="presentation" class="ground" width="100%" cellpadding="0" cellspacing="0" border="0"
        bgcolor="#F7F7F8" style="background:#F7F7F8;">
 <tr><td align="center" style="padding:24px 10px;">
   <!--[if mso]><table role="presentation" width="640" cellpadding="0"
@@ -43,36 +59,43 @@
          style="width:640px;max-width:640px;text-align:left;">
     
 <tr>
-<td class="pad" align="left" bgcolor="#FFFFFF"
-    style="background:#FFFFFF;padding:30px 40px 22px 40px;border-bottom:3px solid #22232A;">
+<td class="pad card rule3" align="left" bgcolor="#FDFDFD"
+    style="background:#FDFDFD;padding:30px 40px 22px 40px;border-bottom:3px solid #22232A;">
   <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr>
     <td width="42" style="width:42px;padding-right:12px;line-height:0;">
-      <img src="https://www.helsinkigse.fi/assets/img/icon-512.png" width="30" height="30" alt=""
-           style="display:block;width:30px;height:30px;">
+      <!--[if mso]>
+      <v:oval xmlns:v="urn:schemas-microsoft-com:vml"
+              style="width:30px;height:30px;" fillcolor="#C18B5C"
+              stroked="false"></v:oval>
+      <![endif]-->
+      <!--[if !mso]><!-->
+      <div style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:70px;line-height:24px;
+                  height:30px;color:#C18B5C;">&#9679;</div>
+      <!--<![endif]-->
     </td>
-    <td style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:21px;line-height:1.1;color:#44454B;
+    <td class="ink" style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:21px;line-height:1.1;color:#44454B;
                letter-spacing:.2px;">Helsinki&nbsp;GSE</td>
   </tr></table>
-  <h1 class="lettertitle" style="margin:20px 0 4px 0;font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+  <h1 class="lettertitle ink" style="margin:20px 0 4px 0;font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
       font-size:26px;line-height:1.2;font-weight:600;color:#44454B;
       text-transform:uppercase;letter-spacing:1.2px;">Weekly&nbsp;seminars</h1>
-  <div mc:edit="week" mc:label="Week" style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:16px;
+  <div mc:edit="week" mc:label="Week" class="mut" style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:16px;
        line-height:1.4;color:#7D7D82;">Week 36 &middot; 31 August &ndash; 6 September 2026</div>
 </td>
 </tr>
     
 <tr>
-<td class="pad" bgcolor="#FFFFFF" style="background:#FFFFFF;padding:24px 40px 0 40px;">
+<td class="pad card" bgcolor="#FDFDFD" style="background:#FDFDFD;padding:24px 40px 0 40px;">
   <div mc:edit="intro" mc:label="Opening note">
-    <p style="margin:0 0 10px 0;font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:17px;
+    <p class="ink" style="margin:0 0 10px 0;font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:17px;
        line-height:1.5;color:#44454B;">Seminars at Helsinki GSE and at partner institutions.</p>
-    <p style="margin:0;font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:15px;
-       line-height:1.5;color:#7D7D82;"><strong style="color:#44454B;">Cancellations
+    <p class="mut" style="margin:0;font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:15px;
+       line-height:1.5;color:#7D7D82;"><strong class="ink" style="color:#44454B;">Cancellations
        are not sent by e-mail.</strong> Helsinki GSE does not e-mail changes or
        cancellations, and a calendar you have downloaded as a file will not
        update itself. Please check the organiser's own website before setting
        out; subscribed feeds do keep themselves up to date.</p>
-    <p style="margin:12px 0 0 0;font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:15px;line-height:1.5;
+    <p class="mut" style="margin:12px 0 0 0;font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:15px;line-height:1.5;
        color:#7D7D82;">Helsinki GSE seminars are also available as
        <a href="https://github.com/Lumikko-econ/hgse-cal" style="color:#C18B5C;">subscribable
        calendar feeds</a>.</p>
@@ -81,26 +104,26 @@
 </tr>
     
 <tr>
-<td class="pad" bgcolor="#FFFFFF" style="background:#FFFFFF;padding:34px 40px 0 40px;">
-  <div style="border-top:3px solid #22232A;padding-top:14px;">
-    <h2 style="margin:0;font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:21px;line-height:1.25;
-        font-weight:600;color:#44454B;">Helsinki GSE</h2>
-  </div>
+<td class="pad card" bgcolor="#FDFDFD" style="background:#FDFDFD;padding:34px 40px 0 40px;">
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+    <tr><td class="rule3" style="border-top:3px solid #22232A;padding-top:14px;"><h2 class="ink" style="margin:0;font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:21px;line-height:1.25;
+        font-weight:600;color:#44454B;">Helsinki GSE</h2></td></tr>
+  </table>
 </td>
 </tr>
     
 <tr>
-<td class="pad" bgcolor="#FFFFFF" style="background:#FFFFFF;padding:6px 40px 0 40px;">
+<td class="pad card" bgcolor="#FDFDFD" style="background:#FDFDFD;padding:6px 40px 0 40px;">
       <table class="entryBlock" role="presentation" width="100%"
              cellpadding="0" cellspacing="0" border="0">
-        <tr><td style="padding:20px 0;border-bottom:1px solid #44454B;">
+        <tr><td class="rule1" style="padding:20px 0;border-bottom:1px solid #44454B;">
           <div mc:edit="hgse_seminar" mc:label="Helsinki GSE seminar">
-      <div style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:13px;line-height:1.3;font-weight:600;color:#44454B;text-transform:uppercase;letter-spacing:1px;">Tuesday 1 September</div><div style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:13px;line-height:1.3;color:#7D7D82;text-transform:uppercase;letter-spacing:1px;padding-top:3px;">Labor &amp; Public Economics</div>
-      <div style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:18px;line-height:1.35;font-weight:600;color:#44454B;padding-top:5px;">Jakob Egholt Søgaard <span style="font-weight:normal;font-style:italic;">(CEBI)</span></div>
-      <div style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:18px;line-height:1.35;color:#44454B;padding-top:5px;">Within-Firm Inequality Aversion: Evidence &amp; Implications</div>
-      <div style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:15px;line-height:1.45;
+      <div class="ink" style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:13px;line-height:1.3;font-weight:600;color:#44454B;text-transform:uppercase;letter-spacing:1px;">Tuesday 1 September</div><div class="mut" style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:13px;line-height:1.3;color:#7D7D82;text-transform:uppercase;letter-spacing:1px;padding-top:3px;">Labor &amp; Public Economics</div>
+      <div class="ink" style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:18px;line-height:1.35;font-weight:600;color:#44454B;padding-top:5px;">Jakob Egholt Søgaard <span style="font-weight:normal;font-style:italic;">(CEBI)</span></div>
+      <div class="ink" style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:18px;line-height:1.35;color:#44454B;padding-top:5px;">Within-Firm Inequality Aversion: Evidence &amp; Implications</div>
+      <div class="mut" style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:15px;line-height:1.45;
            color:#7D7D82;padding-top:5px;">15.00&ndash;16.00<br>Seminar room 1, Economicum, Arkadiankatu 7, Helsinki<br><a href="https://www.helsinkigse.fi/events/jakob-egholt-sogaard">Seminar page</a></div>
-      <div style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:14px;line-height:1.45;color:#7D7D82;padding-top:5px;">Contact: Salla Kalin (salla.kalin@helsinki.fi).</div>
+      <div class="mut" style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:14px;line-height:1.45;color:#7D7D82;padding-top:5px;">Contact: Salla Kalin (salla.kalin@helsinki.fi).</div>
           </div>
         </td></tr>
       </table>
@@ -108,7 +131,7 @@
 </tr>
     
 <tr>
-<td class="pad" bgcolor="#FFFFFF" style="background:#FFFFFF;padding:6px 40px 0 40px;">
+<td class="pad card" bgcolor="#FDFDFD" style="background:#FDFDFD;padding:6px 40px 0 40px;">
   <div mc:edit="hgse_empty" mc:label="If no Helsinki GSE seminar">
 
   </div>
@@ -116,7 +139,7 @@
 </tr>
     
 <tr>
-<td class="pad" bgcolor="#FFFFFF" style="background:#FFFFFF;padding:0 40px 0 40px;">
+<td class="pad card" bgcolor="#FDFDFD" style="background:#FDFDFD;padding:0 40px 0 40px;">
   <div mc:edit="papers_head" mc:label="Discussion papers heading">
 
   </div>
@@ -125,26 +148,26 @@
     
     
 <tr>
-<td class="pad" bgcolor="#FFFFFF" style="background:#FFFFFF;padding:34px 40px 0 40px;">
-  <div style="border-top:3px solid #22232A;padding-top:14px;">
-    <h2 style="margin:0;font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:21px;line-height:1.25;
-        font-weight:600;color:#44454B;">Other institutions</h2>
-  </div>
+<td class="pad card" bgcolor="#FDFDFD" style="background:#FDFDFD;padding:34px 40px 0 40px;">
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+    <tr><td class="rule3" style="border-top:3px solid #22232A;padding-top:14px;"><h2 class="ink" style="margin:0;font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:21px;line-height:1.25;
+        font-weight:600;color:#44454B;">Other institutions</h2></td></tr>
+  </table>
 </td>
 </tr>
     
 <tr>
-<td class="pad" bgcolor="#FFFFFF" style="background:#FFFFFF;padding:6px 40px 0 40px;">
+<td class="pad card" bgcolor="#FDFDFD" style="background:#FDFDFD;padding:6px 40px 0 40px;">
       <table class="entryBlock" role="presentation" width="100%"
              cellpadding="0" cellspacing="0" border="0">
-        <tr><td style="padding:20px 0;border-bottom:1px solid #44454B;">
+        <tr><td class="rule1" style="padding:20px 0;border-bottom:1px solid #44454B;">
           <div mc:edit="other_seminar" mc:label="Seminar elsewhere">
-      <div style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:13px;line-height:1.3;font-weight:600;color:#44454B;text-transform:uppercase;letter-spacing:1px;">Monday 31 August</div><div style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:13px;line-height:1.3;color:#7D7D82;text-transform:uppercase;letter-spacing:1px;padding-top:3px;">ETK Research Seminar</div>
-      <div style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:18px;line-height:1.35;font-weight:600;color:#44454B;padding-top:5px;">Satu Nivalainen, Sanna Tenhunen</div>
-      <div style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:18px;line-height:1.35;color:#44454B;padding-top:5px;">Mikä saa suomalaiset valitsemaan osittaisen vanhuuseläkkeen?</div>
-      <div style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:15px;line-height:1.45;
+      <div class="ink" style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:13px;line-height:1.3;font-weight:600;color:#44454B;text-transform:uppercase;letter-spacing:1px;">Monday 31 August</div><div class="mut" style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:13px;line-height:1.3;color:#7D7D82;text-transform:uppercase;letter-spacing:1px;padding-top:3px;">ETK Research Seminar</div>
+      <div class="ink" style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:18px;line-height:1.35;font-weight:600;color:#44454B;padding-top:5px;">Satu Nivalainen, Sanna Tenhunen</div>
+      <div class="ink" style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:18px;line-height:1.35;color:#44454B;padding-top:5px;">Mikä saa suomalaiset valitsemaan osittaisen vanhuuseläkkeen?</div>
+      <div class="mut" style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:15px;line-height:1.45;
            color:#7D7D82;padding-top:5px;">14.00&ndash;15.15<br>Teams<br><a href="https://link.webropolsurveys.com/EP/9EE011EDA14D9A88">Registration required</a></div>
-      <div style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:14px;line-height:1.45;color:#7D7D82;padding-top:5px;">Contact: Marjo Honkaranta (029 411 2330).</div>
+      <div class="mut" style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:14px;line-height:1.45;color:#7D7D82;padding-top:5px;">Contact: Marjo Honkaranta (029 411 2330).</div>
           </div>
         </td></tr>
       </table>
@@ -152,7 +175,7 @@
 </tr>
     
 <tr>
-<td class="pad" bgcolor="#FFFFFF" style="background:#FFFFFF;padding:6px 40px 0 40px;">
+<td class="pad card" bgcolor="#FDFDFD" style="background:#FDFDFD;padding:6px 40px 0 40px;">
   <div mc:edit="other_empty" mc:label="If no seminar elsewhere">
 
   </div>
@@ -160,9 +183,9 @@
 </tr>
     
 <tr>
-<td class="pad" bgcolor="#FFFFFF" style="background:#FFFFFF;padding:30px 40px 34px 40px;">
+<td class="pad card" bgcolor="#FDFDFD" style="background:#FDFDFD;padding:30px 40px 34px 40px;">
   <div mc:edit="notices" mc:label="Standing notices" style="padding-top:4px;">
-    <p style="margin:0;font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:15px;
+    <p class="mut" style="margin:0;font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:15px;
        line-height:1.5;color:#7D7D82;">More on the
        <a href="https://www.helsinkigse.fi/events/" style="color:#C18B5C;">Helsinki
        GSE events page</a>. The mailing list is on the
@@ -172,18 +195,18 @@
 </td>
 </tr>
 <tr>
-<td class="pad" bgcolor="#DFDFE1" style="background:#DFDFE1;padding:24px 40px;
+<td class="pad foot ink" bgcolor="#DFDFE1" style="background:#DFDFE1;padding:24px 40px;
     font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:13px;line-height:1.6;color:#44454B;">
   <div>Helsinki Graduate School of Economics<br>
        PO Box 21210, FI-00076 AALTO, Finland</div>
-  <div style="padding-top:10px;color:#7D7D82;font-size:12px;">Seminar listings
+  <div class="mut" style="padding-top:10px;color:#7D7D82;font-size:12px;">Seminar listings
        compiled automatically by Mikko Lumme.</div>
   <div>Compiled automatically from the organisers' own pages.</div>
-  <div style="padding-top:10px;color:#7D7D82;">&copy; 2026 Helsinki GSE</div>
+  <div class="mut" style="padding-top:10px;color:#7D7D82;">&copy; 2026 Helsinki GSE</div>
   <div style="padding-top:10px;">
-    <a href="https://www.helsinkigse.fi" style="color:#44454B;">helsinkigse.fi</a>
+    <a href="https://www.helsinkigse.fi" class="ink" style="color:#44454B;">helsinkigse.fi</a>
     &nbsp;&middot;&nbsp;
-    <a href="https://github.com/Lumikko-econ/hgse-cal" style="color:#44454B;">calendar feeds</a>
+    <a href="https://github.com/Lumikko-econ/hgse-cal" class="ink" style="color:#44454B;">calendar feeds</a>
   </div>
 </td>
 </tr>
