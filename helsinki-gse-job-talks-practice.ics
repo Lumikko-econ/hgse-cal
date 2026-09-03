@@ -1,0 +1,221 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hgse-calendar//helsinkigse.fi scrape//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HGSE — Job Talks (practice)
+NAME:HGSE — Job Talks (practice)
+X-APPLE-CALENDAR-COLOR:#00ACC1
+COLOR:#00ACC1
+X-WR-TIMEZONE:Europe/Helsinki
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Helsinki
+X-LIC-LOCATION:Europe/Helsinki
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+TZNAME:EEST
+DTSTART:19700329T030000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:EET
+DTSTART:19701025T040000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:hgse-20251022-daniel-cunha-bystrom@helsinkigse.fi
+DTSTAMP:20260903T044102Z
+SEQUENCE:11
+LAST-MODIFIED:20260823T123517Z
+DTSTART;VALUE=DATE:20251022
+DTEND;VALUE=DATE:20251023
+SUMMARY:Practice Job Talk: Nordic PhD Exchange Practice Job Talk — From F
+ riends to ‘Family’: Schools\, Neighborhoods\, and Gang Recruitment
+DESCRIPTION:Series: Practice Job Talk\nTitle: Nordic PhD Exchange Practice 
+ Job Talk (Daniel Cunha Byström (Gothenburg University)) — From Friends 
+ to ‘Family’: Schools\, Neighborhoods\, and Gang Recruitment\n\nTime no
+ t published yet — all-day placeholder.\n\nEvent page: https://www.helsin
+ kigse.fi/events/daniel-cunha-bystrom
+URL:https://www.helsinkigse.fi/events/daniel-cunha-bystrom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251028-erika-povea@helsinkigse.fi
+DTSTAMP:20260903T044102Z
+SEQUENCE:11
+LAST-MODIFIED:20260823T123517Z
+DTSTART;VALUE=DATE:20251028
+DTEND;VALUE=DATE:20251029
+SUMMARY:Practice Job Talk: Erika Povea — When Organized Crime Moves In: E
+ conomic and Human Capital Disruption
+DESCRIPTION:Series: Practice Job Talk\nSpeaker: Erika Povea (NHH)\nTitle: W
+ hen Organized Crime Moves In: Economic and Human Capital Disruption\n\nTim
+ e not published yet — all-day placeholder.\n\nEvent page: https://www.he
+ lsinkigse.fi/events/erika-povea
+URL:https://www.helsinkigse.fi/events/erika-povea
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251031-jerry-montonen-practicejobtalk@helsinkigse.fi
+DTSTAMP:20260903T044102Z
+SEQUENCE:11
+LAST-MODIFIED:20260823T123517Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:Practice Job Talk: Jerry Montonen — Shaping Young Minds: The Effe
+ cts of Teachers on Socio-Emotional Skills
+DESCRIPTION:Series: Practice Job Talk\nSpeaker: Jerry Montonen (Aalto Unive
+ rsity)\nTitle: Shaping Young Minds: The Effects of Teachers on Socio-Emoti
+ onal Skills\n\nTime not published yet — all-day placeholder.\n\nEvent pa
+ ge: https://www.helsinkigse.fi/events/jerry-montonen-practicejobtalk
+URL:https://www.helsinkigse.fi/events/jerry-montonen-practicejobtalk
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251104-jussipekka-salo2@helsinkigse.fi
+DTSTAMP:20260903T044102Z
+SEQUENCE:11
+LAST-MODIFIED:20260823T123517Z
+DTSTART;VALUE=DATE:20251104
+DTEND;VALUE=DATE:20251105
+SUMMARY:Practice Job Talk: Jussipekka Salo — Learning About The Macroecon
+ omy Through Mortgages: Evidence from a…
+DESCRIPTION:Series: Practice Job Talk\nSpeaker: Jussipekka Salo (University
+  of Helsinki)\nTitle: Learning About The Macroeconomy Through Mortgages: E
+ vidence from a Natural Experiment\n\nTime not published yet — all-day pl
+ aceholder.\n\nEvent page: https://www.helsinkigse.fi/events/jussipekka-sal
+ o2
+URL:https://www.helsinkigse.fi/events/jussipekka-salo2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251114-kailin-chen@helsinkigse.fi
+DTSTAMP:20260903T044102Z
+SEQUENCE:11
+LAST-MODIFIED:20260823T123517Z
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251115
+SUMMARY:Practice Job Talk: Kailin Chen — Ranking Statistical Experiments 
+ via the Linear Convex Order and the…
+DESCRIPTION:Series: Practice Job Talk\nSpeaker: Kailin Chen (Aalto Universi
+ ty)\nTitle: Ranking Statistical Experiments via the Linear Convex Order an
+ d the Lorenz Zonoid: Economic Applications\n\nTime not published yet — a
+ ll-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/kaili
+ n-chen
+URL:https://www.helsinkigse.fi/events/kailin-chen
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251128-milla-hagg-practicejobtalk@helsinkigse.fi
+DTSTAMP:20260903T044102Z
+SEQUENCE:11
+LAST-MODIFIED:20260823T123517Z
+DTSTART;VALUE=DATE:20251128
+DTEND;VALUE=DATE:20251129
+SUMMARY:Practice Job Talk: Milla Hägg — History Dependence and Firm Ince
+ ntives in Free Contraception Programs
+DESCRIPTION:Series: Practice Job Talk\nSpeaker: Milla Hägg (University of 
+ Helsinki)\nTitle: History Dependence and Firm Incentives in Free Contracep
+ tion Programs\n\nTime not published yet — all-day placeholder.\n\nEvent 
+ page: https://www.helsinkigse.fi/events/milla-hagg-practicejobtalk
+URL:https://www.helsinkigse.fi/events/milla-hagg-practicejobtalk
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251201-ville-savolainen@helsinkigse.fi
+DTSTAMP:20260903T044102Z
+SEQUENCE:11
+LAST-MODIFIED:20260823T123517Z
+DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251202
+SUMMARY:Practice Job Talk: Ville Savolainen — Cryptocurrency Pricing: An 
+ Exactly Solved Model with Endogenous…
+DESCRIPTION:Series: Practice Job Talk\nSpeaker: Ville Savolainen (Aalto Uni
+ versity)\nTitle: Cryptocurrency Pricing: An Exactly Solved Model with Endo
+ genous Crashes\n\nTime not published yet — all-day placeholder.\n\nEvent
+  page: https://www.helsinkigse.fi/events/ville-savolainen
+URL:https://www.helsinkigse.fi/events/ville-savolainen
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20251212-mikael-makimattila-practicejobtalk@helsinkigse.fi
+DTSTAMP:20260903T044102Z
+SEQUENCE:11
+LAST-MODIFIED:20260823T123517Z
+DTSTART;VALUE=DATE:20251212
+DTEND;VALUE=DATE:20251213
+SUMMARY:Practice Job Talk: Mikael Mäkimattila — Inequality-Aware Regulat
+ ion
+DESCRIPTION:Series: Practice Job Talk\nSpeaker: Mikael Mäkimattila (Aalto 
+ University)\nTitle: Inequality-Aware Regulation\n\nTime not published yet 
+ — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/
+ mikael-makimattila-practicejobtalk
+URL:https://www.helsinkigse.fi/events/mikael-makimattila-practicejobtalk
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20261014-ellen-sahlstrom3@helsinkigse.fi
+DTSTAMP:20260903T044102Z
+SEQUENCE:1
+LAST-MODIFIED:20260903T044102Z
+DTSTART;TZID=Europe/Helsinki:20261014T120000
+DTEND;TZID=Europe/Helsinki:20261014T130000
+SUMMARY:Labor & Public Economics: Ellen Sahlström — TBA
+DESCRIPTION:Series: Labor & Public Economics\nType: Practice Job Talk\nSpea
+ ker: Ellen Sahlström (Aalto University)\nTitle: TBA\nHosts: Juho Junttila
+  & Lachlan Paterson\n\nEvent page: https://www.helsinkigse.fi/events/ellen
+ -sahlstrom3
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
+URL:https://www.helsinkigse.fi/events/ellen-sahlstrom3
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20261104-ossi-tahvonen3@helsinkigse.fi
+DTSTAMP:20260903T044102Z
+SEQUENCE:1
+LAST-MODIFIED:20260903T044102Z
+DTSTART;TZID=Europe/Helsinki:20261104T120000
+DTEND;TZID=Europe/Helsinki:20261104T130000
+SUMMARY:Labor & Public Economics: Ossi Tahvonen — TBA
+DESCRIPTION:Series: Labor & Public Economics\nType: Practice Job Talk\nSpea
+ ker: Ossi Tahvonen (University of Helsinki)\nTitle: TBA\nHosts: Juho Juntt
+ ila & Lachlan Paterson\n\nEvent page: https://www.helsinkigse.fi/events/os
+ si-tahvonen3
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
+URL:https://www.helsinkigse.fi/events/ossi-tahvonen3
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hgse-20261118-atte-pudas5@helsinkigse.fi
+DTSTAMP:20260903T044102Z
+SEQUENCE:1
+LAST-MODIFIED:20260903T044102Z
+DTSTART;TZID=Europe/Helsinki:20261118T120000
+DTEND;TZID=Europe/Helsinki:20261118T130000
+SUMMARY:Labor & Public Economics: Atte Pudas — TBA
+DESCRIPTION:Series: Labor & Public Economics\nType: Practice Job Talk\nSpea
+ ker: Atte Pudas (Aalto University)\nTitle: TBA\nHosts: Juho Junttila & Lac
+ hlan Paterson\n\nEvent page: https://www.helsinkigse.fi/events/atte-pudas5
+LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
+URL:https://www.helsinkigse.fi/events/atte-pudas5
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
