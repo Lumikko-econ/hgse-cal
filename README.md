@@ -1,7 +1,7 @@
 # hgse-cal
 
 Helsinki GSE seminars and doctoral defences as subscribable calendar feeds,
-updated every morning except Sunday from the
+updated several times a day from the
 [Helsinki GSE events page](https://www.helsinkigse.fi/events).
 
 ## Feeds
@@ -94,13 +94,17 @@ back to find who spoke and what the paper was.
 
 ## How it updates
 
-Every morning except Sunday, from <https://www.helsinkigse.fi/events>, pushed
-only when something actually changed — so the commit history is a log of schedule
-changes, not of the job running. If the page layout ever changes the scraper
-parses zero events and stops without overwriting anything.
+Read from <https://www.helsinkigse.fi/events> at 07:40 every morning except
+Sunday, and again at 13:00 and 18:00 on weekdays. Helsinki GSE edits its event
+pages during office hours, so the afternoon readings catch a room or a time
+that moved on the day it moved, rather than the morning after. Pushed only when
+something actually changed — so the commit history is a log of schedule changes,
+not of the job running. If the page layout ever changes the scraper parses zero
+events and stops without overwriting anything.
 
-Your calendar app decides how often it re-reads the feed, so a newly announced
-seminar may take a few hours to appear on your side.
+Your calendar app decides how often it re-reads the feed. These feeds ask to be
+checked every six hours; some apps honour that and others keep to their own
+schedule, so a change can still take a while to reach you.
 
 ---
 
