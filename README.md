@@ -4,6 +4,14 @@ Helsinki GSE seminars and doctoral defences as subscribable calendar feeds,
 updated several times a day from the
 [Helsinki GSE events page](https://www.helsinkigse.fi/events).
 
+## This week, on one page
+
+**<https://lumikko-econ.github.io/hgse-cal/this-week.html>**
+
+Every Helsinki GSE seminar this week, with the other Helsinki-area
+institutions' underneath. Nothing to subscribe to — a page to open or to share.
+It moves on to the next week each Saturday.
+
 ## Feeds
 
 <!-- feeds:start -->
@@ -94,16 +102,15 @@ back to find who spoke and what the paper was.
 
 ## How it updates
 
-Read from <https://www.helsinkigse.fi/events> at 07:40 every morning except
-Sunday, and again at 13:00 and 18:00 on weekdays. Helsinki GSE edits its event
-pages during office hours, so the afternoon readings catch a room or a time
-that moved on the day it moved, rather than the morning after. Pushed only when
-something actually changed — so the commit history is a log of schedule changes,
-not of the job running. If the page layout ever changes the scraper parses zero
-events and stops without overwriting anything.
+Read from the [events page](https://www.helsinkigse.fi/events) three times on a
+working day — early morning, 13:00 and 18:00 — and on Saturday mornings, so a
+room or a time that changes during the day is usually picked up the same day.
+The week page above is rebuilt each morning. Nothing is republished unless
+something actually changed, and if the events page is ever unreadable the feeds
+are left as they are rather than emptied.
 
 Your calendar app decides how often it re-reads the feed. These feeds ask to be
-checked every six hours; some apps honour that and others keep to their own
+checked every six hours; some apps honour that and others keep their own
 schedule, so a change can still take a while to reach you.
 
 ---
