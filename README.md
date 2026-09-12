@@ -37,7 +37,6 @@ show twice if you subscribe to both.
 | Behavioral Economics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-behavioral-economics.ics` | 21 |
 | Colloquium | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-colloquium.ics` | 31 |
 | Development Economics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-development-economics.ics` | 16 |
-| Doctoral Defences | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-doctoral-defences.ics` | 26 |
 | Econometrics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-econometrics.ics` | 10 |
 | Economics of Education (Educa) | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-economics-of-education-educa.ics` | 19 |
 | Environmental Economics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-environmental-economics.ics` | 33 |
@@ -105,7 +104,9 @@ back to find who spoke and what the paper was.
 Read from the [events page](https://www.helsinkigse.fi/events) three times on a
 working day — early morning, 13:00 and 18:00 — and on Saturday mornings, so a
 room or a time that changes during the day is usually picked up the same day.
-The week page above is rebuilt each morning. Nothing is republished unless
+The week page above is rebuilt each morning, and on weekday afternoons it is
+recomposed from that morning's read of the other institutions, so a Helsinki
+GSE change usually reaches it the same day. Nothing is republished unless
 something actually changed, and if the events page is ever unreadable the feeds
 are left as they are rather than emptied.
 

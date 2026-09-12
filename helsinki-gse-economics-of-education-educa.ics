@@ -30,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250225-yann-bramoulle@helsinkigse.fi
-DTSTAMP:20260911T150359Z
+DTSTAMP:20260912T044400Z
 SEQUENCE:13
 LAST-MODIFIED:20260911T150359Z
 DTSTART;VALUE=DATE:20250225
@@ -49,7 +49,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250311-mette-foged@helsinkigse.fi
-DTSTAMP:20260911T150359Z
+DTSTAMP:20260912T044400Z
 SEQUENCE:13
 LAST-MODIFIED:20260911T150359Z
 DTSTART;VALUE=DATE:20250311
@@ -67,7 +67,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250408-mikkel-gandil@helsinkigse.fi
-DTSTAMP:20260911T150359Z
+DTSTAMP:20260912T044400Z
 SEQUENCE:13
 LAST-MODIFIED:20260911T150359Z
 DTSTART;VALUE=DATE:20250408
@@ -84,7 +84,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250506-jose-montalban-castilla@helsinkigse.fi
-DTSTAMP:20260911T150359Z
+DTSTAMP:20260912T044400Z
 SEQUENCE:13
 LAST-MODIFIED:20260911T150359Z
 DTSTART;VALUE=DATE:20250506
@@ -102,7 +102,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250520-christina-felfe@helsinkigse.fi
-DTSTAMP:20260911T150359Z
+DTSTAMP:20260912T044400Z
 SEQUENCE:13
 LAST-MODIFIED:20260911T150359Z
 DTSTART;VALUE=DATE:20250520
@@ -119,7 +119,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250603-tushar-kundu@helsinkigse.fi
-DTSTAMP:20260911T150359Z
+DTSTAMP:20260912T044400Z
 SEQUENCE:13
 LAST-MODIFIED:20260911T150359Z
 DTSTART;VALUE=DATE:20250603
@@ -136,7 +136,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250919-helsinki-economics-of-education-workshop@helsinkigse.fi
-DTSTAMP:20260911T150359Z
+DTSTAMP:20260912T044400Z
 SEQUENCE:14
 LAST-MODIFIED:20260911T150359Z
 DTSTART;VALUE=DATE:20250919
@@ -155,7 +155,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250923-pedro-carneiro@helsinkigse.fi
-DTSTAMP:20260911T150359Z
+DTSTAMP:20260912T044400Z
 SEQUENCE:13
 LAST-MODIFIED:20260911T150359Z
 DTSTART;VALUE=DATE:20250923
@@ -172,7 +172,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251021-ben-goldman@helsinkigse.fi
-DTSTAMP:20260911T150359Z
+DTSTAMP:20260912T044400Z
 SEQUENCE:13
 LAST-MODIFIED:20260911T150359Z
 DTSTART;VALUE=DATE:20251021
@@ -190,7 +190,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251104-giuseppe-sorrenti@helsinkigse.fi
-DTSTAMP:20260911T150359Z
+DTSTAMP:20260912T044400Z
 SEQUENCE:13
 LAST-MODIFIED:20260911T150359Z
 DTSTART;VALUE=DATE:20251104
@@ -208,7 +208,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251202-julien-grenet@helsinkigse.fi
-DTSTAMP:20260911T150359Z
+DTSTAMP:20260912T044400Z
 SEQUENCE:13
 LAST-MODIFIED:20260911T150359Z
 DTSTART;VALUE=DATE:20251202
@@ -226,7 +226,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260310-nagore-iriberri1@helsinkigse.fi
-DTSTAMP:20260911T150359Z
+DTSTAMP:20260912T044400Z
 SEQUENCE:13
 LAST-MODIFIED:20260911T150359Z
 DTSTART;VALUE=DATE:20260310
@@ -245,7 +245,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260421-juanna-schroter-joensen@helsinkigse.fi
-DTSTAMP:20260911T150359Z
+DTSTAMP:20260912T044400Z
 SEQUENCE:13
 LAST-MODIFIED:20260911T150359Z
 DTSTART;VALUE=DATE:20260421
@@ -263,7 +263,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260602-gabrielle-fack1@helsinkigse.fi
-DTSTAMP:20260911T150359Z
+DTSTAMP:20260912T044400Z
 SEQUENCE:13
 LAST-MODIFIED:20260911T150359Z
 DTSTART;VALUE=DATE:20260602
@@ -283,11 +283,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260826-2nd-edition-of-the-helsinki-economics-of-education-worksh
  op@helsinkigse.fi
-DTSTAMP:20260911T150359Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260912T044400Z
+SEQUENCE:14
+LAST-MODIFIED:20260912T044400Z
 DTSTART;TZID=Europe/Helsinki:20260826T090000
-DTEND;TZID=Europe/Helsinki:20260827T160000
+DTEND;TZID=Europe/Helsinki:20260827T150000
 SUMMARY:Economics of Education (Educa): 2nd Edition of the Helsinki Economi
  cs of Education Workshop
 DESCRIPTION:Series: Economics of Education (Educa)\nType: Workshop\nTitle: 
@@ -296,49 +296,47 @@ DESCRIPTION:Series: Economics of Education (Educa)\nType: Workshop\nTitle:
  ffee\n09:25–09:30  Welcome word\n09:30–10:30  Mikkel Houmark — Teach
  ers and Inequality in Student Performance – Estimating Value Added and
  …\n             Ossi Tahvonen — Cash Transfers\, Health\, and the Tran
- sition to Adulthood\n10:30–11:00  Coffee break\n11:00–12:00  Keynote 
- — Susan Dynarski « Understanding and Reducing Inequality in Education 
- »\n12:00–13:30  Lunch in Arvo Restaurant\n13:30–14:30  Camille Terrie
- r — Fostering Social Integration in the Classroom: Evidence from a Peer-
- Learning…\n             Libertad Gonzalez — Born Too Soon? The Educati
- onal Costs of Early Elective Deliveries\, with…\n14:45–15:45  Aino Kal
- mbach — Priority Pitfalls: Admission Mechanisms and Educational Outcomes
- \n             Rasmus Mellanen — Peer Effects on Educational Choices: Ev
- idence from Finnish Weighted…\n             Moritz Mendel — Expectatio
- n Formation and Educational Investment: Evidence from Labor Market…\n   
-           Théophile Mulot — The Role of Parental Role Models in the Gen
- dered Choice of STEM Studies\, with…\n             Lachlan Paterson — 
- The Role of Training Providers in Immigrant Integration\, with Hanna Pesol
- a…\n             Arkādijs Zvaigzne — Success Begets Success: The Dyna
- mic Treatment Effects of Financial Aid…\n16:00–17:00  Matti Sarvimäki
-  — Learning to Experiment: Field Experiments in Finnish Education\n     
-         Anna Holvio — Reading Gains Through Teacher Pairs: A Co-Teaching
-  Experiment\, with Hannu…\n             Mikko Silliman — Building a Sh
- ared Reality: Social Cohesion in Diverse Classrooms\, Michela…\n        
-      Maria Sauval — Finding One’s Path: Career-Counselor Training and 
- Students’ Educational Choices…\n             Ramin Izadi — Reforming
-  Universal Early Childhood Education: Finland’s Two-Year Preschool…\n1
- 9:00        Workshop Dinner for presenters at Yes Yes Yes\nThu 27 Aug:\n09
- :00–09:30  Welcome and morning coffee\n09:30–10:30  Lavinia Kinne — 
- Diversity in Teams and Creative Output\, with Raphael Brade and Margaret L
- eighton\n             Ellen Sahlström — The Broad Effects of Providing 
- Long-Term Support to Disadvantaged Boys\n10:30–11:00  Coffee break\n11:0
- 0–12:00  Keynote — Kirabo Jackson « The Returns to Public Investment 
- in Children »\n12:00–13:30  Lunch in Arvo Restaurant\n13:30–14:30  As
- pasia Bizopoulou — Fast Transit and Human Capital Accumulation\, with Ne
- ktarios Aslanidis and…\n             Miika Päällysaho — Decomposing 
- Trends in the PISA Study\, with Jani Kuhakoski and Roope Uusitalo\n       
-       Cécile Bonneau — Price of Admission: The Impact of Application Fe
- es on Top Students\n             Hanna Virtanen — Information Alone Is N
- ot Enough: Randomized Trials of Lifelong Learning…\n14:30–15:00  Coffe
- e break\n15:00–16:00  Gregory Veramendi — Smartphones and Childrens' M
- ental Health\n             Shushanik Margaryan — Affirmative Action duri
- ng Early Childhood: School Choice\, Academic…\n16:00        End of works
- hop\n\nTimes read from the programme.\n\nFull programme: https://www.helsi
- nkigse.fi/media/pages/events/2nd-edition-of-the-helsinki-economics-of-educ
- ation-workshop/e6177bde38-1787228879/heew_workshop_2026.pdf\nEvent page: h
- ttps://www.helsinkigse.fi/events/2nd-edition-of-the-helsinki-economics-of-
- education-workshop
+ sition to Adulthood\n10:30–11:00  Coffee break\n11:00–12:00  Gregory V
+ eramendi — Smartphones and Childrens' Mental Health\n             Shusha
+ nik Margaryan — Affirmative Action during Early Childhood: School Choice
+ \, Academic…\n12:00–13:30  Lunch in Arvo Restaurant\n13:30–14:30  Ca
+ mille Terrier — Fostering Social Integration in the Classroom: Evidence 
+ from a Peer-Learning…\n             Libertad Gonzalez — Born Too Soon?
+  The Educational Costs of Early Elective Deliveries\, with…\n14:45–15:
+ 45  Aino Kalmbach — Priority Pitfalls: Admission Mechanisms and Educatio
+ nal Outcomes\n             Rasmus Mellanen — Peer Effects on Educational
+  Choices: Evidence from Finnish Weighted…\n             Moritz Mendel 
+ — Expectation Formation and Educational Investment: Evidence from Labor 
+ Market…\n             Théophile Mulot — The Role of Parental Role Mod
+ els in the Gendered Choice of STEM Studies\, with…\n             Lachlan
+  Paterson — The Role of Training Providers in Immigrant Integration\, wi
+ th Hanna Pesola…\n             Arkādijs Zvaigzne — Success Begets Suc
+ cess: The Dynamic Treatment Effects of Financial Aid…\n16:00–17:00  Ma
+ tti Sarvimäki — Learning to Experiment: Field Experiments in Finnish Ed
+ ucation\n             Anna Holvio — Reading Gains Through Teacher Pairs:
+  A Co-Teaching Experiment\, with Hannu…\n             Mikko Silliman —
+  Building a Shared Reality: Social Cohesion in Diverse Classrooms\, Michel
+ a…\n             Maria Sauval — Finding One’s Path: Career-Counselor
+  Training and Students’ Educational Choices…\n             Ramin Izadi
+  — Reforming Universal Early Childhood Education: Finland’s Two-Year P
+ reschool…\n19:00        Workshop Dinner for presenters at Yes Yes Yes\nT
+ hu 27 Aug:\n09:00–09:30  Welcome and morning coffee\n09:30–10:30  Lavi
+ nia Kinne — Diversity in Teams and Creative Output\, with Raphael Brade 
+ and Margaret Leighton\n             Ellen Sahlström — The Broad Effects
+  of Providing Long-Term Support to Disadvantaged Boys\n10:30–11:00  Coff
+ ee break\n11:00–12:00  Keynote — Kirabo Jackson « The Returns to Publ
+ ic Investment in Children »\n12:00–13:30  Lunch in Arvo Restaurant\n13:
+ 30–14:30  Aspasia Bizopoulou — Fast Transit and Human Capital Accumula
+ tion\, with Nektarios Aslanidis and…\n             Miika Päällysaho 
+ — Decomposing Trends in the PISA Study\, with Jani Kuhakoski and Roope U
+ usitalo\n             Cécile Bonneau — Price of Admission: The Impact o
+ f Application Fees on Top Students\n             Hanna Virtanen — Inform
+ ation Alone Is Not Enough: Randomized Trials of Lifelong Learning…\n14:3
+ 0–15:00  Coffee break\n15:00        End of workshop\n\nTimes read from t
+ he programme.\n\nFull programme: https://www.helsinkigse.fi/media/pages/ev
+ ents/2nd-edition-of-the-helsinki-economics-of-education-workshop/41ca027d7
+ 3-1787721315/heew_workshop__2026.pdf\nEvent page: https://www.helsinkigse.
+ fi/events/2nd-edition-of-the-helsinki-economics-of-education-workshop
 LOCATION:V001\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/2nd-edition-of-the-helsinki-economics
@@ -348,7 +346,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261006-jenifer-ruiz-valenzuela@helsinkigse.fi
-DTSTAMP:20260911T150359Z
+DTSTAMP:20260912T044400Z
 SEQUENCE:13
 LAST-MODIFIED:20260911T150359Z
 DTSTART;TZID=Europe/Helsinki:20261006T120000
@@ -366,7 +364,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261020-yusuf-agus-rafael-hernandez-pachon@helsinkigse.fi
-DTSTAMP:20260911T150359Z
+DTSTAMP:20260912T044400Z
 SEQUENCE:2
 LAST-MODIFIED:20260911T150359Z
 DTSTART;TZID=Europe/Helsinki:20261020T120000
@@ -385,7 +383,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261103-petter-lundborg1@helsinkigse.fi
-DTSTAMP:20260911T150359Z
+DTSTAMP:20260912T044400Z
 SEQUENCE:13
 LAST-MODIFIED:20260911T150359Z
 DTSTART;TZID=Europe/Helsinki:20261103T120000
@@ -402,7 +400,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261117-shqiponja-telhaj@helsinkigse.fi
-DTSTAMP:20260911T150359Z
+DTSTAMP:20260912T044400Z
 SEQUENCE:3
 LAST-MODIFIED:20260911T150359Z
 DTSTART;TZID=Europe/Helsinki:20261117T120000
