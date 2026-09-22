@@ -1,26 +1,25 @@
 # hgse-cal
 
-Helsinki GSE seminars and doctoral defences as subscribable calendar feeds,
-updated several times a day from the
+Helsinki GSE seminars and doctoral defences as calendar feeds, updated
+several times a day from the
 [Helsinki GSE events page](https://www.helsinkigse.fi/events).
 
-## Subscribe here
+## Subscribe
 
 **<https://lumikko-econ.github.io/hgse-cal/>**
 
-This week's seminars at Helsinki GSE and the other Helsinki-area institutions,
-with a button for every calendar: one series at a time or the whole programme,
-into Outlook, Google Calendar or Apple Calendar. This is the page to use and
-to share. It moves on to the next week each Saturday.
+This week's seminars, with buttons that add any series, or the whole
+programme, to Outlook, Google Calendar or Apple Calendar. This is the page to
+use and to share.
 
-The tables below are the same feeds, for anyone who wants the addresses by hand.
+The tables below list the same feeds, for adding one by hand.
 
 ## Feeds
 
 <!-- feeds:start -->
 
-**Pick one or the other.** Taking the combined feed *and* a per-series
-one shows those events twice.
+**Pick one or the other:** the combined feed together with a series
+feed shows those events twice.
 
 ### Everything in one calendar
 
@@ -30,10 +29,8 @@ one shows those events twice.
 
 ### One calendar per series
 
-Take as many as you like. A seminar run jointly by two research
-groups appears in both of their calendars, and so does a job talk or
-a defence — under its own series as well as its kind. Either will
-show twice if you subscribe to both.
+Take as many as you like. An event that belongs to two series, such
+as a joint seminar or a job talk, appears in both.
 
 | Calendar | Subscription URL | Events |
 |---|---|---:|
@@ -54,70 +51,35 @@ show twice if you subscribe to both.
 
 <!-- feeds:end -->
 
----
+## Adding a feed by hand
 
-## Subscribing
+**Subscribe, don't import.** A subscribed calendar keeps itself up to date;
+an imported one is a copy that never changes.
 
-**Subscribe, don't import.** Importing takes a one-time snapshot, and
-re-importing duplicates everything. Subscribed feeds stay in sync: events have
-stable UIDs, so a changed time, venue or speaker updates in place.
+Use the `raw.githubusercontent.com` addresses above. A `github.com/…/blob/…`
+address is accepted by calendar apps but shows no events.
 
-Use the addresses in the tables above (`raw.githubusercontent.com/…`). If
-you copy a file's address from GitHub's own page instead
-(`github.com/…/blob/…`), the calendar app accepts it but shows no events:
-that address serves the web page about the file, not the file itself.
-
-| Client | How |
+| App | How |
 |---|---|
-| **Outlook, Windows (classic)** | Calendar → **Home** → **Add Calendar** → **From Internet…** → paste → OK → Yes. `F9` forces a refresh. |
-| **Outlook on the web / new Outlook** | <https://outlook.office.com/calendar/> → **Add calendar** → **Subscribe from web** → paste → **Import**. |
-| **Outlook for Mac** | No working menu path — subscribe on the web (row above) and it syncs down through your account. |
-| **Apple Calendar** | **File → New Calendar Subscription** → paste → set *Auto-refresh*. The only client that lets you choose the interval. |
+| **Outlook on the web / new Outlook** | **Add calendar** → **Subscribe from web** → paste |
+| **Outlook for Windows (classic)** | **Home** → **Add Calendar** → **From Internet…** → paste |
+| **Outlook for Mac** | Subscribe in Outlook on the web; it appears on the Mac too |
+| **Google Calendar** | **Other calendars +** → **From URL** → paste |
+| **Apple Calendar** | **File** → **New Calendar Subscription** → paste |
 
-**Seeing them side by side instead of overlaid?** Classic Outlook: click the
-**←** arrow on a calendar tab, or **View → Overlay**. Outlook for Mac:
-**View → Arrange Calendars → Overlay** (not available in Month view). On the
-web: switch off **Split view**.
+## Good to know
 
----
-
-## What's in an event
-
-Series, speaker and affiliation, title once announced, host, venue, and a link
-to the event page.
-
-Feeds are read-only — to add a note or an alert to a seminar, copy that event
-into your own calendar and edit the copy.
-
-**Check the venue**: seminars alternate between Economicum (Arkadiankatu 7,
-Helsinki) and the Aalto campuses in Otaniemi, which is a half-hour apart.
-
-Times and venues come from each event's detail page. Where no time has been
-published the entry is all-day rather than being given an invented one. HGSE
-publishes no abstracts, so there are none to include.
-
-**Past seminars stay put.** HGSE's page lists upcoming events only, but these
-feeds keep everything they have ever seen — so months later you can still scroll
-back to find who spoke and what the paper was.
+- **Check the venue.** Seminars are held both at Economicum (Arkadiankatu 7,
+  Helsinki) and at Aalto in Otaniemi, half an hour apart.
+- **Past seminars stay** in the calendar, so you can look back at who spoke.
+- A change of time, room or speaker updates the event in place. Your calendar
+  app decides how often it checks, so a change can take a few hours to show.
+- An event with no published time is shown as all-day.
+- **To remove a feed:** in Outlook, right-click it and choose **Remove**; in
+  Apple Calendar, right-click and choose **Delete**; in Google Calendar, open
+  **Settings** and choose **Unsubscribe**.
 
 ---
 
-## How it updates
-
-Read from the [events page](https://www.helsinkigse.fi/events) three times on a
-working day — early morning, 13:00 and 18:00 — and on Saturday mornings, so a
-room or a time that changes during the day is usually picked up the same day.
-The page above is rebuilt each morning, and on weekday afternoons it is
-recomposed from that morning's read of the other institutions, so a Helsinki
-GSE change usually reaches it the same day. Nothing is republished unless
-something actually changed, and if the events page is ever unreadable the feeds
-are left as they are rather than emptied.
-
-Your calendar app decides how often it re-reads the feed. These feeds ask to be
-checked every six hours; some apps honour that and others keep their own
-schedule, so a change can still take a while to reach you.
-
----
-
-Built and maintained by **Mikko Lumme**, Helsinki GSE / Aalto University.
-If a series is missing, a link misbehaves, or something looks wrong, get in touch.
+Maintained by **Mikko Lumme**, Helsinki GSE / Aalto University. If a series
+is missing or something looks wrong, get in touch.
