@@ -1,18 +1,25 @@
 # hgse-cal
 
-Helsinki GSE seminars and doctoral defences as calendar feeds, updated
-several times a day from the
-[Helsinki GSE events page](https://www.helsinkigse.fi/events).
+Helsinki GSE seminars, workshops and doctoral defences, in the calendar you
+already use. Subscribe once and every talk appears there with the speaker, the
+paper, the time and the room, as Helsinki GSE announces them. Helsinki GSE does
+not e-mail changes or cancellations, but a subscribed calendar picks them up by
+itself.
 
-## Subscribe
+## Subscribe here
 
 **<https://lumikko-econ.github.io/hgse-cal/>**
 
-This week's seminars, with buttons that add any series, or the whole
-programme, to Outlook, Google Calendar or Apple Calendar. This is the page to
-use and to share.
+This week's seminars at Helsinki GSE and at partner institutions, any new
+Helsinki GSE discussion papers, and a button for every calendar: one series at
+a time or the whole programme, into Outlook, Google Calendar or Apple Calendar.
+With an Aalto or University of Helsinki account, use the Outlook button, which
+opens Outlook on the web. This is the page to use and to share.
 
-The tables below list the same feeds, for adding one by hand.
+The calendars themselves hold what is on the
+[Helsinki GSE events page](https://www.helsinkigse.fi/events); the partner
+institutions' seminars are on the subscribe page only. The tables below are the
+same calendars, for anyone who wants the addresses by hand.
 
 ## Feeds
 
@@ -51,35 +58,62 @@ as a joint seminar or a job talk, appears in both.
 
 <!-- feeds:end -->
 
+---
+
 ## Adding a feed by hand
 
-**Subscribe, don't import.** A subscribed calendar keeps itself up to date;
-an imported one is a copy that never changes.
+**Subscribe, don't import.** A subscribed calendar keeps itself up to date. An
+imported one is a one-time copy that never changes.
 
-Use the `raw.githubusercontent.com` addresses above. A `github.com/…/blob/…`
-address is accepted by calendar apps but shows no events.
+Use the `raw.githubusercontent.com` addresses in the tables above. An address
+copied from GitHub's own page for a file (`github.com/…/blob/…`) will not work:
+it leads to a web page, not to the calendar.
 
 | App | How |
 |---|---|
-| **Outlook on the web / new Outlook** | **Add calendar** → **Subscribe from web** → paste |
-| **Outlook for Windows (classic)** | **Home** → **Add Calendar** → **From Internet…** → paste |
-| **Outlook for Mac** | Subscribe in Outlook on the web; it appears on the Mac too |
+| **Outlook on the web / new Outlook** | <https://outlook.office.com/calendar/> → **Add calendar** → **Subscribe from web** → paste → **Import** (the button is called Import, but this subscribes) |
+| **Outlook for Windows (classic)** | Calendar → **Home** → **Add Calendar** → **From Internet…** → paste |
+| **Outlook for Mac** | Subscribe in Outlook on the web; the calendar then appears on the Mac too |
 | **Google Calendar** | **Other calendars +** → **From URL** → paste |
-| **Apple Calendar** | **File** → **New Calendar Subscription** → paste |
+| **Apple Calendar** | **File** → **New Calendar Subscription** → paste, then choose how often under **Auto-refresh** |
 
-## Good to know
-
-- **Check the venue.** Seminars are held both at Economicum (Arkadiankatu 7,
-  Helsinki) and at Aalto in Otaniemi, half an hour apart.
-- **Past seminars stay** in the calendar, so you can look back at who spoke.
-- A change of time, room or speaker updates the event in place. Your calendar
-  app decides how often it checks, so a change can take a few hours to show.
-- An event with no published time is shown as all-day.
-- **To remove a feed:** in Outlook, right-click it and choose **Remove**; in
-  Apple Calendar, right-click and choose **Delete**; in Google Calendar, open
-  **Settings** and choose **Unsubscribe**.
+**To remove a feed:** in Outlook, right-click it in the calendar list and choose
+**Remove** (**Delete Calendar** in classic Outlook for Windows); in Apple
+Calendar, right-click it and choose **Unsubscribe**; in Google Calendar, open its
+**Settings** and choose **Unsubscribe**.
 
 ---
 
-Maintained by **Mikko Lumme**, Helsinki GSE / Aalto University. If a series
-is missing or something looks wrong, get in touch.
+## What's in an event
+
+The series, the speaker and their affiliation, the paper's title once it is
+announced, the host, the time and room, and a link to the event page. A doctoral
+defence also names the opponent and custos and links to the dissertation, and a
+workshop lists its programme, where these are published.
+
+- **Check the venue.** Seminars are held both in central Helsinki, at
+  Economicum (Arkadiankatu 7) and Hanken, and on the Aalto campus in Otaniemi,
+  Espoo, about half an hour away.
+- **Past seminars stay.** Every talk since January 2025 stays in the calendar,
+  so months later you can still look back at who spoke and on what.
+- **No time yet?** The event shows as all-day until Helsinki GSE publishes a
+  time.
+- **Free time, no reminders.** Seminars are marked as free time and set no
+  reminders, so they sit quietly beside your own meetings. The calendars are
+  read-only: to add a reminder or a note to one seminar, copy it into your own
+  calendar and edit the copy.
+
+---
+
+## How it updates
+
+The calendars are updated from the Helsinki GSE events page three times a day.
+A new time, room or title changes the seminar already in your calendar rather
+than adding a second one, and a cancelled or moved seminar is marked as such in
+its title. Your calendar app decides how often it looks for changes, so a change
+can take several hours, occasionally a day, to reach you.
+
+---
+
+Built and maintained by **Mikko Lumme**, Helsinki GSE / Aalto University.
+If a series is missing, a link misbehaves, or something looks wrong, get in touch.
