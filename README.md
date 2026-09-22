@@ -4,13 +4,16 @@ Helsinki GSE seminars and doctoral defences as subscribable calendar feeds,
 updated several times a day from the
 [Helsinki GSE events page](https://www.helsinkigse.fi/events).
 
-## This week, on one page
+## Subscribe here
 
-**<https://lumikko-econ.github.io/hgse-cal/this-week.html>**
+**<https://lumikko-econ.github.io/hgse-cal/>**
 
-Every Helsinki GSE seminar this week, with the other Helsinki-area
-institutions' underneath. Nothing to subscribe to — a page to open or to share.
-It moves on to the next week each Saturday.
+This week's seminars at Helsinki GSE and the other Helsinki-area institutions,
+with a button for every calendar: one series at a time or the whole programme,
+into Outlook, Google Calendar or Apple Calendar. This is the page to use and
+to share. It moves on to the next week each Saturday.
+
+The tables below are the same feeds, for anyone who wants the addresses by hand.
 
 ## Feeds
 
@@ -104,7 +107,7 @@ back to find who spoke and what the paper was.
 Read from the [events page](https://www.helsinkigse.fi/events) three times on a
 working day — early morning, 13:00 and 18:00 — and on Saturday mornings, so a
 room or a time that changes during the day is usually picked up the same day.
-The week page above is rebuilt each morning, and on weekday afternoons it is
+The page above is rebuilt each morning, and on weekday afternoons it is
 recomposed from that morning's read of the other institutions, so a Helsinki
 GSE change usually reaches it the same day. Nothing is republished unless
 something actually changed, and if the events page is ever unreadable the feeds
