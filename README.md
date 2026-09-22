@@ -32,7 +32,7 @@ feed shows those events twice.
 
 | Calendar | Subscription URL | Events |
 |---|---|---:|
-| Everything | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse.ics` | 501 |
+| Everything | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse.ics` | 507 |
 
 ### One calendar per series
 
@@ -48,7 +48,7 @@ as a joint seminar or a job talk, appears in both.
 | Economics of Education (Educa) | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-economics-of-education-educa.ics` | 20 |
 | Environmental Economics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-environmental-economics.ics` | 33 |
 | Industrial Organization | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-industrial-organization.ics` | 73 |
-| Job Talks (practice) | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-job-talks-practice.ics` | 11 |
+| Job Talks (practice) | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-job-talks-practice.ics` | 17 |
 | Labor & Public Economics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-labor-public-economics.ics` | 73 |
 | Lunch Seminar | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-lunch-seminar.ics` | 22 |
 | Macroeconomics | `https://raw.githubusercontent.com/Lumikko-econ/hgse-cal/main/helsinki-gse-macroeconomics.ics` | 16 |
