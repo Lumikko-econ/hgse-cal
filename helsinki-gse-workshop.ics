@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:HGSE — Workshop
 NAME:HGSE — Workshop
-X-APPLE-CALENDAR-COLOR:#7CB342
-COLOR:#7CB342
+X-APPLE-CALENDAR-COLOR:#FFCA28
+COLOR:gold
 X-WR-TIMEZONE:Europe/Helsinki
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -31,9 +31,9 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250506-competition-and-efficiency-in-public-procurement-workshop
  @helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:14
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:15
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20250506T083000
 DTEND;TZID=Europe/Helsinki:20250506T171000
 SUMMARY:Workshop: COMPETITION AND EFFICIENCY IN PUBLIC PROCUREMENT WORKSHOP
@@ -79,40 +79,39 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260828-tuomas-pekkarinen-memorial-workshop@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:15
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:16
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260828T093000
 DTEND;TZID=Europe/Helsinki:20260828T173000
-SUMMARY:Workshop: Tuomas Pekkarinen Memorial Workshop — The workshop prog
- ram and other information can be found by following…
-DESCRIPTION:Series: Workshop\nTitle: Tuomas Pekkarinen Memorial Workshop 
- — The workshop program and other information can be found by following t
- he link on this page.\nHost: Marko Terviö\n\nProgramme:\n9:30–10:30   R
- oope Uusitalo — Work in Progress\n             Marko Terviö — Underac
- hievement in Cognitive Tests: Evidence from Finnish Military Conscripts\n 
-             Juhana Vartiainen — The Economist as a Mayor: Climbing Towar
- ds the Pareto Frontier\n10:30–11:00  Coffee\n11:00–12:40  Konstantinos
-  Tatsiramos — On the Origins of Socioeconomic Inequalities: Evidence fro
- m Twin…\n             Daniela Vuri — Degrees of Deception: How Test Sc
- ore Manipulation Mitigates Temperature’s Impact…\n             Miquel 
- Pellicer — Is There a Bias in the Tax Policy-Making Process towards Bett
- er-Off Citizens?\n             Andrea Ichino — Gender-Based Policy and S
- ignaling\n12:40–14:00  Lunch At Sokos Presidentti\n14:00–16:00  Steve 
- Machin — Productivity in Teams: Double Crewing For Police\n             
- Manuel Bagues & Natalia Zinovyeva — Female Promotions and the Academic P
- ipeline: Evidence from…\n             Peter Fredriksson — Outside Job 
- Opportunities and the Gender Gap in Pay\n             Kjell Salvanes — T
- he Making of Equality: How the Second World War Shaped the Norwegian Incom
- e…\n             Sari Pekkala Kerr — Gender Differences in Experiments
-  and Natural Experiments\n16:00–16:30  Coffee\n16:30–17:30  Matti Sarv
- imäki — Finding One’s Path: Career-Counselor Training and Students’
-  Educational…\n             Hanna Virtanen — Education\, Gender\, and 
- Family Formation\n             Tuomo Virkola — College Admissions Criter
- ia\, Students' Academic Performance and Social Mobility\n19:00        Dinn
- er Restaurant 305\n\nFull programme: https://aalto-econ.fi/esimerkki/tuoma
- s-pekkarinen-memorial-workshop.html\nEvent page: https://www.helsinkigse.f
- i/events/tuomas-pekkarinen-memorial-workshop
+SUMMARY:Workshop: Tuomas Pekkarinen Memorial Workshop
+DESCRIPTION:Series: Workshop\nTitle: Tuomas Pekkarinen Memorial Workshop\nA
+ bout: The workshop program and other information can be found by following
+  the link on this page.\nHost: Marko Terviö\n\nProgramme:\n9:30–10:30  
+  Roope Uusitalo — Work in Progress\n             Marko Terviö — Under
+ achievement in Cognitive Tests: Evidence from Finnish Military Conscripts\
+ n             Juhana Vartiainen — The Economist as a Mayor: Climbing Tow
+ ards the Pareto Frontier\n10:30–11:00  Coffee\n11:00–12:40  Konstantin
+ os Tatsiramos — On the Origins of Socioeconomic Inequalities: Evidence f
+ rom Twin…\n             Daniela Vuri — Degrees of Deception: How Test 
+ Score Manipulation Mitigates Temperature’s Impact…\n             Mique
+ l Pellicer — Is There a Bias in the Tax Policy-Making Process towards Be
+ tter-Off Citizens?\n             Andrea Ichino — Gender-Based Policy and
+  Signaling\n12:40–14:00  Lunch At Sokos Presidentti\n14:00–16:00  Stev
+ e Machin — Productivity in Teams: Double Crewing For Police\n           
+   Manuel Bagues & Natalia Zinovyeva — Female Promotions and the Academic
+  Pipeline: Evidence from…\n             Peter Fredriksson — Outside Jo
+ b Opportunities and the Gender Gap in Pay\n             Kjell Salvanes —
+  The Making of Equality: How the Second World War Shaped the Norwegian Inc
+ ome…\n             Sari Pekkala Kerr — Gender Differences in Experimen
+ ts and Natural Experiments\n16:00–16:30  Coffee\n16:30–17:30  Matti Sa
+ rvimäki — Finding One’s Path: Career-Counselor Training and Students
+ ’ Educational…\n             Hanna Virtanen — Education\, Gender\, a
+ nd Family Formation\n             Tuomo Virkola — College Admissions Cri
+ teria\, Students' Academic Performance and Social Mobility\n19:00        D
+ inner Restaurant 305\n\nFull programme: https://aalto-econ.fi/esimerkki/tu
+ omas-pekkarinen-memorial-workshop.html\nEvent page: https://www.helsinkigs
+ e.fi/events/tuomas-pekkarinen-memorial-workshop
 LOCATION:Seminar room Carl Gustaf\, Original Sokos Hotel Presidentti\, Etel
  äinen Rautatiekatu 4\, Helsinki
 URL:https://www.helsinkigse.fi/events/tuomas-pekkarinen-memorial-workshop

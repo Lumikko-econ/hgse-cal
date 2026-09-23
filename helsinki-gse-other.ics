@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Helsinki GSE — other
 NAME:Helsinki GSE — other
 X-APPLE-CALENDAR-COLOR:#9E9E9E
-COLOR:#9E9E9E
+COLOR:darkgray
 X-WR-TIMEZONE:Europe/Helsinki
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -30,9 +30,9 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250109-miriam-wust@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250109
 DTEND;VALUE=DATE:20250110
 SUMMARY:VATT: Miriam Wüst — Household Responses to Unconditional Child B
@@ -48,18 +48,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250110-econometrics-phd-workshop-2025@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:14
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:15
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250110
 DTEND;VALUE=DATE:20250111
-SUMMARY:Econometrics: Econometrics PhD Workshop — Workshop for Helsinki G
- SE and FDPE PhD students
+SUMMARY:Econometrics: Econometrics PhD Workshop
 DESCRIPTION:Series: Econometrics\nType: PhD Workshop\nTitle: Econometrics P
- hD Workshop — Workshop for Helsinki GSE and FDPE PhD students\nHosts: Ja
- ni Luoto & Mika Meitz\n\nTime not published yet — all-day placeholder.\n
- \nEvent page: https://www.helsinkigse.fi/events/econometrics-phd-workshop-
- 2025
+ hD Workshop\nAbout: Workshop for Helsinki GSE and FDPE PhD students\nHosts
+ : Jani Luoto & Mika Meitz\n\nTime not published yet — all-day placeholde
+ r.\n\nEvent page: https://www.helsinkigse.fi/events/econometrics-phd-works
+ hop-2025
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/econometrics-phd-workshop-2025
 STATUS:CONFIRMED
@@ -67,134 +66,134 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250110-joseph-emmens@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250110
 DTEND;VALUE=DATE:20250111
-SUMMARY:VATT: Joseph Emmens — Collaborative Innovation in the Knowledge S
- pace
-DESCRIPTION:Series: VATT\nType: Job Talk\nSpeaker: Joseph Emmens (Universit
- at Autònoma de Barcelona and Barcelona School of Economics)\nTitle: Colla
- borative Innovation in the Knowledge Space\n\nTime not published yet — a
- ll-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/josep
- h-emmens
+SUMMARY:Job Talk (VATT): Joseph Emmens — Collaborative Innovation in the 
+ Knowledge Space
+DESCRIPTION:Series: Job Talk (VATT)\nType: Job Talk\nSpeaker: Joseph Emmens
+  (Universitat Autònoma de Barcelona and Barcelona School of Economics)\nT
+ itle: Collaborative Innovation in the Knowledge Space\n\nTime not publishe
+ d yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/e
+ vents/joseph-emmens
 URL:https://www.helsinkigse.fi/events/joseph-emmens
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250113-jordan-bisset@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250113
 DTEND;VALUE=DATE:20250114
-SUMMARY:VATT: Jordan Bisset — Intellectual Mobility Frictions
-DESCRIPTION:Series: VATT\nType: Job Talk\nSpeaker: Jordan Bisset (Bocconi U
- niversity)\nTitle: Intellectual Mobility Frictions\n\nTime not published y
- et — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/even
- ts/jordan-bisset
+SUMMARY:Job Talk (VATT): Jordan Bisset — Intellectual Mobility Frictions
+DESCRIPTION:Series: Job Talk (VATT)\nType: Job Talk\nSpeaker: Jordan Bisset
+  (Bocconi University)\nTitle: Intellectual Mobility Frictions\n\nTime not 
+ published yet — all-day placeholder.\n\nEvent page: https://www.helsinki
+ gse.fi/events/jordan-bisset
 URL:https://www.helsinkigse.fi/events/jordan-bisset
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250113-marika-viertola@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250113
 DTEND;VALUE=DATE:20250114
-SUMMARY:VATT: Marika Viertola — TBA
-DESCRIPTION:Series: VATT\nType: Job Talk\nSpeaker: Marika Viertola (VATT)\n
- Title: TBA\n\nTime not published yet — all-day placeholder.\n\nEvent pag
- e: https://www.helsinkigse.fi/events/marika-viertola
+SUMMARY:Job Talk (VATT): Marika Viertola — TBA
+DESCRIPTION:Series: Job Talk (VATT)\nType: Job Talk\nSpeaker: Marika Vierto
+ la (VATT)\nTitle: TBA\n\nTime not published yet — all-day placeholder.\n
+ \nEvent page: https://www.helsinkigse.fi/events/marika-viertola
 URL:https://www.helsinkigse.fi/events/marika-viertola
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250115-johannes-gessner@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250115
 DTEND;VALUE=DATE:20250116
-SUMMARY:VATT: Johannes Gessner — Shifting Gears: Environmental Regulation
-  in the Car Industry and…
-DESCRIPTION:Series: VATT\nType: Job Talk\nSpeaker: Johannes Gessner (Univer
- sity of Mannheim)\nTitle: Shifting Gears: Environmental Regulation in the 
- Car Industry and Technological Change Among Suppliers\n\nTime not publishe
- d yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/e
- vents/johannes-gessner
+SUMMARY:Job Talk (VATT): Johannes Gessner — Shifting Gears: Environmental
+  Regulation in the Car Industry and…
+DESCRIPTION:Series: Job Talk (VATT)\nType: Job Talk\nSpeaker: Johannes Gess
+ ner (University of Mannheim)\nTitle: Shifting Gears: Environmental Regulat
+ ion in the Car Industry and Technological Change Among Suppliers\n\nTime n
+ ot published yet — all-day placeholder.\n\nEvent page: https://www.helsi
+ nkigse.fi/events/johannes-gessner
 URL:https://www.helsinkigse.fi/events/johannes-gessner
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250115-maren-hedne@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250115
 DTEND;VALUE=DATE:20250116
-SUMMARY:VATT: Maren Hedne — Is green tehcnology skill biased?
-DESCRIPTION:Series: VATT\nType: Job Talk\nSpeaker: Maren Hedne (University 
- of Oslo)\nTitle: Is green tehcnology skill biased?\n\nTime not published y
- et — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/even
- ts/maren-hedne
+SUMMARY:Job Talk (VATT): Maren Hedne — Is green tehcnology skill biased?
+DESCRIPTION:Series: Job Talk (VATT)\nType: Job Talk\nSpeaker: Maren Hedne (
+ University of Oslo)\nTitle: Is green tehcnology skill biased?\n\nTime not 
+ published yet — all-day placeholder.\n\nEvent page: https://www.helsinki
+ gse.fi/events/maren-hedne
 URL:https://www.helsinkigse.fi/events/maren-hedne
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250123-sofia-hernnas-2@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250123
 DTEND;VALUE=DATE:20250124
-SUMMARY:Hanken: Sofia Hernnäs
-DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Sofia Hernnäs (Hanken
-  School of Economics)\nTitle: TBA\n\nTime not published yet — all-day pl
- aceholder.\n\nEvent page: https://www.helsinkigse.fi/events/sofia-hernnas-
- 2
+SUMMARY:Job Talk (Hanken): Sofia Hernnäs
+DESCRIPTION:Series: Job Talk (Hanken)\nType: Job Talk\nSpeaker: Sofia Hernn
+ äs (Hanken School of Economics)\nTitle: TBA\n\nTime not published yet —
+  all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/sof
+ ia-hernnas-2
 URL:https://www.helsinkigse.fi/events/sofia-hernnas-2
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250124-aapo-stenhammar-4@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250124
 DTEND;VALUE=DATE:20250125
-SUMMARY:Hanken: Aapo Stenhammar — Tensions of Structural Change: Evidence
-  from Finland’s Field…
-DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Aapo Stenhammar (Unive
- rsity of Bonn / LABORE)\nTitle: Tensions of Structural Change: Evidence fr
- om Finland’s Field Reservation Policy\n\nTime not published yet — all-
- day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/aapo-ste
- nhammar-4
+SUMMARY:Job Talk (Hanken): Aapo Stenhammar — Tensions of Structural Chang
+ e: Evidence from Finland’s Field…
+DESCRIPTION:Series: Job Talk (Hanken)\nType: Job Talk\nSpeaker: Aapo Stenha
+ mmar (University of Bonn / LABORE)\nTitle: Tensions of Structural Change: 
+ Evidence from Finland’s Field Reservation Policy\n\nTime not published y
+ et — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/even
+ ts/aapo-stenhammar-4
 URL:https://www.helsinkigse.fi/events/aapo-stenhammar-4
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250127-marita-freimane@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250127
 DTEND;VALUE=DATE:20250128
-SUMMARY:Hanken: Marita Freimane — Gender Bias\, Feedback\, and Productivi
- ty
-DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Marita Freimane (KU Le
- uven / University of Zurich)\nTitle: Gender Bias\, Feedback\, and Producti
- vity\n\nTime not published yet — all-day placeholder.\n\nEvent page: htt
- ps://www.helsinkigse.fi/events/marita-freimane
+SUMMARY:Job Talk (Hanken): Marita Freimane — Gender Bias\, Feedback\, and
+  Productivity
+DESCRIPTION:Series: Job Talk (Hanken)\nType: Job Talk\nSpeaker: Marita Frei
+ mane (KU Leuven / University of Zurich)\nTitle: Gender Bias\, Feedback\, a
+ nd Productivity\n\nTime not published yet — all-day placeholder.\n\nEven
+ t page: https://www.helsinkigse.fi/events/marita-freimane
 URL:https://www.helsinkigse.fi/events/marita-freimane
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -202,9 +201,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250128-talouspolitiikan-arviointineuvoston-raportin-julkistus-ja
  -seminaari@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250128
 DTEND;VALUE=DATE:20250129
 SUMMARY:VATT: Talouspolitiikan arviointineuvoston raportin julkistus ja sem
@@ -220,27 +219,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250130-jaakko-merilainen1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250130
 DTEND;VALUE=DATE:20250131
-SUMMARY:Hanken: Jaakko Meriläinen — Lasting Effects of Marxism in the Cl
- assroom: Evidence from an…
-DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Jaakko Meriläinen (St
- ockholm School of Economics)\nTitle: Lasting Effects of Marxism in the Cla
- ssroom: Evidence from an Experiment\n\nTime not published yet — all-day 
- placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/jaakko-meril
- ainen1
+SUMMARY:Job Talk (Hanken): Jaakko Meriläinen — Lasting Effects of Marxis
+ m in the Classroom: Evidence from an…
+DESCRIPTION:Series: Job Talk (Hanken)\nType: Job Talk\nSpeaker: Jaakko Meri
+ läinen (Stockholm School of Economics)\nTitle: Lasting Effects of Marxism
+  in the Classroom: Evidence from an Experiment\n\nTime not published yet 
+ — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/
+ jaakko-merilainen1
 URL:https://www.helsinkigse.fi/events/jaakko-merilainen1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250130-terhi-ravaska2@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250130
 DTEND;VALUE=DATE:20250131
 SUMMARY:VATT: Terhi Ravaska — Wage garnishment and negative bunching
@@ -254,9 +253,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250203-lunch-seminar1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250203
 DTEND;VALUE=DATE:20250204
 SUMMARY:Lunch Seminar: Matti Sarvimäki — Randomization as an Incentive D
@@ -272,42 +271,43 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250204-toan-le@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250204
 DTEND;VALUE=DATE:20250205
-SUMMARY:University of Helsinki: Toan Le — The Simple Economics of the Imp
- ossibility of Efficient Trade
-DESCRIPTION:Series: University of Helsinki\nType: Job Talk\nSpeaker: Toan L
- e (University of Melbourne)\nTitle: The Simple Economics of the Impossibil
- ity of Efficient Trade\n\nTime not published yet — all-day placeholder.\
- n\nEvent page: https://www.helsinkigse.fi/events/toan-le
+SUMMARY:Job Talk (University of Helsinki): Toan Le — The Simple Economics
+  of the Impossibility of Efficient Trade
+DESCRIPTION:Series: Job Talk (University of Helsinki)\nType: Job Talk\nSpea
+ ker: Toan Le (University of Melbourne)\nTitle: The Simple Economics of the
+  Impossibility of Efficient Trade\n\nTime not published yet — all-day pl
+ aceholder.\n\nEvent page: https://www.helsinkigse.fi/events/toan-le
 URL:https://www.helsinkigse.fi/events/toan-le
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250205-xueying-zhao@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250205
 DTEND;VALUE=DATE:20250206
-SUMMARY:University of Helsinki: Xueying Zhao — Tailoring Data for Profit
-DESCRIPTION:Series: University of Helsinki\nType: Job Talk\nSpeaker: Xueyin
- g Zhao (University of Warwick)\nTitle: Tailoring Data for Profit\n\nTime n
- ot published yet — all-day placeholder.\n\nEvent page: https://www.helsi
- nkigse.fi/events/xueying-zhao
+SUMMARY:Job Talk (University of Helsinki): Xueying Zhao — Tailoring Data 
+ for Profit
+DESCRIPTION:Series: Job Talk (University of Helsinki)\nType: Job Talk\nSpea
+ ker: Xueying Zhao (University of Warwick)\nTitle: Tailoring Data for Profi
+ t\n\nTime not published yet — all-day placeholder.\n\nEvent page: https:
+ //www.helsinkigse.fi/events/xueying-zhao
 URL:https://www.helsinkigse.fi/events/xueying-zhao
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250210-lunch-seminar2@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250210
 DTEND;VALUE=DATE:20250211
 SUMMARY:Lunch Seminar: Albert Duodu — Local Import Competition and Firm-l
@@ -322,9 +322,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250213-moritz-mendel2@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250213
 DTEND;VALUE=DATE:20250214
 SUMMARY:VATT: Moritz Mendel — Nonstandard Education Careers and Inequalit
@@ -339,9 +339,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250217-qinyou-hu@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250217
 DTEND;VALUE=DATE:20250218
 SUMMARY:Lunch Seminar: Qinyou Hu — Breaking Down Bullying: Empathy\, Soci
@@ -356,9 +356,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250218-dan-olof-rooth1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250218
 DTEND;VALUE=DATE:20250219
 SUMMARY:Labor & Public Economics: Dan-Olof Rooth — Work from home and dis
@@ -373,9 +373,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250225-hannu-huuki@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250225
 DTEND;VALUE=DATE:20250226
 SUMMARY:Environmental Economics: Hannu Huuki — Price information and elec
@@ -391,9 +391,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250225-yann-bramoulle@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250225
 DTEND;VALUE=DATE:20250226
 SUMMARY:Economics of Education (Educa): Yann Bramoullé — Friendship netw
@@ -410,9 +410,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250226-lachlan-paterson@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250226
 DTEND;VALUE=DATE:20250227
 SUMMARY:Labor & Public Economics: CANCELLED Lachlan Paterson — Variation 
@@ -428,9 +428,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250227-ragnhild-schreiner@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250227
 DTEND;VALUE=DATE:20250228
 SUMMARY:VATT: Ragnhild Schreiner — TBA
@@ -443,9 +443,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250303-kwabena-adu-ababio1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250303
 DTEND;VALUE=DATE:20250304
 SUMMARY:Development Economics: Kwabena Adu-Ababio — Climate Shocks and Ec
@@ -461,9 +461,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250304-enea-baselgia@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250304
 DTEND;VALUE=DATE:20250305
 SUMMARY:Labor & Public Economics: Enea Baselgia — The Compliance Effects 
@@ -479,9 +479,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250304-environmental-economics-reading-group11@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250304
 DTEND;VALUE=DATE:20250305
 SUMMARY:Environmental Economics: Environmental Economics Reading Group
@@ -496,9 +496,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250306-maarit-olkkola2@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250306
 DTEND;VALUE=DATE:20250307
 SUMMARY:VATT: Maarit Olkkola — TBA
@@ -511,9 +511,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250310-lunch-seminar3@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250310
 DTEND;VALUE=DATE:20250311
 SUMMARY:Lunch Seminar: Jaakko Markkanen — Free Entry and Social Inefficie
@@ -528,9 +528,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250310-matthias-sutter1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250310
 DTEND;VALUE=DATE:20250311
 SUMMARY:Behavioral Economics: ONLINE Matthias Sutter — The Right Timing M
@@ -547,9 +547,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250311-leopold-monjoie@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250311
 DTEND;VALUE=DATE:20250312
 SUMMARY:Environmental Economics: Leopold Monjoie — Self-Selection in Reta
@@ -565,9 +565,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250311-mette-foged@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250311
 DTEND;VALUE=DATE:20250312
 SUMMARY:Economics of Education (Educa): Mette Foged — Harsh Rhetoric and 
@@ -583,9 +583,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250312-ella-mattinen1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250312
 DTEND;VALUE=DATE:20250313
 SUMMARY:Labor & Public Economics: Ella Mattinen — The Impact of Successio
@@ -601,9 +601,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250313-erik-gronqvist@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250313
 DTEND;VALUE=DATE:20250314
 SUMMARY:VATT: Erik Grönqvist — Sick of becoming a parent: The child pena
@@ -619,9 +619,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250318-abhijeet-singh@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250318
 DTEND;VALUE=DATE:20250319
 SUMMARY:Seminar: Abhijeet Singh — Navigating Multiple Frictions: Experime
@@ -636,27 +636,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250318-hanken-job-market-seminar@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250318
 DTEND;VALUE=DATE:20250319
-SUMMARY:Hanken: Hanken Job Market Seminar / Tuomo Virkola — College Admis
- sions Criteria\, Students’ Academic Performance and…
-DESCRIPTION:Series: Hanken\nType: Job Talk\nTitle: Hanken Job Market Semina
- r / Tuomo Virkola (VATT) — College Admissions Criteria\, Students’ Aca
- demic Performance and Social Mobility\n\nTime not published yet — all-da
- y placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/hanken-job
- -market-seminar
+SUMMARY:Job Talk (Hanken): Hanken Job Market Seminar / Tuomo Virkola — Co
+ llege Admissions Criteria\, Students’ Academic Performance and…
+DESCRIPTION:Series: Job Talk (Hanken)\nType: Job Talk\nTitle: Hanken Job Ma
+ rket Seminar / Tuomo Virkola (VATT) — College Admissions Criteria\, Stud
+ ents’ Academic Performance and Social Mobility\n\nTime not published yet
+  — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events
+ /hanken-job-market-seminar
 URL:https://www.helsinkigse.fi/events/hanken-job-market-seminar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250319-federico-kochen@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250319
 DTEND;VALUE=DATE:20250320
 SUMMARY:Macroeconomics: Federico Kochen — The Origins of Top Firms (with 
@@ -671,26 +671,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250319-job-market-seminar-saara-hamalainen@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250319
 DTEND;VALUE=DATE:20250320
-SUMMARY:Hanken: Hanken Job Market Seminar / Saara Hämäläinen — Heterog
- eneous price technologies
-DESCRIPTION:Series: Hanken\nType: Job Talk\nTitle: Hanken Job Market Semina
- r / Saara Hämäläinen (University of Helsinki) — Heterogeneous price t
- echnologies\n\nTime not published yet — all-day placeholder.\n\nEvent pa
- ge: https://www.helsinkigse.fi/events/job-market-seminar-saara-hamalainen
+SUMMARY:Job Talk (Hanken): Hanken Job Market Seminar / Saara Hämäläinen 
+ — Heterogeneous price technologies
+DESCRIPTION:Series: Job Talk (Hanken)\nType: Job Talk\nTitle: Hanken Job Ma
+ rket Seminar / Saara Hämäläinen (University of Helsinki) — Heterogene
+ ous price technologies\n\nTime not published yet — all-day placeholder.\
+ n\nEvent page: https://www.helsinkigse.fi/events/job-market-seminar-saara-
+ hamalainen
 URL:https://www.helsinkigse.fi/events/job-market-seminar-saara-hamalainen
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250320-albert-duodu2@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250320
 DTEND;VALUE=DATE:20250321
 SUMMARY:VATT: Albert Duodu — Economy and the Environment - Firm-level res
@@ -705,9 +706,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250324-sofia-hernnas1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250324
 DTEND;VALUE=DATE:20250325
 SUMMARY:Lunch Seminar: Sofia Hernnäs — Broadband and the Geography of Sk
@@ -722,9 +723,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250325-piero-basaglia@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250325
 DTEND;VALUE=DATE:20250326
 SUMMARY:Environmental Economics: Piero Basaglia — Demand for healthcare s
@@ -740,9 +741,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250326-tuomas-hiilamo@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250326
 DTEND;VALUE=DATE:20250327
 SUMMARY:Labor & Public Economics: Tuomas Hiilamo — Partial Retirement in 
@@ -757,9 +758,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250327-gustav-karreskog-rehbinder@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250327
 DTEND;VALUE=DATE:20250328
 SUMMARY:Behavioral Economics: Gustav Karreskog Rehbinder — Learning in Ga
@@ -775,9 +776,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250327-markku-siikanen2@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250327
 DTEND;VALUE=DATE:20250328
 SUMMARY:VATT: Markku Siikanen — Free Entry and Social Inefficiency in Reg
@@ -792,9 +793,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250331-lunch-seminar5@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250331
 DTEND;VALUE=DATE:20250401
 SUMMARY:Lunch Seminar: Leopold Monjoie — Self-Selection in Retail Electri
@@ -810,9 +811,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250401-environmental-economics-reading-group12@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250401
 DTEND;VALUE=DATE:20250402
 SUMMARY:Environmental Economics: Environmental Economics Reading Group
@@ -827,9 +828,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250401-max-lofflerin@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250401
 DTEND;VALUE=DATE:20250402
 SUMMARY:Labor & Public Economics: Max Löffler — Welfare Effects of Subsi
@@ -844,9 +845,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250402-nicholas-kozeniauskas@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250402
 DTEND;VALUE=DATE:20250403
 SUMMARY:Macroeconomics: Nicholas Kozeniauskas — Beyond Risk: Firm Financi
@@ -861,9 +862,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250403-maria-sauval@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250403
 DTEND;VALUE=DATE:20250404
 SUMMARY:VATT: Maria Sauval — The Long-Term Effects of Pre-Kindergarten on
@@ -878,9 +879,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250407-miri-stryjan1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250407
 DTEND;VALUE=DATE:20250408
 SUMMARY:Lunch Seminar: Miri Stryjan — Aligning Objectives? The Role of St
@@ -896,9 +897,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250408-camille-hainnaux@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250408
 DTEND;VALUE=DATE:20250409
 SUMMARY:Environmental Economics: Camille Hainnaux — Reverse education and
@@ -914,9 +915,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250408-mikkel-gandil@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250408
 DTEND;VALUE=DATE:20250409
 SUMMARY:Economics of Education (Educa): Mikkel Gandil — Minority bias in 
@@ -931,9 +932,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250409-mathias-klein@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250409
 DTEND;VALUE=DATE:20250410
 SUMMARY:Econometrics: Mathias Klein — The Fiscal Channel of Monetary Poli
@@ -948,9 +949,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250409-ossi-tahvonen1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250409
 DTEND;VALUE=DATE:20250410
 SUMMARY:Labor & Public Economics: Ossi Tahvonen — Long-term Effects of a 
@@ -965,9 +966,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250410-matti-sarvimaki2@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250410
 DTEND;VALUE=DATE:20250411
 SUMMARY:VATT: Matti Sarvimäki — TBA
@@ -980,9 +981,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250414-daniel-peredo-siles@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250414
 DTEND;VALUE=DATE:20250415
 SUMMARY:Development Economics: Daniel Peredo-Siles — Heterogeneous Costs\
@@ -999,9 +1000,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250414-lunch-seminar7@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250414
 DTEND;VALUE=DATE:20250415
 SUMMARY:Lunch Seminar: Prottoy Akbar — Drivers of Habit: Evidence of Pers
@@ -1017,9 +1018,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250415-arnaud-maurel1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:Labor & Public Economics: Arnaud Maurel — Sequential College Admi
@@ -1035,9 +1036,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250422-madeline-werthschulte@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250422
 DTEND;VALUE=DATE:20250423
 SUMMARY:Environmental Economics: Madeline Werthschulte — Do energy-saving
@@ -1053,9 +1054,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250423-veikko-uusitalo@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250423
 DTEND;VALUE=DATE:20250424
 SUMMARY:Labor & Public Economics: Veikko Uusitalo — Commuting expenses de
@@ -1071,9 +1072,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250424-juho-nuutinen-and-matias-giaccobasso@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250424
 DTEND;VALUE=DATE:20250425
 SUMMARY:Behavioral Economics: Juho Nuutinen and Matias Giaccobasso
@@ -1088,9 +1089,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250424-torsten-santavirta2@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250424
 DTEND;VALUE=DATE:20250425
 SUMMARY:VATT: Torsten Santavirta — Soviet Industrialization and American 
@@ -1106,9 +1107,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250429-environmental-economics-reading-group13@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250429
 DTEND;VALUE=DATE:20250430
 SUMMARY:Environmental Economics: Environmental Economics Reading Group
@@ -1123,9 +1124,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250429-tuomas-matikka3@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250429
 DTEND;VALUE=DATE:20250430
 SUMMARY:Labor & Public Economics: Tuomas Matikka
@@ -1139,9 +1140,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250505-amma-panin@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250505
 DTEND;VALUE=DATE:20250506
 SUMMARY:Development Economics: Amma Panin — Cognitive consequences of ins
@@ -1157,9 +1158,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250505-lunch-seminar8@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250505
 DTEND;VALUE=DATE:20250506
 SUMMARY:Lunch Seminar: Marko Terviö — Underachievement in Cognitive Test
@@ -1175,9 +1176,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250506-competition-and-efficiency-in-public-procurement-workshop
  @helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:14
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:15
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20250506T083000
 DTEND;TZID=Europe/Helsinki:20250506T171000
 SUMMARY:Workshop: COMPETITION AND EFFICIENCY IN PUBLIC PROCUREMENT WORKSHOP
@@ -1223,9 +1224,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250506-jose-montalban-castilla@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250506
 DTEND;VALUE=DATE:20250507
 SUMMARY:Economics of Education (Educa): José Montalban Castilla — How Do
@@ -1241,9 +1242,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250507-jerry-montonen1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250507
 DTEND;VALUE=DATE:20250508
 SUMMARY:Labor & Public Economics: Jerry Montonen — Shaping Young Minds: T
@@ -1258,9 +1259,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250508-jens-wikstrom@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250508
 DTEND;VALUE=DATE:20250509
 SUMMARY:VATT: Jens Wikström — Should eldercare be subsidized? Theory and
@@ -1276,9 +1277,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250512-dean-yang1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250512
 DTEND;VALUE=DATE:20250513
 SUMMARY:Development Economics: Dean Yang — Ancient Epics in the Televisio
@@ -1294,9 +1295,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250513-nadja-dwenger@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250513
 DTEND;VALUE=DATE:20250514
 SUMMARY:Labor & Public Economics: Nadja Dwenger — Building Capacity in th
@@ -1312,9 +1313,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250515-sofia-hernnas2@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250515
 DTEND;VALUE=DATE:20250516
 SUMMARY:VATT: Sofia Hernnäs — Fiber Internet and Labor Demand (with Beng
@@ -1329,9 +1330,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250515-tuuli-sen-and-martin-brun@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250515
 DTEND;VALUE=DATE:20250516
 SUMMARY:Behavioral Economics: Tuuli Sen and Martín Brun — Brun: How Expe
@@ -1347,9 +1348,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250520-stefan-ambec@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250520
 DTEND;VALUE=DATE:20250521
 SUMMARY:Environmental Economics: CANCELLED: Stefan Ambec — Pricing interm
@@ -1365,9 +1366,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250520-christina-felfe@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250520
 DTEND;VALUE=DATE:20250521
 SUMMARY:Economics of Education (Educa): Christina Felfe — Mintful choices
@@ -1382,9 +1383,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250520-salomo-hirvonen@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250520
 DTEND;VALUE=DATE:20250521
 SUMMARY:Environmental Economics: Salomo Hirvonen — Weather Sensitivity of
@@ -1400,9 +1401,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250521-satu-suonto@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250521
 DTEND;VALUE=DATE:20250522
 SUMMARY:Labor & Public Economics: Satu Suonto — Determinants of Redistrib
@@ -1418,9 +1419,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250522-cloe-garnache@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250522
 DTEND;VALUE=DATE:20250523
 SUMMARY:VATT: Cloé Garnache — Are Asset Prices Sticky? (with Martin Schm
@@ -1435,17 +1436,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250527-environmental-economics-reading-group14@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250527
 DTEND;VALUE=DATE:20250528
 SUMMARY:Environmental Economics: CANCELLED Environmental Economics Reading 
- Group — CANCELLED
+ Group
 DESCRIPTION:Series: Environmental Economics\nType: Reading Group\nTitle: CA
- NCELLED Environmental Economics Reading Group — CANCELLED\n\nTime not pu
- blished yet — all-day placeholder.\n\nEvent page: https://www.helsinkigs
- e.fi/events/environmental-economics-reading-group14
+ NCELLED Environmental Economics Reading Group\n\nTime not published yet 
+ — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/
+ environmental-economics-reading-group14
 URL:https://www.helsinkigse.fi/events/environmental-economics-reading-group
  14
 STATUS:CONFIRMED
@@ -1453,9 +1454,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250527-christopher-carpenter@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250527
 DTEND;VALUE=DATE:20250528
 SUMMARY:Labor & Public Economics: Christopher Carpenter — Transgender Ear
@@ -1471,9 +1472,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250527-ylva-moberg@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250527
 DTEND;VALUE=DATE:20250528
 SUMMARY:Labor & Public Economics: Ylva Moberg — Moberg: LGBTQ populations
@@ -1488,18 +1489,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250528-econometrics-phd-workshop-spring2025@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:14
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:15
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250528
 DTEND;VALUE=DATE:20250529
-SUMMARY:Econometrics: Econometrics PhD Workshop — Workshop for Helsinki G
- SE and FDPE PhD students
+SUMMARY:Econometrics: Econometrics PhD Workshop
 DESCRIPTION:Series: Econometrics\nType: PhD Workshop\nTitle: Econometrics P
- hD Workshop — Workshop for Helsinki GSE and FDPE PhD students\nHosts: Ja
- ni Luoto & Henri Nyberg\n\nTime not published yet — all-day placeholder.
- \n\nEvent page: https://www.helsinkigse.fi/events/econometrics-phd-worksho
- p-spring2025
+ hD Workshop\nAbout: Workshop for Helsinki GSE and FDPE PhD students\nHosts
+ : Jani Luoto & Henri Nyberg\n\nTime not published yet — all-day placehol
+ der.\n\nEvent page: https://www.helsinkigse.fi/events/econometrics-phd-wor
+ kshop-spring2025
 LOCATION:Seminar room 2\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/econometrics-phd-workshop-spring2025
 STATUS:CONFIRMED
@@ -1508,31 +1508,30 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250528-labor-and-public-economics-phd-workshop-2025@helsinkigse.
  fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:14
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:15
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20250528T091500
 DTEND;TZID=Europe/Helsinki:20250528T150000
-SUMMARY:Labor & Public Economics: Labor and Public Economics PhD Workshop 
- — Workshop for Helsinki GSE and FDPE PhD students
+SUMMARY:Labor & Public Economics: Labor and Public Economics PhD Workshop
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Workshop\nTitle: La
- bor and Public Economics PhD Workshop — Workshop for Helsinki GSE and FD
- PE PhD students\nHosts: Cristina Bratu & Matti Mitrunen & Terhi Ravaska\n\
- nProgramme:\n9:15         Welcome\n9:20–9:50    Lukas Worku (Tampere Uni
- versity) — How Do Firms Respond to Kinks in the VAT System?\n9:50–10:2
- 0   Ella Mattinen (Tampere University) — The Impact of Succession Taxes 
- on Family Firm Performance…\n10:20–11:10  Arttu Kauhanen (University o
- f Helsinki) — Is Redistribution Fair? The Effect of Taxes and…\n12:10
- –13:00  Elina Jussila (Tampere University) — The Effects of Sick Leave
-  Benefit Generosity on Sickness…\n13:00–13:30  Tuomas Hiilamo (Univers
- ity of Helsinki) — Partial Retirement in a Hurry: Earnings and Regret\n1
- 4:00–14:30  Cecilia Blomster (Hanken) — The Intergenerational Transmis
- sion of Fertility\n14:30–15:00  Lachlan Paterson (Aalto) — Training or
- ganizer value-added in language-focused integration…\n\nTimes read from 
- the programme.\n\nFull programme: https://www.helsinkigse.fi/media/pages/e
- vents/labor-and-public-economics-phd-workshop-2025/b8b940fcf8-1747742746/l
- abour-public_workshop_spring2025.pdf\nEvent page: https://www.helsinkigse.
- fi/events/labor-and-public-economics-phd-workshop-2025
+ bor and Public Economics PhD Workshop\nAbout: Workshop for Helsinki GSE an
+ d FDPE PhD students\nHosts: Cristina Bratu & Matti Mitrunen & Terhi Ravask
+ a\n\nProgramme:\n9:15         Welcome\n9:20–9:50    Lukas Worku (Tampere
+  University) — How Do Firms Respond to Kinks in the VAT System?\n9:50–
+ 10:20   Ella Mattinen (Tampere University) — The Impact of Succession Ta
+ xes on Family Firm Performance…\n10:20–11:10  Arttu Kauhanen (Universi
+ ty of Helsinki) — Is Redistribution Fair? The Effect of Taxes and…\n12
+ :10–13:00  Elina Jussila (Tampere University) — The Effects of Sick Le
+ ave Benefit Generosity on Sickness…\n13:00–13:30  Tuomas Hiilamo (Univ
+ ersity of Helsinki) — Partial Retirement in a Hurry: Earnings and Regret
+ \n14:00–14:30  Cecilia Blomster (Hanken) — The Intergenerational Trans
+ mission of Fertility\n14:30–15:00  Lachlan Paterson (Aalto) — Training
+  organizer value-added in language-focused integration…\n\nTimes read fr
+ om the programme.\n\nFull programme: https://www.helsinkigse.fi/media/page
+ s/events/labor-and-public-economics-phd-workshop-2025/b8b940fcf8-174774274
+ 6/labour-public_workshop_spring2025.pdf\nEvent page: https://www.helsinkig
+ se.fi/events/labor-and-public-economics-phd-workshop-2025
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/labor-and-public-economics-phd-worksh
  op-2025
@@ -1541,9 +1540,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250602-ritwik-banerjee@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250602
 DTEND;VALUE=DATE:20250603
 SUMMARY:Seminar: Ritwik Banerjee — Interpreting Intolerance (with Lata Ga
@@ -1558,9 +1557,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250603-albert-duodu@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250603
 DTEND;VALUE=DATE:20250604
 SUMMARY:Environmental Economics: Albert Duodu — Carbon offshoring and man
@@ -1575,9 +1574,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250603-tushar-kundu@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250603
 DTEND;VALUE=DATE:20250604
 SUMMARY:Economics of Education (Educa): Tushar Kundu — Parent-Teacher Ali
@@ -1592,9 +1591,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250604-marc-riudavets1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250604
 DTEND;VALUE=DATE:20250605
 SUMMARY:Labor & Public Economics: Marc Riudavets — The Interaction betwee
@@ -1610,9 +1609,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250605-alejandro-zentner@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250605
 DTEND;VALUE=DATE:20250606
 SUMMARY:VATT: Alejandro Zentner — Frictions in Recovering Unclaimed Prope
@@ -1629,9 +1628,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250605-tuomas-kosonen1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250605
 DTEND;VALUE=DATE:20250606
 SUMMARY:Behavioral Economics: Tuomas Kosonen — Optimization Errors in Tax
@@ -1646,9 +1645,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250617-eric-zwick@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250617
 DTEND;VALUE=DATE:20250618
 SUMMARY:Labor & Public Economics: Eric Zwick — Tax Policy and Investment 
@@ -1664,9 +1663,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250619-cecilia-blomster-vatt@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250619
 DTEND;VALUE=DATE:20250620
 SUMMARY:VATT: Cecilia Blomster — Graduating in a Recession\, Education an
@@ -1681,9 +1680,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250903-juho-junttila1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250903
 DTEND;VALUE=DATE:20250904
 SUMMARY:Labor & Public Economics: Juho Junttila — Anatomy of a Compulsory
@@ -1698,9 +1697,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250908-ciprian-domnisoru5@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250908
 DTEND;VALUE=DATE:20250909
 SUMMARY:Lunch Seminar: Ciprian Domnisoru — The role of firms in shaping t
@@ -1716,9 +1715,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250909-tom-zohar@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250909
 DTEND;VALUE=DATE:20250910
 SUMMARY:Labor & Public Economics: Tom Zohar — On Causal Inference with Mo
@@ -1734,9 +1733,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250910-otso-hao@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250910
 DTEND;VALUE=DATE:20250911
 SUMMARY:Econometrics: Otso Hao — Asymptotic properties of Impulse Indicat
@@ -1751,9 +1750,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250911-miko-lepisto@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250911
 DTEND;VALUE=DATE:20250912
 SUMMARY:VATT: Miko Lepistö — Waiting Times and Refugee Integration (with
@@ -1768,9 +1767,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250916-martin-brun@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250916
 DTEND;VALUE=DATE:20250917
 SUMMARY:Labor & Public Economics: Martín Brun — A Cognitive Root in Fair
@@ -1785,9 +1784,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250918-tilman-fries@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250918
 DTEND;VALUE=DATE:20250919
 SUMMARY:Behavioral Economics: Tilman Fries — Narratives\, Belief Movement
@@ -1802,9 +1801,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250919-helsinki-economics-of-education-workshop@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:14
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:15
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250919
 DTEND;VALUE=DATE:20250920
 SUMMARY:Economics of Education (Educa): Helsinki Economics of Education Wor
@@ -1821,9 +1820,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250922-akseli-valiviita@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250922
 DTEND;VALUE=DATE:20250923
 SUMMARY:Lunch Seminar: Akseli Väliviita — Pricing network operating cons
@@ -1838,9 +1837,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250923-pedro-carneiro@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250923
 DTEND;VALUE=DATE:20250924
 SUMMARY:Economics of Education (Educa): Pedro Carneiro — Parental Respons
@@ -1855,9 +1854,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250923-prottoy-akbar3@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250923
 DTEND;VALUE=DATE:20250924
 SUMMARY:Environmental Economics: Prottoy Akbar — Drivers of Habit: Eviden
@@ -1872,9 +1871,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250925-teemu-lyytikainen1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250925
 DTEND;VALUE=DATE:20250926
 SUMMARY:VATT: Teemu Lyytikäinen — Nominal Loss Aversion in the Housing M
@@ -1889,9 +1888,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250929-nhi-cao1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250929
 DTEND;VALUE=DATE:20250930
 SUMMARY:Development Economics: Nhi Cao — Persistent effects of colonial r
@@ -1906,9 +1905,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250930-environmental-economics-reading-group10@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250930
 DTEND;VALUE=DATE:20251001
 SUMMARY:Environmental Economics: Environmental Economics Reading Group
@@ -1923,9 +1922,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250930-lena-hensvik1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250930
 DTEND;VALUE=DATE:20251001
 SUMMARY:Labor & Public Economics: Lena Hensvik — How do Migrants and Nati
@@ -1940,9 +1939,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251001-atte-pudas3@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251001
 DTEND;VALUE=DATE:20251002
 SUMMARY:Labor & Public Economics: Atte Pudas — Gender Differences in the 
@@ -1957,9 +1956,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251001-hernan-seoane-bernadaz@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251001
 DTEND;VALUE=DATE:20251002
 SUMMARY:Macroeconomics: Hernán Seoane Bernadaz — Expropriation risk over
@@ -1974,9 +1973,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251002-christoph-huber@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251002
 DTEND;VALUE=DATE:20251003
 SUMMARY:Behavioral Economics: Christoph Huber — Do experimental asset mar
@@ -1992,9 +1991,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251002-tuomo-virkola1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251002
 DTEND;VALUE=DATE:20251003
 SUMMARY:VATT: Tuomo Virkola — Worker Mobility Restrictions
@@ -2007,9 +2006,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251006-miika-paallysaho1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251006
 DTEND;VALUE=DATE:20251007
 SUMMARY:Lunch Seminar: Miika Päällysaho — Decomposing Trends in the PIS
@@ -2024,9 +2023,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251007-amanda-ang2@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251007
 DTEND;VALUE=DATE:20251008
 SUMMARY:Environmental Economics: Amanda Ang — Population Growth and Wildf
@@ -2041,9 +2040,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251007-catalina-franco@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251007
 DTEND;VALUE=DATE:20251008
 SUMMARY:Seminar: Catalina Franco — Who’s in the Exam Room? Gender Compo
@@ -2058,9 +2057,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251007-low-threshold-phd-seminar@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:14
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:15
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251007
 DTEND;VALUE=DATE:20251008
 SUMMARY:PhD Workshop: Low-threshold PhD seminar
@@ -2074,9 +2073,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251009-nancy-chau@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251009
 DTEND;VALUE=DATE:20251010
 SUMMARY:Behavioral Economics: Nancy Chau — Dishonesty Concessions in Team
@@ -2092,9 +2091,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251015-gopinath-annadurai@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251015
 DTEND;VALUE=DATE:20251016
 SUMMARY:Labor & Public Economics: Gopinath Annadurai — Improving First-Ge
@@ -2111,9 +2110,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251020-olivia-masi@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251020
 DTEND;VALUE=DATE:20251021
 SUMMARY:Lunch Seminar: Olivia Masi — Fast-Track to Family? Evidence from 
@@ -2128,9 +2127,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251021-ben-goldman@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251021
 DTEND;VALUE=DATE:20251022
 SUMMARY:Economics of Education (Educa): Benjamin Goldman — When Resources
@@ -2146,9 +2145,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251021-leo-reitzmann@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251021
 DTEND;VALUE=DATE:20251022
 SUMMARY:Environmental Economics: Léo Reitzmann — Heterogeneous beliefs i
@@ -2164,9 +2163,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251022-daniel-cunha-bystrom@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251022
 DTEND;VALUE=DATE:20251023
 SUMMARY:Practice Job Talk: Nordic PhD Exchange Practice Job Talk — From F
@@ -2182,9 +2181,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251027-raissa-fabregas@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251027
 DTEND;VALUE=DATE:20251028
 SUMMARY:Development Economics: Raissa Fabregas — The Well-Being Effects o
@@ -2199,9 +2198,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251028-environmental-economics-reading-group20@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251028
 DTEND;VALUE=DATE:20251029
 SUMMARY:Environmental Economics: Environmental Economics Reading Group
@@ -2216,9 +2215,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251028-erika-povea@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251028
 DTEND;VALUE=DATE:20251029
 SUMMARY:Practice Job Talk: Erika Povea — When Organized Crime Moves In: E
@@ -2233,9 +2232,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251029-adrien-wicht@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251029
 DTEND;VALUE=DATE:20251030
 SUMMARY:Macroeconomics: Adrien Wicht — Sovereign debt risk and the politi
@@ -2250,9 +2249,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251030-max-toikka1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251030
 DTEND;VALUE=DATE:20251031
 SUMMARY:VATT: Max Toikka — Labor Market Effects of Public-Private Sector 
@@ -2267,9 +2266,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251031-jerry-montonen-practicejobtalk@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251031
 DTEND;VALUE=DATE:20251101
 SUMMARY:Practice Job Talk: Jerry Montonen — Shaping Young Minds: The Effe
@@ -2284,9 +2283,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251104-giuseppe-sorrenti@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251104
 DTEND;VALUE=DATE:20251105
 SUMMARY:Economics of Education (Educa): CANCELLED Giuseppe Sorrenti — Tal
@@ -2302,9 +2301,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251104-jussipekka-salo2@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251104
 DTEND;VALUE=DATE:20251105
 SUMMARY:Practice Job Talk: Jussipekka Salo — Learning About The Macroecon
@@ -2320,9 +2319,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251105-low-threshold-phd-seminar1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:14
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:15
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251105
 DTEND;VALUE=DATE:20251106
 SUMMARY:PhD Workshop: CANCELLED Low-threshold PhD seminar
@@ -2337,9 +2336,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251106-arttu-kauhanen2@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251106
 DTEND;VALUE=DATE:20251107
 SUMMARY:VATT: Arttu Kauhanen — Is Redistribution Fair? The Effect of Taxe
@@ -2355,9 +2354,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251106-yiming-liu@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251106
 DTEND;VALUE=DATE:20251107
 SUMMARY:Behavioral Economics: Yiming Liu — Dreaming rich: How inequality 
@@ -2374,9 +2373,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251110-laura-contreras-portela-and-natalia-labrador-bernate-aix-
  marseille-school-of-economics-unu-wider@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251110
 DTEND;VALUE=DATE:20251111
 SUMMARY:Development Economics: Laura Contreras-Portela and Natalia Labrador
@@ -2397,9 +2396,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251111-simen-markussen@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251111
 DTEND;VALUE=DATE:20251112
 SUMMARY:Labor & Public Economics: Simen Markussen — Unemployment benefits
@@ -2415,9 +2414,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251111-stefan-ambec1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251111
 DTEND;VALUE=DATE:20251112
 SUMMARY:Environmental Economics: Stefan Ambec — Pricing Intermittent Rene
@@ -2433,9 +2432,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251112-ellen-sahlstrom1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251112
 DTEND;VALUE=DATE:20251113
 SUMMARY:Labor & Public Economics: Ellen Sahlström — Preventing Social Ex
@@ -2450,9 +2449,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251112-joshua-weiss@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251112
 DTEND;VALUE=DATE:20251113
 SUMMARY:Macroeconomics: Joshua Weiss — More Than the Sum of Its Parts? Ma
@@ -2467,9 +2466,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251113-miri-stryjan3@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251113
 DTEND;VALUE=DATE:20251114
 SUMMARY:VATT: Miri Stryjan — Local Institutions and Leader Incentives: Th
@@ -2485,9 +2484,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251114-kailin-chen@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251114
 DTEND;VALUE=DATE:20251115
 SUMMARY:Practice Job Talk: Kailin Chen — Ranking Statistical Experiments 
@@ -2503,9 +2502,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251117-daniel-hauser@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251117
 DTEND;VALUE=DATE:20251118
 SUMMARY:Lunch Seminar: Daniel Hauser — Introspective Berk-Nash Equilibriu
@@ -2520,9 +2519,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251118-isabel-hovdahl@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251118
 DTEND;VALUE=DATE:20251119
 SUMMARY:Environmental Economics: Isabel Hovdahl — Charging the Transition
@@ -2537,27 +2536,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251119-giacomo-lo-conte@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251119
 DTEND;VALUE=DATE:20251120
-SUMMARY:VATT: Giacomo Lo Conte — Exposure to innovation and labor market 
- dynamics: Evidence from the…
-DESCRIPTION:Series: VATT\nType: Job Talk\nSpeaker: Giacomo Lo Conte (Univer
- sity College Dublin)\nTitle: Exposure to innovation and labor market dynam
- ics: Evidence from the German manufacturing sectors\n\nTime not published 
- yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/eve
- nts/giacomo-lo-conte
+SUMMARY:Job Talk (VATT): Giacomo Lo Conte — Exposure to innovation and la
+ bor market dynamics: Evidence from the…
+DESCRIPTION:Series: Job Talk (VATT)\nType: Job Talk\nSpeaker: Giacomo Lo Co
+ nte (University College Dublin)\nTitle: Exposure to innovation and labor m
+ arket dynamics: Evidence from the German manufacturing sectors\n\nTime not
+  published yet — all-day placeholder.\n\nEvent page: https://www.helsink
+ igse.fi/events/giacomo-lo-conte
 URL:https://www.helsinkigse.fi/events/giacomo-lo-conte
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251119-maija-kaartinen@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251119
 DTEND;VALUE=DATE:20251120
 SUMMARY:Macroeconomics: Maija Kaartinen — Carbon Pricing and Fuel Switchi
@@ -2572,9 +2571,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251120-aspasia-bizopoulou-nov20@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251120
 DTEND;VALUE=DATE:20251121
 SUMMARY:VATT: Aspasia Bizopoulou — Pay Transparency\, Wage Setting and Wo
@@ -2589,9 +2588,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251124-javier-feinman@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251124
 DTEND;VALUE=DATE:20251125
 SUMMARY:Development Economics: Javier Feinman — Income Shifting vs Real R
@@ -2606,43 +2605,44 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251124-marten-ritterrath@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251124
 DTEND;VALUE=DATE:20251125
-SUMMARY:VATT: Marten Ritterrath — Inventors’ Personal Experience of Nat
- ural Disasters and Green…
-DESCRIPTION:Series: VATT\nType: Job Talk\nSpeaker: Marten Ritterrath (Unive
- rsity of Cologne)\nTitle: Inventors’ Personal Experience of Natural Disa
- sters and Green Innovation\n\nTime not published yet — all-day placehold
- er.\n\nEvent page: https://www.helsinkigse.fi/events/marten-ritterrath
+SUMMARY:Job Talk (VATT): Marten Ritterrath — Inventors’ Personal Experi
+ ence of Natural Disasters and Green…
+DESCRIPTION:Series: Job Talk (VATT)\nType: Job Talk\nSpeaker: Marten Ritter
+ rath (University of Cologne)\nTitle: Inventors’ Personal Experience of N
+ atural Disasters and Green Innovation\n\nTime not published yet — all-da
+ y placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/marten-rit
+ terrath
 URL:https://www.helsinkigse.fi/events/marten-ritterrath
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251124-regi-kusumaatmadja@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251124
 DTEND;VALUE=DATE:20251125
-SUMMARY:VATT: Regi Kusumaatmadja — Internal and External R&D: An analysis
-  of costs and benefits
-DESCRIPTION:Series: VATT\nType: Job Talk\nSpeaker: Regi Kusumaatmadja (VU A
- msterdam)\nTitle: Internal and External R&D: An analysis of costs and bene
- fits\n\nTime not published yet — all-day placeholder.\n\nEvent page: htt
- ps://www.helsinkigse.fi/events/regi-kusumaatmadja
+SUMMARY:Job Talk (VATT): Regi Kusumaatmadja — Internal and External R&D: 
+ An analysis of costs and benefits
+DESCRIPTION:Series: Job Talk (VATT)\nType: Job Talk\nSpeaker: Regi Kusumaat
+ madja (VU Amsterdam)\nTitle: Internal and External R&D: An analysis of cos
+ ts and benefits\n\nTime not published yet — all-day placeholder.\n\nEven
+ t page: https://www.helsinkigse.fi/events/regi-kusumaatmadja
 URL:https://www.helsinkigse.fi/events/regi-kusumaatmadja
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251125-ana-costa-ramon@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251125
 DTEND;VALUE=DATE:20251126
 SUMMARY:Labor & Public Economics: Ana Costa-Ramón — The Long-Run Effects
@@ -2659,9 +2659,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251126-jerry-montonen3@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251126
 DTEND;VALUE=DATE:20251127
 SUMMARY:Labor & Public Economics: CANCELLED: Jerry Montonen — Shaping You
@@ -2677,9 +2677,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251126-marta-morazzoni@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251126
 DTEND;VALUE=DATE:20251127
 SUMMARY:Macroeconomics: Marta Morazzoni — Sorting into Entrepreneurial Te
@@ -2694,9 +2694,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251127-evan-friedman@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251127
 DTEND;VALUE=DATE:20251128
 SUMMARY:Behavioral Economics: Evan Friedman — Deception Aversion
@@ -2710,26 +2710,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251127-joakim-wikstrom-vatt-jobtalk@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251127
 DTEND;VALUE=DATE:20251128
-SUMMARY:VATT: Joakim Wikström — Do Patents Tilt Standard-Setting? Eviden
- ce from Cellular Networks
-DESCRIPTION:Series: VATT\nType: Job Talk\nSpeaker: Joakim Wikström (Aalto 
- University)\nTitle: Do Patents Tilt Standard-Setting? Evidence from Cellul
- ar Networks\n\nTime not published yet — all-day placeholder.\n\nEvent pa
- ge: https://www.helsinkigse.fi/events/joakim-wikstrom-vatt-jobtalk
+SUMMARY:Job Talk (VATT): Joakim Wikström — Do Patents Tilt Standard-Sett
+ ing? Evidence from Cellular Networks
+DESCRIPTION:Series: Job Talk (VATT)\nType: Job Talk\nSpeaker: Joakim Wikstr
+ öm (Aalto University)\nTitle: Do Patents Tilt Standard-Setting? Evidence 
+ from Cellular Networks\n\nTime not published yet — all-day placeholder.\
+ n\nEvent page: https://www.helsinkigse.fi/events/joakim-wikstrom-vatt-jobt
+ alk
 URL:https://www.helsinkigse.fi/events/joakim-wikstrom-vatt-jobtalk
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251127-sander-ramboer-nov27@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251127
 DTEND;VALUE=DATE:20251128
 SUMMARY:VATT: Sander Ramboer — Local Property Tax Incentives for Wind Far
@@ -2744,9 +2745,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251128-milla-hagg-practicejobtalk@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251128
 DTEND;VALUE=DATE:20251129
 SUMMARY:Practice Job Talk: Milla Hägg — History Dependence and Firm Ince
@@ -2761,9 +2762,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251201-ville-savolainen@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251201
 DTEND;VALUE=DATE:20251202
 SUMMARY:Practice Job Talk: Ville Savolainen — Cryptocurrency Pricing: An 
@@ -2778,9 +2779,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251202-jaqueline-adelowo@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251202
 DTEND;VALUE=DATE:20251203
 SUMMARY:Environmental Economics: Jaqueline Adelowo — Deregulation in elec
@@ -2796,9 +2797,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251202-julien-grenet@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251202
 DTEND;VALUE=DATE:20251203
 SUMMARY:Economics of Education (Educa): Julien Grenet — Social Diversity 
@@ -2814,9 +2815,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251203-xiyu-jiao@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251203
 DTEND;VALUE=DATE:20251204
 SUMMARY:Econometrics: Xiyu Jiao — Inference on Common Trends in a Cointeg
@@ -2831,9 +2832,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251204-kostas-matakos-dec4@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251204
 DTEND;VALUE=DATE:20251205
 SUMMARY:VATT: Kostas Matakos — Does Warm Weather Cool Voters Down? How Cl
@@ -2849,9 +2850,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251209-arnaldur-stefanson@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251209
 DTEND;VALUE=DATE:20251210
 SUMMARY:Labor & Public Economics: Arnaldur Stefanson — Labor Supply Respo
@@ -2867,9 +2868,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251210-saara-haikonen2@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251210
 DTEND;VALUE=DATE:20251211
 SUMMARY:Labor & Public Economics: CANCELLED: Saara Haikonen — TBA
@@ -2883,9 +2884,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251211-low-threshold-phd-seminar2@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251211
 DTEND;VALUE=DATE:20251212
 SUMMARY:Seminar: CANCELLED Low-threshold PhD seminar
@@ -2898,9 +2899,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251212-mikael-makimattila-practicejobtalk@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251212
 DTEND;VALUE=DATE:20251213
 SUMMARY:Practice Job Talk: Mikael Mäkimattila — Inequality-Aware Regulat
@@ -2915,9 +2916,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251216-william-odgen4@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251216
 DTEND;VALUE=DATE:20251217
 SUMMARY:Environmental Economics: William Odgen — Estimating Transaction F
@@ -2932,9 +2933,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251217-lauri-esala@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251217
 DTEND;VALUE=DATE:20251218
 SUMMARY:Macroeconomics: Lauri Esala — Supply Chain Dynamics with Search F
@@ -2950,9 +2951,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251217-rasmus-mellanen-ossi-tahvonen-and-tuomas-hiilamo@helsinki
  gse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251217
 DTEND;VALUE=DATE:20251218
 SUMMARY:Labor & Public Economics: Rasmus Mellanen\, Ossi Tahvonen and Tuoma
@@ -2973,18 +2974,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251218-labor-and-public-economics-phd-workshop-2025-2@helsinkigs
  e.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:14
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:15
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251218
 DTEND;VALUE=DATE:20251219
-SUMMARY:Labor & Public Economics: Labor and Public Economics PhD Workshop 
- — Workshop for Helsinki GSE and FDPE PhD students
+SUMMARY:Labor & Public Economics: Labor and Public Economics PhD Workshop
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Workshop\nTitle: La
- bor and Public Economics PhD Workshop — Workshop for Helsinki GSE and FD
- PE PhD students\nHosts: Cristina Bratu & Matti Mitrunen & Terhi Ravaska\n\
- nTime not published yet — all-day placeholder.\n\nEvent page: https://ww
- w.helsinkigse.fi/events/labor-and-public-economics-phd-workshop-2025-2
+ bor and Public Economics PhD Workshop\nAbout: Workshop for Helsinki GSE an
+ d FDPE PhD students\nHosts: Cristina Bratu & Matti Mitrunen & Terhi Ravask
+ a\n\nTime not published yet — all-day placeholder.\n\nEvent page: https:
+ //www.helsinkigse.fi/events/labor-and-public-economics-phd-workshop-2025-2
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/labor-and-public-economics-phd-worksh
  op-2025-2
@@ -2993,18 +2993,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260108-econometrics-phd-workshop-2026-1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:14
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:15
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260108
 DTEND;VALUE=DATE:20260109
-SUMMARY:Econometrics: Econometrics PhD workshop — Workshop for Helsinki G
- SE and FDPE PhD students
+SUMMARY:Econometrics: Econometrics PhD workshop
 DESCRIPTION:Series: Econometrics\nType: PhD Workshop\nTitle: Econometrics P
- hD workshop — Workshop for Helsinki GSE and FDPE PhD students\nHosts: Ja
- ni Luoto & Mika Meitz & Henri Nyberg\n\nTime not published yet — all-day
-  placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/econometric
- s-phd-workshop-2026-1
+ hD workshop\nAbout: Workshop for Helsinki GSE and FDPE PhD students\nHosts
+ : Jani Luoto & Mika Meitz & Henri Nyberg\n\nTime not published yet — all
+ -day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/econome
+ trics-phd-workshop-2026-1
 LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/econometrics-phd-workshop-2026-1
 STATUS:CONFIRMED
@@ -3012,27 +3011,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260112-federico-crippa@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260112
 DTEND;VALUE=DATE:20260113
-SUMMARY:Aalto University: Federico Crippa — Identification\, Estimation\,
-  and Inference in Two-Sided Interaction…
-DESCRIPTION:Series: Aalto University\nType: Job Talk\nSpeaker: Federico Cri
- ppa (Northwestern University)\nTitle: Identification\, Estimation\, and In
- ference in Two-Sided Interaction Models\n\nTime not published yet — all-
- day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/federico
- -crippa
+SUMMARY:Job Talk (Aalto University): Federico Crippa — Identification\, E
+ stimation\, and Inference in Two-Sided Interaction…
+DESCRIPTION:Series: Job Talk (Aalto University)\nType: Job Talk\nSpeaker: F
+ ederico Crippa (Northwestern University)\nTitle: Identification\, Estimati
+ on\, and Inference in Two-Sided Interaction Models\n\nTime not published y
+ et — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/even
+ ts/federico-crippa
 URL:https://www.helsinkigse.fi/events/federico-crippa
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260113-gupta-ayush@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260113
 DTEND;VALUE=DATE:20260114
 SUMMARY:Job Talk: Ayush Gupta — A Theory of Efficient Price Cycles Under 
@@ -3047,165 +3046,167 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260114-arno-apffelstaedt1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260114
 DTEND;VALUE=DATE:20260115
-SUMMARY:Hanken: Arno Apffelstaedt — Group Image Concerns (with Gönül Do
- gan and Fabian Hoffmann)
-DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Arno Apffelstaedt (Uni
- versity of Cologne)\nTitle: Group Image Concerns (with Gönül Dogan and F
- abian Hoffmann)\n\nTime not published yet — all-day placeholder.\n\nEven
- t page: https://www.helsinkigse.fi/events/arno-apffelstaedt1
+SUMMARY:Job Talk (Hanken): Arno Apffelstaedt — Group Image Concerns (with
+  Gönül Dogan and Fabian Hoffmann)
+DESCRIPTION:Series: Job Talk (Hanken)\nType: Job Talk\nSpeaker: Arno Apffel
+ staedt (University of Cologne)\nTitle: Group Image Concerns (with Gönül 
+ Dogan and Fabian Hoffmann)\n\nTime not published yet — all-day placehold
+ er.\n\nEvent page: https://www.helsinkigse.fi/events/arno-apffelstaedt1
 URL:https://www.helsinkigse.fi/events/arno-apffelstaedt1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260115-daniel-bougt1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260115
 DTEND;VALUE=DATE:20260116
-SUMMARY:Hanken: Daniel Bougt — Ambiguity and the declining price anomaly:
-  estimation of a sequental…
-DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Daniel Bougt (Hanken a
- nd Helsinki GSE)\nTitle: Ambiguity and the declining price anomaly: estima
- tion of a sequental auction model\n\nTime not published yet — all-day pl
- aceholder.\n\nEvent page: https://www.helsinkigse.fi/events/daniel-bougt1
+SUMMARY:Job Talk (Hanken): Daniel Bougt — Ambiguity and the declining pri
+ ce anomaly: estimation of a sequental…
+DESCRIPTION:Series: Job Talk (Hanken)\nType: Job Talk\nSpeaker: Daniel Boug
+ t (Hanken and Helsinki GSE)\nTitle: Ambiguity and the declining price anom
+ aly: estimation of a sequental auction model\n\nTime not published yet —
+  all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/dan
+ iel-bougt1
 URL:https://www.helsinkigse.fi/events/daniel-bougt1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260116-carolina-kansikas@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260116
 DTEND;VALUE=DATE:20260117
-SUMMARY:Aalto University: Carolina Kansikas — Carbon and Coordination: In
- centives and local institutions in…
-DESCRIPTION:Series: Aalto University\nType: Job Talk\nSpeaker: Carolina Kan
- sikas (University of Warwick)\nTitle: Carbon and Coordination: Incentives 
- and local institutions in conservation policy\n\nTime not published yet 
- — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/
- carolina-kansikas
+SUMMARY:Job Talk (Aalto University): Carolina Kansikas — Carbon and Coord
+ ination: Incentives and local institutions in…
+DESCRIPTION:Series: Job Talk (Aalto University)\nType: Job Talk\nSpeaker: C
+ arolina Kansikas (University of Warwick)\nTitle: Carbon and Coordination: 
+ Incentives and local institutions in conservation policy\n\nTime not publi
+ shed yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.f
+ i/events/carolina-kansikas
 URL:https://www.helsinkigse.fi/events/carolina-kansikas
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260119-cyril-rouault@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260119
 DTEND;VALUE=DATE:20260120
-SUMMARY:Aalto University: Cyril Rouault — Job Matching and Affirmative Ac
- tion: The Impact of Transfer Policies
-DESCRIPTION:Series: Aalto University\nType: Job Talk\nSpeaker: Cyril Rouaul
- t (École Normale Supérieure Paris-Saclay)\nTitle: Job Matching and Affir
- mative Action: The Impact of Transfer Policies\n\nTime not published yet 
- — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/
- cyril-rouault
+SUMMARY:Job Talk (Aalto University): Cyril Rouault — Job Matching and Aff
+ irmative Action: The Impact of Transfer Policies
+DESCRIPTION:Series: Job Talk (Aalto University)\nType: Job Talk\nSpeaker: C
+ yril Rouault (École Normale Supérieure Paris-Saclay)\nTitle: Job Matchin
+ g and Affirmative Action: The Impact of Transfer Policies\n\nTime not publ
+ ished yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.
+ fi/events/cyril-rouault
 URL:https://www.helsinkigse.fi/events/cyril-rouault
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260120-nicole-scholz@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260120
 DTEND;VALUE=DATE:20260121
-SUMMARY:Hanken: Nicole Scholz — Estimating Multi-Product Production Funct
- ions: What Can We Learn…
-DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Nicole Scholz (Univers
- ity of Warwick)\nTitle: Estimating Multi-Product Production Functions: Wha
- t Can We Learn Without Demand Assumptions?\n\nTime not published yet — a
- ll-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/nicol
- e-scholz
+SUMMARY:Job Talk (Hanken): Nicole Scholz — Estimating Multi-Product Produ
+ ction Functions: What Can We Learn…
+DESCRIPTION:Series: Job Talk (Hanken)\nType: Job Talk\nSpeaker: Nicole Scho
+ lz (University of Warwick)\nTitle: Estimating Multi-Product Production Fun
+ ctions: What Can We Learn Without Demand Assumptions?\n\nTime not publishe
+ d yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/e
+ vents/nicole-scholz
 URL:https://www.helsinkigse.fi/events/nicole-scholz
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260121-kensuke-sakamoto@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260121
 DTEND;VALUE=DATE:20260122
-SUMMARY:Aalto University: Kensuke Sakamoto — Network Robust Inference for
-  Fixed-Effect Regressions
-DESCRIPTION:Series: Aalto University\nType: Job Talk\nSpeaker: Kensuke Saka
- moto (University of Wisconsin-Madison)\nTitle: Network Robust Inference fo
- r Fixed-Effect Regressions\n\nTime not published yet — all-day placehold
- er.\n\nEvent page: https://www.helsinkigse.fi/events/kensuke-sakamoto
+SUMMARY:Job Talk (Aalto University): Kensuke Sakamoto — Network Robust In
+ ference for Fixed-Effect Regressions
+DESCRIPTION:Series: Job Talk (Aalto University)\nType: Job Talk\nSpeaker: K
+ ensuke Sakamoto (University of Wisconsin-Madison)\nTitle: Network Robust I
+ nference for Fixed-Effect Regressions\n\nTime not published yet — all-da
+ y placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/kensuke-sa
+ kamoto
 URL:https://www.helsinkigse.fi/events/kensuke-sakamoto
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260121-ulrika-ahrsjo@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260121
 DTEND;VALUE=DATE:20260122
-SUMMARY:Hanken: Ulrika Ahrsjö — Pay or Performance? Retaining Emotionall
- y Stable Police Officers
-DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Ulrika Ahrsjö (Stockh
- olm School of Economics)\nTitle: Pay or Performance? Retaining Emotionally
-  Stable Police Officers\n\nTime not published yet — all-day placeholder.
- \n\nEvent page: https://www.helsinkigse.fi/events/ulrika-ahrsjo
+SUMMARY:Job Talk (Hanken): Ulrika Ahrsjö — Pay or Performance? Retaining
+  Emotionally Stable Police Officers
+DESCRIPTION:Series: Job Talk (Hanken)\nType: Job Talk\nSpeaker: Ulrika Ahrs
+ jö (Stockholm School of Economics)\nTitle: Pay or Performance? Retaining 
+ Emotionally Stable Police Officers\n\nTime not published yet — all-day p
+ laceholder.\n\nEvent page: https://www.helsinkigse.fi/events/ulrika-ahrsjo
 URL:https://www.helsinkigse.fi/events/ulrika-ahrsjo
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260122-raquel-lorenzo@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260122
 DTEND;VALUE=DATE:20260123
-SUMMARY:Hanken: Raquel Lorenzo — Misperceived Social Norms: A Unified Fra
- mework
-DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Raquel Lorenzo (Univer
- sitat Pompeu Fabra)\nTitle: Misperceived Social Norms: A Unified Framework
- \n\nTime not published yet — all-day placeholder.\n\nEvent page: https:/
- /www.helsinkigse.fi/events/raquel-lorenzo
+SUMMARY:Job Talk (Hanken): Raquel Lorenzo — Misperceived Social Norms: A 
+ Unified Framework
+DESCRIPTION:Series: Job Talk (Hanken)\nType: Job Talk\nSpeaker: Raquel Lore
+ nzo (Universitat Pompeu Fabra)\nTitle: Misperceived Social Norms: A Unifie
+ d Framework\n\nTime not published yet — all-day placeholder.\n\nEvent pa
+ ge: https://www.helsinkigse.fi/events/raquel-lorenzo
 URL:https://www.helsinkigse.fi/events/raquel-lorenzo
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260122-sijie-lin@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260122
 DTEND;VALUE=DATE:20260123
-SUMMARY:Aalto University: Sijie Lin — Learning to Prompt: Human Adaptatio
- n in Production with Generative AI
-DESCRIPTION:Series: Aalto University\nType: Job Talk\nSpeaker: Sijie Lin (U
- niversity of Toronto)\nTitle: Learning to Prompt: Human Adaptation in Prod
- uction with Generative AI\n\nTime not published yet — all-day placeholde
- r.\n\nEvent page: https://www.helsinkigse.fi/events/sijie-lin
+SUMMARY:Job Talk (Aalto University): Sijie Lin — Learning to Prompt: Huma
+ n Adaptation in Production with Generative AI
+DESCRIPTION:Series: Job Talk (Aalto University)\nType: Job Talk\nSpeaker: S
+ ijie Lin (University of Toronto)\nTitle: Learning to Prompt: Human Adaptat
+ ion in Production with Generative AI\n\nTime not published yet — all-day
+  placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/sijie-lin
 URL:https://www.helsinkigse.fi/events/sijie-lin
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260123-tuyetanh-l-tran@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260123
 DTEND;VALUE=DATE:20260124
 SUMMARY:Job Talk: Tuyetanh L. Tran — The Trade-Offs of Curbside Parking: 
@@ -3220,9 +3221,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260126-teng-songyuan@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260126
 DTEND;VALUE=DATE:20260127
 SUMMARY:Job Talk: Songyuan Teng — Innovation through Recombination
@@ -3236,45 +3237,45 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260127-maria-eskelinen@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260127
 DTEND;VALUE=DATE:20260128
-SUMMARY:Hanken: Maria Eskelinen — Monetary Policy\, Agent Heterogeneity a
- nd Inequality – Insights from a…
-DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Maria Eskelinen (Unive
- rsity of Oxford)\nTitle: Monetary Policy\, Agent Heterogeneity and Inequal
- ity – Insights from a Three-Agent New Keynesian Model\n\nTime not publis
- hed yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi
- /events/maria-eskelinen
+SUMMARY:Job Talk (Hanken): Maria Eskelinen — Monetary Policy\, Agent Hete
+ rogeneity and Inequality – Insights from a…
+DESCRIPTION:Series: Job Talk (Hanken)\nType: Job Talk\nSpeaker: Maria Eskel
+ inen (University of Oxford)\nTitle: Monetary Policy\, Agent Heterogeneity 
+ and Inequality – Insights from a Three-Agent New Keynesian Model\n\nTime
+  not published yet — all-day placeholder.\n\nEvent page: https://www.hel
+ sinkigse.fi/events/maria-eskelinen
 URL:https://www.helsinkigse.fi/events/maria-eskelinen
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260129-aapo-stenhammarin@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260129
 DTEND;VALUE=DATE:20260130
-SUMMARY:Hanken: Aapo Stenhammar — Opening Borders: Self-Selection and Lab
- or Market Returns to Migration…
-DESCRIPTION:Series: Hanken\nType: Job Talk\nSpeaker: Aapo Stenhammar (Unive
- rsity of Bonn)\nTitle: Opening Borders: Self-Selection and Labor Market Re
- turns to Migration During the EU Enlargement\n\nTime not published yet —
-  all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/aap
- o-stenhammarin
+SUMMARY:Job Talk (Hanken): Aapo Stenhammar — Opening Borders: Self-Select
+ ion and Labor Market Returns to Migration…
+DESCRIPTION:Series: Job Talk (Hanken)\nType: Job Talk\nSpeaker: Aapo Stenha
+ mmar (University of Bonn)\nTitle: Opening Borders: Self-Selection and Labo
+ r Market Returns to Migration During the EU Enlargement\n\nTime not publis
+ hed yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi
+ /events/aapo-stenhammarin
 URL:https://www.helsinkigse.fi/events/aapo-stenhammarin
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260129-ramin-izadi1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260129
 DTEND;VALUE=DATE:20260130
 SUMMARY:VATT: Ramin Izadi — Preschool Expansion RCT: Results
@@ -3287,26 +3288,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260129-sarah-duffy@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260129
 DTEND;VALUE=DATE:20260130
-SUMMARY:Aalto University: Sarah Duffy — Climate Change\, Adaptation\, and
-  Sovereign Risk
-DESCRIPTION:Series: Aalto University\nType: Job Talk\nSpeaker: Sarah Duffy 
- (University of Oxford)\nTitle: Climate Change\, Adaptation\, and Sovereign
-  Risk\n\nTime not published yet — all-day placeholder.\n\nEvent page: ht
- tps://www.helsinkigse.fi/events/sarah-duffy
+SUMMARY:Job Talk (Aalto University): Sarah Duffy — Climate Change\, Adapt
+ ation\, and Sovereign Risk
+DESCRIPTION:Series: Job Talk (Aalto University)\nType: Job Talk\nSpeaker: S
+ arah Duffy (University of Oxford)\nTitle: Climate Change\, Adaptation\, an
+ d Sovereign Risk\n\nTime not published yet — all-day placeholder.\n\nEve
+ nt page: https://www.helsinkigse.fi/events/sarah-duffy
 URL:https://www.helsinkigse.fi/events/sarah-duffy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260130-davide-luparello@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260130
 DTEND;VALUE=DATE:20260131
 SUMMARY:Job Talk: Davide Luparello — Why Do Contract Workers Earn Less? E
@@ -3321,9 +3322,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260203-camilla-christensen@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260203
 DTEND;VALUE=DATE:20260204
 SUMMARY:Labor & Public Economics: Camilla Christensen — Are People System
@@ -3340,9 +3341,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260211-lachlan-paterson1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260211
 DTEND;VALUE=DATE:20260212
 SUMMARY:Labor & Public Economics: Lachlan Paterson — The role of training
@@ -3357,9 +3358,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260217-tuuli-tahtinen4@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260217
 DTEND;VALUE=DATE:20260218
 SUMMARY:Labor & Public Economics: Tuuli Tähtinen — Growing up with Immig
@@ -3375,9 +3376,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260219-constitution-of-innovation-webinaari@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260219
 DTEND;VALUE=DATE:20260220
 SUMMARY:Seminar: Constitution of Innovation Webinar
@@ -3391,9 +3392,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260223-pauli-murto@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260223
 DTEND;VALUE=DATE:20260224
 SUMMARY:Lunch Seminar: Pauli Murto — Social learning with endogenous timi
@@ -3408,9 +3409,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260224-benjamin-hattemer@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260224
 DTEND;VALUE=DATE:20260225
 SUMMARY:Environmental Economics: Benjamin Hattemer — From Free to Fee: Ho
@@ -3426,9 +3427,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260225-juho-nuutinen-and-nhi-cao@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260225
 DTEND;VALUE=DATE:20260226
 SUMMARY:Behavioral Economics: Juho Nuutinen and Nhi Cao — Age norms and g
@@ -3445,9 +3446,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260225-veikko-uusitalo1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260225
 DTEND;VALUE=DATE:20260226
 SUMMARY:Labor & Public Economics: Veikko Uusitalo — Which path pays off? 
@@ -3463,9 +3464,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260226-tanja-saxell@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260226
 DTEND;VALUE=DATE:20260227
 SUMMARY:VATT: CANCELLED Tanja Saxell — Allocation and Prioritization in P
@@ -3480,9 +3481,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260303-giacomo-brusco@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260303
 DTEND;VALUE=DATE:20260304
 SUMMARY:Labor & Public Economics: Giacomo Brusco — Guess Who’s Evading 
@@ -3498,9 +3499,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260304-gonzalo-arrieta@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260304
 DTEND;VALUE=DATE:20260305
 SUMMARY:Behavioral Economics: Gonzalo Arrieta — Procedural Decision-Makin
@@ -3515,9 +3516,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260305-yajna-govind@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260305
 DTEND;VALUE=DATE:20260306
 SUMMARY:VATT: Yajna Govind — Migration policy backlash\, identity\, and i
@@ -3534,9 +3535,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260306-elamaa-elakkeiden-jalkeen-paneelikeskustelu@helsinkigse.f
  i
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260306
 DTEND;VALUE=DATE:20260307
 SUMMARY:Other Seminar: Elämää eläkkeiden jälkeen? – paneelikeskustel
@@ -3555,9 +3556,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260309-information-session-on-phd-studies-in-economics@helsinkig
  se.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260309
 DTEND;VALUE=DATE:20260310
 SUMMARY:Information session: Information Session on PhD Studies in Economic
@@ -3575,9 +3576,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260310-francesco-vona@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260310
 DTEND;VALUE=DATE:20260311
 SUMMARY:Environmental Economics: Francesco Vona — The impact of the Europ
@@ -3594,9 +3595,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260310-nagore-iriberri1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260310
 DTEND;VALUE=DATE:20260311
 SUMMARY:Economics of Education (Educa): Nagore Iriberri — Women in Editor
@@ -3613,9 +3614,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260311-selina-clarke1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260311
 DTEND;VALUE=DATE:20260312
 SUMMARY:Labor & Public Economics: Selina Clarke — The environmental effec
@@ -3630,9 +3631,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260312-jonas-cederlof@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260312
 DTEND;VALUE=DATE:20260313
 SUMMARY:VATT: Jonas Cederlöf — Duration Dependence and Job Search over t
@@ -3648,9 +3649,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260316-aspasia-bizopoulou1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260317
 SUMMARY:Lunch Seminar: Aspasia Bizopoulou — Anti-Discrimination Laws and 
@@ -3665,9 +3666,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260316-job-market-information-session@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260317
 SUMMARY:Information session: Job market information session — Internation
@@ -3682,9 +3683,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260319-joakim-wikstrom5@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260320
 SUMMARY:VATT: Joakim Wikström — Do Patents Tilt Standard-Setting? Eviden
@@ -3699,9 +3700,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260319-marja-liisa-halko-daniel-carvajal@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260320
 SUMMARY:Behavioral Economics: Marja-Liisa Halko & Daniel Carvajal
@@ -3716,27 +3717,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260324-imelda@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260324
 DTEND;VALUE=DATE:20260325
-SUMMARY:Aalto University: Imelda — The Economics of Energy Transitions: I
- nformation\, Incentives\, and…
-DESCRIPTION:Series: Aalto University\nType: Job Talk\nSpeaker: Imelda (Grad
- uate Institute of International and Development Studies (IHEID))\nTitle: T
- he Economics of Energy Transitions: Information\, Incentives\, and Technol
- ogy in Emerging Economies\n\nTime not published yet — all-day placeholde
- r.\n\nEvent page: https://www.helsinkigse.fi/events/imelda
+SUMMARY:Job Talk (Aalto University): Imelda — The Economics of Energy Tra
+ nsitions: Information\, Incentives\, and…
+DESCRIPTION:Series: Job Talk (Aalto University)\nType: Job Talk\nSpeaker: I
+ melda (Graduate Institute of International and Development Studies (IHEID)
+ )\nTitle: The Economics of Energy Transitions: Information\, Incentives\, 
+ and Technology in Emerging Economies\n\nTime not published yet — all-day
+  placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/imelda
 URL:https://www.helsinkigse.fi/events/imelda
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260324-laura-khoury@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260324
 DTEND;VALUE=DATE:20260325
 SUMMARY:Labor & Public Economics: Laura Khoury — The Wage and Mobility Ef
@@ -3752,9 +3753,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260324-sander-ramboer2@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260324
 DTEND;VALUE=DATE:20260325
 SUMMARY:Environmental Economics: Sander Ramboer — Local Property Tax Ince
@@ -3769,27 +3770,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260325-niko-jaakkola1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260325
 DTEND;VALUE=DATE:20260326
-SUMMARY:Aalto University: Niko Jaakkola — Markov-Perfect Equilibria in Di
- fferential Games\, with an Application…
-DESCRIPTION:Series: Aalto University\nType: Job Talk\nSpeaker: Niko Jaakkol
- a (University of Bologna)\nTitle: Markov-Perfect Equilibria in Differentia
- l Games\, with an Application to Climate Policy\n\nTime not published yet 
- — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/
- niko-jaakkola1
+SUMMARY:Job Talk (Aalto University): Niko Jaakkola — Markov-Perfect Equil
+ ibria in Differential Games\, with an Application…
+DESCRIPTION:Series: Job Talk (Aalto University)\nType: Job Talk\nSpeaker: N
+ iko Jaakkola (University of Bologna)\nTitle: Markov-Perfect Equilibria in 
+ Differential Games\, with an Application to Climate Policy\n\nTime not pub
+ lished yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse
+ .fi/events/niko-jaakkola1
 URL:https://www.helsinkigse.fi/events/niko-jaakkola1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260325-ulla-wirtanen@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260325
 DTEND;VALUE=DATE:20260326
 SUMMARY:Labor & Public Economics: Ulla Wirtanen — Short talk: Monopsony p
@@ -3806,9 +3807,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260326-information-session-on-master-s-studies-in-economics@hels
  inkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260326
 DTEND;VALUE=DATE:20260327
 SUMMARY:Information session: Information Session on Master's Studies in Eco
@@ -3826,9 +3827,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260331-alessandro-pizzigolotto@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260331
 DTEND;VALUE=DATE:20260401
 SUMMARY:Labor & Public Economics: Alessandro Pizzigolotto — Volcanic Prot
@@ -3844,42 +3845,43 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260331-lassi-ahlvik@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260331
 DTEND;VALUE=DATE:20260401
-SUMMARY:Aalto University: Lassi Ahlvik — Quantifying supply-side climate 
- policies
-DESCRIPTION:Series: Aalto University\nType: Job Talk\nSpeaker: Lassi Ahlvik
-  (University of Helsinki)\nTitle: Quantifying supply-side climate policies
- \n\nTime not published yet — all-day placeholder.\n\nEvent page: https:/
- /www.helsinkigse.fi/events/lassi-ahlvik
+SUMMARY:Job Talk (Aalto University): Lassi Ahlvik — Quantifying supply-si
+ de climate policies
+DESCRIPTION:Series: Job Talk (Aalto University)\nType: Job Talk\nSpeaker: L
+ assi Ahlvik (University of Helsinki)\nTitle: Quantifying supply-side clima
+ te policies\n\nTime not published yet — all-day placeholder.\n\nEvent pa
+ ge: https://www.helsinkigse.fi/events/lassi-ahlvik
 URL:https://www.helsinkigse.fi/events/lassi-ahlvik
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260401-iivo-vehvilainen1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260401
 DTEND;VALUE=DATE:20260402
-SUMMARY:Aalto University: Iivo Vehviläinen — Pricing in Crisis
-DESCRIPTION:Series: Aalto University\nType: Job Talk\nSpeaker: Iivo Vehvil
- äinen (Aalto University)\nTitle: Pricing in Crisis\n\nTime not published 
- yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/eve
- nts/iivo-vehvilainen1
+SUMMARY:Job Talk (Aalto University): Iivo Vehviläinen — Pricing in Crisi
+ s
+DESCRIPTION:Series: Job Talk (Aalto University)\nType: Job Talk\nSpeaker: I
+ ivo Vehviläinen (Aalto University)\nTitle: Pricing in Crisis\n\nTime not 
+ published yet — all-day placeholder.\n\nEvent page: https://www.helsinki
+ gse.fi/events/iivo-vehvilainen1
 URL:https://www.helsinkigse.fi/events/iivo-vehvilainen1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260409-daniel-hauser-daniel-peredo-siles@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260409
 DTEND;VALUE=DATE:20260410
 SUMMARY:Behavioral Economics: Daniel Hauser & Daniel Peredo Siles
@@ -3894,9 +3896,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260409-johannes-gessner1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260409
 DTEND;VALUE=DATE:20260410
 SUMMARY:VATT: Johannes Gessner — No Place Like Home: Charging Infrastruct
@@ -3912,9 +3914,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260413-martina-querejeta@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260414
 SUMMARY:Development Economics: Martina Querejeta — Intergenerational Tran
@@ -3930,9 +3932,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260413-mikko-silliman3@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260414
 SUMMARY:Lunch Seminar: Mikko Silliman — The Rise of Specialists in the Wo
@@ -3948,9 +3950,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260414-jakob-beuschlein@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260415
 SUMMARY:Labor & Public Economics: Jakob Beuschlein — Designing Debt Restr
@@ -3967,9 +3969,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260415-ossi-tahvonen2@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:Labor & Public Economics: Ossi Tahvonen — Long-term effects of a 
@@ -3984,9 +3986,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260416-tuomas-kari@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260416
 DTEND;VALUE=DATE:20260417
 SUMMARY:VATT: Tuomas Kari — Who Shapes the Candidate Pool? Party Leaders
@@ -4002,9 +4004,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260420-alina-ozhegova3@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
 SUMMARY:Lunch Seminar: Alina Ozhegova — Entry deterrence through restrict
@@ -4019,9 +4021,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260421-juanna-schroter-joensen@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260422
 SUMMARY:Economics of Education (Educa): Juanna Schrøter Joensen — Field 
@@ -4037,9 +4039,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260421-thomas-douenne@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260422
 SUMMARY:Environmental Economics: Thomas Douenne — Optimal Climate Policy 
@@ -4055,9 +4057,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260422-pauline-vorjohann@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
 SUMMARY:Behavioral Economics: Pauline Vorjohann — Reference-dependent cho
@@ -4072,9 +4074,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260423-anne-brockmeyer@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260424
 SUMMARY:VATT: Anne Brockmeyer — Algorithms and Bureaucrats: Evidence from
@@ -4090,9 +4092,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260427-viola-asri@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260427
 DTEND;VALUE=DATE:20260428
 SUMMARY:Development Economics: Viola Asri — Missing the target: Does incr
@@ -4108,9 +4110,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260428-matias-giaccobasso5@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260429
 SUMMARY:Labor & Public Economics: Matias Giaccobasso — Signaling Effects 
@@ -4126,9 +4128,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260430-mika-kortelainen@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
 SUMMARY:VATT: Mika Kortelainen — Digital Primary Care and Health Care Uti
@@ -4144,9 +4146,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260504-stefano-lombardi1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260505
 SUMMARY:Lunch Seminar: Stefano Lombardi — The Consequences of Labor Deman
@@ -4162,9 +4164,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260507-andrei-markevich1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
 SUMMARY:VATT: Andrei Markevich — Factories\, Frictions\, and the Foundati
@@ -4180,9 +4182,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260507-juho-nuutinen-lauri-saaksvuori@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
 SUMMARY:Behavioral Economics: Juho Nuutinen & Lauri Sääksvuori
@@ -4197,9 +4199,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260511-david-rivera-gonzalez@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260511
 DTEND;VALUE=DATE:20260512
 SUMMARY:Development Economics: David Rivera Gonzalez — Contribution floor
@@ -4215,9 +4217,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260512-david-jaeger@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260512
 DTEND;VALUE=DATE:20260513
 SUMMARY:Labor & Public Economics: David Jaeger — Robustness? On Evaluatin
@@ -4232,32 +4234,31 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260513-labor-and-public-phd-workshop-2026-1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:14
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:15
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260513T090000
 DTEND;TZID=Europe/Helsinki:20260513T155000
-SUMMARY:Labor & Public Economics: Labor and Public Economics PhD workshop 
- — Workshop for Helsinki GSE and FDPE PhD students
+SUMMARY:Labor & Public Economics: Labor and Public Economics PhD workshop
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Workshop\nTitle: La
- bor and Public Economics PhD workshop — Workshop for Helsinki GSE and FD
- PE PhD students\nHosts: Cristina Bratu & Matti Mitrunen & Terhi Ravaska\n\
- nProgramme:\n9:00–9:30    Anna Holvio (Aalto University) — Reading Gai
- ns Through Teacher Pairs: A Co-Teaching Experiment\n9:30–10:00   Ellen S
- ahlström (Aalto University) — Effects of providing long-term preventive
-  support to…\n10:10–11:00  Elyas Saif (Hanken School of Economics) —
-  Interhousehold Private Monetary Transfers: Recipient…\n11:00–11:50  O
- ssi Tahvonen (University of Helsinki) — Some Evidence on the Cycle of Vi
- olence\n13:00–13:50  Veikko Uusitalo (University of Helsinki) — Which 
- path pays off? Marginal returns to…\n13:50–14:20  Ulla Wirtanen (Unive
- rsity of Helsinki) — Monopsony Power in Early Childhood Education and Ca
- re\n14:50–15:20  Tuomas Hiilamo (University of Helsinki) — Raising the
-  Retirement Age: Claiming\, Exit and…\n15:20–15:50  Rasmus Mellanen (U
- niversity of Helsinki) — Peer Effects on Educational Choices: Evidence f
- rom…\n\nTimes read from the programme.\n\nFull programme: https://www.he
- lsinkigse.fi/media/pages/events/labor-and-public-phd-workshop-2026-1/b34d0
- 48aef-1778566697/labour-public_workshop_spring2026.pdf\nEvent page: https:
- //www.helsinkigse.fi/events/labor-and-public-phd-workshop-2026-1
+ bor and Public Economics PhD workshop\nAbout: Workshop for Helsinki GSE an
+ d FDPE PhD students\nHosts: Cristina Bratu & Matti Mitrunen & Terhi Ravask
+ a\n\nProgramme:\n9:00–9:30    Anna Holvio (Aalto University) — Reading
+  Gains Through Teacher Pairs: A Co-Teaching Experiment\n9:30–10:00   Ell
+ en Sahlström (Aalto University) — Effects of providing long-term preven
+ tive support to…\n10:10–11:00  Elyas Saif (Hanken School of Economics)
+  — Interhousehold Private Monetary Transfers: Recipient…\n11:00–11:5
+ 0  Ossi Tahvonen (University of Helsinki) — Some Evidence on the Cycle o
+ f Violence\n13:00–13:50  Veikko Uusitalo (University of Helsinki) — Wh
+ ich path pays off? Marginal returns to…\n13:50–14:20  Ulla Wirtanen (U
+ niversity of Helsinki) — Monopsony Power in Early Childhood Education an
+ d Care\n14:50–15:20  Tuomas Hiilamo (University of Helsinki) — Raising
+  the Retirement Age: Claiming\, Exit and…\n15:20–15:50  Rasmus Mellane
+ n (University of Helsinki) — Peer Effects on Educational Choices: Eviden
+ ce from…\n\nTimes read from the programme.\n\nFull programme: https://ww
+ w.helsinkigse.fi/media/pages/events/labor-and-public-phd-workshop-2026-1/b
+ 34d048aef-1778566697/labour-public_workshop_spring2026.pdf\nEvent page: ht
+ tps://www.helsinkigse.fi/events/labor-and-public-phd-workshop-2026-1
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/labor-and-public-phd-workshop-2026-1
 STATUS:CONFIRMED
@@ -4265,9 +4266,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260518-atte-pudas4@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260519
 SUMMARY:Lunch Seminar: Atte Pudas — Having It All? Gender Differences in 
@@ -4282,9 +4283,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260519-denvil-duncan@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260519
 DTEND;VALUE=DATE:20260520
 SUMMARY:Labor & Public Economics: Denvil Duncan — Taxing residential elec
@@ -4299,18 +4300,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260519-econometrics-phd-workshop-2026-spring@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:14
-LAST-MODIFIED:20260914T044359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:15
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260519
 DTEND;VALUE=DATE:20260520
-SUMMARY:Econometrics: Econometrics PhD Workshop — Workshop for Helsinki G
- SE and FDPE PhD students
+SUMMARY:Econometrics: Econometrics PhD Workshop
 DESCRIPTION:Series: Econometrics\nType: PhD Workshop\nTitle: Econometrics P
- hD Workshop — Workshop for Helsinki GSE and FDPE PhD students\nHosts: Ja
- ni Luoto & Mika Meitz & Henri Nyberg\n\nTime not published yet — all-day
-  placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/econometric
- s-phd-workshop-2026-spring
+ hD Workshop\nAbout: Workshop for Helsinki GSE and FDPE PhD students\nHosts
+ : Jani Luoto & Mika Meitz & Henri Nyberg\n\nTime not published yet — all
+ -day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/econome
+ trics-phd-workshop-2026-spring
 LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/econometrics-phd-workshop-2026-spring
 STATUS:CONFIRMED
@@ -4318,9 +4318,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260519-ludovica-gazze@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260519
 DTEND;VALUE=DATE:20260520
 SUMMARY:Environmental Economics: Ludovica Gazze — People\, places or hous
@@ -4336,9 +4336,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260520-paritosh-junare@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20260521
 SUMMARY:Econometrics: Paritosh Junare — Two Gaussians\, Too many: A boots
@@ -4355,9 +4355,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260520-seminar-by-aalto-honorary-doctor-george-mailath@helsinkig
  se.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20260521
 SUMMARY:Aalto University: Seminar by Aalto Honorary Doctor George Mailath
@@ -4372,9 +4372,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260521-jan-stuhler@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260522
 SUMMARY:VATT: Jan Stuhler — Labor Market Drivers of Intergenerational Ear
@@ -4390,9 +4390,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260521-ola-andersson@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260522
 SUMMARY:Behavioral Economics: Ola Andersson — Arbitrary signal correlatio
@@ -4407,9 +4407,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260525-justine-knebelmann@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
 SUMMARY:Development Economics: Justine Knebelmann — Scaling Fiscal Capaci
@@ -4425,9 +4425,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260526-davide-cipullo@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260527
 SUMMARY:Labor & Public Economics: Davide Cipullo — Inverting The Chain: V
@@ -4443,9 +4443,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260527-pau-roldan-blanco@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260528
 SUMMARY:Macroeconomics: Pau Roldan-Blanco — Economic Growth when Knowledg
@@ -4461,9 +4461,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260528-enrico-rubolino@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260529
 SUMMARY:VATT: Enrico Rubolino — Growing the civic mind: civic education\,
@@ -4478,9 +4478,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260528-gary-bolton@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260529
 SUMMARY:Behavioral Economics: Gary Bolton — Keeping your story straight: 
@@ -4496,9 +4496,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260602-gabrielle-fack1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260602
 DTEND;VALUE=DATE:20260603
 SUMMARY:Economics of Education (Educa): Gabrielle Fack — The Effect of Af
@@ -4515,9 +4515,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260603-ellen-sahlstrom2@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
 SUMMARY:Labor & Public Economics: Ellen Sahlström — Effects of providing
@@ -4533,9 +4533,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260604-raffaele-saggio@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260604
 DTEND;VALUE=DATE:20260605
 SUMMARY:VATT: Raffaele Saggio — Careers and Wages in Family Firms: Eviden
@@ -4552,9 +4552,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260609-greta-morando@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260610
 SUMMARY:Labor & Public Economics: Greta Morando — Why Fathers Don’t Tak
@@ -4571,9 +4571,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260610-luisa-wallossek@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260611
 SUMMARY:VATT: Luisa Wallossek — Opt-in or Opt-out? The Power of Defaults 
@@ -4589,26 +4589,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260615-karl-walentin@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
-SUMMARY:Macroeconomics: Karl Walentin — The Housing Channels of Monetary 
- Policy
-DESCRIPTION:Series: Macroeconomics\nType: Job Talk\nSpeaker: Karl Walentin 
- (Uppsala University)\nTitle: The Housing Channels of Monetary Policy\n\nTi
- me not published yet — all-day placeholder.\n\nEvent page: https://www.h
- elsinkigse.fi/events/karl-walentin
+SUMMARY:Job Talk (Macroeconomics): Karl Walentin — The Housing Channels o
+ f Monetary Policy
+DESCRIPTION:Series: Job Talk (Macroeconomics)\nType: Job Talk\nSpeaker: Kar
+ l Walentin (Uppsala University)\nTitle: The Housing Channels of Monetary P
+ olicy\n\nTime not published yet — all-day placeholder.\n\nEvent page: ht
+ tps://www.helsinkigse.fi/events/karl-walentin
 URL:https://www.helsinkigse.fi/events/karl-walentin
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260616-omar-bamieh@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260617
 SUMMARY:Labor & Public Economics: Omar Bamieh — The Price of Presence: Ho
@@ -4623,9 +4623,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260618-david-rivera-gonzalez1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260619
 SUMMARY:VATT: David Rivera Gonzalez — Contribution Floors and Minimum Wag
@@ -4640,9 +4640,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260819-anh-nguyen@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260819T160000
 DTEND;TZID=Europe/Helsinki:20260819T170000
 SUMMARY:Behavioral Economics: Anh Nguyen
@@ -4657,9 +4657,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260826-2nd-edition-of-the-helsinki-economics-of-education-worksh
  op@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:14
-LAST-MODIFIED:20260912T044400Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:15
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260826T090000
 DTEND;TZID=Europe/Helsinki:20260827T150000
 SUMMARY:Economics of Education (Educa): 2nd Edition of the Helsinki Economi
@@ -4720,40 +4720,39 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260828-tuomas-pekkarinen-memorial-workshop@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:15
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:16
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260828T093000
 DTEND;TZID=Europe/Helsinki:20260828T173000
-SUMMARY:Workshop: Tuomas Pekkarinen Memorial Workshop — The workshop prog
- ram and other information can be found by following…
-DESCRIPTION:Series: Workshop\nTitle: Tuomas Pekkarinen Memorial Workshop 
- — The workshop program and other information can be found by following t
- he link on this page.\nHost: Marko Terviö\n\nProgramme:\n9:30–10:30   R
- oope Uusitalo — Work in Progress\n             Marko Terviö — Underac
- hievement in Cognitive Tests: Evidence from Finnish Military Conscripts\n 
-             Juhana Vartiainen — The Economist as a Mayor: Climbing Towar
- ds the Pareto Frontier\n10:30–11:00  Coffee\n11:00–12:40  Konstantinos
-  Tatsiramos — On the Origins of Socioeconomic Inequalities: Evidence fro
- m Twin…\n             Daniela Vuri — Degrees of Deception: How Test Sc
- ore Manipulation Mitigates Temperature’s Impact…\n             Miquel 
- Pellicer — Is There a Bias in the Tax Policy-Making Process towards Bett
- er-Off Citizens?\n             Andrea Ichino — Gender-Based Policy and S
- ignaling\n12:40–14:00  Lunch At Sokos Presidentti\n14:00–16:00  Steve 
- Machin — Productivity in Teams: Double Crewing For Police\n             
- Manuel Bagues & Natalia Zinovyeva — Female Promotions and the Academic P
- ipeline: Evidence from…\n             Peter Fredriksson — Outside Job 
- Opportunities and the Gender Gap in Pay\n             Kjell Salvanes — T
- he Making of Equality: How the Second World War Shaped the Norwegian Incom
- e…\n             Sari Pekkala Kerr — Gender Differences in Experiments
-  and Natural Experiments\n16:00–16:30  Coffee\n16:30–17:30  Matti Sarv
- imäki — Finding One’s Path: Career-Counselor Training and Students’
-  Educational…\n             Hanna Virtanen — Education\, Gender\, and 
- Family Formation\n             Tuomo Virkola — College Admissions Criter
- ia\, Students' Academic Performance and Social Mobility\n19:00        Dinn
- er Restaurant 305\n\nFull programme: https://aalto-econ.fi/esimerkki/tuoma
- s-pekkarinen-memorial-workshop.html\nEvent page: https://www.helsinkigse.f
- i/events/tuomas-pekkarinen-memorial-workshop
+SUMMARY:Workshop: Tuomas Pekkarinen Memorial Workshop
+DESCRIPTION:Series: Workshop\nTitle: Tuomas Pekkarinen Memorial Workshop\nA
+ bout: The workshop program and other information can be found by following
+  the link on this page.\nHost: Marko Terviö\n\nProgramme:\n9:30–10:30  
+  Roope Uusitalo — Work in Progress\n             Marko Terviö — Under
+ achievement in Cognitive Tests: Evidence from Finnish Military Conscripts\
+ n             Juhana Vartiainen — The Economist as a Mayor: Climbing Tow
+ ards the Pareto Frontier\n10:30–11:00  Coffee\n11:00–12:40  Konstantin
+ os Tatsiramos — On the Origins of Socioeconomic Inequalities: Evidence f
+ rom Twin…\n             Daniela Vuri — Degrees of Deception: How Test 
+ Score Manipulation Mitigates Temperature’s Impact…\n             Mique
+ l Pellicer — Is There a Bias in the Tax Policy-Making Process towards Be
+ tter-Off Citizens?\n             Andrea Ichino — Gender-Based Policy and
+  Signaling\n12:40–14:00  Lunch At Sokos Presidentti\n14:00–16:00  Stev
+ e Machin — Productivity in Teams: Double Crewing For Police\n           
+   Manuel Bagues & Natalia Zinovyeva — Female Promotions and the Academic
+  Pipeline: Evidence from…\n             Peter Fredriksson — Outside Jo
+ b Opportunities and the Gender Gap in Pay\n             Kjell Salvanes —
+  The Making of Equality: How the Second World War Shaped the Norwegian Inc
+ ome…\n             Sari Pekkala Kerr — Gender Differences in Experimen
+ ts and Natural Experiments\n16:00–16:30  Coffee\n16:30–17:30  Matti Sa
+ rvimäki — Finding One’s Path: Career-Counselor Training and Students
+ ’ Educational…\n             Hanna Virtanen — Education\, Gender\, a
+ nd Family Formation\n             Tuomo Virkola — College Admissions Cri
+ teria\, Students' Academic Performance and Social Mobility\n19:00        D
+ inner Restaurant 305\n\nFull programme: https://aalto-econ.fi/esimerkki/tu
+ omas-pekkarinen-memorial-workshop.html\nEvent page: https://www.helsinkigs
+ e.fi/events/tuomas-pekkarinen-memorial-workshop
 LOCATION:Seminar room Carl Gustaf\, Original Sokos Hotel Presidentti\, Etel
  äinen Rautatiekatu 4\, Helsinki
 URL:https://www.helsinkigse.fi/events/tuomas-pekkarinen-memorial-workshop
@@ -4762,9 +4761,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260901-jakob-egholt-sogaard@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260901T150000
 DTEND;TZID=Europe/Helsinki:20260901T160000
 SUMMARY:Labor & Public Economics: Jakob Egholt Søgaard — Within-Firm Ine
@@ -4780,9 +4779,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260907-hedda-thorell@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:14
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:15
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260907T140000
 DTEND;TZID=Europe/Helsinki:20260907T151500
 SUMMARY:Macroeconomics: Hedda Thorell — Quantitative Easing and Portfolio
@@ -4799,9 +4798,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260908-pia-nilsson@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:14
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:15
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260908T150000
 DTEND;TZID=Europe/Helsinki:20260908T160000
 SUMMARY:Environmental Economics: Pia Nilsson — TBA
@@ -4815,9 +4814,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260914-eleonora-guarnieri@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:15
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:16
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260914T150000
 DTEND;TZID=Europe/Helsinki:20260914T160000
 SUMMARY:Development Economics: Eleonora Guarnieri — Male Dominance and Cu
@@ -4833,9 +4832,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260914-ossi-tahvonen10@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:3
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:4
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260914T121500
 DTEND;TZID=Europe/Helsinki:20260914T130000
 SUMMARY:Lunch Seminar: Ossi Tahvonen — Disability\, Cash Transfers\, and 
@@ -4852,9 +4851,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260915-andrew-shephard@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:15
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:16
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260915T150000
 DTEND;TZID=Europe/Helsinki:20260915T160000
 SUMMARY:Labor & Public Economics: Andrew Shephard — Dynamic Discrete Choi
@@ -4871,9 +4870,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260916-philip-jung@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:14
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:15
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260916T150000
 DTEND;TZID=Europe/Helsinki:20260916T160000
 SUMMARY:Macroeconomics: Philip Jung — The Ländle Shock: Optimal Policy i
@@ -4889,9 +4888,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260916-rasmus-mellanen1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:3
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:4
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260916T120000
 DTEND;TZID=Europe/Helsinki:20260916T130000
 SUMMARY:Labor & Public Economics: Rasmus Mellanen — Weighted-Curriculum C
@@ -4908,9 +4907,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260917-anna-thoresson@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:1
-LAST-MODIFIED:20260914T150437Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:2
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260917T103000
 DTEND;TZID=Europe/Helsinki:20260917T113000
 SUMMARY:VATT: Anna Thoresson — Inside Opportunities and the Career Trajec
@@ -4928,19 +4927,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260918-helsinki-graduate-school-of-economics-academic-year-kick-
  off-on-september-18-2026@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:1
-LAST-MODIFIED:20260917T100424Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:2
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260918T143000
 DTEND;TZID=Europe/Helsinki:20260918T170000
 SUMMARY:Other Seminar: Helsinki Graduate School of Economics Academic Year 
- Kick-off — Come as you are and stay for as long as you like. We hope to 
- see you…
-DESCRIPTION:Series: Other Seminar\nSpeaker: Helsinki Graduate School of Eco
- nomics Academic Year Kick-off\nTitle: Come as you are and stay for as long
-  as you like. We hope to see you there!\n\nEvent page: https://www.helsink
- igse.fi/events/helsinki-graduate-school-of-economics-academic-year-kick-of
- f-on-september-18-2026
+ Kick-off
+DESCRIPTION:Series: Other Seminar\nTitle: Helsinki Graduate School of Econo
+ mics Academic Year Kick-off\nAbout: Come as you are and stay for as long a
+ s you like. We hope to see you there!\n\nEvent page: https://www.helsinkig
+ se.fi/events/helsinki-graduate-school-of-economics-academic-year-kick-off-
+ on-september-18-2026
 LOCATION:Economicum Lecture Hall and the front courtyard\, Arkadiankatu 7\,
   Helsinki
 URL:https://www.helsinkigse.fi/events/helsinki-graduate-school-of-economics
@@ -4950,9 +4948,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260922-marten-ritterrath1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:16
-LAST-MODIFIED:20260914T150437Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:17
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260922T150000
 DTEND;TZID=Europe/Helsinki:20260922T160000
 SUMMARY:Environmental Economics: Marten Ritterrath — Morals and the Polit
@@ -4968,9 +4966,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260923-labor-economics-reading-group@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260923T120000
 DTEND;TZID=Europe/Helsinki:20260923T130000
 SUMMARY:Labor & Public Economics: Labor Economics Reading Group
@@ -4985,21 +4983,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260925-18th-nordic-conference-in-behavioral-and-experimental-eco
  nomics@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:3
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:4
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Behavioral Economics: 18th Nordic Conference in Behavioral and Expe
- rimental Economics — Hanken School of Economics and Helsinki GSE will be
-  hosting the 18th…
+ rimental Economics
 DESCRIPTION:Series: Behavioral Economics\nType: Conference\nTitle: 18th Nor
- dic Conference in Behavioral and Experimental Economics — Hanken School 
- of Economics and Helsinki GSE will be hosting the 18th Nordic Conference i
- n Behavioral and Experimental Economics on September 25-26\, …\n\nTime n
- ot published yet — all-day placeholder.\n\nEvent page: https://www.helsi
- nkigse.fi/events/18th-nordic-conference-in-behavioral-and-experimental-eco
- nomics
+ dic Conference in Behavioral and Experimental Economics\nAbout: Hanken Sch
+ ool of Economics and Helsinki GSE will be hosting the 18th Nordic Conferen
+ ce in Behavioral and Experimental Economics on September 25-26\, …\n\nTi
+ me not published yet — all-day placeholder.\n\nEvent page: https://www.h
+ elsinkigse.fi/events/18th-nordic-conference-in-behavioral-and-experimental
+ -economics
 LOCATION:Hanken School of Economics\, Arkadiankatu 22\, Helsinki
 URL:https://www.helsinkigse.fi/events/18th-nordic-conference-in-behavioral-
  and-experimental-economics
@@ -5008,9 +5005,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260928-ciprian-domnisoru10@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:1
-LAST-MODIFIED:20260915T100433Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:2
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260928T121500
 DTEND;TZID=Europe/Helsinki:20260928T130000
 SUMMARY:Lunch Seminar: Ciprian Domnisoru — How is AI Affecting College Ma
@@ -5027,9 +5024,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260929-jakob-miethe@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:14
-LAST-MODIFIED:20260922T105332Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:15
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260929T150000
 DTEND;TZID=Europe/Helsinki:20260929T160000
 SUMMARY:Labor & Public Economics: Jakob Miethe — Trusts and International
@@ -5039,16 +5036,16 @@ DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Jakob
  irect and Indirect Ownership of Real Estate in Britain (with Amelie Grosen
  ick)\nHost: Salla Kalin\n\nEvent page: https://www.helsinkigse.fi/events/j
  akob-miethe
-LOCATION:Seminar room 2\, Economicum\,
+LOCATION:Seminar room 2\, Economicum
 URL:https://www.helsinkigse.fi/events/jakob-miethe
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260930-ethan-o-leary@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:2
-LAST-MODIFIED:20260916T150423Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:3
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260930T160000
 DTEND;TZID=Europe/Helsinki:20260930T170000
 SUMMARY:Behavioral Economics: Ethan O'Leary — (Mis)anticipated Discrimina
@@ -5063,9 +5060,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260930-nea-leinonen1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:3
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:4
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260930T120000
 DTEND;TZID=Europe/Helsinki:20260930T130000
 SUMMARY:Labor & Public Economics: Nea Leinonen — Policy Learning Costs an
@@ -5082,9 +5079,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261006-jenifer-ruiz-valenzuela@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261006T120000
 DTEND;TZID=Europe/Helsinki:20261006T130000
 SUMMARY:Economics of Education (Educa): Jenifer Ruiz Valenzuela
@@ -5100,9 +5097,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261006-asa-lofgren1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:14
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:15
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261006T150000
 DTEND;TZID=Europe/Helsinki:20261006T160000
 SUMMARY:Environmental Economics: Åsa Löfgren
@@ -5116,9 +5113,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261007-meeri-seppa-lachlan-paterson@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:3
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:4
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261007T120000
 DTEND;TZID=Europe/Helsinki:20261007T130000
 SUMMARY:Labor & Public Economics: Meeri Seppä / Lachlan Paterson — Immig
@@ -5136,9 +5133,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261008-tanja-saxell10@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:1
-LAST-MODIFIED:20260914T150437Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:2
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261008T130000
 DTEND;TZID=Europe/Helsinki:20261008T140000
 SUMMARY:VATT: Tanja Saxell — TBA
@@ -5151,9 +5148,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261013-panu-poutavaara@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261013T150000
 DTEND;TZID=Europe/Helsinki:20261013T160000
 SUMMARY:Labor & Public Economics: Panu Poutavaara
@@ -5168,16 +5165,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261014-ellen-sahlstrom3@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:3
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:4
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261014T120000
 DTEND;TZID=Europe/Helsinki:20261014T130000
-SUMMARY:Labor & Public Economics: Ellen Sahlström — TBA
-DESCRIPTION:Series: Labor & Public Economics\nType: Practice Job Talk\nSpea
- ker: Ellen Sahlström (Aalto University)\nTitle: TBA\nHosts: Juho Junttila
-  & Lachlan Paterson\n\nEvent page: https://www.helsinkigse.fi/events/ellen
- -sahlstrom3
+SUMMARY:Practice Job Talk (Labor & Public Economics): Ellen Sahlström — 
+ TBA
+DESCRIPTION:Series: Practice Job Talk (Labor & Public Economics)\nType: Pra
+ ctice Job Talk\nSpeaker: Ellen Sahlström (Aalto University)\nTitle: TBA\n
+ Hosts: Juho Junttila & Lachlan Paterson\n\nEvent page: https://www.helsink
+ igse.fi/events/ellen-sahlstrom3
 LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/ellen-sahlstrom3
 STATUS:CONFIRMED
@@ -5185,9 +5183,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261014-roberto-caputo@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:2
-LAST-MODIFIED:20260916T150423Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:3
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261014T160000
 DTEND;TZID=Europe/Helsinki:20261014T170000
 SUMMARY:Behavioral Economics: Roberto Caputo — TBA
@@ -5201,9 +5199,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261019-jeremie-gignoux@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:1
-LAST-MODIFIED:20260922T113601Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:2
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261019T150000
 DTEND;TZID=Europe/Helsinki:20261019T160000
 SUMMARY:Development Economics: Jeremie Gignoux — TBC
@@ -5217,26 +5215,25 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261019-joan-margalef@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:5
-LAST-MODIFIED:20260922T113601Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:6
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:MOVED to 16 Nov 2026 — Development Economics: Joan Margalef — A
   Probabilistic Measure of State Fragility
 DESCRIPTION:Series: Development Economics\nType: Brown Bag Seminar\nSpeaker
  : Joan Margalef (UNU-WIDER)\nTitle: A Probabilistic Measure of State Fragi
- lity\n\nTime not published yet — all-day placeholder.\n\nEvent page: htt
- ps://www.helsinkigse.fi/events/joan-margalef
+ lity\n\nEvent page: https://www.helsinkigse.fi/events/joan-margalef
 URL:https://www.helsinkigse.fi/events/joan-margalef
 STATUS:CANCELLED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261020-yusuf-agus-rafael-hernandez-pachon@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:2
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:3
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261020T120000
 DTEND;TZID=Europe/Helsinki:20261020T130000
 SUMMARY:Economics of Education (Educa): Yusuf Agus / Rafael Hernandez-Pacho
@@ -5253,18 +5250,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261021-helsinki-macroeconomics-research-away-day1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:1
-LAST-MODIFIED:20260917T150425Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:2
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261021T090000
 DTEND;TZID=Europe/Helsinki:20261021T160000
-SUMMARY:Macroeconomics: Helsinki Macroeconomics Research Away Day — The H
- elsinki Macroeconomics Research Away Day (HMRAD) is a joint…
+SUMMARY:Macroeconomics: Helsinki Macroeconomics Research Away Day
 DESCRIPTION:Series: Macroeconomics\nType: Workshop\nTitle: Helsinki Macroec
- onomics Research Away Day — The Helsinki Macroeconomics Research Away Da
- y (HMRAD) is a joint workshop organized by the Research Unit of the Bank o
- f Finland and the …\nHost: Antti Ripatti\n\nEvent page: https://www.hels
- inkigse.fi/events/helsinki-macroeconomics-research-away-day1
+ onomics Research Away Day\nAbout: The Helsinki Macroeconomics Research Awa
+ y Day (HMRAD) is a joint workshop organized by the Research Unit of the Ba
+ nk of Finland and the …\nHost: Antti Ripatti\n\nEvent page: https://www.
+ helsinkigse.fi/events/helsinki-macroeconomics-research-away-day1
 LOCATION:Argelander hall\, Observatory\, Kopernikuksentie 1\, Helsinki
 URL:https://www.helsinkigse.fi/events/helsinki-macroeconomics-research-away
  -day1
@@ -5273,17 +5269,16 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261021-labor-economics-reading-group1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:14
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:15
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:MOVED to 28 Oct 2026 — Labor & Public Economics: Labor Economics 
  Reading Group
 DESCRIPTION:Series: Labor & Public Economics\nType: Reading Group\nTitle: L
- abor Economics Reading Group\n\nTime not published yet — all-day placeho
- lder.\n\nEvent page: https://www.helsinkigse.fi/events/labor-economics-rea
- ding-group1
+ abor Economics Reading Group\n\nEvent page: https://www.helsinkigse.fi/eve
+ nts/labor-economics-reading-group1
 URL:https://www.helsinkigse.fi/events/labor-economics-reading-group1
 STATUS:CANCELLED
 TRANSP:TRANSPARENT
@@ -5291,9 +5286,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261021-vaino-siimes-krista-kuuttiniemi-helena-rantakaulio@helsin
  kigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:3
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:4
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261021T120000
 DTEND;TZID=Europe/Helsinki:20261021T130000
 SUMMARY:Labor & Public Economics: Väinö Siimes / Krista Kuuttiniemi / Hel
@@ -5314,9 +5309,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261026-atte-pudas6@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:2
-LAST-MODIFIED:20260923T111050Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:3
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261026T121500
 DTEND;TZID=Europe/Helsinki:20261026T133000
 SUMMARY:CANCELLED — Practice Job Talk: Atte Pudas
@@ -5331,9 +5326,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261028-elias-tsakas-evangelos-mourelatos@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Behavioral Economics: Elias Tsakas & Evangelos Mourelatos
@@ -5348,9 +5343,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261028-labor-economics-reading-group1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:14
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:15
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261028T120000
 DTEND;TZID=Europe/Helsinki:20261028T130000
 SUMMARY:Labor & Public Economics: Labor Economics Reading Group
@@ -5365,9 +5360,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261028-see-yu-chan@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261028T150000
 DTEND;TZID=Europe/Helsinki:20261028T160000
 SUMMARY:Macroeconomics: See-Yu Chan
@@ -5380,9 +5375,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261029-aino-kalmbach2@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:1
-LAST-MODIFIED:20260914T150437Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:2
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261029T103000
 DTEND;TZID=Europe/Helsinki:20261029T113000
 SUMMARY:VATT: Aino Kalmbach — TBA
@@ -5395,9 +5390,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261103-petter-lundborg1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261103T120000
 DTEND;TZID=Europe/Helsinki:20261103T130000
 SUMMARY:Economics of Education (Educa): Petter Lundborg
@@ -5412,9 +5407,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261103-selina-clarke2@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:3
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:4
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261103T150000
 DTEND;TZID=Europe/Helsinki:20261103T160000
 SUMMARY:Environmental Economics: Selina Clarke — Pathways of Harm: Histor
@@ -5430,16 +5425,16 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261104-ossi-tahvonen3@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:3
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:4
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261104T120000
 DTEND;TZID=Europe/Helsinki:20261104T130000
-SUMMARY:Labor & Public Economics: Ossi Tahvonen — TBA
-DESCRIPTION:Series: Labor & Public Economics\nType: Practice Job Talk\nSpea
- ker: Ossi Tahvonen (University of Helsinki)\nTitle: TBA\nHosts: Juho Juntt
- ila & Lachlan Paterson\n\nEvent page: https://www.helsinkigse.fi/events/os
- si-tahvonen3
+SUMMARY:Practice Job Talk (Labor & Public Economics): Ossi Tahvonen — TBA
+DESCRIPTION:Series: Practice Job Talk (Labor & Public Economics)\nType: Pra
+ ctice Job Talk\nSpeaker: Ossi Tahvonen (University of Helsinki)\nTitle: TB
+ A\nHosts: Juho Junttila & Lachlan Paterson\n\nEvent page: https://www.hels
+ inkigse.fi/events/ossi-tahvonen3
 LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/ossi-tahvonen3
 STATUS:CONFIRMED
@@ -5447,9 +5442,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261105-miika-paallysaho2@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:1
-LAST-MODIFIED:20260914T150437Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:2
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261105T103000
 DTEND;TZID=Europe/Helsinki:20261105T113000
 SUMMARY:VATT: Miika Päällysaho — TBA
@@ -5463,9 +5458,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261106-francisco-roldan@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:4
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:5
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261106T110000
 DTEND;TZID=Europe/Helsinki:20261106T120000
 SUMMARY:Macroeconomics: Francisco Roldán
@@ -5479,9 +5474,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261109-hung-le6@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:1
-LAST-MODIFIED:20260922T150438Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:2
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261109T121500
 DTEND;TZID=Europe/Helsinki:20261109T133000
 SUMMARY:Practice Job Talk: Hung Le
@@ -5496,9 +5491,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261110-hugo-reichardt@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Labor & Public Economics: Hugo Reichardt
@@ -5513,9 +5508,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261112-marika-viertola2@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:1
-LAST-MODIFIED:20260914T150437Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:2
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261112T103000
 DTEND;TZID=Europe/Helsinki:20261112T113000
 SUMMARY:VATT: Marika Viertola — TBA
@@ -5529,9 +5524,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261116-aino-friman@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:1
-LAST-MODIFIED:20260922T150438Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:2
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261116T121500
 DTEND;TZID=Europe/Helsinki:20261116T133000
 SUMMARY:Practice Job Talk: Aino Friman
@@ -5546,9 +5541,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261116-joan-margalef@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:1
-LAST-MODIFIED:20260922T113601Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:2
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261116T150000
 DTEND;TZID=Europe/Helsinki:20261116T160000
 SUMMARY:Development Economics: Joan Margalef — A Probabilistic Measure of
@@ -5564,9 +5559,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261117-shqiponja-telhaj@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:3
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:4
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261117T120000
 DTEND;TZID=Europe/Helsinki:20261117T130000
 SUMMARY:Economics of Education (Educa): Shqiponja Telhaj
@@ -5581,9 +5576,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261117-tuomas-kaariaho@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:14
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:15
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261117T150000
 DTEND;TZID=Europe/Helsinki:20261117T160000
 SUMMARY:Environmental Economics: Tuomas Kaariaho
@@ -5597,15 +5592,16 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261118-atte-pudas5@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:3
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:4
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261118T120000
 DTEND;TZID=Europe/Helsinki:20261118T130000
-SUMMARY:Labor & Public Economics: Atte Pudas — TBA
-DESCRIPTION:Series: Labor & Public Economics\nType: Practice Job Talk\nSpea
- ker: Atte Pudas (Aalto University)\nTitle: TBA\nHosts: Juho Junttila & Lac
- hlan Paterson\n\nEvent page: https://www.helsinkigse.fi/events/atte-pudas5
+SUMMARY:Practice Job Talk (Labor & Public Economics): Atte Pudas — TBA
+DESCRIPTION:Series: Practice Job Talk (Labor & Public Economics)\nType: Pra
+ ctice Job Talk\nSpeaker: Atte Pudas (Aalto University)\nTitle: TBA\nHosts:
+  Juho Junttila & Lachlan Paterson\n\nEvent page: https://www.helsinkigse.f
+ i/events/atte-pudas5
 LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/atte-pudas5
@@ -5614,9 +5610,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261118-jordi-llorens-terrazas1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261118T150000
 DTEND;TZID=Europe/Helsinki:20261118T160000
 SUMMARY:Econometrics: Jordi Llorens-Terrazas
@@ -5630,9 +5626,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261119-tuomas-matikka4@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:1
-LAST-MODIFIED:20260914T150437Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:2
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261119T103000
 DTEND;TZID=Europe/Helsinki:20261119T113000
 SUMMARY:VATT: Tuomas Matikka — TBA
@@ -5645,9 +5641,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261123-elyas-saif@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:1
-LAST-MODIFIED:20260923T100519Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:2
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261123T121500
 DTEND;TZID=Europe/Helsinki:20261123T133000
 SUMMARY:Practice Job Talk: Elyas Saif
@@ -5662,9 +5658,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261124-wouter-leenders@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261124T150000
 DTEND;TZID=Europe/Helsinki:20261124T160000
 SUMMARY:Labor & Public Economics: Wouter Leenders
@@ -5677,9 +5673,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261125-labor-economics-reading-group2@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261125T120000
 DTEND;TZID=Europe/Helsinki:20261125T130000
 SUMMARY:Labor & Public Economics: Labor Economics Reading Group
@@ -5693,9 +5689,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261126-marten-ritterrath2@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:1
-LAST-MODIFIED:20260914T150437Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:2
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261126T103000
 DTEND;TZID=Europe/Helsinki:20261126T113000
 SUMMARY:VATT: Marten Ritterrath — TBA
@@ -5709,9 +5705,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261130-ossi-tahvonen11@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:1
-LAST-MODIFIED:20260922T150438Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:2
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261130T121500
 DTEND;TZID=Europe/Helsinki:20261130T133000
 SUMMARY:Practice Job Talk: Ossi Tahvonen
@@ -5726,9 +5722,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261201-piia-remes@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:14
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:15
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261201T150000
 DTEND;TZID=Europe/Helsinki:20261201T160000
 SUMMARY:Environmental Economics: Piia Remes
@@ -5742,9 +5738,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261202-juho-junttila2@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:3
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:4
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261202T120000
 DTEND;TZID=Europe/Helsinki:20261202T130000
 SUMMARY:Labor & Public Economics: Juho Junttila — Crime\, compulsory scho
@@ -5760,9 +5756,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261203-juho-alasalmi1@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:1
-LAST-MODIFIED:20260914T150437Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:2
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261203T103000
 DTEND;TZID=Europe/Helsinki:20261203T113000
 SUMMARY:VATT: Juho Alasalmi — TBA
@@ -5775,9 +5771,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261207-ellen-sahlstrom8@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:1
-LAST-MODIFIED:20260922T150438Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:2
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261207T121500
 DTEND;TZID=Europe/Helsinki:20261207T133000
 SUMMARY:Practice Job Talk: Ellen Sahlström
@@ -5791,9 +5787,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261208-kenza-elass@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:1
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:2
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261208T150000
 DTEND;TZID=Europe/Helsinki:20261208T160000
 SUMMARY:Labor & Public Economics: Kenza Elass
@@ -5808,9 +5804,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261209-alvaro-cox@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261209T150000
 DTEND;TZID=Europe/Helsinki:20261209T160000
 SUMMARY:Macroeconomics: Alvaro Cox — Bringing Demand Within Reach: Digita
@@ -5825,9 +5821,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261209-labor-economics-reading-group3@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:13
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:14
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261209T120000
 DTEND;TZID=Europe/Helsinki:20261209T130000
 SUMMARY:Labor & Public Economics: Labor Economics Reading Group
@@ -5842,9 +5838,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261211-lu-cheng@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:1
-LAST-MODIFIED:20260922T150438Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:2
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261211T143000
 DTEND;TZID=Europe/Helsinki:20261211T154500
 SUMMARY:Practice Job Talk: Lu Cheng
@@ -5859,18 +5855,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261215-labor-and-public-economics-phd-workshop-2026@helsinkigse.
  fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:2
-LAST-MODIFIED:20260918T150425Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:3
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261215T090000
 DTEND;TZID=Europe/Helsinki:20261215T160000
-SUMMARY:Labor & Public Economics: Labor and Public Economics PhD Workshop 
- — Workshop for Helsinki GSE and FDPE PhD students
+SUMMARY:Labor & Public Economics: Labor and Public Economics PhD Workshop
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Workshop\nTitle: La
- bor and Public Economics PhD Workshop — Workshop for Helsinki GSE and FD
- PE PhD students\nHosts: Cristina Bratu & Matti Mitrunen & Terhi Ravaska\n\
- nEvent page: https://www.helsinkigse.fi/events/labor-and-public-economics-
- phd-workshop-2026
+ bor and Public Economics PhD Workshop\nAbout: Workshop for Helsinki GSE an
+ d FDPE PhD students\nHosts: Cristina Bratu & Matti Mitrunen & Terhi Ravask
+ a\n\nEvent page: https://www.helsinkigse.fi/events/labor-and-public-econom
+ ics-phd-workshop-2026
 LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/labor-and-public-economics-phd-worksh
  op-2026
@@ -5879,9 +5874,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261215-linde-kattenberg@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:14
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:15
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261215T150000
 DTEND;TZID=Europe/Helsinki:20261215T160000
 SUMMARY:Environmental Economics: Linde Kattenberg
@@ -5895,9 +5890,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261216-ozan-yanar@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:3
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:4
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261216T120000
 DTEND;TZID=Europe/Helsinki:20261216T130000
 SUMMARY:Labor & Public Economics: Ozan Yanar — The Impact of the Finnish 
@@ -5913,9 +5908,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261217-martti-kaila2@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:1
-LAST-MODIFIED:20260914T150437Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:2
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261217T103000
 DTEND;TZID=Europe/Helsinki:20261217T113000
 SUMMARY:VATT: Martti Kaila — TBA
@@ -5929,9 +5924,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20270317-christian-brownlees@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:3
-LAST-MODIFIED:20260911T150359Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:4
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20270317T150000
 DTEND;TZID=Europe/Helsinki:20270317T160000
 SUMMARY:Econometrics: Christian Brownlees
@@ -5944,9 +5939,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20270518-matthew-kraft@helsinkigse.fi
-DTSTAMP:20260923T111050Z
-SEQUENCE:1
-LAST-MODIFIED:20260915T150438Z
+DTSTAMP:20260923T125208Z
+SEQUENCE:2
+LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20270518T120000
 DTEND;TZID=Europe/Helsinki:20270518T130000
 SUMMARY:Economics of Education (Educa): Matthew Kraft
