@@ -84,6 +84,23 @@ Calendar, right-click it and choose **Unsubscribe**; in Google Calendar, open it
 
 ---
 
+## Colours, and calendars side by side
+
+**Each series in its own colour.** Every feed you subscribe to is a calendar of
+its own, so your calendar app can show each series in its own colour, which the
+single combined feed cannot. To change a colour: in Outlook, right-click the
+calendar and choose **Color**; in Google Calendar, click the three dots next to
+it and pick a colour; in Apple Calendar, pick one as you subscribe, or later
+Control-click the calendar (Mac) or tap the info button next to it (iPhone).
+
+**Outlook showing the calendars side by side instead of in one view?** In
+Outlook on the web and the new Outlook, switch off **Split view**. In classic
+Outlook for Windows, click the arrow on each calendar's tab (**View in Overlay
+Mode**). In Outlook for Mac, choose **View** → **Overlay** in Day, Work Week or
+Week view.
+
+---
+
 ## What's in an event
 
 The series, the speaker and their affiliation, the paper's title once it is
