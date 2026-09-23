@@ -65,9 +65,10 @@ as a joint seminar or a job talk, appears in both.
 **Subscribe, don't import.** A subscribed calendar keeps itself up to date. An
 imported one is a one-time copy that never changes.
 
-Use the `raw.githubusercontent.com` addresses in the tables above. An address
-copied from GitHub's own page for a file (`github.com/…/blob/…`) will not work:
-it leads to a web page, not to the calendar.
+Use the addresses in the tables above. An address copied from GitHub's own page
+for a file (`github.com/…/blob/…`) will not work: it leads to a web page, not to
+the calendar. A calendar you added earlier from a `raw.githubusercontent.com`
+address keeps working.
 
 | App | How |
 |---|---|
