@@ -109,6 +109,9 @@
   .lede { margin: 18px 0 14px; font-size: 16px; line-height: 1.5; color: var(--ink); }
   .whole-title + .lede { margin-top: 8px; }
   .hint, .note { margin: 0; font-size: 14px; line-height: 1.55; color: var(--muted); }
+  /* The sentence on colours, under the header and over the first series:
+     the note's grey and size, set in as far as the list is. */
+  .sb-lede { margin: 14px var(--sbpad) 0; }
   .note strong { color: var(--ink); font-weight: 600; }
   .warn { margin-bottom: 14px; }
   .buttons { line-height: 0; }
@@ -119,6 +122,9 @@
   details.cadence summary { font-size: 15px; line-height: 1.5; color: var(--brand);
                             cursor: pointer; }
   details.cadence .note { margin-top: 8px; }
+  /* Two notes, one over the other: the upper one leaves the gap under the
+     column to the lower. */
+  details.tips { padding-bottom: 0; }
 
   /* Phones: the letter's own breakpoint. The three buttons fit one row with
      their short names, and the long ones come back from 621px up. */
@@ -454,6 +460,8 @@
     <div class="kicker-row"><p class="kicker">Calendar feeds</p></div>
     <h2 class="sb-title" id="cal-title">Add a series to your calendar</h2>
   </div>
+  <p class="note sb-lede">Each series you add is a calendar of its own, so
+     your calendar app can show each one in its own colour.</p>
   <ul class="series" aria-labelledby="cal-title">
       <li class="srow">
         <div class="sname"><div class="sl">Behavioral Economics</div><div class="sm" title="Behavioral Economics: 18th Nordic Conference in Behavioral and Experimental Economics — Hanken School of Economics and Helsinki GSE will be hosting the 18th…">all 23 events &middot; next 25 Sep</div></div>
@@ -526,6 +534,20 @@
     <p class="note addr">Another calendar app? Subscribe to the combined feed by
        its address:<span class="addr-line"><span class="url"><span class="url-part">https://lumikko-econ.github.io/</span><wbr><span class="url-part">hgse-cal/</span><wbr><span class="url-part url-file">helsinki-gse.ics</span></span> <button type="button" data-copy="https://lumikko-econ.github.io/hgse-cal/helsinki-gse.ics" data-subject="the address of the combined calendar" aria-live="polite" aria-label="Copy the address of the combined calendar" class="card" style="display:none;vertical-align:middle;margin:2px 0 2px 5px;border:1px solid #C18B5C;border-radius:2px;background:#FDFDFD;color:#C18B5C;cursor:pointer;white-space:nowrap;font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:12px;line-height:1;padding:5px 9px;">Copy</button></span></p>
   </div>
+  <details class="cadence tips">
+    <summary>Colours, and calendars side by side</summary>
+    <p class="note">To change a calendar&rsquo;s colour: in Outlook,
+       right-click it and choose Color; in Google Calendar, click the three
+       dots next to it and pick a colour; in Apple Calendar, you pick one as
+       you subscribe, and can change it later by Control-clicking the
+       calendar on a Mac, or tapping the info button next to it on an
+       iPhone.</p>
+    <p class="note">Outlook showing your calendars side by side instead of in
+       one view? In Outlook on the web and the new Outlook, switch off Split
+       view. In classic Outlook for Windows, click the arrow on each
+       calendar&rsquo;s tab (View in Overlay Mode). In Outlook for Mac, choose
+       View, then Overlay, in Day, Work Week or Week view.</p>
+  </details>
   <details class="cadence">
     <summary>How often the feeds update, and how to remove one</summary>
     <p class="note">Three times a day. Your calendar app decides how often
