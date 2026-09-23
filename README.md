@@ -79,6 +79,10 @@ address keeps working.
 | **Google Calendar** | **Other calendars +** → **From URL** → paste |
 | **Apple Calendar** | **File** → **New Calendar Subscription** → paste, then choose how often under **Auto-refresh** |
 
+**Outlook keeps asking you to sign in, or says something went wrong?** Clear
+your browser's cookies for the Microsoft sites, or open the link in a private
+window, and try again.
+
 **To remove a feed:** in Outlook, right-click it in the calendar list and choose
 **Remove** (**Delete Calendar** in classic Outlook for Windows); in Apple
 Calendar, right-click it and choose **Unsubscribe**; in Google Calendar, open its
