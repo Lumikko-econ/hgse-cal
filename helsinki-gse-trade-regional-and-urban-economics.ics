@@ -30,61 +30,63 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250210-andrii-parkhomenko@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250210
-DTEND;VALUE=DATE:20250211
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250210T160000
+DTEND;TZID=Europe/Helsinki:20250210T170000
 SUMMARY:Trade\, Regional and Urban Economics: Andrii Parkhomenko — Dynami
  c Urban Economics
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  eaker: Andrii Parkhomenko (University of Southern California\, Marshall Sc
- hool of Business)\nTitle: Dynamic Urban Economics\n\nTime not published ye
- t — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/event
- s/andrii-parkhomenko
+ hool of Business)\nTitle: Dynamic Urban Economics\n\nEvent page: https://w
+ ww.helsinkigse.fi/events/andrii-parkhomenko
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/andrii-parkhomenko
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250310-ismir-mulalic@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250310
-DTEND;VALUE=DATE:20250311
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250310T160000
+DTEND;TZID=Europe/Helsinki:20250310T170000
 SUMMARY:Trade\, Regional and Urban Economics: Ismir Mulalic — The Geograp
  hy of Life: Evidence from Copenhagen (with Gabriel M.…
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  eaker: Ismir Mulalic (Copenhagen Business School)\nTitle: The Geography of
   Life: Evidence from Copenhagen (with Gabriel M. Ahlfeldt\, Caterina Soto-
- Vieira and Daniel M. Sturm)\n\nTime not published yet — all-day placehol
- der.\n\nEvent page: https://www.helsinkigse.fi/events/ismir-mulalic
+ Vieira and Daniel M. Sturm)\n\nEvent page: https://www.helsinkigse.fi/even
+ ts/ismir-mulalic
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/ismir-mulalic
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250407-pierre-magontier@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250407
-DTEND;VALUE=DATE:20250408
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250407T160000
+DTEND;TZID=Europe/Helsinki:20250407T170000
 SUMMARY:Trade\, Regional and Urban Economics: Pierre Magontier — Endogeno
  us Government Formation and Spatial Sorting (with Marcel…
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  eaker: Pierre Magontier (University Pompeu Fabra and the Barcelona School 
  of Economics (BSE))\nTitle: Endogenous Government Formation and Spatial So
- rting (with Marcel Henkel)\n\nTime not published yet — all-day placehold
- er.\n\nEvent page: https://www.helsinkigse.fi/events/pierre-magontier
+ rting (with Marcel Henkel)\n\nEvent page: https://www.helsinkigse.fi/event
+ s/pierre-magontier
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/pierre-magontier
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250428-cristina-bratu1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T044648Z
 DTSTART;VALUE=DATE:20250428
@@ -99,26 +101,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250526-elisabet-viladecans-marsal@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250526
-DTEND;VALUE=DATE:20250527
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250526T160000
+DTEND;TZID=Europe/Helsinki:20250526T170000
 SUMMARY:Trade\, Regional and Urban Economics: Elisabet Viladecans-Marsal 
  — When Developers Hold Office: Shaping Housing Supply Through Local…
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  eaker: Elisabet Viladecans-Marsal (University of Barcelona)\nTitle: When D
  evelopers Hold Office: Shaping Housing Supply Through Local Politics (with
-  Ghizlen Ouasbaa & Albert Solé-Ollé)\n\nTime not published yet — all-d
- ay placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/elisabet-
- viladecans-marsal
+  Ghizlen Ouasbaa & Albert Solé-Ollé)\n\nEvent page: https://www.helsinki
+ gse.fi/events/elisabet-viladecans-marsal
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/elisabet-viladecans-marsal
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250602-urban-and-spatial-economics-phd-workshop2@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20250602T093000
@@ -151,18 +153,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250908-second-nordic-meeting-in-urban-economics@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:15
-LAST-MODIFIED:20260923T125208Z
+DTSTAMP:20260929T141057Z
+SEQUENCE:16
+LAST-MODIFIED:20260929T141057Z
 DTSTART;VALUE=DATE:20250908
 DTEND;VALUE=DATE:20250909
 SUMMARY:Trade\, Regional and Urban Economics: Second Nordic Meeting in Urba
  n Economics
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Conference\
  nTitle: Second Nordic Meeting in Urban Economics\nHosts: Prottoy Akbar & A
- manda Ang & Tuukka Saarimaa & Pablo Warnes\n\nTime not published yet — a
- ll-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/secon
- d-nordic-meeting-in-urban-economics
+ manda Ang & Tuukka Saarimaa & Pablo Warnes\n\nTime not recorded.\n\nEvent 
+ page: https://www.helsinkigse.fi/events/second-nordic-meeting-in-urban-eco
+ nomics
 LOCATION:Hotel Katajanokka\, Helsinki\, Finland
 URL:https://www.helsinkigse.fi/events/second-nordic-meeting-in-urban-econom
  ics
@@ -171,25 +173,25 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250922-kwok-hao-lee@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250922
-DTEND;VALUE=DATE:20250923
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250922T160000
+DTEND;TZID=Europe/Helsinki:20250922T170000
 SUMMARY:Trade\, Regional and Urban Economics: Kwok Hao Lee — Distribution
  al effects of vehicle ownership restrictions
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  eaker: Kwok Hao Lee (National University of Singapore Business School)\nTi
- tle: Distributional effects of vehicle ownership restrictions\n\nTime not 
- published yet — all-day placeholder.\n\nEvent page: https://www.helsinki
- gse.fi/events/kwok-hao-lee
+ tle: Distributional effects of vehicle ownership restrictions\n\nEvent pag
+ e: https://www.helsinkigse.fi/events/kwok-hao-lee
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/kwok-hao-lee
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251020-florian-oswald1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T044648Z
 DTSTART;VALUE=DATE:20251020
@@ -206,61 +208,63 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251103-nicolas-gendron-carrier@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251103
-DTEND;VALUE=DATE:20251104
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251103T160000
+DTEND;TZID=Europe/Helsinki:20251103T170000
 SUMMARY:Trade\, Regional and Urban Economics: Nicolas Gendron-Carrier — R
  esidential Human Capital and Economic Spillovers (with Nathaniel…
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  eaker: Nicolas Gendron-Carrier (McGill University)\nTitle: Residential Hum
  an Capital and Economic Spillovers (with Nathaniel Baum-Snow and Ronni Pav
- an)\n\nTime not published yet — all-day placeholder.\n\nEvent page: http
- s://www.helsinkigse.fi/events/nicolas-gendron-carrier
+ an)\n\nEvent page: https://www.helsinkigse.fi/events/nicolas-gendron-carri
+ er
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/nicolas-gendron-carrier
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251117-jakob-vanschoonbeek@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251117
-DTEND;VALUE=DATE:20251118
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251117T160000
+DTEND;TZID=Europe/Helsinki:20251117T170000
 SUMMARY:Trade\, Regional and Urban Economics: Jakob Vanschoonbeek — The s
  patial political economy of discontent
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  eaker: Jakob Vanschoonbeek (KU Leuven)\nTitle: The spatial political econo
- my of discontent\n\nTime not published yet — all-day placeholder.\n\nEve
- nt page: https://www.helsinkigse.fi/events/jakob-vanschoonbeek
+ my of discontent\n\nEvent page: https://www.helsinkigse.fi/events/jakob-va
+ nschoonbeek
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/jakob-vanschoonbeek
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260302-dionissi-aliprantis@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260302
-DTEND;VALUE=DATE:20260303
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260302T160000
+DTEND;TZID=Europe/Helsinki:20260302T170000
 SUMMARY:Trade\, Regional and Urban Economics: Dionissi Aliprantis — Ident
  ifying Long-Run Neighborhood Effects via Race-Based Neighborhood…
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
  eaker: Dionissi Aliprantis (École Normale Supérieure (ENS) de Lyon)\nTit
  le: Identifying Long-Run Neighborhood Effects via Race-Based Neighborhood 
- Sorting (with Dan Hartley and Chris Muris)\n\nTime not published yet — a
- ll-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/dioni
- ssi-aliprantis
+ Sorting (with Dan Hartley and Chris Muris)\n\nEvent page: https://www.hels
+ inkigse.fi/events/dionissi-aliprantis
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/dionissi-aliprantis
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260420-mikko-silliman1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260420T160000
@@ -278,7 +282,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260504-sara-bagagli@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260504T160000
@@ -296,7 +300,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260518-giorgio-pietrobissa@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260518T160000
@@ -315,7 +319,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260528-joint-urban-and-spatial-economics-phd-workshop@helsinkigs
  e.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:16
 LAST-MODIFIED:20260929T100710Z
 DTSTART;VALUE=DATE:20260528
@@ -334,7 +338,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260601-florian-oswald3@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T100710Z
 DTSTART;TZID=Europe/Helsinki:20260601T160000
@@ -353,7 +357,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260907-jos-van-ommeren@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260907T150000
@@ -372,7 +376,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260921-andrea-herrera@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260921T150000
@@ -391,7 +395,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261005-caterina-soto-vieira@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261005T150000
@@ -408,7 +412,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261026-veronica-salazar-restrepo@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261026T150000
@@ -426,7 +430,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261109-albert-sole-olle@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261109T150000
@@ -443,7 +447,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261123-ignacio-aravena-gonzalez@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261123T150000
@@ -461,7 +465,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261130-lucas-conwell@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261130T150000

@@ -30,236 +30,238 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250310-matthias-sutter1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250310
-DTEND;VALUE=DATE:20250311
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250310T160000
+DTEND;TZID=Europe/Helsinki:20250310T170000
 SUMMARY:Behavioral Economics: ONLINE Matthias Sutter — The Right Timing M
  atters: Sensitive Periods in the Formation of…
 DESCRIPTION:Series: Behavioral Economics\nType: Seminar\nSpeaker: ONLINE Ma
  tthias Sutter (Max Planck Institute\, Bonn)\nTitle: The Right Timing Matte
  rs: Sensitive Periods in the Formation of Socio-Emotional Skills (with Lau
- ra Breitkopf\, Shyamal Chowdhury\, Daniel A. Kamhöfer …\n\nTime not pub
- lished yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse
- .fi/events/matthias-sutter1
+ ra Breitkopf\, Shyamal Chowdhury\, Daniel A. Kamhöfer and Hannah Schildbe
+ rg-Hörisch)\n\nEvent page: https://www.helsinkigse.fi/events/matthias-sut
+ ter1
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/matthias-sutter1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250327-gustav-karreskog-rehbinder@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250327
-DTEND;VALUE=DATE:20250328
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250327T160000
+DTEND;TZID=Europe/Helsinki:20250327T170000
 SUMMARY:Behavioral Economics: Gustav Karreskog Rehbinder — Learning in Ga
  mes: New Estimation Method\, Data\, and Models
 DESCRIPTION:Series: Behavioral Economics\nType: Seminar\nSpeaker: Gustav Ka
  rreskog Rehbinder (Uppsala University)\nTitle: Learning in Games: New Esti
- mation Method\, Data\, and Models\n\nTime not published yet — all-day pl
- aceholder.\n\nEvent page: https://www.helsinkigse.fi/events/gustav-karresk
- og-rehbinder
+ mation Method\, Data\, and Models\n\nEvent page: https://www.helsinkigse.f
+ i/events/gustav-karreskog-rehbinder
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/gustav-karreskog-rehbinder
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250424-juho-nuutinen-and-matias-giaccobasso@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250424
-DTEND;VALUE=DATE:20250425
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250424T160000
+DTEND;TZID=Europe/Helsinki:20250424T170000
 SUMMARY:Behavioral Economics: Juho Nuutinen and Matias Giaccobasso
 DESCRIPTION:Series: Behavioral Economics\nType: Brown Bag Seminar\nSpeaker:
   Juho Nuutinen and Matias Giaccobasso (Nuutinen: Hanken / Giaccobasso: VAT
- T)\nTitle: TBA\n\nTime not published yet — all-day placeholder.\n\nEvent
-  page: https://www.helsinkigse.fi/events/juho-nuutinen-and-matias-giaccoba
- sso
+ T)\nTitle: TBA\n\nEvent page: https://www.helsinkigse.fi/events/juho-nuuti
+ nen-and-matias-giaccobasso
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/juho-nuutinen-and-matias-giaccobasso
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250515-tuuli-sen-and-martin-brun@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250515
-DTEND;VALUE=DATE:20250516
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250515T160000
+DTEND;TZID=Europe/Helsinki:20250515T170000
 SUMMARY:Behavioral Economics: Tuuli Sen and Martín Brun — Brun: How Expe
  riencing Unequal Circumstances Shapes Redistribution…
 DESCRIPTION:Series: Behavioral Economics\nType: Brown Bag Seminar\nSpeaker:
   Tuuli Sen and Martín Brun (Sen: TAU/PTT and Brun: TAU/FIT)\nTitle: Brun:
   How Experiencing Unequal Circumstances Shapes Redistribution Decisions\n\
- nTime not published yet — all-day placeholder.\n\nEvent page: https://ww
- w.helsinkigse.fi/events/tuuli-sen-and-martin-brun
+ nEvent page: https://www.helsinkigse.fi/events/tuuli-sen-and-martin-brun
+LOCATION:Seminar room 3-4\, Ekonomicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/tuuli-sen-and-martin-brun
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250605-tuomas-kosonen1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250605
-DTEND;VALUE=DATE:20250606
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250605T150000
+DTEND;TZID=Europe/Helsinki:20250605T160000
 SUMMARY:Behavioral Economics: Tuomas Kosonen — Optimization Errors in Tax
  es
 DESCRIPTION:Series: Behavioral Economics\nType: Seminar\nSpeaker: Tuomas Ko
- sonen (VATT)\nTitle: Optimization Errors in Taxes\n\nTime not published ye
- t — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/event
- s/tuomas-kosonen1
+ sonen (VATT)\nTitle: Optimization Errors in Taxes\n\nEvent page: https://w
+ ww.helsinkigse.fi/events/tuomas-kosonen1
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/tuomas-kosonen1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250918-tilman-fries@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250918
-DTEND;VALUE=DATE:20250919
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250918T160000
+DTEND;TZID=Europe/Helsinki:20250918T170000
 SUMMARY:Behavioral Economics: Tilman Fries — Narratives\, Belief Movement
  s\, and Economic Fluctuations
 DESCRIPTION:Series: Behavioral Economics\nType: Seminar\nSpeaker: Tilman Fr
  ies (LMU Munich)\nTitle: Narratives\, Belief Movements\, and Economic Fluc
- tuations\n\nTime not published yet — all-day placeholder.\n\nEvent page:
-  https://www.helsinkigse.fi/events/tilman-fries
+ tuations\n\nEvent page: https://www.helsinkigse.fi/events/tilman-fries
+LOCATION:Seminar room 2\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/tilman-fries
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251002-christoph-huber@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251002
-DTEND;VALUE=DATE:20251003
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251002T160000
+DTEND;TZID=Europe/Helsinki:20251002T170000
 SUMMARY:Behavioral Economics: Christoph Huber — Do experimental asset mar
  ket results replicate? High-powered…
 DESCRIPTION:Series: Behavioral Economics\nType: Seminar\nSpeaker: Christoph
   Huber (Aalto University)\nTitle: Do experimental asset market results rep
- licate? High-powered preregistered replications of 17 key results\n\nTime 
- not published yet — all-day placeholder.\n\nEvent page: https://www.hels
- inkigse.fi/events/christoph-huber
+ licate? High-powered preregistered replications of 17 key results\n\nEvent
+  page: https://www.helsinkigse.fi/events/christoph-huber
+LOCATION:Seminar room 2\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/christoph-huber
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251009-nancy-chau@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251009
-DTEND;VALUE=DATE:20251010
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251009T160000
+DTEND;TZID=Europe/Helsinki:20251009T170000
 SUMMARY:Behavioral Economics: Nancy Chau — Dishonesty Concessions in Team
  s: Theory\, and Experimental Insights…
 DESCRIPTION:Series: Behavioral Economics\nType: Seminar\nSpeaker: Nancy Cha
  u (Cornell University)\nTitle: Dishonesty Concessions in Teams: Theory\, a
- nd Experimental Insights from Local Politicians in India\n\nTime not publi
- shed yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.f
- i/events/nancy-chau
+ nd Experimental Insights from Local Politicians in India\n\nEvent page: ht
+ tps://www.helsinkigse.fi/events/nancy-chau
+LOCATION:Online
 URL:https://www.helsinkigse.fi/events/nancy-chau
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251106-yiming-liu@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251106
-DTEND;VALUE=DATE:20251107
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251106T160000
+DTEND;TZID=Europe/Helsinki:20251106T170000
 SUMMARY:Behavioral Economics: Yiming Liu — Dreaming rich: How inequality 
  sustains itself through motivated…
 DESCRIPTION:Series: Behavioral Economics\nType: Seminar\nSpeaker: Yiming Li
  u (University of Berlin/WZB Berlin Social Science Center)\nTitle: Dreaming
-  rich: How inequality sustains itself through motivated beliefs\n\nTime no
- t published yet — all-day placeholder.\n\nEvent page: https://www.helsin
- kigse.fi/events/yiming-liu
+  rich: How inequality sustains itself through motivated beliefs\n\nEvent p
+ age: https://www.helsinkigse.fi/events/yiming-liu
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/yiming-liu
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251127-evan-friedman@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251127
-DTEND;VALUE=DATE:20251128
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251127T160000
+DTEND;TZID=Europe/Helsinki:20251127T170000
 SUMMARY:Behavioral Economics: Evan Friedman — Deception Aversion
 DESCRIPTION:Series: Behavioral Economics\nType: Seminar\nSpeaker: Evan Frie
- dman (Paris School of Economics)\nTitle: Deception Aversion\n\nTime not pu
- blished yet — all-day placeholder.\n\nEvent page: https://www.helsinkigs
- e.fi/events/evan-friedman
+ dman (Paris School of Economics)\nTitle: Deception Aversion\n\nEvent page:
+  https://www.helsinkigse.fi/events/evan-friedman
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/evan-friedman
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260225-juho-nuutinen-and-nhi-cao@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260225
-DTEND;VALUE=DATE:20260226
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260225T160000
+DTEND;TZID=Europe/Helsinki:20260225T170000
 SUMMARY:Behavioral Economics: Juho Nuutinen and Nhi Cao — Age norms and g
  roup problem-solving: an experiment by Nhi Cao and…
 DESCRIPTION:Series: Behavioral Economics\nType: Brown Bag Seminar\nSpeaker:
   Juho Nuutinen and Nhi Cao (Hanken)\nTitle: Age norms and group problem-so
  lving: an experiment by Nhi Cao and Equality of opportunity and preference
- s for redistribution by Juho Nuutinen\n\nTime not published yet — all-da
- y placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/juho-nuuti
- nen-and-nhi-cao
+ s for redistribution by Juho Nuutinen\n\nEvent page: https://www.helsinkig
+ se.fi/events/juho-nuutinen-and-nhi-cao
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/juho-nuutinen-and-nhi-cao
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260304-gonzalo-arrieta@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260304
-DTEND;VALUE=DATE:20260305
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260304T160000
+DTEND;TZID=Europe/Helsinki:20260304T170000
 SUMMARY:Behavioral Economics: Gonzalo Arrieta — Procedural Decision-Makin
  g in the Face of Complexity
 DESCRIPTION:Series: Behavioral Economics\nType: Seminar\nSpeaker: Gonzalo A
  rrieta (University of Zurich)\nTitle: Procedural Decision-Making in the Fa
- ce of Complexity\n\nTime not published yet — all-day placeholder.\n\nEve
- nt page: https://www.helsinkigse.fi/events/gonzalo-arrieta
+ ce of Complexity\n\nEvent page: https://www.helsinkigse.fi/events/gonzalo-
+ arrieta
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/gonzalo-arrieta
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260319-marja-liisa-halko-daniel-carvajal@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260320
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260319T160000
+DTEND;TZID=Europe/Helsinki:20260319T170000
 SUMMARY:Behavioral Economics: Marja-Liisa Halko & Daniel Carvajal
 DESCRIPTION:Series: Behavioral Economics\nType: Brown Bag Seminar\nSpeaker:
   Marja-Liisa Halko & Daniel Carvajal (University of Helsinki and Aalto Uni
- versity)\nTitle: TBA\n\nTime not published yet — all-day placeholder.\n\
- nEvent page: https://www.helsinkigse.fi/events/marja-liisa-halko-daniel-ca
- rvajal
+ versity)\nTitle: TBA\n\nEvent page: https://www.helsinkigse.fi/events/marj
+ a-liisa-halko-daniel-carvajal
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/marja-liisa-halko-daniel-carvajal
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260409-daniel-hauser-daniel-peredo-siles@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260409T160000
@@ -276,7 +278,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260422-pauline-vorjohann@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260422T160000
@@ -293,7 +295,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260507-juho-nuutinen-lauri-saaksvuori@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260507T160000
@@ -310,7 +312,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260521-ola-andersson@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260521T160000
@@ -328,7 +330,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260528-gary-bolton@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T100710Z
 DTSTART;TZID=Europe/Helsinki:20260528T160000
@@ -346,7 +348,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260819-anh-nguyen@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260819T160000
@@ -363,7 +365,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260925-18th-nordic-conference-in-behavioral-and-experimental-eco
  nomics@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:5
 LAST-MODIFIED:20260929T044648Z
 DTSTART;VALUE=DATE:20260925
@@ -384,7 +386,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260930-ethan-o-leary@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:4
 LAST-MODIFIED:20260928T100523Z
 DTSTART;TZID=Europe/Helsinki:20260930T150000
@@ -401,7 +403,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261014-roberto-caputo@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:3
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261014T160000
@@ -417,7 +419,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261028-elias-tsakas-evangelos-mourelatos@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20261028

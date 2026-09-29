@@ -30,34 +30,35 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250225-hannu-huuki@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250225
-DTEND;VALUE=DATE:20250226
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250225T150000
+DTEND;TZID=Europe/Helsinki:20250225T160000
 SUMMARY:Environmental Economics: Hannu Huuki — Price information and elec
  tricity consumption: lessons learned from a…
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Hannu 
  Huuki (Finnish Environment Institute / University of Oulu Business School)
  \nTitle: Price information and electricity consumption: lessons learned fr
- om a randomized control trial\n\nTime not published yet — all-day placeh
- older.\n\nEvent page: https://www.helsinkigse.fi/events/hannu-huuki
+ om a randomized control trial\n\nEvent page: https://www.helsinkigse.fi/ev
+ ents/hannu-huuki
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/hannu-huuki
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250304-environmental-economics-reading-group11@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250304
-DTEND;VALUE=DATE:20250305
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250304T150000
+DTEND;TZID=Europe/Helsinki:20250304T160000
 SUMMARY:Environmental Economics: Environmental Economics Reading Group
 DESCRIPTION:Series: Environmental Economics\nType: Reading Group\nTitle: En
- vironmental Economics Reading Group\n\nTime not published yet — all-day 
- placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/environmenta
- l-economics-reading-group11
+ vironmental Economics Reading Group\n\nEvent page: https://www.helsinkigse
+ .fi/events/environmental-economics-reading-group11
+LOCATION:Online (ask link for the meeting: kimmo.ollikka@vatt.fi)
 URL:https://www.helsinkigse.fi/events/environmental-economics-reading-group
  11
 STATUS:CONFIRMED
@@ -65,52 +66,53 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250311-leopold-monjoie@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250311
-DTEND;VALUE=DATE:20250312
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250311T150000
+DTEND;TZID=Europe/Helsinki:20250311T160000
 SUMMARY:Environmental Economics: Leopold Monjoie — Self-Selection in Reta
  il Electricity Contracts – Competition…
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Leopol
  d Monjoie (Aalto University)\nTitle: Self-Selection in Retail Electricity 
- Contracts – Competition\, Regulation\, and Welfare Implications\n\nTime 
- not published yet — all-day placeholder.\n\nEvent page: https://www.hels
- inkigse.fi/events/leopold-monjoie
+ Contracts – Competition\, Regulation\, and Welfare Implications\n\nEvent
+  page: https://www.helsinkigse.fi/events/leopold-monjoie
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/leopold-monjoie
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250325-piero-basaglia@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250325
-DTEND;VALUE=DATE:20250326
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250325T150000
+DTEND;TZID=Europe/Helsinki:20250325T160000
 SUMMARY:Environmental Economics: Piero Basaglia — Demand for healthcare s
  ervices and air pollution: Quasi-experimental…
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Piero 
  Basaglia (University of Hamburg)\nTitle: Demand for healthcare services an
  d air pollution: Quasi-experimental evidence from Mexico (with Luis Sarmie
- nto at the Bank of Mexico)\n\nTime not published yet — all-day placehold
- er.\n\nEvent page: https://www.helsinkigse.fi/events/piero-basaglia
+ nto at the Bank of Mexico)\n\nEvent page: https://www.helsinkigse.fi/event
+ s/piero-basaglia
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/piero-basaglia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250401-environmental-economics-reading-group12@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250401
-DTEND;VALUE=DATE:20250402
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250401T150000
+DTEND;TZID=Europe/Helsinki:20250401T160000
 SUMMARY:Environmental Economics: Environmental Economics Reading Group
 DESCRIPTION:Series: Environmental Economics\nType: Reading Group\nTitle: En
- vironmental Economics Reading Group\n\nTime not published yet — all-day 
- placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/environmenta
- l-economics-reading-group12
+ vironmental Economics Reading Group\n\nEvent page: https://www.helsinkigse
+ .fi/events/environmental-economics-reading-group12
+LOCATION:Online (ask link for the meeting: kimmo.ollikka@vatt.fi)
 URL:https://www.helsinkigse.fi/events/environmental-economics-reading-group
  12
 STATUS:CONFIRMED
@@ -118,52 +120,53 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250408-camille-hainnaux@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250408
-DTEND;VALUE=DATE:20250409
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250408T150000
+DTEND;TZID=Europe/Helsinki:20250408T160000
 SUMMARY:Environmental Economics: Camille Hainnaux — Reverse education and
   endogenous green preferences in environmental…
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Camill
  e Hainnaux (University of Helsinki)\nTitle: Reverse education and endogeno
- us green preferences in environmental policies\n\nTime not published yet 
- — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/
- camille-hainnaux
+ us green preferences in environmental policies\n\nEvent page: https://www.
+ helsinkigse.fi/events/camille-hainnaux
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/camille-hainnaux
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250422-madeline-werthschulte@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250422
-DTEND;VALUE=DATE:20250423
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250422T150000
+DTEND;TZID=Europe/Helsinki:20250422T160000
 SUMMARY:Environmental Economics: Madeline Werthschulte — Do energy-saving
   nudges deliver during peak prices? Field…
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Madeli
  ne Werthschulte (Vrije Universiteit Amsterdam)\nTitle: Do energy-saving nu
  dges deliver during peak prices? Field experimental evidence from the Euro
- pean Energy Crisis\n\nTime not published yet — all-day placeholder.\n\nE
- vent page: https://www.helsinkigse.fi/events/madeline-werthschulte
+ pean Energy Crisis\n\nEvent page: https://www.helsinkigse.fi/events/madeli
+ ne-werthschulte
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/madeline-werthschulte
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250429-environmental-economics-reading-group13@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250429
-DTEND;VALUE=DATE:20250430
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250429T150000
+DTEND;TZID=Europe/Helsinki:20250429T160000
 SUMMARY:Environmental Economics: Environmental Economics Reading Group
 DESCRIPTION:Series: Environmental Economics\nType: Reading Group\nTitle: En
- vironmental Economics Reading Group\n\nTime not published yet — all-day 
- placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/environmenta
- l-economics-reading-group13
+ vironmental Economics Reading Group\n\nEvent page: https://www.helsinkigse
+ .fi/events/environmental-economics-reading-group13
+LOCATION:Online (ask link for the meeting: kimmo.ollikka@vatt.fi)
 URL:https://www.helsinkigse.fi/events/environmental-economics-reading-group
  13
 STATUS:CONFIRMED
@@ -171,7 +174,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250520-stefan-ambec@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T044648Z
 DTSTART;VALUE=DATE:20250520
@@ -188,25 +191,25 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250520-salomo-hirvonen@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250520
-DTEND;VALUE=DATE:20250521
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250520T150000
+DTEND;TZID=Europe/Helsinki:20250520T160000
 SUMMARY:Environmental Economics: Salomo Hirvonen — Weather Sensitivity of
   Energy Classification Premiums: Evidence From…
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Salomo
   Hirvonen (University of Turku)\nTitle: Weather Sensitivity of Energy Clas
- sification Premiums: Evidence From Finnish Housing Market\n\nTime not publ
- ished yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.
- fi/events/salomo-hirvonen
+ sification Premiums: Evidence From Finnish Housing Market\n\nEvent page: h
+ ttps://www.helsinkigse.fi/events/salomo-hirvonen
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/salomo-hirvonen
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250527-environmental-economics-reading-group14@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T044648Z
 DTSTART;VALUE=DATE:20250527
@@ -224,50 +227,51 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250603-albert-duodu@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250603
-DTEND;VALUE=DATE:20250604
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250603T150000
+DTEND;TZID=Europe/Helsinki:20250603T160000
 SUMMARY:Environmental Economics: Albert Duodu — Carbon offshoring and man
  ufacturing cleanup
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Albert
   Duodu (Aalto University)\nTitle: Carbon offshoring and manufacturing clea
- nup\n\nTime not published yet — all-day placeholder.\n\nEvent page: http
- s://www.helsinkigse.fi/events/albert-duodu
+ nup\n\nEvent page: https://www.helsinkigse.fi/events/albert-duodu
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/albert-duodu
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250923-prottoy-akbar3@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250923
-DTEND;VALUE=DATE:20250924
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250923T150000
+DTEND;TZID=Europe/Helsinki:20250923T160000
 SUMMARY:Environmental Economics: Prottoy Akbar — Drivers of Habit: Eviden
  ce of Persistence from Neighborhood Moves
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Protto
  y Akbar (Aalto University)\nTitle: Drivers of Habit: Evidence of Persisten
- ce from Neighborhood Moves\n\nTime not published yet — all-day placehold
- er.\n\nEvent page: https://www.helsinkigse.fi/events/prottoy-akbar3
+ ce from Neighborhood Moves\n\nEvent page: https://www.helsinkigse.fi/event
+ s/prottoy-akbar3
+LOCATION:Seminar room 2\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/prottoy-akbar3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250930-environmental-economics-reading-group10@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250930
-DTEND;VALUE=DATE:20251001
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250930T150000
+DTEND;TZID=Europe/Helsinki:20250930T160000
 SUMMARY:Environmental Economics: Environmental Economics Reading Group
 DESCRIPTION:Series: Environmental Economics\nType: Reading Group\nTitle: En
- vironmental Economics Reading Group\n\nTime not published yet — all-day 
- placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/environmenta
- l-economics-reading-group10
+ vironmental Economics Reading Group\n\nEvent page: https://www.helsinkigse
+ .fi/events/environmental-economics-reading-group10
+LOCATION:Online (ask link for the meeting: kimmo.ollikka@vatt.fi)
 URL:https://www.helsinkigse.fi/events/environmental-economics-reading-group
  10
 STATUS:CONFIRMED
@@ -275,51 +279,51 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251007-amanda-ang2@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251007
-DTEND;VALUE=DATE:20251008
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251007T150000
+DTEND;TZID=Europe/Helsinki:20251007T160000
 SUMMARY:Environmental Economics: Amanda Ang — Population Growth and Wildf
  ire Mitigation
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Amanda
   Ang (Aalto University)\nTitle: Population Growth and Wildfire Mitigation\
- n\nTime not published yet — all-day placeholder.\n\nEvent page: https://
- www.helsinkigse.fi/events/amanda-ang2
+ n\nEvent page: https://www.helsinkigse.fi/events/amanda-ang2
+LOCATION:Seminar room 2\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/amanda-ang2
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251021-leo-reitzmann@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251021
-DTEND;VALUE=DATE:20251022
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251021T150000
+DTEND;TZID=Europe/Helsinki:20251021T160000
 SUMMARY:Environmental Economics: Léo Reitzmann — Heterogeneous beliefs i
  n climate change damages: the whistleblower’s…
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Léo R
  eitzmann (PSE and University of Helsinki)\nTitle: Heterogeneous beliefs in
-  climate change damages: the whistleblower’s dilemma\n\nTime not publish
- ed yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/
- events/leo-reitzmann
+  climate change damages: the whistleblower’s dilemma\n\nEvent page: http
+ s://www.helsinkigse.fi/events/leo-reitzmann
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/leo-reitzmann
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251028-environmental-economics-reading-group20@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251028
-DTEND;VALUE=DATE:20251029
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251028T150000
+DTEND;TZID=Europe/Helsinki:20251028T160000
 SUMMARY:Environmental Economics: Environmental Economics Reading Group
 DESCRIPTION:Series: Environmental Economics\nType: Reading Group\nTitle: En
- vironmental Economics Reading Group\n\nTime not published yet — all-day 
- placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/environmenta
- l-economics-reading-group20
+ vironmental Economics Reading Group\n\nEvent page: https://www.helsinkigse
+ .fi/events/environmental-economics-reading-group20
+LOCATION:Online (ask link for the meeting: kimmo.ollikka@vatt.fi)
 URL:https://www.helsinkigse.fi/events/environmental-economics-reading-group
  20
 STATUS:CONFIRMED
@@ -327,131 +331,133 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251111-stefan-ambec1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251111
-DTEND;VALUE=DATE:20251112
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251111T150000
+DTEND;TZID=Europe/Helsinki:20251111T160000
 SUMMARY:Environmental Economics: Stefan Ambec — Pricing Intermittent Rene
  wables (with Stefan Lamp and Claude Crampes)
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Stefan
   Ambec (Toulouse School of Economics)\nTitle: Pricing Intermittent Renewab
- les (with Stefan Lamp and Claude Crampes)\n\nTime not published yet — al
- l-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/stefan
- -ambec1
+ les (with Stefan Lamp and Claude Crampes)\n\nEvent page: https://www.helsi
+ nkigse.fi/events/stefan-ambec1
+LOCATION:4th floor VATT seminar room\, Economicum\, Arkadiankatu 7\, Helsin
+ ki
 URL:https://www.helsinkigse.fi/events/stefan-ambec1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251118-isabel-hovdahl@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251118
-DTEND;VALUE=DATE:20251119
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251118T150000
+DTEND;TZID=Europe/Helsinki:20251118T160000
 SUMMARY:Environmental Economics: Isabel Hovdahl — Charging the Transition
  : Energy Storage Innovation and Climate Policy
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Isabel
   Hovdahl (NHH)\nTitle: Charging the Transition: Energy Storage Innovation 
- and Climate Policy\n\nTime not published yet — all-day placeholder.\n\nE
- vent page: https://www.helsinkigse.fi/events/isabel-hovdahl
+ and Climate Policy\n\nEvent page: https://www.helsinkigse.fi/events/isabel
+ -hovdahl
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/isabel-hovdahl
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251202-jaqueline-adelowo@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251202
-DTEND;VALUE=DATE:20251203
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251202T150000
+DTEND;TZID=Europe/Helsinki:20251202T160000
 SUMMARY:Environmental Economics: Jaqueline Adelowo — Deregulation in elec
  tricity retail markets — default prices as…
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Jaquel
  ine Adelowo (Politecnico di Torino)\nTitle: Deregulation in electricity re
- tail markets — default prices as outside option\n\nTime not published ye
- t — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/event
- s/jaqueline-adelowo
+ tail markets — default prices as outside option\n\nEvent page: https://w
+ ww.helsinkigse.fi/events/jaqueline-adelowo
+LOCATION:Seminar room 2\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/jaqueline-adelowo
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251216-william-odgen4@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251216
-DTEND;VALUE=DATE:20251217
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251216T150000
+DTEND;TZID=Europe/Helsinki:20251216T160000
 SUMMARY:Environmental Economics: William Odgen — Estimating Transaction F
  rictions in Car Choice
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Willia
  m Odgen (Aalto University)\nTitle: Estimating Transaction Frictions in Car
-  Choice\n\nTime not published yet — all-day placeholder.\n\nEvent page: 
- https://www.helsinkigse.fi/events/william-odgen4
+  Choice\n\nEvent page: https://www.helsinkigse.fi/events/william-odgen4
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/william-odgen4
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260224-benjamin-hattemer@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260224
-DTEND;VALUE=DATE:20260225
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260224T150000
+DTEND;TZID=Europe/Helsinki:20260224T160000
 SUMMARY:Environmental Economics: Benjamin Hattemer — From Free to Fee: Ho
  w Emission Permit Allocation Affect Firms
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Benjam
  in Hattemer (University of Helsinki)\nTitle: From Free to Fee: How Emissio
- n Permit Allocation Affect Firms\n\nTime not published yet — all-day pla
- ceholder.\n\nEvent page: https://www.helsinkigse.fi/events/benjamin-hattem
- er
+ n Permit Allocation Affect Firms\n\nEvent page: https://www.helsinkigse.fi
+ /events/benjamin-hattemer
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/benjamin-hattemer
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260310-francesco-vona@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260310
-DTEND;VALUE=DATE:20260311
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260310T150000
+DTEND;TZID=Europe/Helsinki:20260310T160000
 SUMMARY:Environmental Economics: Francesco Vona — The impact of the Europ
  ean Emission Trading Schemes on career and…
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: France
  sco Vona (University of Milan and FEEM)\nTitle: The impact of the European
   Emission Trading Schemes on career and earnings trajectories of Italian w
- orkers: it is all about the rents\, no troubles!\n\nTime not published yet
-  — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events
- /francesco-vona
+ orkers: it is all about the rents\, no troubles!\n\nEvent page: https://ww
+ w.helsinkigse.fi/events/francesco-vona
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/francesco-vona
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260324-sander-ramboer2@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260324
-DTEND;VALUE=DATE:20260325
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260324T150000
+DTEND;TZID=Europe/Helsinki:20260324T160000
 SUMMARY:Environmental Economics: Sander Ramboer — Local Property Tax Ince
  ntives for Wind Farm Development
 DESCRIPTION:Series: Environmental Economics\nType: Seminar\nSpeaker: Sander
   Ramboer (VATT)\nTitle: Local Property Tax Incentives for Wind Farm Develo
- pment\n\nTime not published yet — all-day placeholder.\n\nEvent page: ht
- tps://www.helsinkigse.fi/events/sander-ramboer2
+ pment\n\nEvent page: https://www.helsinkigse.fi/events/sander-ramboer2
+LOCATION:Seminar room 2\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/sander-ramboer2
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260421-thomas-douenne@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260421T150000
@@ -469,7 +475,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260519-ludovica-gazze@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260519T150000
@@ -488,7 +494,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260908-pia-nilsson@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260908T150000
@@ -504,7 +510,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260922-marten-ritterrath1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:17
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260922T150000
@@ -522,7 +528,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261006-asa-lofgren1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261006T150000
@@ -538,7 +544,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261103-selina-clarke2@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:4
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261103T150000
@@ -556,7 +562,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261117-tuomas-kaariaho@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261117T150000
@@ -572,7 +578,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261201-piia-remes@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261201T150000
@@ -588,7 +594,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261215-linde-kattenberg@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261215T150000

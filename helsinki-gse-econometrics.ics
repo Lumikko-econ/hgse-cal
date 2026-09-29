@@ -30,17 +30,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250110-econometrics-phd-workshop-2025@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:15
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250110
-DTEND;VALUE=DATE:20250111
+DTSTAMP:20260929T141057Z
+SEQUENCE:16
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250110T090000
+DTEND;TZID=Europe/Helsinki:20250110T160000
 SUMMARY:Econometrics: Econometrics PhD Workshop
 DESCRIPTION:Series: Econometrics\nType: PhD Workshop\nTitle: Econometrics P
  hD Workshop\nAbout: Workshop for Helsinki GSE and FDPE PhD students\nHosts
- : Jani Luoto & Mika Meitz\n\nTime not published yet — all-day placeholde
- r.\n\nEvent page: https://www.helsinkigse.fi/events/econometrics-phd-works
- hop-2025
+ : Jani Luoto & Mika Meitz\n\nEvent page: https://www.helsinkigse.fi/events
+ /econometrics-phd-workshop-2025
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/econometrics-phd-workshop-2025
 STATUS:CONFIRMED
@@ -48,34 +47,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250409-mathias-klein@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250409
-DTEND;VALUE=DATE:20250410
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250409T150000
+DTEND;TZID=Europe/Helsinki:20250409T160000
 SUMMARY:Econometrics: Mathias Klein — The Fiscal Channel of Monetary Poli
  cy
 DESCRIPTION:Series: Econometrics\nType: Seminar\nSpeaker: Mathias Klein (Sv
- eriges Riksbank)\nTitle: The Fiscal Channel of Monetary Policy\n\nTime not
-  published yet — all-day placeholder.\n\nEvent page: https://www.helsink
- igse.fi/events/mathias-klein
+ eriges Riksbank)\nTitle: The Fiscal Channel of Monetary Policy\n\nEvent pa
+ ge: https://www.helsinkigse.fi/events/mathias-klein
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/mathias-klein
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250528-econometrics-phd-workshop-spring2025@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:15
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250528
-DTEND;VALUE=DATE:20250529
+DTSTAMP:20260929T141057Z
+SEQUENCE:16
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250528T090000
+DTEND;TZID=Europe/Helsinki:20250528T160000
 SUMMARY:Econometrics: Econometrics PhD Workshop
 DESCRIPTION:Series: Econometrics\nType: PhD Workshop\nTitle: Econometrics P
  hD Workshop\nAbout: Workshop for Helsinki GSE and FDPE PhD students\nHosts
- : Jani Luoto & Henri Nyberg\n\nTime not published yet — all-day placehol
- der.\n\nEvent page: https://www.helsinkigse.fi/events/econometrics-phd-wor
- kshop-spring2025
+ : Jani Luoto & Henri Nyberg\n\nEvent page: https://www.helsinkigse.fi/even
+ ts/econometrics-phd-workshop-spring2025
 LOCATION:Seminar room 2\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/econometrics-phd-workshop-spring2025
 STATUS:CONFIRMED
@@ -83,51 +81,51 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250910-otso-hao@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250910
-DTEND;VALUE=DATE:20250911
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250910T150000
+DTEND;TZID=Europe/Helsinki:20250910T160000
 SUMMARY:Econometrics: Otso Hao — Asymptotic properties of Impulse Indicat
  or Saturation under outlier…
 DESCRIPTION:Series: Econometrics\nType: Seminar\nSpeaker: Otso Hao (Univers
  ity of Oxford)\nTitle: Asymptotic properties of Impulse Indicator Saturati
- on under outlier contamination\n\nTime not published yet — all-day place
- holder.\n\nEvent page: https://www.helsinkigse.fi/events/otso-hao
+ on under outlier contamination\n\nEvent page: https://www.helsinkigse.fi/e
+ vents/otso-hao
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/otso-hao
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251203-xiyu-jiao@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251203
-DTEND;VALUE=DATE:20251204
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251203T150000
+DTEND;TZID=Europe/Helsinki:20251203T160000
 SUMMARY:Econometrics: Xiyu Jiao — Inference on Common Trends in a Cointeg
  rated Nonlinear SVAR
 DESCRIPTION:Series: Econometrics\nType: Seminar\nSpeaker: Xiyu Jiao (Univer
  sity of Gothenburg)\nTitle: Inference on Common Trends in a Cointegrated N
- onlinear SVAR\n\nTime not published yet — all-day placeholder.\n\nEvent 
- page: https://www.helsinkigse.fi/events/xiyu-jiao
+ onlinear SVAR\n\nEvent page: https://www.helsinkigse.fi/events/xiyu-jiao
+LOCATION:Seminar room 2\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/xiyu-jiao
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260108-econometrics-phd-workshop-2026-1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:15
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260108
-DTEND;VALUE=DATE:20260109
+DTSTAMP:20260929T141057Z
+SEQUENCE:16
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260108T120000
+DTEND;TZID=Europe/Helsinki:20260108T140000
 SUMMARY:Econometrics: Econometrics PhD workshop
 DESCRIPTION:Series: Econometrics\nType: PhD Workshop\nTitle: Econometrics P
  hD workshop\nAbout: Workshop for Helsinki GSE and FDPE PhD students\nHosts
- : Jani Luoto & Mika Meitz & Henri Nyberg\n\nTime not published yet — all
- -day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/econome
- trics-phd-workshop-2026-1
+ : Jani Luoto & Mika Meitz & Henri Nyberg\n\nEvent page: https://www.helsin
+ kigse.fi/events/econometrics-phd-workshop-2026-1
 LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/econometrics-phd-workshop-2026-1
 STATUS:CONFIRMED
@@ -135,7 +133,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260519-econometrics-phd-workshop-2026-spring@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:16
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260519T090000
@@ -152,7 +150,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260520-paritosh-junare@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260520T150000
@@ -170,7 +168,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261118-jordi-llorens-terrazas1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261118T150000
@@ -186,7 +184,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20270317-christian-brownlees@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:4
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20270317T150000

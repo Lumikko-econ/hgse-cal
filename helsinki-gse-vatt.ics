@@ -30,101 +30,102 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250109-miriam-wust@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250109
-DTEND;VALUE=DATE:20250110
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250109T103000
+DTEND;TZID=Europe/Helsinki:20250109T113000
 SUMMARY:VATT: Miriam Wüst — Household Responses to Unconditional Child B
  enefits / Any questions…
 DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Miriam Wüst (University 
  of Copenhagen)\nTitle: Household Responses to Unconditional Child Benefits
   / Any questions regarding VATT seminars can be sent by email to events (a
- t) vatt.fi\n\nTime not published yet — all-day placeholder.\n\nEvent pag
- e: https://www.helsinkigse.fi/events/miriam-wust
+ t) vatt.fi\n\nEvent page: https://www.helsinkigse.fi/events/miriam-wust
+LOCATION:VATT meeting room\, 4th Floor\, Economicum\, Arkadiankatu 7
 URL:https://www.helsinkigse.fi/events/miriam-wust
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250110-joseph-emmens@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250110
-DTEND;VALUE=DATE:20250111
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250110T100000
+DTEND;TZID=Europe/Helsinki:20250110T104500
 SUMMARY:Job Talk (VATT): Joseph Emmens — Collaborative Innovation in the 
  Knowledge Space
 DESCRIPTION:Series: Job Talk (VATT)\nType: Job Talk\nSpeaker: Joseph Emmens
   (Universitat Autònoma de Barcelona and Barcelona School of Economics)\nT
- itle: Collaborative Innovation in the Knowledge Space\n\nTime not publishe
- d yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/e
- vents/joseph-emmens
+ itle: Collaborative Innovation in the Knowledge Space\n\nEvent page: https
+ ://www.helsinkigse.fi/events/joseph-emmens
+LOCATION:Microsoft Teams: Meeting ID: 328 729 648 904 / Passcode: KU6Ki27w
 URL:https://www.helsinkigse.fi/events/joseph-emmens
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250113-jordan-bisset@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250113
-DTEND;VALUE=DATE:20250114
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250113T110000
+DTEND;TZID=Europe/Helsinki:20250113T114500
 SUMMARY:Job Talk (VATT): Jordan Bisset — Intellectual Mobility Frictions
 DESCRIPTION:Series: Job Talk (VATT)\nType: Job Talk\nSpeaker: Jordan Bisset
-  (Bocconi University)\nTitle: Intellectual Mobility Frictions\n\nTime not 
- published yet — all-day placeholder.\n\nEvent page: https://www.helsinki
- gse.fi/events/jordan-bisset
+  (Bocconi University)\nTitle: Intellectual Mobility Frictions\n\nEvent pag
+ e: https://www.helsinkigse.fi/events/jordan-bisset
+LOCATION:Microsoft Teams: Meeting ID: 319 238 152 280 / Passcode: sx64Ye3R
 URL:https://www.helsinkigse.fi/events/jordan-bisset
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250113-marika-viertola@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250113
-DTEND;VALUE=DATE:20250114
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250113T140000
+DTEND;TZID=Europe/Helsinki:20250113T144500
 SUMMARY:Job Talk (VATT): Marika Viertola — TBA
 DESCRIPTION:Series: Job Talk (VATT)\nType: Job Talk\nSpeaker: Marika Vierto
- la (VATT)\nTitle: TBA\n\nTime not published yet — all-day placeholder.\n
- \nEvent page: https://www.helsinkigse.fi/events/marika-viertola
+ la (VATT)\nTitle: TBA\n\nEvent page: https://www.helsinkigse.fi/events/mar
+ ika-viertola
+LOCATION:Microsoft Teams: Meeting ID: 358 134 438 652 / Passcode: aR6uK2DE
 URL:https://www.helsinkigse.fi/events/marika-viertola
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250115-johannes-gessner@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250115
-DTEND;VALUE=DATE:20250116
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250115T100000
+DTEND;TZID=Europe/Helsinki:20250115T104500
 SUMMARY:Job Talk (VATT): Johannes Gessner — Shifting Gears: Environmental
   Regulation in the Car Industry and…
 DESCRIPTION:Series: Job Talk (VATT)\nType: Job Talk\nSpeaker: Johannes Gess
  ner (University of Mannheim)\nTitle: Shifting Gears: Environmental Regulat
- ion in the Car Industry and Technological Change Among Suppliers\n\nTime n
- ot published yet — all-day placeholder.\n\nEvent page: https://www.helsi
- nkigse.fi/events/johannes-gessner
+ ion in the Car Industry and Technological Change Among Suppliers\n\nEvent 
+ page: https://www.helsinkigse.fi/events/johannes-gessner
+LOCATION:Microsoft Teams: Meeting ID: 335 665 395 61 / Passcode: NR2pM234
 URL:https://www.helsinkigse.fi/events/johannes-gessner
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250115-maren-hedne@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250115
-DTEND;VALUE=DATE:20250116
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250115T140000
+DTEND;TZID=Europe/Helsinki:20250115T144500
 SUMMARY:Job Talk (VATT): Maren Hedne — Is green tehcnology skill biased?
 DESCRIPTION:Series: Job Talk (VATT)\nType: Job Talk\nSpeaker: Maren Hedne (
- University of Oslo)\nTitle: Is green tehcnology skill biased?\n\nTime not 
- published yet — all-day placeholder.\n\nEvent page: https://www.helsinki
- gse.fi/events/maren-hedne
+ University of Oslo)\nTitle: Is green tehcnology skill biased?\n\nEvent pag
+ e: https://www.helsinkigse.fi/events/maren-hedne
+LOCATION:Microsoft Teams: Meeting ID: 394 644 711 482  Passcode: U6UZ2e28
 URL:https://www.helsinkigse.fi/events/maren-hedne
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -132,17 +133,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250128-talouspolitiikan-arviointineuvoston-raportin-julkistus-ja
  -seminaari@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250128
-DTEND;VALUE=DATE:20250129
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250128T130000
+DTEND;TZID=Europe/Helsinki:20250128T150000
 SUMMARY:VATT: Talouspolitiikan arviointineuvoston raportin julkistus ja sem
  inaari
 DESCRIPTION:Series: VATT\nSpeaker: Talouspolitiikan arviointineuvoston rapo
- rtin julkistus ja seminaari\nTitle: TBA\n\nTime not published yet — all-
- day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/talouspo
- litiikan-arviointineuvoston-raportin-julkistus-ja-seminaari
+ rtin julkistus ja seminaari\nTitle: TBA\n\nEvent page: https://www.helsink
+ igse.fi/events/talouspolitiikan-arviointineuvoston-raportin-julkistus-ja-s
+ eminaari
+LOCATION:Economicum auditorio | Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/talouspolitiikan-arviointineuvoston-r
  aportin-julkistus-ja-seminaari
 STATUS:CONFIRMED
@@ -150,500 +152,518 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250130-terhi-ravaska2@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250130
-DTEND;VALUE=DATE:20250131
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250130T103000
+DTEND;TZID=Europe/Helsinki:20250130T113000
 SUMMARY:VATT: Terhi Ravaska — Wage garnishment and negative bunching
 DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Terhi Ravaska (Tampere Un
- iversity)\nTitle: Wage garnishment and negative bunching\n\nTime not publi
- shed yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.f
- i/events/terhi-ravaska2
+ iversity)\nTitle: Wage garnishment and negative bunching\n\nEvent page: ht
+ tps://www.helsinkigse.fi/events/terhi-ravaska2
+LOCATION:VATT seminar room\, Economicum\, 4th floor\, Arkadiankatu 7\, Hels
+ inki
 URL:https://www.helsinkigse.fi/events/terhi-ravaska2
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250213-moritz-mendel2@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250213
-DTEND;VALUE=DATE:20250214
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250213T103000
+DTEND;TZID=Europe/Helsinki:20250213T113000
 SUMMARY:VATT: Moritz Mendel — Nonstandard Education Careers and Inequalit
  y
 DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Moritz Mendel (Aalto Univ
- ersity)\nTitle: Nonstandard Education Careers and Inequality\n\nTime not p
- ublished yet — all-day placeholder.\n\nEvent page: https://www.helsinkig
- se.fi/events/moritz-mendel2
+ ersity)\nTitle: Nonstandard Education Careers and Inequality\n\nEvent page
+ : https://www.helsinkigse.fi/events/moritz-mendel2
+LOCATION:Economicum\, 4th floor meeting room\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/moritz-mendel2
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250227-ragnhild-schreiner@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250227
-DTEND;VALUE=DATE:20250228
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250227T103000
+DTEND;TZID=Europe/Helsinki:20250227T113000
 SUMMARY:VATT: Ragnhild Schreiner — TBA
 DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Ragnhild Schreiner (Unive
- rsity of Oslo)\nTitle: TBA\n\nTime not published yet — all-day placehold
- er.\n\nEvent page: https://www.helsinkigse.fi/events/ragnhild-schreiner
+ rsity of Oslo)\nTitle: TBA\n\nEvent page: https://www.helsinkigse.fi/event
+ s/ragnhild-schreiner
+LOCATION:Economicum\, 4th floor meeting room\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/ragnhild-schreiner
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250306-maarit-olkkola2@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250306
-DTEND;VALUE=DATE:20250307
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250306T103000
+DTEND;TZID=Europe/Helsinki:20250306T113000
 SUMMARY:VATT: Maarit Olkkola — TBA
 DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Maarit Olkkola (VATT)\nTi
- tle: TBA\n\nTime not published yet — all-day placeholder.\n\nEvent page:
-  https://www.helsinkigse.fi/events/maarit-olkkola2
+ tle: TBA\n\nEvent page: https://www.helsinkigse.fi/events/maarit-olkkola2
+LOCATION:Economicum\, 4th floor meeting room\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/maarit-olkkola2
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250313-erik-gronqvist@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250313
-DTEND;VALUE=DATE:20250314
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250313T103000
+DTEND;TZID=Europe/Helsinki:20250313T113000
 SUMMARY:VATT: Erik Grönqvist — Sick of becoming a parent: The child pena
  lty on mental ill-health…
 DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Erik Grönqvist (Uppsala 
  University)\nTitle: Sick of becoming a parent: The child penalty on mental
-  ill-health (with Erica Lindahl and Elisavet Iliadi)\n\nTime not published
-  yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/ev
- ents/erik-gronqvist
+  ill-health (with Erica Lindahl and Elisavet Iliadi)\n\nEvent page: https:
+ //www.helsinkigse.fi/events/erik-gronqvist
+LOCATION:Economicum\, 4th floor meeting room\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/erik-gronqvist
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250320-albert-duodu2@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250320
-DTEND;VALUE=DATE:20250321
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250320T103000
+DTEND;TZID=Europe/Helsinki:20250320T113000
 SUMMARY:VATT: Albert Duodu — Economy and the Environment - Firm-level res
  ponses to energy price…
 DESCRIPTION:Series: VATT\nSpeaker: Albert Duodu (Aalto University)\nTitle: 
  Economy and the Environment - Firm-level responses to energy price shocks\
- n\nTime not published yet — all-day placeholder.\n\nEvent page: https://
- www.helsinkigse.fi/events/albert-duodu2
+ n\nEvent page: https://www.helsinkigse.fi/events/albert-duodu2
+LOCATION:Economicum\, 4th floor meeting room\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/albert-duodu2
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250327-markku-siikanen2@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250327
-DTEND;VALUE=DATE:20250328
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250327T103000
+DTEND;TZID=Europe/Helsinki:20250327T113000
 SUMMARY:VATT: Markku Siikanen — Free Entry and Social Inefficiency in Reg
  ulated Pharmacy Markets
 DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Markku Siikanen (VATT)\nT
  itle: Free Entry and Social Inefficiency in Regulated Pharmacy Markets\n\n
- Time not published yet — all-day placeholder.\n\nEvent page: https://www
- .helsinkigse.fi/events/markku-siikanen2
+ Event page: https://www.helsinkigse.fi/events/markku-siikanen2
+LOCATION:VATT meeting room\, 4th floor\, Economicum\, Arkadiankatu 7\, Hels
+ inki
 URL:https://www.helsinkigse.fi/events/markku-siikanen2
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250403-maria-sauval@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250403
-DTEND;VALUE=DATE:20250404
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250403T103000
+DTEND;TZID=Europe/Helsinki:20250403T113000
 SUMMARY:VATT: Maria Sauval — The Long-Term Effects of Pre-Kindergarten on
   Teen Births
 DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Maria Sauval (Aalto Unive
  rsity)\nTitle: The Long-Term Effects of Pre-Kindergarten on Teen Births\n\
- nTime not published yet — all-day placeholder.\n\nEvent page: https://ww
- w.helsinkigse.fi/events/maria-sauval
+ nEvent page: https://www.helsinkigse.fi/events/maria-sauval
+LOCATION:Economicum\, 4th floor meeting room\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/maria-sauval
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250410-matti-sarvimaki2@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250410
-DTEND;VALUE=DATE:20250411
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250410T103000
+DTEND;TZID=Europe/Helsinki:20250410T113000
 SUMMARY:VATT: Matti Sarvimäki — TBA
 DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Matti Sarvimäki (Aalto U
- niversity)\nTitle: TBA\n\nTime not published yet — all-day placeholder.\
- n\nEvent page: https://www.helsinkigse.fi/events/matti-sarvimaki2
+ niversity)\nTitle: TBA\n\nEvent page: https://www.helsinkigse.fi/events/ma
+ tti-sarvimaki2
+LOCATION:Economicum\, 4th floor meeting room\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/matti-sarvimaki2
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250424-torsten-santavirta2@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250424
-DTEND;VALUE=DATE:20250425
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250424T103000
+DTEND;TZID=Europe/Helsinki:20250424T113000
 SUMMARY:VATT: Torsten Santavirta — Soviet Industrialization and American 
  Skilled Labor: Transfer of…
 DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Torsten Santavirta (Unive
  rsity of Helsinki)\nTitle: Soviet Industrialization and American Skilled L
  abor: Transfer of Technologies and Productivity (with Andrei Markevich)\n\
- nTime not published yet — all-day placeholder.\n\nEvent page: https://ww
- w.helsinkigse.fi/events/torsten-santavirta2
+ nEvent page: https://www.helsinkigse.fi/events/torsten-santavirta2
+LOCATION:Economicum\, 4th floor meeting room\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/torsten-santavirta2
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250508-jens-wikstrom@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250508
-DTEND;VALUE=DATE:20250509
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250508T103000
+DTEND;TZID=Europe/Helsinki:20250508T113000
 SUMMARY:VATT: Jens Wikström — Should eldercare be subsidized? Theory and
   evidence from Sweden (with…
 DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Jens Wikström (Gothenbur
  g University)\nTitle: Should eldercare be subsidized? Theory and evidence 
- from Sweden (with Patrizia Massner)\n\nTime not published yet — all-day 
- placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/jens-wikstro
- m
+ from Sweden (with Patrizia Massner)\n\nEvent page: https://www.helsinkigse
+ .fi/events/jens-wikstrom
+LOCATION:Economicum\, 4th floor meeting room\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/jens-wikstrom
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250515-sofia-hernnas2@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250515
-DTEND;VALUE=DATE:20250516
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250515T103000
+DTEND;TZID=Europe/Helsinki:20250515T113000
 SUMMARY:VATT: Sofia Hernnäs — Fiber Internet and Labor Demand (with Beng
  t Söderlund)
 DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Sofia Hernnäs (Stockholm
   School of Economics)\nTitle: Fiber Internet and Labor Demand (with Bengt 
- Söderlund)\n\nTime not published yet — all-day placeholder.\n\nEvent pa
- ge: https://www.helsinkigse.fi/events/sofia-hernnas2
+ Söderlund)\n\nEvent page: https://www.helsinkigse.fi/events/sofia-hernnas
+ 2
+LOCATION:Economicum\, 4th floor meeting room\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/sofia-hernnas2
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250522-cloe-garnache@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250522
-DTEND;VALUE=DATE:20250523
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250522T103000
+DTEND;TZID=Europe/Helsinki:20250522T113000
 SUMMARY:VATT: Cloé Garnache — Are Asset Prices Sticky? (with Martin Schm
  alz and Dag Einar…
 DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Cloé Garnache (Oslo Metr
  opolitan University)\nTitle: Are Asset Prices Sticky? (with Martin Schmalz
-  and Dag Einar Sommervoll)\n\nTime not published yet — all-day placehold
- er.\n\nEvent page: https://www.helsinkigse.fi/events/cloe-garnache
+  and Dag Einar Sommervoll)\n\nEvent page: https://www.helsinkigse.fi/event
+ s/cloe-garnache
+LOCATION:Economicum\, 4th floor meeting room\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/cloe-garnache
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250605-alejandro-zentner@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250605
-DTEND;VALUE=DATE:20250606
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250605T103000
+DTEND;TZID=Europe/Helsinki:20250605T113000
 SUMMARY:VATT: Alejandro Zentner — Frictions in Recovering Unclaimed Prope
  rty: Evidence from a…
 DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Alejandro Zentner (The Un
  iversity of Texas at Dallas - Naveen Jindal School of Management)\nTitle: 
  Frictions in Recovering Unclaimed Property: Evidence from a Large-Scale Na
- tural Field Experiment (with Justin Holz)\n\nTime not published yet — al
- l-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/alejan
- dro-zentner
+ tural Field Experiment (with Justin Holz)\n\nEvent page: https://www.helsi
+ nkigse.fi/events/alejandro-zentner
+LOCATION:Economicum\, 4th floor meeting room\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/alejandro-zentner
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250619-cecilia-blomster-vatt@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250619
-DTEND;VALUE=DATE:20250620
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250619T103000
+DTEND;TZID=Europe/Helsinki:20250619T113000
 SUMMARY:VATT: Cecilia Blomster — Graduating in a Recession\, Education an
  d Family Formation (with…
 DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Cecilia Blomster (Hanken)
  \nTitle: Graduating in a Recession\, Education and Family Formation (with 
- Stefano Lombardi)\n\nTime not published yet — all-day placeholder.\n\nEv
- ent page: https://www.helsinkigse.fi/events/cecilia-blomster-vatt
+ Stefano Lombardi)\n\nEvent page: https://www.helsinkigse.fi/events/cecilia
+ -blomster-vatt
+LOCATION:Economicum\, 4th floor meeting room\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/cecilia-blomster-vatt
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250911-miko-lepisto@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250911
-DTEND;VALUE=DATE:20250912
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250911T103000
+DTEND;TZID=Europe/Helsinki:20250911T113000
 SUMMARY:VATT: Miko Lepistö — Waiting Times and Refugee Integration (with
   Hanna Pesola and Tuomo…
 DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Miko Lepistö (PSE)\nTitl
  e: Waiting Times and Refugee Integration (with Hanna Pesola and Tuomo Virk
- ola)\n\nTime not published yet — all-day placeholder.\n\nEvent page: htt
- ps://www.helsinkigse.fi/events/miko-lepisto
+ ola)\n\nEvent page: https://www.helsinkigse.fi/events/miko-lepisto
+LOCATION:4th floor\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/miko-lepisto
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250925-teemu-lyytikainen1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250925
-DTEND;VALUE=DATE:20250926
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250925T103000
+DTEND;TZID=Europe/Helsinki:20250925T113000
 SUMMARY:VATT: Teemu Lyytikäinen — Nominal Loss Aversion in the Housing M
  arket and Household Mobility
 DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Teemu Lyytikäinen (VATT)
  \nTitle: Nominal Loss Aversion in the Housing Market and Household Mobilit
- y\n\nTime not published yet — all-day placeholder.\n\nEvent page: https:
- //www.helsinkigse.fi/events/teemu-lyytikainen1
+ y\n\nEvent page: https://www.helsinkigse.fi/events/teemu-lyytikainen1
+LOCATION:VATT meeting room\, 4th floor\, Economicum\, Arkadiankatu 7\, Hels
+ inki
 URL:https://www.helsinkigse.fi/events/teemu-lyytikainen1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251002-tuomo-virkola1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251002
-DTEND;VALUE=DATE:20251003
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251002T103000
+DTEND;TZID=Europe/Helsinki:20251002T113000
 SUMMARY:VATT: Tuomo Virkola — Worker Mobility Restrictions
 DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Tuomo Virkola (VATT)\nTit
- le: Worker Mobility Restrictions\n\nTime not published yet — all-day pla
- ceholder.\n\nEvent page: https://www.helsinkigse.fi/events/tuomo-virkola1
+ le: Worker Mobility Restrictions\n\nEvent page: https://www.helsinkigse.fi
+ /events/tuomo-virkola1
+LOCATION:VATT meeting room\, 4th floor\, Economicum\, Arkadiankatu 7\, Hels
+ inki
 URL:https://www.helsinkigse.fi/events/tuomo-virkola1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251030-max-toikka1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251030
-DTEND;VALUE=DATE:20251031
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251030T103000
+DTEND;TZID=Europe/Helsinki:20251030T113000
 SUMMARY:VATT: Max Toikka — Labor Market Effects of Public-Private Sector 
  Competition in Health…
 DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Max Toikka (Aalto Univers
  ity)\nTitle: Labor Market Effects of Public-Private Sector Competition in 
- Health and Social Services\n\nTime not published yet — all-day placehold
- er.\n\nEvent page: https://www.helsinkigse.fi/events/max-toikka1
+ Health and Social Services\n\nEvent page: https://www.helsinkigse.fi/event
+ s/max-toikka1
+LOCATION:VATT meeting room\, 4th floor\, Economicum\, Arkadiankatu 7\, Hels
+ inki
 URL:https://www.helsinkigse.fi/events/max-toikka1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251106-arttu-kauhanen2@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251106
-DTEND;VALUE=DATE:20251107
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251106T103000
+DTEND;TZID=Europe/Helsinki:20251106T113000
 SUMMARY:VATT: Arttu Kauhanen — Is Redistribution Fair? The Effect of Taxe
  s and Transfers on the…
 DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Arttu Kauhanen (Universit
  y of Helsinki)\nTitle: Is Redistribution Fair? The Effect of Taxes and Tra
  nsfers on the Equality of Opportunity (with Markus Jäntti and Jukka Pirtt
- ila)\n\nTime not published yet — all-day placeholder.\n\nEvent page: htt
- ps://www.helsinkigse.fi/events/arttu-kauhanen2
+ ila)\n\nEvent page: https://www.helsinkigse.fi/events/arttu-kauhanen2
+LOCATION:VATT meeting room\, 4th floor\, Economicum\, Arkadiankatu 7\, Hels
+ inki
 URL:https://www.helsinkigse.fi/events/arttu-kauhanen2
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251113-miri-stryjan3@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251113
-DTEND;VALUE=DATE:20251114
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251113T103000
+DTEND;TZID=Europe/Helsinki:20251113T113000
 SUMMARY:VATT: Miri Stryjan — Local Institutions and Leader Incentives: Th
  e Political Economy of…
 DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Miri Stryjan (Aalto Unive
  rsity)\nTitle: Local Institutions and Leader Incentives: The Political Eco
- nomy of Rwanda’s Fertility Transition\n\nTime not published yet — all-
- day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/miri-str
- yjan3
+ nomy of Rwanda’s Fertility Transition\n\nEvent page: https://www.helsink
+ igse.fi/events/miri-stryjan3
+LOCATION:VATT meeting room\, 4th floor\, Economicum\, Arkadiankatu 7\, Hels
+ inki
 URL:https://www.helsinkigse.fi/events/miri-stryjan3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251119-giacomo-lo-conte@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251119
-DTEND;VALUE=DATE:20251120
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251119T133000
+DTEND;TZID=Europe/Helsinki:20251119T141500
 SUMMARY:Job Talk (VATT): Giacomo Lo Conte — Exposure to innovation and la
  bor market dynamics: Evidence from the…
 DESCRIPTION:Series: Job Talk (VATT)\nType: Job Talk\nSpeaker: Giacomo Lo Co
  nte (University College Dublin)\nTitle: Exposure to innovation and labor m
- arket dynamics: Evidence from the German manufacturing sectors\n\nTime not
-  published yet — all-day placeholder.\n\nEvent page: https://www.helsink
- igse.fi/events/giacomo-lo-conte
+ arket dynamics: Evidence from the German manufacturing sectors\n\nEvent pa
+ ge: https://www.helsinkigse.fi/events/giacomo-lo-conte
 URL:https://www.helsinkigse.fi/events/giacomo-lo-conte
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251120-aspasia-bizopoulou-nov20@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251120
-DTEND;VALUE=DATE:20251121
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251120T103000
+DTEND;TZID=Europe/Helsinki:20251120T113000
 SUMMARY:VATT: Aspasia Bizopoulou — Pay Transparency\, Wage Setting and Wo
  rker Sorting (with Tuomo Virkola…
 DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Aspasia Bizopoulou (VATT)
  \nTitle: Pay Transparency\, Wage Setting and Worker Sorting (with Tuomo Vi
- rkola and Elias Einiö)\n\nTime not published yet — all-day placeholder.
- \n\nEvent page: https://www.helsinkigse.fi/events/aspasia-bizopoulou-nov20
+ rkola and Elias Einiö)\n\nEvent page: https://www.helsinkigse.fi/events/a
+ spasia-bizopoulou-nov20
+LOCATION:VATT meeting room\, 4th floor\, Economicum\, Arkadiankatu 7\, Hels
+ inki
 URL:https://www.helsinkigse.fi/events/aspasia-bizopoulou-nov20
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251124-marten-ritterrath@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251124
-DTEND;VALUE=DATE:20251125
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251124T133000
+DTEND;TZID=Europe/Helsinki:20251124T141500
 SUMMARY:Job Talk (VATT): Marten Ritterrath — Inventors’ Personal Experi
  ence of Natural Disasters and Green…
 DESCRIPTION:Series: Job Talk (VATT)\nType: Job Talk\nSpeaker: Marten Ritter
  rath (University of Cologne)\nTitle: Inventors’ Personal Experience of N
- atural Disasters and Green Innovation\n\nTime not published yet — all-da
- y placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/marten-rit
- terrath
+ atural Disasters and Green Innovation\n\nEvent page: https://www.helsinkig
+ se.fi/events/marten-ritterrath
 URL:https://www.helsinkigse.fi/events/marten-ritterrath
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251124-regi-kusumaatmadja@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251124
-DTEND;VALUE=DATE:20251125
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251124T103000
+DTEND;TZID=Europe/Helsinki:20251124T111500
 SUMMARY:Job Talk (VATT): Regi Kusumaatmadja — Internal and External R&D: 
  An analysis of costs and benefits
 DESCRIPTION:Series: Job Talk (VATT)\nType: Job Talk\nSpeaker: Regi Kusumaat
  madja (VU Amsterdam)\nTitle: Internal and External R&D: An analysis of cos
- ts and benefits\n\nTime not published yet — all-day placeholder.\n\nEven
- t page: https://www.helsinkigse.fi/events/regi-kusumaatmadja
+ ts and benefits\n\nEvent page: https://www.helsinkigse.fi/events/regi-kusu
+ maatmadja
 URL:https://www.helsinkigse.fi/events/regi-kusumaatmadja
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251127-joakim-wikstrom-vatt-jobtalk@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251127
-DTEND;VALUE=DATE:20251128
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251127T133000
+DTEND;TZID=Europe/Helsinki:20251127T141500
 SUMMARY:Job Talk (VATT): Joakim Wikström — Do Patents Tilt Standard-Sett
  ing? Evidence from Cellular Networks
 DESCRIPTION:Series: Job Talk (VATT)\nType: Job Talk\nSpeaker: Joakim Wikstr
  öm (Aalto University)\nTitle: Do Patents Tilt Standard-Setting? Evidence 
- from Cellular Networks\n\nTime not published yet — all-day placeholder.\
- n\nEvent page: https://www.helsinkigse.fi/events/joakim-wikstrom-vatt-jobt
- alk
+ from Cellular Networks\n\nEvent page: https://www.helsinkigse.fi/events/jo
+ akim-wikstrom-vatt-jobtalk
 URL:https://www.helsinkigse.fi/events/joakim-wikstrom-vatt-jobtalk
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251127-sander-ramboer-nov27@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251127
-DTEND;VALUE=DATE:20251128
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251127T103000
+DTEND;TZID=Europe/Helsinki:20251127T113000
 SUMMARY:VATT: Sander Ramboer — Local Property Tax Incentives for Wind Far
  m Development: Evidence…
 DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Sander Ramboer (VATT)\nTi
  tle: Local Property Tax Incentives for Wind Farm Development: Evidence fro
- m Finland\n\nTime not published yet — all-day placeholder.\n\nEvent page
- : https://www.helsinkigse.fi/events/sander-ramboer-nov27
+ m Finland\n\nEvent page: https://www.helsinkigse.fi/events/sander-ramboer-
+ nov27
+LOCATION:VATT meeting room\, 4th floor\, Economicum\, Arkadiankatu 7\, Hels
+ inki
 URL:https://www.helsinkigse.fi/events/sander-ramboer-nov27
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251204-kostas-matakos-dec4@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251204
-DTEND;VALUE=DATE:20251205
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251204T103000
+DTEND;TZID=Europe/Helsinki:20251204T113000
 SUMMARY:VATT: Kostas Matakos — Does Warm Weather Cool Voters Down? How Cl
  imate Shocks affect Policy…
 DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Kostas Matakos (King's Co
  llege London)\nTitle: Does Warm Weather Cool Voters Down? How Climate Shoc
  ks affect Policy Preferences and Climate Anxiety (with Maria Cotofan and K
- arlygash Kurabayeva)\n\nTime not published yet — all-day placeholder.\n\
- nEvent page: https://www.helsinkigse.fi/events/kostas-matakos-dec4
+ arlygash Kurabayeva)\n\nEvent page: https://www.helsinkigse.fi/events/kost
+ as-matakos-dec4
+LOCATION:VATT meeting room\, 4th floor\, Economicum\, Arkadiankatu 7\, Hels
+ inki
 URL:https://www.helsinkigse.fi/events/kostas-matakos-dec4
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260129-ramin-izadi1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260129
-DTEND;VALUE=DATE:20260130
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260129T103000
+DTEND;TZID=Europe/Helsinki:20260129T113000
 SUMMARY:VATT: Ramin Izadi — Preschool Expansion RCT: Results
 DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Ramin Izadi (VATT)\nTitle
- : Preschool Expansion RCT: Results\n\nTime not published yet — all-day p
- laceholder.\n\nEvent page: https://www.helsinkigse.fi/events/ramin-izadi1
+ : Preschool Expansion RCT: Results\n\nEvent page: https://www.helsinkigse.
+ fi/events/ramin-izadi1
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/ramin-izadi1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260226-tanja-saxell@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T044648Z
 DTSTART;VALUE=DATE:20260226
@@ -659,60 +679,60 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260305-yajna-govind@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260305
-DTEND;VALUE=DATE:20260306
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260305T103000
+DTEND;TZID=Europe/Helsinki:20260305T113000
 SUMMARY:VATT: Yajna Govind — Migration policy backlash\, identity\, and i
  ntegration of…
 DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Yajna Govind (Copengahen 
  Business School)\nTitle: Migration policy backlash\, identity\, and integr
- ation of second-generation migrants in France\n\nTime not published yet 
- — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/
- yajna-govind
+ ation of second-generation migrants in France\n\nEvent page: https://www.h
+ elsinkigse.fi/events/yajna-govind
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/yajna-govind
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260312-jonas-cederlof@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260312
-DTEND;VALUE=DATE:20260313
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260312T103000
+DTEND;TZID=Europe/Helsinki:20260312T113000
 SUMMARY:VATT: Jonas Cederlöf — Duration Dependence and Job Search over t
  he Spell: Evidence from Job…
 DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Jonas Cederlöf (IFAU Upp
  sala)\nTitle: Duration Dependence and Job Search over the Spell: Evidence 
- from Job Seeker Activity Reports (with Sara Roman)\n\nTime not published y
- et — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/even
- ts/jonas-cederlof
+ from Job Seeker Activity Reports (with Sara Roman)\n\nEvent page: https://
+ www.helsinkigse.fi/events/jonas-cederlof
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/jonas-cederlof
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260319-joakim-wikstrom5@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260320
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260319T103000
+DTEND;TZID=Europe/Helsinki:20260319T113000
 SUMMARY:VATT: Joakim Wikström — Do Patents Tilt Standard-Setting? Eviden
  ce from Cellular Networks
 DESCRIPTION:Series: VATT\nType: Seminar\nSpeaker: Joakim Wikström (VATT)\n
  Title: Do Patents Tilt Standard-Setting? Evidence from Cellular Networks\n
- \nTime not published yet — all-day placeholder.\n\nEvent page: https://w
- ww.helsinkigse.fi/events/joakim-wikstrom5
+ \nEvent page: https://www.helsinkigse.fi/events/joakim-wikstrom5
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/joakim-wikstrom5
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260409-johannes-gessner1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260409T150000
@@ -730,7 +750,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260416-tuomas-kari@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260416T103000
@@ -748,7 +768,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260423-anne-brockmeyer@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260423T103000
@@ -766,7 +786,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260430-mika-kortelainen@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260430T103000
@@ -784,7 +804,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260507-andrei-markevich1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260507T103000
@@ -802,7 +822,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260521-jan-stuhler@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260521T103000
@@ -820,7 +840,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260528-enrico-rubolino@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T100710Z
 DTSTART;TZID=Europe/Helsinki:20260528T103000
@@ -838,7 +858,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260604-raffaele-saggio@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T044648Z
 DTSTART;TZID=Europe/Helsinki:20260604T103000
@@ -857,7 +877,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260610-luisa-wallossek@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T044648Z
 DTSTART;TZID=Europe/Helsinki:20260610T103000
@@ -875,7 +895,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260618-david-rivera-gonzalez1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T044648Z
 DTSTART;TZID=Europe/Helsinki:20260618T103000
@@ -893,7 +913,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260917-anna-thoresson@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:2
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260917T103000
@@ -912,7 +932,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261008-tanja-saxell10@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:2
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261008T130000
@@ -927,7 +947,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261029-aino-kalmbach2@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:2
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261029T103000
@@ -942,7 +962,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261105-miika-paallysaho2@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:2
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261105T103000
@@ -958,7 +978,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261112-marika-viertola2@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:2
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261112T103000
@@ -974,7 +994,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261119-tuomas-matikka4@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:2
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261119T103000
@@ -989,7 +1009,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261126-marten-ritterrath2@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:2
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261126T103000
@@ -1005,7 +1025,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261203-juho-alasalmi1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:2
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261203T103000
@@ -1020,7 +1040,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261217-martti-kaila2@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:2
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261217T103000

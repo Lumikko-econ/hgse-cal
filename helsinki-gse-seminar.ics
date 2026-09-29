@@ -30,58 +30,61 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250318-abhijeet-singh@helsinkigse.fi
-DTSTAMP:20260929T044648Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250318
-DTEND;VALUE=DATE:20250319
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250318T150000
+DTEND;TZID=Europe/Helsinki:20250318T160000
 SUMMARY:Seminar: Abhijeet Singh — Navigating Multiple Frictions: Experime
  ntal evidence for impacting…
 DESCRIPTION:Series: Seminar\nSpeaker: Abhijeet Singh (SSE)\nTitle: Navigati
  ng Multiple Frictions: Experimental evidence for impacting voucher take-up
-  at scale (with Mauricio Romero)\n\nTime not published yet — all-day pla
- ceholder.\n\nEvent page: https://www.helsinkigse.fi/events/abhijeet-singh
+  at scale (with Mauricio Romero)\n\nEvent page: https://www.helsinkigse.fi
+ /events/abhijeet-singh
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/abhijeet-singh
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250602-ritwik-banerjee@helsinkigse.fi
-DTSTAMP:20260929T044648Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250602
-DTEND;VALUE=DATE:20250603
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250602T150000
+DTEND;TZID=Europe/Helsinki:20250602T160000
 SUMMARY:Seminar: Ritwik Banerjee — Interpreting Intolerance (with Lata Ga
  ngadharan and Marie Claire…
 DESCRIPTION:Series: Seminar\nSpeaker: Ritwik Banerjee (Indian Institute of 
  Management Bangalore)\nTitle: Interpreting Intolerance (with Lata Gangadha
- ran and Marie Claire Villeval)\n\nTime not published yet — all-day place
- holder.\n\nEvent page: https://www.helsinkigse.fi/events/ritwik-banerjee
+ ran and Marie Claire Villeval)\n\nEvent page: https://www.helsinkigse.fi/e
+ vents/ritwik-banerjee
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/ritwik-banerjee
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251007-catalina-franco@helsinkigse.fi
-DTSTAMP:20260929T044648Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251007
-DTEND;VALUE=DATE:20251008
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251007T150000
+DTEND;TZID=Europe/Helsinki:20251007T160000
 SUMMARY:Seminar: Catalina Franco — Who’s in the Exam Room? Gender Compo
  sition and Student performance
 DESCRIPTION:Series: Seminar\nSpeaker: Catalina Franco (NHH)\nTitle: Who’s
-  in the Exam Room? Gender Composition and Student performance\n\nTime not 
- published yet — all-day placeholder.\n\nEvent page: https://www.helsinki
- gse.fi/events/catalina-franco
+  in the Exam Room? Gender Composition and Student performance\n\nEvent pag
+ e: https://www.helsinkigse.fi/events/catalina-franco
+LOCATION:V002\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/catalina-franco
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251211-low-threshold-phd-seminar2@helsinkigse.fi
-DTSTAMP:20260929T044648Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T044648Z
 DTSTART;VALUE=DATE:20251211
@@ -96,16 +99,16 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260219-constitution-of-innovation-webinaari@helsinkigse.fi
-DTSTAMP:20260929T044648Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260219
-DTEND;VALUE=DATE:20260220
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260219T170000
+DTEND;TZID=Europe/Helsinki:20260219T183000
 SUMMARY:Seminar: Constitution of Innovation Webinar
 DESCRIPTION:Series: Seminar\nSpeaker: Constitution of Innovation Webinar (O
  rganized by Helsinki GSE and the Finnish Economic Association)\nTitle: TBA
- \n\nTime not published yet — all-day placeholder.\n\nEvent page: https:/
- /www.helsinkigse.fi/events/constitution-of-innovation-webinaari
+ \n\nEvent page: https://www.helsinkigse.fi/events/constitution-of-innovati
+ on-webinaari
 URL:https://www.helsinkigse.fi/events/constitution-of-innovation-webinaari
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

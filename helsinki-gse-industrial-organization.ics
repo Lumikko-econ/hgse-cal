@@ -30,16 +30,17 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250226-industrial-organization-reading-group1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250226
-DTEND;VALUE=DATE:20250227
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250226T150000
+DTEND;TZID=Europe/Helsinki:20250226T160000
 SUMMARY:Industrial Organization: Martta Rautala
 DESCRIPTION:Series: Industrial Organization\nType: Reading Group\nSpeaker: 
- Martta Rautala (Aalto University)\nTitle: TBA\n\nTime not published yet 
- — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/
- industrial-organization-reading-group1
+ Martta Rautala (Aalto University)\nTitle: TBA\n\nEvent page: https://www.h
+ elsinkigse.fi/events/industrial-organization-reading-group1
+LOCATION:4th floor (VATT) seminar room\, Economicum\, Arkadiankatu 7\, Hels
+ inki
 URL:https://www.helsinkigse.fi/events/industrial-organization-reading-group
  1
 STATUS:CONFIRMED
@@ -48,7 +49,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250304-industrial-organization-phd-seminar-and-reading-group@hel
  sinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T044648Z
 DTSTART;VALUE=DATE:20250304
@@ -66,144 +67,153 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250312-ian-meeker@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250312
-DTEND;VALUE=DATE:20250313
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250312T160000
+DTEND;TZID=Europe/Helsinki:20250312T170000
 SUMMARY:Industrial Organization: CEPR VIOS Seminar — Does Peter Piper Pic
  k a Package of Pepper Inattentively? The Consumer…
 DESCRIPTION:Series: Industrial Organization\nType: CEPR VIOS Seminar\nTitle
  : CEPR VIOS Seminar (Ian Meeker (Federal Trade Commission)) — Does Peter
   Piper Pick a Package of Pepper Inattentively? The Consumer Response to Pr
- oduct Size Changes\, Discussant: Johannes Kasinger (Tilburg …\n\nTime no
- t published yet — all-day placeholder.\n\nEvent page: https://www.helsin
- kigse.fi/events/ian-meeker
+ oduct Size Changes\, Discussant: Johannes Kasinger (Tilburg University)\n\
+ nEvent page: https://www.helsinkigse.fi/events/ian-meeker
+LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/ian-meeker
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250312-joakim-wikstrom1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250312
-DTEND;VALUE=DATE:20250313
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250312T143000
+DTEND;TZID=Europe/Helsinki:20250312T153000
 SUMMARY:Industrial Organization: Joakim Wikström — We will be reading th
  e following paper : Alice Wu (2025). Reveal or…
 DESCRIPTION:Series: Industrial Organization\nType: Reading Group\nSpeaker: 
  Joakim Wikström (Aalto University)\nTitle: We will be reading the followi
  ng paper : Alice Wu (2025). Reveal or Conceal? Employer Learning in the L
- abor Market for Computer Scientists\n\nTime not published yet — all-day 
- placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/joakim-wikst
- rom1
+ abor Market for Computer Scientists\n\nEvent page: https://www.helsinkigse
+ .fi/events/joakim-wikstrom1
+LOCATION:1004 Kyösti Järvinen\, Aalto University School of Business\, Eko
+ nominaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/joakim-wikstrom1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250318-mikko-vanhala1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250318
-DTEND;VALUE=DATE:20250319
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250318T121500
+DTEND;TZID=Europe/Helsinki:20250318T130000
 SUMMARY:Industrial Organization: Mikko Vanhala — Consumer Search in the S
  tock Market
 DESCRIPTION:Series: Industrial Organization\nType: PhD Seminar\nSpeaker: Mi
  kko Vanhala (University of Helsinki)\nTitle: Consumer Search in the Stock 
- Market\n\nTime not published yet — all-day placeholder.\n\nEvent page: h
- ttps://www.helsinkigse.fi/events/mikko-vanhala1
+ Market\n\nEvent page: https://www.helsinkigse.fi/events/mikko-vanhala1
+LOCATION:V301 BIZ Lounge & Terrace\, Aalto University School of Business\, 
+ Ekonominaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/mikko-vanhala1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250326-michelangelo-rossi@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250326
-DTEND;VALUE=DATE:20250327
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250326T160000
+DTEND;TZID=Europe/Helsinki:20250326T170000
 SUMMARY:Industrial Organization: CEPR VIOS Seminar — Broadcasting of an o
  nline seminar: Is Competition Only One Click…
 DESCRIPTION:Series: Industrial Organization\nType: CEPR VIOS Seminar\nTitle
  : CEPR VIOS Seminar (Michelangelo Rossi (CREST)) — Broadcasting of an on
  line seminar: Is Competition Only One Click Away? The Digital Markets Act 
- Impact on Google Maps\n\nTime not published yet — all-day placeholder.\n
- \nEvent page: https://www.helsinkigse.fi/events/michelangelo-rossi
+ Impact on Google Maps\n\nEvent page: https://www.helsinkigse.fi/events/mic
+ helangelo-rossi
+LOCATION:Broadcasting at V101\, Aalto University School of Business\, Ekono
+ minaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/michelangelo-rossi
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250326-mikko-vanhala@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250326
-DTEND;VALUE=DATE:20250327
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250326T150000
+DTEND;TZID=Europe/Helsinki:20250326T160000
 SUMMARY:Industrial Organization: Mikko Vanhala — We will be reading: Mora
  ga-González\, J. L.\, Sándor\, Z.\, &…
 DESCRIPTION:Series: Industrial Organization\nType: Reading Group\nSpeaker: 
  Mikko Vanhala (University of Helsinki)\nTitle: We will be reading: Moraga-
  González\, J. L.\, Sándor\, Z.\, & Wildenbeest\, M. R. (2023). Consumer 
- search and prices in the automobile market. The …\n\nTime not published 
- yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/eve
- nts/mikko-vanhala
+ search and prices in the automobile market. The Review of Economic Studies
+ \, 90(3)\, 1394-1440.\n\nEvent page: https://www.helsinkigse.fi/events/mik
+ ko-vanhala
+LOCATION:V101 Istuntosali\, Aalto University School of Business\, Ekonomina
+ ukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/mikko-vanhala
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250401-joakim-wikstrom3@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250401
-DTEND;VALUE=DATE:20250402
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250401T121500
+DTEND;TZID=Europe/Helsinki:20250401T130000
 SUMMARY:Industrial Organization: Joakim Wikström — Inventor rewards and 
  labor market competition: Evidence from patent…
 DESCRIPTION:Series: Industrial Organization\nType: PhD Seminar\nSpeaker: Jo
  akim Wikström (Aalto University)\nTitle: Inventor rewards and labor marke
- t competition: Evidence from patent grants\n\nTime not published yet — a
- ll-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/joaki
- m-wikstrom3
+ t competition: Evidence from patent grants\n\nEvent page: https://www.hels
+ inkigse.fi/events/joakim-wikstrom3
+LOCATION:V301 BIZ Lounge & Terrace\, Aalto University School of Business\, 
+ Ekonominaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/joakim-wikstrom3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250409-cepr-vios-seminar3@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250409
-DTEND;VALUE=DATE:20250410
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250409T160000
+DTEND;TZID=Europe/Helsinki:20250409T170000
 SUMMARY:Industrial Organization: CEPR VIOS Seminar — Broadcasting of an o
  nline seminar: Combining Complements: Theory and…
 DESCRIPTION:Series: Industrial Organization\nType: CEPR VIOS Seminar\nTitle
  : CEPR VIOS Seminar (Rebekah Dix (MIT)) — Broadcasting of an online semi
  nar: Combining Complements: Theory and Evidence from Cancer Treatment Inno
- vation\n\nTime not published yet — all-day placeholder.\n\nEvent page: h
- ttps://www.helsinkigse.fi/events/cepr-vios-seminar3
+ vation\n\nEvent page: https://www.helsinkigse.fi/events/cepr-vios-seminar3
+LOCATION:Broadcasting at V101\, Aalto University School of Business\, Ekono
+ minaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/cepr-vios-seminar3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250409-industrial-organization-reading-group2@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250409
-DTEND;VALUE=DATE:20250410
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250409T143000
+DTEND;TZID=Europe/Helsinki:20250409T153000
 SUMMARY:Industrial Organization: Mikko Vanhala
 DESCRIPTION:Series: Industrial Organization\nType: Reading Group\nSpeaker: 
- Mikko Vanhala (University of Helsinki)\nTitle: TBA\n\nTime not published y
- et — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/even
- ts/industrial-organization-reading-group2
+ Mikko Vanhala (University of Helsinki)\nTitle: TBA\n\nEvent page: https://
+ www.helsinkigse.fi/events/industrial-organization-reading-group2
+LOCATION:Seminar room V101\, Aalto University\, Ekonominaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/industrial-organization-reading-group
  2
 STATUS:CONFIRMED
@@ -211,126 +221,135 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250415-william-ogden-2025@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250415
-DTEND;VALUE=DATE:20250416
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250415T131500
+DTEND;TZID=Europe/Helsinki:20250415T140000
 SUMMARY:Industrial Organization: William Ogden — Fuel prices on household
   kilometres driven
 DESCRIPTION:Series: Industrial Organization\nType: PhD Seminar\nSpeaker: Wi
  lliam Ogden (Aalto University)\nTitle: Fuel prices on household kilometres
-  driven\n\nTime not published yet — all-day placeholder.\n\nEvent page: 
- https://www.helsinkigse.fi/events/william-ogden-2025
+  driven\n\nEvent page: https://www.helsinkigse.fi/events/william-ogden-202
+ 5
+LOCATION:V301 BIZ Lounge & Terrace\, Aalto University School of Business\, 
+ Ekonominaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/william-ogden-2025
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250423-hung-le5@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250423
-DTEND;VALUE=DATE:20250424
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250423T150000
+DTEND;TZID=Europe/Helsinki:20250423T160000
 SUMMARY:Industrial Organization: Hung Le
 DESCRIPTION:Series: Industrial Organization\nType: Reading Group\nSpeaker: 
- Hung Le (Aalto University)\nTitle: TBA\n\nTime not published yet — all-d
- ay placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/hung-le5
+ Hung Le (Aalto University)\nTitle: TBA\n\nEvent page: https://www.helsinki
+ gse.fi/events/hung-le5
+LOCATION:V301 Biz Lounge & Terrace\, Aalto University School of Business\, 
+ Ekonominaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/hung-le5
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250429-matias-pousi@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250429
-DTEND;VALUE=DATE:20250430
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250429T121500
+DTEND;TZID=Europe/Helsinki:20250429T130000
 SUMMARY:Industrial Organization: Matias Pousi — Impacts of reference pric
  e design
 DESCRIPTION:Series: Industrial Organization\nType: PhD Seminar\nSpeaker: Ma
  tias Pousi (Aalto University)\nTitle: Impacts of reference price design\n\
- nTime not published yet — all-day placeholder.\n\nEvent page: https://ww
- w.helsinkigse.fi/events/matias-pousi
+ nEvent page: https://www.helsinkigse.fi/events/matias-pousi
+LOCATION:V301 BIZ Lounge & Terrace\, Aalto University School of Business\, 
+ Ekonominaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/matias-pousi
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250507-cepr-vios-seminar4@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250507
-DTEND;VALUE=DATE:20250508
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250507T160000
+DTEND;TZID=Europe/Helsinki:20250507T170000
 SUMMARY:Industrial Organization: CEPR VIOS Seminar — Recruiting Bidders
 DESCRIPTION:Series: Industrial Organization\nType: CEPR VIOS Seminar\nTitle
  : CEPR VIOS Seminar (Stephan Lauermann (University of Bonn and CEPR)) — 
- Recruiting Bidders\n\nTime not published yet — all-day placeholder.\n\nE
- vent page: https://www.helsinkigse.fi/events/cepr-vios-seminar4
+ Recruiting Bidders\n\nEvent page: https://www.helsinkigse.fi/events/cepr-v
+ ios-seminar4
+LOCATION:V301 BIZ Lounge & Terrace\, Aalto University School of Business\, 
+ Ekonominaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/cepr-vios-seminar4
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250514-atte-kaljonen@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250514
-DTEND;VALUE=DATE:20250515
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250514T143000
+DTEND;TZID=Europe/Helsinki:20250514T153000
 SUMMARY:Industrial Organization: Atte Kaljonen — Abe Dunn\, Joshua D Gott
  lieb\, Adam Hale Shapiro\, Daniel J Sonnenstuhl…
 DESCRIPTION:Series: Industrial Organization\nType: Reading Group\nSpeaker: 
  Atte Kaljonen (Aalto University)\nTitle: Abe Dunn\, Joshua D Gottlieb\, Ad
  am Hale Shapiro\, Daniel J Sonnenstuhl\, Pietro Tebaldi: A Denial a Day Ke
- eps the Doctor Away\, QJE Volume 139\, Issue 1\, …\n\nTime not published
-  yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/ev
- ents/atte-kaljonen
+ eps the Doctor Away\, QJE Volume 139\, Issue 1\, February 2024.\n\nEvent p
+ age: https://www.helsinkigse.fi/events/atte-kaljonen
+LOCATION:Economicum\, 4th floor meeting room\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/atte-kaljonen
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250514-joao-montez@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250514
-DTEND;VALUE=DATE:20250515
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250514T160000
+DTEND;TZID=Europe/Helsinki:20250514T170000
 SUMMARY:Industrial Organization: Joao Montez — Signaling new model qualit
  y with old models: delist or discount?…
 DESCRIPTION:Series: Industrial Organization\nType: Seminar\nSpeaker: Joao M
  ontez (HEC Lausanne)\nTitle: Signaling new model quality with old models: 
- delist or discount? (with Sandro Shelegia)\n\nTime not published yet — a
- ll-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/joao-
- montez
+ delist or discount? (with Sandro Shelegia)\n\nEvent page: https://www.hels
+ inkigse.fi/events/joao-montez
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/joao-montez
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250527-hung-le4@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250527
-DTEND;VALUE=DATE:20250528
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250527T121500
+DTEND;TZID=Europe/Helsinki:20250527T130000
 SUMMARY:Industrial Organization: Hung Le — Competition or Collusion? Entr
  y Decisions in the Swedish…
 DESCRIPTION:Series: Industrial Organization\nType: PhD Seminar\nSpeaker: Hu
  ng Le (Aalto University)\nTitle: Competition or Collusion? Entry Decisions
-  in the Swedish Pharmaceutical Market\n\nTime not published yet — all-da
- y placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/hung-le4
+  in the Swedish Pharmaceutical Market\n\nEvent page: https://www.helsinkig
+ se.fi/events/hung-le4
+LOCATION:V301 BIZ Lounge & Terrace\, Aalto University School of Business\, 
+ Ekonominaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/hung-le4
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250609-industrial-organization-phd-workshop@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20250609T101500
@@ -362,105 +381,109 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250611-andrea-pozzi@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250611
-DTEND;VALUE=DATE:20250612
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250611T150000
+DTEND;TZID=Europe/Helsinki:20250611T160000
 SUMMARY:Industrial Organization: Andrea Pozzi — Unbranded competition
 DESCRIPTION:Series: Industrial Organization\nType: Seminar\nSpeaker: Andrea
   Pozzi (Einaudi Institute for Economics and Finance (EIEF))\nTitle: Unbran
- ded competition\n\nTime not published yet — all-day placeholder.\n\nEven
- t page: https://www.helsinkigse.fi/events/andrea-pozzi
+ ded competition\n\nEvent page: https://www.helsinkigse.fi/events/andrea-po
+ zzi
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/andrea-pozzi
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250903-juan-pablo-montero1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250903
-DTEND;VALUE=DATE:20250904
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250903T160000
+DTEND;TZID=Europe/Helsinki:20250903T170000
 SUMMARY:Industrial Organization: Juan-Pablo Montero — Smog and Safety Che
  cks: A Case for Monopoly Delegation (with Nano…
 DESCRIPTION:Series: Industrial Organization\nType: Seminar\nSpeaker: Juan-P
  ablo Montero (UC Chile / Aalto University)\nTitle: Smog and Safety Checks:
-  A Case for Monopoly Delegation (with Nano Barahona and Pedro Skorin)\n\nT
- ime not published yet — all-day placeholder.\n\nEvent page: https://www.
- helsinkigse.fi/events/juan-pablo-montero1
+  A Case for Monopoly Delegation (with Nano Barahona and Pedro Skorin)\n\nE
+ vent page: https://www.helsinkigse.fi/events/juan-pablo-montero1
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/juan-pablo-montero1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250910-fedor-iskhakov@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250910
-DTEND;VALUE=DATE:20250911
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250910T160000
+DTEND;TZID=Europe/Helsinki:20250910T170000
 SUMMARY:Industrial Organization: Fedor Iskhakov — Structural Estimation o
  f Directional Dynamic Games with Multiple…
 DESCRIPTION:Series: Industrial Organization\nType: Seminar\nSpeaker: Fedor 
  Iskhakov (Australian National University)\nTitle: Structural Estimation of
   Directional Dynamic Games with Multiple Equilibria (with Dennis Kristense
- n\, John Rust\, Bertel Schjerning)\n\nTime not published yet — all-day p
- laceholder.\n\nEvent page: https://www.helsinkigse.fi/events/fedor-iskhako
- v
+ n\, John Rust\, Bertel Schjerning)\n\nEvent page: https://www.helsinkigse.
+ fi/events/fedor-iskhakov
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/fedor-iskhakov
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250917-morten-sathre@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250917
-DTEND;VALUE=DATE:20250918
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250917T160000
+DTEND;TZID=Europe/Helsinki:20250917T170000
 SUMMARY:Industrial Organization: Morten Sæthre — Car taxation with exter
  nalities and market power
 DESCRIPTION:Series: Industrial Organization\nType: Seminar\nSpeaker: Morten
   Sæthre (NHH Norwegian School of Economics)\nTitle: Car taxation with ext
- ernalities and market power\n\nTime not published yet — all-day placehol
- der.\n\nEvent page: https://www.helsinkigse.fi/events/morten-sathre
+ ernalities and market power\n\nEvent page: https://www.helsinkigse.fi/even
+ ts/morten-sathre
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/morten-sathre
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251001-leon-musolff@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251001
-DTEND;VALUE=DATE:20251002
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251001T160000
+DTEND;TZID=Europe/Helsinki:20251001T170000
 SUMMARY:Industrial Organization: CEPR VIOS SEMINAR — Broadcasting of an o
  nline seminar: Sources of Market Power in Web…
 DESCRIPTION:Series: Industrial Organization\nType: CEPR VIOS Seminar\nTitle
  : CEPR VIOS SEMINAR (Leon Musolff (Wharton School of the University of Pen
  nsylvania)) — Broadcasting of an online seminar: Sources of Market Power
-  in Web Search: Evidence from a Field Experiment\n\nTime not published yet
-  — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events
- /leon-musolff
+  in Web Search: Evidence from a Field Experiment\n\nEvent page: https://ww
+ w.helsinkigse.fi/events/leon-musolff
+LOCATION:Broadcasting at V101\, Aalto University School of Business\, Ekono
+ minaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/leon-musolff
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251008-industrial-organization-reading-group40@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251008
-DTEND;VALUE=DATE:20251009
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251008T143000
+DTEND;TZID=Europe/Helsinki:20251008T153000
 SUMMARY:Industrial Organization: Industrial Organization Reading Group
 DESCRIPTION:Series: Industrial Organization\nType: Reading Group\nTitle: In
- dustrial Organization Reading Group\n\nTime not published yet — all-day 
- placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/industrial-o
- rganization-reading-group40
+ dustrial Organization Reading Group\n\nEvent page: https://www.helsinkigse
+ .fi/events/industrial-organization-reading-group40
+LOCATION:4th floor\, VATT meeting room\, Economicum\, Arkadiankatu 7\, Hels
+ inki
 URL:https://www.helsinkigse.fi/events/industrial-organization-reading-group
  40
 STATUS:CONFIRMED
@@ -468,160 +491,166 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251008-jisu-jeun@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251008
-DTEND;VALUE=DATE:20251009
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251008T160000
+DTEND;TZID=Europe/Helsinki:20251008T170000
 SUMMARY:Industrial Organization: Jisu Jeun — Going Public over the Busine
  ss Cycle
 DESCRIPTION:Series: Industrial Organization\nType: Seminar\nSpeaker: Jisu J
- eun (Bank of Finland)\nTitle: Going Public over the Business Cycle\n\nTime
-  not published yet — all-day placeholder.\n\nEvent page: https://www.hel
- sinkigse.fi/events/jisu-jeun
+ eun (Bank of Finland)\nTitle: Going Public over the Business Cycle\n\nEven
+ t page: https://www.helsinkigse.fi/events/jisu-jeun
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/jisu-jeun
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251014-antto-jokelainen5@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251014
-DTEND;VALUE=DATE:20251015
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251014T121500
+DTEND;TZID=Europe/Helsinki:20251014T130000
 SUMMARY:Industrial Organization: Antto Jokelainen — The Effect of Alcohol
   Tax on Alcohol Prices and Consumption: Evidence…
 DESCRIPTION:Series: Industrial Organization\nType: PhD Seminar\nSpeaker: An
  tto Jokelainen (Aalto University)\nTitle: The Effect of Alcohol Tax on Alc
- ohol Prices and Consumption: Evidence from Sweden\n\nTime not published ye
- t — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/event
- s/antto-jokelainen5
+ ohol Prices and Consumption: Evidence from Sweden\n\nEvent page: https://w
+ ww.helsinkigse.fi/events/antto-jokelainen5
+LOCATION:V301 BIZ Lounge & Terrace\, Aalto University School of Business\, 
+ Ekonominaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/antto-jokelainen5
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251015-cepr-vios-seminar10@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251015
-DTEND;VALUE=DATE:20251016
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251015T160000
+DTEND;TZID=Europe/Helsinki:20251015T170000
 SUMMARY:Industrial Organization: CEPR VIOS SEMINAR — Broadcasting of an o
  nline seminar: Product Entry in the Global…
 DESCRIPTION:Series: Industrial Organization\nType: CEPR VIOS Seminar\nTitle
  : CEPR VIOS SEMINAR (Alejandro Sabal (Yale University)) — Broadcasting o
- f an online seminar: Product Entry in the Global Automobile Industry\n\nTi
- me not published yet — all-day placeholder.\n\nEvent page: https://www.h
- elsinkigse.fi/events/cepr-vios-seminar10
+ f an online seminar: Product Entry in the Global Automobile Industry\n\nEv
+ ent page: https://www.helsinkigse.fi/events/cepr-vios-seminar10
+LOCATION:Broadcasting at V101\, Aalto University School of Business\, Ekono
+ minaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/cepr-vios-seminar10
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251022-markus-reisinger@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251022
-DTEND;VALUE=DATE:20251023
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251022T160000
+DTEND;TZID=Europe/Helsinki:20251022T170000
 SUMMARY:Industrial Organization: Markus Reisinger — Sequencing Bilateral 
  Negotiations with Externalities (joint with…
 DESCRIPTION:Series: Industrial Organization\nType: Seminar\nSpeaker: Markus
   Reisinger (Frankfurt School of Finance & Management)\nTitle: Sequencing B
  ilateral Negotiations with Externalities (joint with Johannes Muenster)\n\
- nTime not published yet — all-day placeholder.\n\nEvent page: https://ww
- w.helsinkigse.fi/events/markus-reisinger
+ nEvent page: https://www.helsinkigse.fi/events/markus-reisinger
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/markus-reisinger
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251029-cepr-vios-seminar11@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251029
-DTEND;VALUE=DATE:20251030
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251029T160000
+DTEND;TZID=Europe/Helsinki:20251029T170000
 SUMMARY:Industrial Organization: CEPR VIOS SEMINAR — Broadcasting of an o
  nline seminar: Competition\, Persuasion\, and Search
 DESCRIPTION:Series: Industrial Organization\nType: CEPR VIOS Seminar\nTitle
  : CEPR VIOS SEMINAR (Teddy Mekonnen (Brown University)) — Broadcasting o
- f an online seminar: Competition\, Persuasion\, and Search\n\nTime not pub
- lished yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse
- .fi/events/cepr-vios-seminar11
+ f an online seminar: Competition\, Persuasion\, and Search\n\nEvent page: 
+ https://www.helsinkigse.fi/events/cepr-vios-seminar11
+LOCATION:Broadcasting at V101\, Aalto University School of Business\, Ekono
+ minaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/cepr-vios-seminar11
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251105-alexander-clyde@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251105
-DTEND;VALUE=DATE:20251106
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251105T144500
+DTEND;TZID=Europe/Helsinki:20251105T154500
 SUMMARY:Industrial Organization: Alexander Clyde — Narrow Inference and I
  ncentive Design
 DESCRIPTION:Series: Industrial Organization\nType: Seminar\nSpeaker: Alexan
  der Clyde (Aalto University)\nTitle: Narrow Inference and Incentive Design
- \n\nTime not published yet — all-day placeholder.\n\nEvent page: https:/
- /www.helsinkigse.fi/events/alexander-clyde
+ \n\nEvent page: https://www.helsinkigse.fi/events/alexander-clyde
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/alexander-clyde
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251111-milla-hagg12@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251111
-DTEND;VALUE=DATE:20251112
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251111T121500
+DTEND;TZID=Europe/Helsinki:20251111T131500
 SUMMARY:Industrial Organization: Milla Hägg — History Dependence and Fir
  m Incentives in Free Contraception Programs
 DESCRIPTION:Series: Industrial Organization\nType: PhD Seminar\nSpeaker: Mi
  lla Hägg (University of Helsinki)\nTitle: History Dependence and Firm Inc
- entives in Free Contraception Programs\n\nTime not published yet — all-d
- ay placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/milla-hag
- g12
+ entives in Free Contraception Programs\n\nEvent page: https://www.helsinki
+ gse.fi/events/milla-hagg12
+LOCATION:V301 BIZ Lounge & Terrace\, Aalto University School of Business\, 
+ Ekonominaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/milla-hagg12
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251112-cepr-vios-seminar12@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251112
-DTEND;VALUE=DATE:20251113
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251112T160000
+DTEND;TZID=Europe/Helsinki:20251112T170000
 SUMMARY:Industrial Organization: CEPR VIOS SEMINAR — Broadcasting of an o
  nline seminar: Influencer cartels
 DESCRIPTION:Series: Industrial Organization\nType: CEPR VIOS Seminar\nTitle
  : CEPR VIOS SEMINAR (Marit Hinnosaar (University of Nottingham\, CEPR)) 
- — Broadcasting of an online seminar: Influencer cartels\n\nTime not publ
- ished yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.
- fi/events/cepr-vios-seminar12
+ — Broadcasting of an online seminar: Influencer cartels\n\nEvent page: h
+ ttps://www.helsinkigse.fi/events/cepr-vios-seminar12
+LOCATION:Broadcasting at V101\, Aalto University School of Business\, Ekono
+ minaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/cepr-vios-seminar12
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251119-gianluca-antonecchia@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251119
-DTEND;VALUE=DATE:20251120
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251119T144500
+DTEND;TZID=Europe/Helsinki:20251119T154500
 SUMMARY:Industrial Organization: Gianluca Antonecchia — Bargaining Power 
  and Quantity Discounts to Retailers: Evidence from…
 DESCRIPTION:Series: Industrial Organization\nType: Seminar\nSpeaker: Gianlu
  ca Antonecchia (University of Milan-Bicocca)\nTitle: Bargaining Power and 
  Quantity Discounts to Retailers: Evidence from India’s Pharmaceutical In
- dustry\n\nTime not published yet — all-day placeholder.\n\nEvent page: h
- ttps://www.helsinkigse.fi/events/gianluca-antonecchia
+ dustry\n\nEvent page: https://www.helsinkigse.fi/events/gianluca-antonecch
+ ia
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/gianluca-antonecchia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -629,18 +658,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251119-industrial-organization-reading-group-nov19@helsinkigse.f
  i
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251119
-DTEND;VALUE=DATE:20251120
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251119T133000
+DTEND;TZID=Europe/Helsinki:20251119T143000
 SUMMARY:Industrial Organization: Industrial Organization Reading Group — 
  Rosenberg\, A. (2025). Regulating Firearm Markets: Evidence from…
 DESCRIPTION:Series: Industrial Organization\nType: Reading Group\nTitle: In
  dustrial Organization Reading Group — Rosenberg\, A. (2025). Regulating 
- Firearm Markets: Evidence from California.\n\nTime not published yet — a
- ll-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/indus
- trial-organization-reading-group-nov19
+ Firearm Markets: Evidence from California.\n\nEvent page: https://www.hels
+ inkigse.fi/events/industrial-organization-reading-group-nov19
+LOCATION:Seminar room 2\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/industrial-organization-reading-group
  -nov19
 STATUS:CONFIRMED
@@ -648,71 +677,73 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251125-joakim-wikstrom7@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251125
-DTEND;VALUE=DATE:20251126
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251125T121500
+DTEND;TZID=Europe/Helsinki:20251125T130000
 SUMMARY:Industrial Organization: Joakim Wikström — Do Patents Tilt Stand
  ard-Setting? Evidence from Cellular Networks
 DESCRIPTION:Series: Industrial Organization\nType: PhD Seminar\nSpeaker: Jo
  akim Wikström (Aalto University)\nTitle: Do Patents Tilt Standard-Setting
- ? Evidence from Cellular Networks\n\nTime not published yet — all-day pl
- aceholder.\n\nEvent page: https://www.helsinkigse.fi/events/joakim-wikstro
- m7
+ ? Evidence from Cellular Networks\n\nEvent page: https://www.helsinkigse.f
+ i/events/joakim-wikstrom7
+LOCATION:V301 BIZ Lounge & Terrace\, Aalto University School of Business\, 
+ Ekonominaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/joakim-wikstrom7
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251126-cepr-vios-seminar13@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251126
-DTEND;VALUE=DATE:20251127
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251126T160000
+DTEND;TZID=Europe/Helsinki:20251126T170000
 SUMMARY:Industrial Organization: CEPR VIOS SEMINAR — Broadcasting of an o
  nline seminar: Enviromental impacts of banning…
 DESCRIPTION:Series: Industrial Organization\nType: CEPR VIOS Seminar\nTitle
  : CEPR VIOS SEMINAR (Jiekai Zhang (University of Southampton)) — Broadca
  sting of an online seminar: Enviromental impacts of banning vehicle advert
- ising\n\nTime not published yet — all-day placeholder.\n\nEvent page: ht
- tps://www.helsinkigse.fi/events/cepr-vios-seminar13
+ ising\n\nEvent page: https://www.helsinkigse.fi/events/cepr-vios-seminar13
+LOCATION:Broadcasting at V101\, Aalto University School of Business\, Ekono
+ minaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/cepr-vios-seminar13
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251203-helena-rantakaulio2@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251203
-DTEND;VALUE=DATE:20251204
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251203T133000
+DTEND;TZID=Europe/Helsinki:20251203T143000
 SUMMARY:Industrial Organization: Helena Rantakaulio — Sabal\, A. (2025): 
  Product Entry in the Global Automobile Industry
 DESCRIPTION:Series: Industrial Organization\nType: Reading Group\nSpeaker: 
  Helena Rantakaulio (Aalto University)\nTitle: Sabal\, A. (2025): Product E
- ntry in the Global Automobile Industry\n\nTime not published yet — all-d
- ay placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/helena-ra
- ntakaulio2
+ ntry in the Global Automobile Industry\n\nEvent page: https://www.helsinki
+ gse.fi/events/helena-rantakaulio2
+LOCATION:Economicum\, 4th floor meeting room\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/helena-rantakaulio2
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251203-luise-eisfeld@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251203
-DTEND;VALUE=DATE:20251204
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251203T144500
+DTEND;TZID=Europe/Helsinki:20251203T154500
 SUMMARY:Industrial Organization: Luise Eisfeld — Entry and Acquisitions i
  n Software Markets
 DESCRIPTION:Series: Industrial Organization\nType: Seminar\nSpeaker: Luise 
  Eisfeld (HEC Lausanne)\nTitle: Entry and Acquisitions in Software Markets\
- n\nTime not published yet — all-day placeholder.\n\nEvent page: https://
- www.helsinkigse.fi/events/luise-eisfeld
+ n\nEvent page: https://www.helsinkigse.fi/events/luise-eisfeld
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/luise-eisfeld
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -720,7 +751,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251209-industrial-organization-phd-student-workshop1@helsinkigse
  .fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20251209T101500
@@ -748,114 +779,122 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251210-cepr-vios-seminar14@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251210
-DTEND;VALUE=DATE:20251211
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251210T160000
+DTEND;TZID=Europe/Helsinki:20251210T170000
 SUMMARY:Industrial Organization: Broadcasting: CEPR VIOS SEMINAR — Broadc
  asting of an online seminar: Painful Bargaining: Evidence from…
 DESCRIPTION:Series: Industrial Organization\nType: CEPR VIOS Seminar\nTitle
  : Broadcasting: CEPR VIOS SEMINAR (Amanda Starc (Northwestern)) — Broadc
  asting of an online seminar: Painful Bargaining: Evidence from Anesthesia 
- Rollups\n\nTime not published yet — all-day placeholder.\n\nEvent page: 
- https://www.helsinkigse.fi/events/cepr-vios-seminar14
+ Rollups\n\nEvent page: https://www.helsinkigse.fi/events/cepr-vios-seminar
+ 14
+LOCATION:Broadcasting at V101\, Aalto University School of Business\, Ekono
+ minaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/cepr-vios-seminar14
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260210-joakim-wikstrom4@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260210
-DTEND;VALUE=DATE:20260211
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260210T121500
+DTEND;TZID=Europe/Helsinki:20260210T130000
 SUMMARY:Industrial Organization: Joakim Wikström — From Breakthroughs to
   Derivatives: How Grants Redirect Inventors
 DESCRIPTION:Series: Industrial Organization\nType: PhD Seminar\nSpeaker: Jo
  akim Wikström (VATT)\nTitle: From Breakthroughs to Derivatives: How Grant
- s Redirect Inventors\n\nTime not published yet — all-day placeholder.\n\
- nEvent page: https://www.helsinkigse.fi/events/joakim-wikstrom4
+ s Redirect Inventors\n\nEvent page: https://www.helsinkigse.fi/events/joak
+ im-wikstrom4
+LOCATION:Q203\, Aalto University Väre Building\, Otaniementie 14\, Espoo
 URL:https://www.helsinkigse.fi/events/joakim-wikstrom4
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260303-matias-pousi1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260303
-DTEND;VALUE=DATE:20260304
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260303T121500
+DTEND;TZID=Europe/Helsinki:20260303T130000
 SUMMARY:Industrial Organization: Matias Pousi — Steps to competition? Mar
  ket dynamics under the Finnish reference…
 DESCRIPTION:Series: Industrial Organization\nType: PhD Seminar\nSpeaker: Ma
  tias Pousi (Aalto University)\nTitle: Steps to competition? Market dynamic
- s under the Finnish reference price regulation\n\nTime not published yet 
- — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/
- matias-pousi1
+ s under the Finnish reference price regulation\n\nEvent page: https://www.
+ helsinkigse.fi/events/matias-pousi1
+LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/matias-pousi1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260304-cepr-vios-seminar@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260304
-DTEND;VALUE=DATE:20260305
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260304T160000
+DTEND;TZID=Europe/Helsinki:20260304T170000
 SUMMARY:Industrial Organization: CEPR VIOS SEMINAR — Broadcasting of an o
  nline seminar: Public Procurement vs. Regulated…
 DESCRIPTION:Series: Industrial Organization\nType: CEPR VIOS Seminar\nTitle
  : CEPR VIOS SEMINAR (Pietro Tebaldi (Columbia University)) — Broadcastin
  g of an online seminar: Public Procurement vs. Regulated Competition in Se
- lection Markets\n\nTime not published yet — all-day placeholder.\n\nEven
- t page: https://www.helsinkigse.fi/events/cepr-vios-seminar
+ lection Markets\n\nEvent page: https://www.helsinkigse.fi/events/cepr-vios
+ -seminar
+LOCATION:Broadcasting at V101\, Aalto University School of Business\, Ekono
+ minaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/cepr-vios-seminar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260311-mateus-mysliwski@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260311
-DTEND;VALUE=DATE:20260312
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260311T144500
+DTEND;TZID=Europe/Helsinki:20260311T154500
 SUMMARY:Industrial Organization: Mateus Mysliwski — Dynamics of Advertisi
  ng on the Open Web: RTB vs PMP (with Simeon…
 DESCRIPTION:Series: Industrial Organization\nType: Seminar\nSpeaker: Mateus
   Mysliwski (NHH)\nTitle: Dynamics of Advertising on the Open Web: RTB vs P
- MP (with Simeon Duckworth and Lars Nesheim)\n\nTime not published yet — 
- all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/mate
- us-mysliwski
+ MP (with Simeon Duckworth and Lars Nesheim)\n\nEvent page: https://www.hel
+ sinkigse.fi/events/mateus-mysliwski
+LOCATION:U006\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/mateus-mysliwski
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260318-cepr-vios-seminar1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260318
-DTEND;VALUE=DATE:20260319
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260318T160000
+DTEND;TZID=Europe/Helsinki:20260318T170000
 SUMMARY:Industrial Organization: CEPR VIOS SEMINAR — Broadcasting of an o
  nline seminar: Economies of Density and…
 DESCRIPTION:Series: Industrial Organization\nType: CEPR VIOS Seminar\nTitle
  : CEPR VIOS SEMINAR (Hester Zhang (IESE)) — Broadcasting of an online se
- minar: Economies of Density and Congestion in Capital Rental Markets\n\nTi
- me not published yet — all-day placeholder.\n\nEvent page: https://www.h
- elsinkigse.fi/events/cepr-vios-seminar1
+ minar: Economies of Density and Congestion in Capital Rental Markets\n\nEv
+ ent page: https://www.helsinkigse.fi/events/cepr-vios-seminar1
+LOCATION:Broadcasting at V101\, Aalto University School of Business\, Ekono
+ minaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/cepr-vios-seminar1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260325-nicolas-schutz@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260325T144500
@@ -874,7 +913,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260401-cepr-vios-seminar6@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260401T160000
@@ -893,7 +932,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260414-helena-rantakaulio3@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260414T121500
@@ -912,7 +951,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260415-cepr-vios-seminar7@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260415T160000
@@ -931,7 +970,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260422-martinos-therapontos1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260422T133000
@@ -950,7 +989,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260422-xinrong-zhu@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260422T144500
@@ -970,7 +1009,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260428-mikko-vanhala2@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260428T121500
@@ -988,7 +1027,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260429-cepr-vios-seminar8@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260429T160000
@@ -1007,7 +1046,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260506-atte-kaljonen3@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260506T133000
@@ -1026,7 +1065,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260506-dirk-czarnitzki@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260506T144500
@@ -1045,7 +1084,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260512-atte-kaljonen2@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260512T121500
@@ -1064,7 +1103,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260513-cepr-vios-seminar9@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260513T160000
@@ -1083,7 +1122,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260520-joakim-wikstrom6@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T044648Z
 DTSTART;VALUE=DATE:20260520
@@ -1101,7 +1140,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260520-federico-vaccari@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260520T144500
@@ -1120,7 +1159,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260526-martinos-therapontos@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260526T121500
@@ -1140,7 +1179,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260609-industrial-organization-phd-student-workshop2@helsinkigse
  .fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260609T130000
@@ -1168,7 +1207,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260917-sandro-shelegia@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:16
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260917T100000
@@ -1186,7 +1225,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260922-hung-le10@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:3
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260922T121500
@@ -1204,7 +1243,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260930-cepr-vios-seminar15@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:2
 LAST-MODIFIED:20260928T100523Z
 DTSTART;TZID=Europe/Helsinki:20260930T160000
@@ -1225,7 +1264,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261001-industrial-organization-reading-group11@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:4
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261001T134500
@@ -1245,7 +1284,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261001-lea-bignon@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261001T150000
@@ -1264,7 +1303,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261006-helena-rantakaulio4@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:3
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261006T121500
@@ -1281,7 +1320,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261014-cepr-vios-seminar16@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:2
 LAST-MODIFIED:20260928T100523Z
 DTSTART;TZID=Europe/Helsinki:20261014T160000
@@ -1301,7 +1340,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261015-industrial-organization-reading-group12@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:4
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261015T134500
@@ -1321,7 +1360,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261028-cepr-vios-seminar17@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:2
 LAST-MODIFIED:20260928T100523Z
 DTSTART;TZID=Europe/Helsinki:20261028T160000
@@ -1341,7 +1380,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261029-industrial-organization-reading-group13@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:4
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261029T134500
@@ -1361,7 +1400,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261029-yann-delaprez@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261029T150000
@@ -1377,7 +1416,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261111-cepr-vios-seminar18@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:2
 LAST-MODIFIED:20260928T100523Z
 DTSTART;TZID=Europe/Helsinki:20261111T160000
@@ -1398,7 +1437,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261112-industrial-organization-reading-group14@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:4
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261112T134500
@@ -1418,7 +1457,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261125-cepr-vios-seminar19@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:2
 LAST-MODIFIED:20260928T100523Z
 DTSTART;TZID=Europe/Helsinki:20261125T160000
@@ -1439,7 +1478,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261126-industrial-organization-reading-group15@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:4
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261126T134500
@@ -1459,7 +1498,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261126-rodrigo-carril@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261126T150000
@@ -1475,7 +1514,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261209-cepr-vios-seminar20@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:2
 LAST-MODIFIED:20260928T100523Z
 DTSTART;TZID=Europe/Helsinki:20261209T160000
@@ -1496,7 +1535,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261210-industrial-organization-reading-group16@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:4
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261210T134500

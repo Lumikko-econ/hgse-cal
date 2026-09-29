@@ -30,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250319-piero-gottardi@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T044648Z
 DTSTART;VALUE=DATE:20250319
@@ -45,213 +45,226 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250521-ludvig-sinander@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250521
-DTEND;VALUE=DATE:20250522
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250521T160000
+DTEND;TZID=Europe/Helsinki:20250521T170000
 SUMMARY:Microeconomics: Ludvig Sinander — Risk attitudes\, dominance\, an
  d outside options (with Gregorio Curello…
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Ludvig Sinander
   (University of Oxford)\nTitle: Risk attitudes\, dominance\, and outside o
- ptions (with Gregorio Curello and Mark Whitmeyer)\n\nTime not published ye
- t — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/event
- s/ludvig-sinander
+ ptions (with Gregorio Curello and Mark Whitmeyer)\n\nEvent page: https://w
+ ww.helsinkigse.fi/events/ludvig-sinander
+LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/ludvig-sinander
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250522-toomas-hinnosaar@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250522
-DTEND;VALUE=DATE:20250523
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250522T130000
+DTEND;TZID=Europe/Helsinki:20250522T140000
 SUMMARY:Microeconomics: Toomas Hinnosaar — Pricing Novel Goods
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Toomas Hinnosaa
- r (University of Nottingham)\nTitle: Pricing Novel Goods\n\nTime not publi
- shed yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.f
- i/events/toomas-hinnosaar
+ r (University of Nottingham)\nTitle: Pricing Novel Goods\n\nEvent page: ht
+ tps://www.helsinkigse.fi/events/toomas-hinnosaar
+LOCATION:U006\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/toomas-hinnosaar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250604-andreas-kleiner@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250604
-DTEND;VALUE=DATE:20250605
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250604T160000
+DTEND;TZID=Europe/Helsinki:20250604T170000
 SUMMARY:Microeconomics: Andreas Kleiner — Optimal Delegation in a Multidi
  mensional World
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Andreas Kleiner
   (University of Bonn)\nTitle: Optimal Delegation in a Multidimensional Wor
- ld\n\nTime not published yet — all-day placeholder.\n\nEvent page: https
- ://www.helsinkigse.fi/events/andreas-kleiner
+ ld\n\nEvent page: https://www.helsinkigse.fi/events/andreas-kleiner
+LOCATION:U006\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/andreas-kleiner
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250924-julia-wirtz@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250924
-DTEND;VALUE=DATE:20250925
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250924T160000
+DTEND;TZID=Europe/Helsinki:20250924T170000
 SUMMARY:Microeconomics: Julia Wirtz — Optimal Delegated Search with Hidde
  n Information: Screening without…
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Julia Wirtz (Un
  iversity of Bristol)\nTitle: Optimal Delegated Search with Hidden Informat
- ion: Screening without Transfers (with Elnaz Bajoori)\n\nTime not publishe
- d yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/e
- vents/julia-wirtz
+ ion: Screening without Transfers (with Elnaz Bajoori)\n\nEvent page: https
+ ://www.helsinkigse.fi/events/julia-wirtz
+LOCATION:U006\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/julia-wirtz
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251001-david-myatt@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251001
-DTEND;VALUE=DATE:20251002
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251001T160000
+DTEND;TZID=Europe/Helsinki:20251001T170000
 SUMMARY:Microeconomics: David Myatt — Finding a Good Deal: Stable Prices\
  , Costly Search\, and the Effect of…
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: David Myatt (LB
  S)\nTitle: Finding a Good Deal: Stable Prices\, Costly Search\, and the Ef
- fect of Entry (with David Ronayne)\n\nTime not published yet — all-day p
- laceholder.\n\nEvent page: https://www.helsinkigse.fi/events/david-myatt
+ fect of Entry (with David Ronayne)\n\nEvent page: https://www.helsinkigse.
+ fi/events/david-myatt
+LOCATION:U006\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/david-myatt
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251015-ludmila-matyskova@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251015
-DTEND;VALUE=DATE:20251016
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251015T160000
+DTEND;TZID=Europe/Helsinki:20251015T170000
 SUMMARY:Microeconomics: Ludmila Matyskova — Gaming the test: When should 
  test thresholds be unpredictable?
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Ludmila Matysko
  va (University of Alicante)\nTitle: Gaming the test: When should test thre
- sholds be unpredictable?\n\nTime not published yet — all-day placeholder
- .\n\nEvent page: https://www.helsinkigse.fi/events/ludmila-matyskova
+ sholds be unpredictable?\n\nEvent page: https://www.helsinkigse.fi/events/
+ ludmila-matyskova
+LOCATION:U006\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/ludmila-matyskova
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251029-alexander-frug@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251029
-DTEND;VALUE=DATE:20251030
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251029T144500
+DTEND;TZID=Europe/Helsinki:20251029T154500
 SUMMARY:Microeconomics: Alexander Frug — Keeping in the dark with hard ev
  idence (joint work with Daniel Bird)
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Alexander Frug 
  (UPF)\nTitle: Keeping in the dark with hard evidence (joint work with Dani
- el Bird)\n\nTime not published yet — all-day placeholder.\n\nEvent page:
-  https://www.helsinkigse.fi/events/alexander-frug
+ el Bird)\n\nEvent page: https://www.helsinkigse.fi/events/alexander-frug
+LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/alexander-frug
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251112-piero-gottardi1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251112
-DTEND;VALUE=DATE:20251113
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251112T144500
+DTEND;TZID=Europe/Helsinki:20251112T154500
 SUMMARY:Microeconomics: Piero Gottardi — Time Trumps Quantity in the Mark
  et for Lemons (with William Fuchs and…
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Piero Gottardi 
  (University of Essex)\nTitle: Time Trumps Quantity in the Market for Lemon
- s (with William Fuchs and Humberto Moreira)\n\nTime not published yet — 
- all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/pier
- o-gottardi1
+ s (with William Fuchs and Humberto Moreira)\n\nEvent page: https://www.hel
+ sinkigse.fi/events/piero-gottardi1
+LOCATION:U006\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/piero-gottardi1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251126-cesar-barilla@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251126
-DTEND;VALUE=DATE:20251127
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251126T144500
+DTEND;TZID=Europe/Helsinki:20251126T154500
 SUMMARY:Microeconomics: César Barilla — When and what to learn in a chan
  ging world
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: César Barilla 
  (University of Oxford)\nTitle: When and what to learn in a changing world\
- n\nTime not published yet — all-day placeholder.\n\nEvent page: https://
- www.helsinkigse.fi/events/cesar-barilla
+ n\nEvent page: https://www.helsinkigse.fi/events/cesar-barilla
+LOCATION:V002\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/cesar-barilla
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260212-haoran-lei@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260212
-DTEND;VALUE=DATE:20260213
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260212T150000
+DTEND;TZID=Europe/Helsinki:20260212T160000
 SUMMARY:Microeconomics: Haoran Lei — Irrelevance of Personalized Pricing 
  for Privately Informed…
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Haoran Lei (Hun
  an University)\nTitle: Irrelevance of Personalized Pricing for Privately I
- nformed Monopolists (with Xiaoxiao Hu)\n\nTime not published yet — all-d
- ay placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/haoran-le
- i
+ nformed Monopolists (with Xiaoxiao Hu)\n\nEvent page: https://www.helsinki
+ gse.fi/events/haoran-lei
+LOCATION:U406a\, Aalto University\, Otakaari 1\, Espoo
 URL:https://www.helsinkigse.fi/events/haoran-lei
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260225-toan-le1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260225
-DTEND;VALUE=DATE:20260226
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260225T144500
+DTEND;TZID=Europe/Helsinki:20260225T154500
 SUMMARY:Microeconomics: Toan Le — Strategy-proofness versus collusion-pro
  ofness
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Toan Le (Univer
- sity of Oxford)\nTitle: Strategy-proofness versus collusion-proofness\n\nT
- ime not published yet — all-day placeholder.\n\nEvent page: https://www.
- helsinkigse.fi/events/toan-le1
+ sity of Oxford)\nTitle: Strategy-proofness versus collusion-proofness\n\nE
+ vent page: https://www.helsinkigse.fi/events/toan-le1
+LOCATION:U006\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/toan-le1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260318-amit-dekel@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260318
-DTEND;VALUE=DATE:20260319
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260318T144500
+DTEND;TZID=Europe/Helsinki:20260318T154500
 SUMMARY:Microeconomics: Amit Dekel — Free Play Equilibrium
 DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Amit Dekel (Aix
- -Marseille School of Economics)\nTitle: Free Play Equilibrium\n\nTime not 
- published yet — all-day placeholder.\n\nEvent page: https://www.helsinki
- gse.fi/events/amit-dekel
+ -Marseille School of Economics)\nTitle: Free Play Equilibrium\n\nEvent pag
+ e: https://www.helsinkigse.fi/events/amit-dekel
+LOCATION:U006\, Aalto University School of Business\, Arkadiankatu 7\, Hels
+ inki
 URL:https://www.helsinkigse.fi/events/amit-dekel
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260429-andreas-asseyer@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260429T144500
@@ -270,7 +283,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260513-james-best@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260513T144500
@@ -289,7 +302,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260527-justus-preusser@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T100710Z
 DTSTART;TZID=Europe/Helsinki:20260527T144500
@@ -308,7 +321,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260917-sandro-shelegia@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:16
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260917T100000
@@ -326,7 +339,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260924-zhengqing-gui@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:17
 LAST-MODIFIED:20260924T150530Z
 DTSTART;TZID=Europe/Helsinki:20260924T150000
@@ -344,7 +357,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261008-martin-vaeth@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:17
 LAST-MODIFIED:20260929T100710Z
 DTSTART;TZID=Europe/Helsinki:20261008T150000
@@ -362,7 +375,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261022-florian-brandl@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261022T150000
@@ -378,7 +391,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261119-pia-ennuchat@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261119T150000
@@ -394,7 +407,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261203-alfonso-maselli@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:4
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261203T150000
@@ -410,7 +423,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261217-chiara-margaria@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:2
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261217T150000

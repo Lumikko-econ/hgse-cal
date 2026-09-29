@@ -30,284 +30,301 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250203-lunch-seminar1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250203
-DTEND;VALUE=DATE:20250204
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250203T121500
+DTEND;TZID=Europe/Helsinki:20250203T130000
 SUMMARY:Lunch Seminar: Matti Sarvimäki — Randomization as an Incentive D
  evice: Evidence from Public…
 DESCRIPTION:Series: Lunch Seminar\nSpeaker: Matti Sarvimäki (Aalto Univers
  ity)\nTitle: Randomization as an Incentive Device: Evidence from Public Pr
  ocurement of Immigrant Integration Services (with Hanna Pesola and Tuomo V
- irkola)\n\nTime not published yet — all-day placeholder.\n\nEvent page: 
- https://www.helsinkigse.fi/events/lunch-seminar1
+ irkola)\n\nEvent page: https://www.helsinkigse.fi/events/lunch-seminar1
+LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/lunch-seminar1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250210-lunch-seminar2@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250210
-DTEND;VALUE=DATE:20250211
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250210T121500
+DTEND;TZID=Europe/Helsinki:20250210T130000
 SUMMARY:Lunch Seminar: Albert Duodu — Local Import Competition and Firm-l
  evel CO2 Emissions
 DESCRIPTION:Series: Lunch Seminar\nSpeaker: Albert Duodu (Aalto University)
- \nTitle: Local Import Competition and Firm-level CO2 Emissions\n\nTime not
-  published yet — all-day placeholder.\n\nEvent page: https://www.helsink
- igse.fi/events/lunch-seminar2
+ \nTitle: Local Import Competition and Firm-level CO2 Emissions\n\nEvent pa
+ ge: https://www.helsinkigse.fi/events/lunch-seminar2
+LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/lunch-seminar2
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250217-qinyou-hu@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250217
-DTEND;VALUE=DATE:20250218
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250217T121500
+DTEND;TZID=Europe/Helsinki:20250217T130000
 SUMMARY:Lunch Seminar: Qinyou Hu — Breaking Down Bullying: Empathy\, Soci
  al Networks\, and Adolescents
 DESCRIPTION:Series: Lunch Seminar\nSpeaker: Qinyou Hu (Aalto University)\nT
  itle: Breaking Down Bullying: Empathy\, Social Networks\, and Adolescents\
- n\nTime not published yet — all-day placeholder.\n\nEvent page: https://
- www.helsinkigse.fi/events/qinyou-hu
+ n\nEvent page: https://www.helsinkigse.fi/events/qinyou-hu
+LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/qinyou-hu
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250310-lunch-seminar3@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250310
-DTEND;VALUE=DATE:20250311
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250310T121500
+DTEND;TZID=Europe/Helsinki:20250310T130000
 SUMMARY:Lunch Seminar: Jaakko Markkanen — Free Entry and Social Inefficie
  ncy in Regulated Pharmacy Markets
 DESCRIPTION:Series: Lunch Seminar\nSpeaker: Jaakko Markkanen (ETLA Economic
   Research)\nTitle: Free Entry and Social Inefficiency in Regulated Pharmac
- y Markets\n\nTime not published yet — all-day placeholder.\n\nEvent page
- : https://www.helsinkigse.fi/events/lunch-seminar3
+ y Markets\n\nEvent page: https://www.helsinkigse.fi/events/lunch-seminar3
+LOCATION:U006\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/lunch-seminar3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250324-sofia-hernnas1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250324
-DTEND;VALUE=DATE:20250325
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250324T121500
+DTEND;TZID=Europe/Helsinki:20250324T130000
 SUMMARY:Lunch Seminar: Sofia Hernnäs — Broadband and the Geography of Sk
  ill Demand
 DESCRIPTION:Series: Lunch Seminar\nSpeaker: Sofia Hernnäs (Hanken School o
- f Economics)\nTitle: Broadband and the Geography of Skill Demand\n\nTime n
- ot published yet — all-day placeholder.\n\nEvent page: https://www.helsi
- nkigse.fi/events/sofia-hernnas1
+ f Economics)\nTitle: Broadband and the Geography of Skill Demand\n\nEvent 
+ page: https://www.helsinkigse.fi/events/sofia-hernnas1
+LOCATION:U006\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/sofia-hernnas1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250331-lunch-seminar5@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250331
-DTEND;VALUE=DATE:20250401
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250331T121500
+DTEND;TZID=Europe/Helsinki:20250331T130000
 SUMMARY:Lunch Seminar: Leopold Monjoie — Self-Selection in Retail Electri
  city Contracts – Competition…
 DESCRIPTION:Series: Lunch Seminar\nSpeaker: Leopold Monjoie (Aalto Universi
  ty)\nTitle: Self-Selection in Retail Electricity Contracts – Competition
- \, Regulation\, and Welfare Implications\n\nTime not published yet — all
- -day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/lunch-s
- eminar5
+ \, Regulation\, and Welfare Implications\n\nEvent page: https://www.helsin
+ kigse.fi/events/lunch-seminar5
+LOCATION:U006\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/lunch-seminar5
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250407-miri-stryjan1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250407
-DTEND;VALUE=DATE:20250408
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250407T121500
+DTEND;TZID=Europe/Helsinki:20250407T130000
 SUMMARY:Lunch Seminar: Miri Stryjan — Aligning Objectives? The Role of St
  ate-Controlled Community Meetings…
 DESCRIPTION:Series: Lunch Seminar\nSpeaker: Miri Stryjan (Aalto University)
  \nTitle: Aligning Objectives? The Role of State-Controlled Community Meeti
- ngs in Rwanda’s Fertility Transition\n\nTime not published yet — all-d
- ay placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/miri-stry
- jan1
+ ngs in Rwanda’s Fertility Transition\n\nEvent page: https://www.helsinki
+ gse.fi/events/miri-stryjan1
+LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/miri-stryjan1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250414-lunch-seminar7@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250414
-DTEND;VALUE=DATE:20250415
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250414T121500
+DTEND;TZID=Europe/Helsinki:20250414T130000
 SUMMARY:Lunch Seminar: Prottoy Akbar — Drivers of Habit: Evidence of Pers
  istence from Neighborhood Moves…
 DESCRIPTION:Series: Lunch Seminar\nSpeaker: Prottoy Akbar (Aalto University
  )\nTitle: Drivers of Habit: Evidence of Persistence from Neighborhood Move
- s (with Arttu Ahonen and Pablo Warnes)\n\nTime not published yet — all-d
- ay placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/lunch-sem
- inar7
+ s (with Arttu Ahonen and Pablo Warnes)\n\nEvent page: https://www.helsinki
+ gse.fi/events/lunch-seminar7
+LOCATION:T004\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/lunch-seminar7
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250505-lunch-seminar8@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250505
-DTEND;VALUE=DATE:20250506
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250505T121500
+DTEND;TZID=Europe/Helsinki:20250505T130000
 SUMMARY:Lunch Seminar: Marko Terviö — Underachievement in Cognitive Test
  s: Evidence from Finnish Military…
 DESCRIPTION:Series: Lunch Seminar\nSpeaker: Marko Terviö (Aalto University
  )\nTitle: Underachievement in Cognitive Tests: Evidence from Finnish Milit
- ary Conscripts\n\nTime not published yet — all-day placeholder.\n\nEvent
-  page: https://www.helsinkigse.fi/events/lunch-seminar8
+ ary Conscripts\n\nEvent page: https://www.helsinkigse.fi/events/lunch-semi
+ nar8
+LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/lunch-seminar8
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250908-ciprian-domnisoru5@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250908
-DTEND;VALUE=DATE:20250909
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250908T121500
+DTEND;TZID=Europe/Helsinki:20250908T130000
 SUMMARY:Lunch Seminar: Ciprian Domnisoru — The role of firms in shaping t
  he work\, study\, and graduation choices…
 DESCRIPTION:Series: Lunch Seminar\nSpeaker: Ciprian Domnisoru (Aalto Univer
  sity)\nTitle: The role of firms in shaping the work\, study\, and graduati
- on choices of student employees\n\nTime not published yet — all-day plac
- eholder.\n\nEvent page: https://www.helsinkigse.fi/events/ciprian-domnisor
- u5
+ on choices of student employees\n\nEvent page: https://www.helsinkigse.fi/
+ events/ciprian-domnisoru5
+LOCATION:T004\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/ciprian-domnisoru5
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250922-akseli-valiviita@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250922
-DTEND;VALUE=DATE:20250923
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250922T121500
+DTEND;TZID=Europe/Helsinki:20250922T130000
 SUMMARY:Lunch Seminar: Akseli Väliviita — Pricing network operating cons
  traints in the European market for…
 DESCRIPTION:Series: Lunch Seminar\nSpeaker: Akseli Väliviita (Aalto Univer
  sity)\nTitle: Pricing network operating constraints in the European market
-  for electricity\n\nTime not published yet — all-day placeholder.\n\nEve
- nt page: https://www.helsinkigse.fi/events/akseli-valiviita
+  for electricity\n\nEvent page: https://www.helsinkigse.fi/events/akseli-v
+ aliviita
+LOCATION:T004\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/akseli-valiviita
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251006-miika-paallysaho1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251006
-DTEND;VALUE=DATE:20251007
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251006T121500
+DTEND;TZID=Europe/Helsinki:20251006T130000
 SUMMARY:Lunch Seminar: Miika Päällysaho — Decomposing Trends in the PIS
  A Study (with Jani Kuhakoski and Roope…
 DESCRIPTION:Series: Lunch Seminar\nSpeaker: Miika Päällysaho (VATT)\nTitl
  e: Decomposing Trends in the PISA Study (with Jani Kuhakoski and Roope Uus
- italo)\n\nTime not published yet — all-day placeholder.\n\nEvent page: h
- ttps://www.helsinkigse.fi/events/miika-paallysaho1
+ italo)\n\nEvent page: https://www.helsinkigse.fi/events/miika-paallysaho1
+LOCATION:T004\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/miika-paallysaho1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251020-olivia-masi@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251020
-DTEND;VALUE=DATE:20251021
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251020T121500
+DTEND;TZID=Europe/Helsinki:20251020T130000
 SUMMARY:Lunch Seminar: Olivia Masi — Fast-Track to Family? Evidence from 
  the G8 High School Reform in…
 DESCRIPTION:Series: Lunch Seminar\nSpeaker: Olivia Masi (Aalto University)\
  nTitle: Fast-Track to Family? Evidence from the G8 High School Reform in G
- ermany\n\nTime not published yet — all-day placeholder.\n\nEvent page: h
- ttps://www.helsinkigse.fi/events/olivia-masi
+ ermany\n\nEvent page: https://www.helsinkigse.fi/events/olivia-masi
+LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/olivia-masi
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251117-daniel-hauser@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251117
-DTEND;VALUE=DATE:20251118
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251117T121500
+DTEND;TZID=Europe/Helsinki:20251117T130000
 SUMMARY:Lunch Seminar: Daniel Hauser — Introspective Berk-Nash Equilibriu
  m
 DESCRIPTION:Series: Lunch Seminar\nSpeaker: Daniel Hauser (Aalto University
- )\nTitle: Introspective Berk-Nash Equilibrium\n\nTime not published yet 
- — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/
- daniel-hauser
+ )\nTitle: Introspective Berk-Nash Equilibrium\n\nEvent page: https://www.h
+ elsinkigse.fi/events/daniel-hauser
+LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/daniel-hauser
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260223-pauli-murto@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260223
-DTEND;VALUE=DATE:20260224
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260223T121500
+DTEND;TZID=Europe/Helsinki:20260223T130000
 SUMMARY:Lunch Seminar: Pauli Murto — Social learning with endogenous timi
  ng (with Daniel Hauser and Juuso…
 DESCRIPTION:Series: Lunch Seminar\nSpeaker: Pauli Murto (Aalto University)\
  nTitle: Social learning with endogenous timing (with Daniel Hauser and Juu
- so Välimäki)\n\nTime not published yet — all-day placeholder.\n\nEvent
-  page: https://www.helsinkigse.fi/events/pauli-murto
+ so Välimäki)\n\nEvent page: https://www.helsinkigse.fi/events/pauli-murt
+ o
+LOCATION:F101\, Aalto University Väre Building\, Ekonominaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/pauli-murto
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260316-aspasia-bizopoulou1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260316
-DTEND;VALUE=DATE:20260317
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260316T121500
+DTEND;TZID=Europe/Helsinki:20260316T130000
 SUMMARY:Lunch Seminar: Aspasia Bizopoulou — Anti-Discrimination Laws and 
  the Careers of Women
 DESCRIPTION:Series: Lunch Seminar\nSpeaker: Aspasia Bizopoulou (VATT)\nTitl
- e: Anti-Discrimination Laws and the Careers of Women\n\nTime not published
-  yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/ev
- ents/aspasia-bizopoulou1
+ e: Anti-Discrimination Laws and the Careers of Women\n\nEvent page: https:
+ //www.helsinkigse.fi/events/aspasia-bizopoulou1
+LOCATION:F101\, Aalto University Väre Building\, Ekonominaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/aspasia-bizopoulou1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260413-mikko-silliman3@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260413T121500
@@ -326,7 +343,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260420-alina-ozhegova3@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260420T121500
@@ -344,7 +361,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260504-stefano-lombardi1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260504T121500
@@ -364,7 +381,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260518-atte-pudas4@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260518T121500
@@ -383,7 +400,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260914-ossi-tahvonen10@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:4
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260914T121500
@@ -402,7 +419,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260928-ciprian-domnisoru10@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:2
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260928T121500
@@ -421,7 +438,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261019-alexander-clyde1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:1
 LAST-MODIFIED:20260924T100532Z
 DTSTART;TZID=Europe/Helsinki:20261019T121500

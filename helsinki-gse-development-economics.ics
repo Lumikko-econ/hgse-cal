@@ -30,107 +30,110 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250303-kwabena-adu-ababio1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250303
-DTEND;VALUE=DATE:20250304
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250303T150000
+DTEND;TZID=Europe/Helsinki:20250303T160000
 SUMMARY:Development Economics: Kwabena Adu-Ababio — Climate Shocks and Ec
  onomic Resilience: evidence from Zambia’s Formal…
 DESCRIPTION:Series: Development Economics\nType: Brown Bag Seminar\nSpeaker
  : Kwabena Adu-Ababio (UNU-WIDER)\nTitle: Climate Shocks and Economic Resil
- ience: evidence from Zambia’s Formal Sector\n\nTime not published yet 
- — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/
- kwabena-adu-ababio1
+ ience: evidence from Zambia’s Formal Sector\n\nEvent page: https://www.h
+ elsinkigse.fi/events/kwabena-adu-ababio1
+LOCATION:Seminar room 2\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/kwabena-adu-ababio1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250414-daniel-peredo-siles@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250414
-DTEND;VALUE=DATE:20250415
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250414T140000
+DTEND;TZID=Europe/Helsinki:20250414T150000
 SUMMARY:Development Economics: Daniel Peredo-Siles — Heterogeneous Costs\
  , Homogeneous Transfers: Reassessing the impact of…
 DESCRIPTION:Series: Development Economics\nType: Brown Bag Seminar\nSpeaker
  : Daniel Peredo-Siles (Hanken School of Economics)\nTitle: Heterogeneous C
  osts\, Homogeneous Transfers: Reassessing the impact of a large-scale cond
- itional cash transfer program in Bolivia\n\nTime not published yet — all
- -day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/daniel-
- peredo-siles
+ itional cash transfer program in Bolivia\n\nEvent page: https://www.helsin
+ kigse.fi/events/daniel-peredo-siles
+LOCATION:Biz Lounge\, Aalto University School of Business\, Ekonominaukio 1
+ \, Espoo
 URL:https://www.helsinkigse.fi/events/daniel-peredo-siles
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250505-amma-panin@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250505
-DTEND;VALUE=DATE:20250506
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250505T150000
+DTEND;TZID=Europe/Helsinki:20250505T160000
 SUMMARY:Development Economics: Amma Panin — Cognitive consequences of ins
  ecure national belonging (with Ritwik…
 DESCRIPTION:Series: Development Economics\nType: Seminar\nSpeaker: Amma Pan
  in (University of Louvain)\nTitle: Cognitive consequences of insecure nati
  onal belonging (with Ritwik Banerjee\, Joseph Gomes\, and Emmy Lindstam)\n
- \nTime not published yet — all-day placeholder.\n\nEvent page: https://w
- ww.helsinkigse.fi/events/amma-panin
+ \nEvent page: https://www.helsinkigse.fi/events/amma-panin
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/amma-panin
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250512-dean-yang1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250512
-DTEND;VALUE=DATE:20250513
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250512T150000
+DTEND;TZID=Europe/Helsinki:20250512T160000
 SUMMARY:Development Economics: Dean Yang — Ancient Epics in the Televisio
  n Age: Mass Media\, Identity\, and the…
 DESCRIPTION:Series: Development Economics\nType: Seminar\nSpeaker: Dean Yan
  g (University of Michigan)\nTitle: Ancient Epics in the Television Age: Ma
- ss Media\, Identity\, and the Rise of Hindu Nationalism in India\n\nTime n
- ot published yet — all-day placeholder.\n\nEvent page: https://www.helsi
- nkigse.fi/events/dean-yang1
+ ss Media\, Identity\, and the Rise of Hindu Nationalism in India\n\nEvent 
+ page: https://www.helsinkigse.fi/events/dean-yang1
+LOCATION:Seminar roon 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/dean-yang1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250929-nhi-cao1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250929
-DTEND;VALUE=DATE:20250930
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250929T150000
+DTEND;TZID=Europe/Helsinki:20250929T160000
 SUMMARY:Development Economics: Nhi Cao — Persistent effects of colonial r
  ubber plantations
 DESCRIPTION:Series: Development Economics\nType: Brown Bag Seminar\nSpeaker
  : Nhi Cao (Hanken School of Economics)\nTitle: Persistent effects of colon
- ial rubber plantations\n\nTime not published yet — all-day placeholder.\
- n\nEvent page: https://www.helsinkigse.fi/events/nhi-cao1
+ ial rubber plantations\n\nEvent page: https://www.helsinkigse.fi/events/nh
+ i-cao1
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/nhi-cao1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251027-raissa-fabregas@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251027
-DTEND;VALUE=DATE:20251028
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251027T160000
+DTEND;TZID=Europe/Helsinki:20251027T170000
 SUMMARY:Development Economics: Raissa Fabregas — The Well-Being Effects o
  f Digital Mental Health Care
 DESCRIPTION:Series: Development Economics\nType: Seminar\nSpeaker: Raissa F
  abregas (University of Texas at Austin)\nTitle: The Well-Being Effects of 
- Digital Mental Health Care\n\nTime not published yet — all-day placehold
- er.\n\nEvent page: https://www.helsinkigse.fi/events/raissa-fabregas
+ Digital Mental Health Care\n\nEvent page: https://www.helsinkigse.fi/event
+ s/raissa-fabregas
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/raissa-fabregas
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -138,11 +141,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251110-laura-contreras-portela-and-natalia-labrador-bernate-aix-
  marseille-school-of-economics-unu-wider@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251110
-DTEND;VALUE=DATE:20251111
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251110T150000
+DTEND;TZID=Europe/Helsinki:20251110T160000
 SUMMARY:Development Economics: Laura Contreras-Portela and Natalia Labrador
   Bernate — The Unintended Consequences of Place-Based Industrial Policie
  s…
@@ -150,10 +153,10 @@ DESCRIPTION:Series: Development Economics\nType: Brown Bag Seminar\nSpeaker
  : Laura Contreras-Portela and Natalia Labrador Bernate (Aix-Marseille Scho
  ol of Economics & UNU-WIDER)\nTitle: The Unintended Consequences of Place-
  Based Industrial Policies: Evidence from Colombia AND Gender\, Weather Sho
- cks\, and Labor Supply Decisions: …\n\nTime not published yet — all-da
- y placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/laura-cont
- reras-portela-and-natalia-labrador-bernate-aix-marseille-school-of-economi
- cs-unu-wider
+ cks\, and Labor Supply Decisions: Evidence from Urban Colombia\n\nEvent pa
+ ge: https://www.helsinkigse.fi/events/laura-contreras-portela-and-natalia-
+ labrador-bernate-aix-marseille-school-of-economics-unu-wider
+LOCATION:Seminar room 2\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/laura-contreras-portela-and-natalia-l
  abrador-bernate-aix-marseille-school-of-economics-unu-wider
 STATUS:CONFIRMED
@@ -161,24 +164,25 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251124-javier-feinman@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251124
-DTEND;VALUE=DATE:20251125
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251124T160000
+DTEND;TZID=Europe/Helsinki:20251124T170000
 SUMMARY:Development Economics: Javier Feinman — Income Shifting vs Real R
  esponses in Presumptive Tax Regimes…
 DESCRIPTION:Series: Development Economics\nType: Seminar\nSpeaker: Javier F
  einman (PSE)\nTitle: Income Shifting vs Real Responses in Presumptive Tax 
- Regimes: Evidence from Brazil\n\nTime not published yet — all-day placeh
- older.\n\nEvent page: https://www.helsinkigse.fi/events/javier-feinman
+ Regimes: Evidence from Brazil\n\nEvent page: https://www.helsinkigse.fi/ev
+ ents/javier-feinman
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/javier-feinman
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260413-martina-querejeta@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260413T150000
@@ -197,7 +201,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260427-viola-asri@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260427T150000
@@ -216,7 +220,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260511-david-rivera-gonzalez@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260511T150000
@@ -234,7 +238,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260525-justine-knebelmann@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260525T150000
@@ -252,7 +256,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260914-eleonora-guarnieri@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:16
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260914T150000
@@ -270,7 +274,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261019-jeremie-gignoux@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:2
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261019T150000
@@ -286,7 +290,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261019-joan-margalef@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:6
 LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20261019
@@ -302,7 +306,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261026-veronica-salazar-restrepo@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261026T150000
@@ -320,7 +324,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261116-joan-margalef@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:2
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261116T150000
@@ -338,7 +342,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261130-lucas-conwell@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261130T150000

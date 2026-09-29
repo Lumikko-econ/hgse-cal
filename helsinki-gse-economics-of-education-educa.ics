@@ -30,123 +30,133 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250225-yann-bramoulle@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250225
-DTEND;VALUE=DATE:20250226
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250225T150000
+DTEND;TZID=Europe/Helsinki:20250225T160000
 SUMMARY:Economics of Education (Educa): Yann Bramoullé — Friendship netw
  orks and social diversity at school: evidence from a…
 DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
   Yann Bramoullé (Aix-Marseille School of Economics)\nTitle: Friendship ne
  tworks and social diversity at school: evidence from a desegregation progr
- am (joint with Ghazala Azmat\, Julien Grenet\, Aristide …\n\nTime not pu
- blished yet — all-day placeholder.\n\nEvent page: https://www.helsinkigs
- e.fi/events/yann-bramoulle
+ am (joint with Ghazala Azmat\, Julien Grenet\, Aristide Houndetoungan\, El
+ ise Huillery\, and Youssef Souidi)\n\nEvent page: https://www.helsinkigse.
+ fi/events/yann-bramoulle
+LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/yann-bramoulle
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250311-mette-foged@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250311
-DTEND;VALUE=DATE:20250312
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250311T150000
+DTEND;TZID=Europe/Helsinki:20250311T160000
 SUMMARY:Economics of Education (Educa): Mette Foged — Harsh Rhetoric and 
  Ethnic Identity: The Backlash Effects of Denmark’s…
 DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
   Mette Foged (University of Copenhagen)\nTitle: Harsh Rhetoric and Ethnic 
- Identity: The Backlash Effects of Denmark’s Ghetto Plan\n\nTime not publ
- ished yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.
- fi/events/mette-foged
+ Identity: The Backlash Effects of Denmark’s Ghetto Plan\n\nEvent page: h
+ ttps://www.helsinkigse.fi/events/mette-foged
+LOCATION:T004\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/mette-foged
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250408-mikkel-gandil@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250408
-DTEND;VALUE=DATE:20250409
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250408T150000
+DTEND;TZID=Europe/Helsinki:20250408T160000
 SUMMARY:Economics of Education (Educa): Mikkel Gandil — Minority bias in 
  holistic college admissions
 DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
   Mikkel Gandil (ROCKWOOL Foundation Research Unit)\nTitle: Minority bias i
- n holistic college admissions\n\nTime not published yet — all-day placeh
- older.\n\nEvent page: https://www.helsinkigse.fi/events/mikkel-gandil
+ n holistic college admissions\n\nEvent page: https://www.helsinkigse.fi/ev
+ ents/mikkel-gandil
+LOCATION:L101\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/mikkel-gandil
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250506-jose-montalban-castilla@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250506
-DTEND;VALUE=DATE:20250507
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250506T150000
+DTEND;TZID=Europe/Helsinki:20250506T160000
 SUMMARY:Economics of Education (Educa): José Montalban Castilla — How Do
  es Class Size Shape the Classroom Learning Environment and…
 DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
   José Montalban Castilla (SOFI – Stockholm University)\nTitle: How Does
   Class Size Shape the Classroom Learning Environment and Affect Student Ou
- tcomes?\n\nTime not published yet — all-day placeholder.\n\nEvent page: 
- https://www.helsinkigse.fi/events/jose-montalban-castilla
+ tcomes?\n\nEvent page: https://www.helsinkigse.fi/events/jose-montalban-ca
+ stilla
+LOCATION:Seminar room L101\, Aalto University Väre Building\, Ekonominauki
+ o 1\, Espoo
 URL:https://www.helsinkigse.fi/events/jose-montalban-castilla
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250520-christina-felfe@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250520
-DTEND;VALUE=DATE:20250521
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250520T150000
+DTEND;TZID=Europe/Helsinki:20250520T160000
 SUMMARY:Economics of Education (Educa): Christina Felfe — Mintful choices
   - The role of perceived pressure
 DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
   Christina Felfe (University of Konstanz)\nTitle: Mintful choices - The ro
- le of perceived pressure\n\nTime not published yet — all-day placeholder
- .\n\nEvent page: https://www.helsinkigse.fi/events/christina-felfe
+ le of perceived pressure\n\nEvent page: https://www.helsinkigse.fi/events/
+ christina-felfe
+LOCATION:L101\, Aalto University Väre Building\, Ekonominaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/christina-felfe
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250603-tushar-kundu@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250603
-DTEND;VALUE=DATE:20250604
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250603T150000
+DTEND;TZID=Europe/Helsinki:20250603T160000
 SUMMARY:Economics of Education (Educa): Tushar Kundu — Parent-Teacher Ali
  gnment in Multidimensional Skill Development
 DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
   Tushar Kundu (Columbia University)\nTitle: Parent-Teacher Alignment in Mu
- ltidimensional Skill Development\n\nTime not published yet — all-day pla
- ceholder.\n\nEvent page: https://www.helsinkigse.fi/events/tushar-kundu
+ ltidimensional Skill Development\n\nEvent page: https://www.helsinkigse.fi
+ /events/tushar-kundu
+LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/tushar-kundu
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250919-helsinki-economics-of-education-workshop@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:15
-LAST-MODIFIED:20260923T125208Z
+DTSTAMP:20260929T141057Z
+SEQUENCE:16
+LAST-MODIFIED:20260929T141057Z
 DTSTART;VALUE=DATE:20250919
 DTEND;VALUE=DATE:20250920
 SUMMARY:Economics of Education (Educa): Helsinki Economics of Education Wor
  kshop
 DESCRIPTION:Series: Economics of Education (Educa)\nType: Workshop\nTitle: 
  Helsinki Economics of Education Workshop\nHost: Daniel Carvajal\n\nTime no
- t published yet — all-day placeholder.\n\nEvent page: https://www.helsin
- kigse.fi/events/helsinki-economics-of-education-workshop
+ t recorded.\n\nEvent page: https://www.helsinkigse.fi/events/helsinki-econ
+ omics-of-education-workshop
 LOCATION:Aalto University School of Business\, Ekonominaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/helsinki-economics-of-education-works
  hop
@@ -155,42 +165,43 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250923-pedro-carneiro@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250923
-DTEND;VALUE=DATE:20250924
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250923T150000
+DTEND;TZID=Europe/Helsinki:20250923T160000
 SUMMARY:Economics of Education (Educa): Pedro Carneiro — Parental Respons
  es to Child Endowments
 DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
-  Pedro Carneiro (UCL)\nTitle: Parental Responses to Child Endowments\n\nTi
- me not published yet — all-day placeholder.\n\nEvent page: https://www.h
- elsinkigse.fi/events/pedro-carneiro
+  Pedro Carneiro (UCL)\nTitle: Parental Responses to Child Endowments\n\nEv
+ ent page: https://www.helsinkigse.fi/events/pedro-carneiro
+LOCATION:V101\, Väre Building Aalto University\, Ekonominaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/pedro-carneiro
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251021-ben-goldman@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251021
-DTEND;VALUE=DATE:20251022
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251021T150000
+DTEND;TZID=Europe/Helsinki:20251021T160000
 SUMMARY:Economics of Education (Educa): Benjamin Goldman — When Resources
   Meet Relationships: The Returns to Personalized…
 DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
   Benjamin Goldman (Cornell University)\nTitle: When Resources Meet Relatio
- nships: The Returns to Personalized Supports for Low-Income Students\n\nTi
- me not published yet — all-day placeholder.\n\nEvent page: https://www.h
- elsinkigse.fi/events/ben-goldman
+ nships: The Returns to Personalized Supports for Low-Income Students\n\nEv
+ ent page: https://www.helsinkigse.fi/events/ben-goldman
+LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/ben-goldman
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251104-giuseppe-sorrenti@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T044648Z
 DTSTART;VALUE=DATE:20251104
@@ -208,44 +219,47 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251202-julien-grenet@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251202
-DTEND;VALUE=DATE:20251203
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251202T120000
+DTEND;TZID=Europe/Helsinki:20251202T130000
 SUMMARY:Economics of Education (Educa): Julien Grenet — Social Diversity 
  at School: Evidence from a French Desegregation…
 DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
   Julien Grenet (PSE)\nTitle: Social Diversity at School: Evidence from a F
  rench Desegregation Experiment (with Ghazala Azmat\, Élise Huillery\, You
- ssef Souidi\, and Yann Algan)\n\nTime not published yet — all-day placeh
- older.\n\nEvent page: https://www.helsinkigse.fi/events/julien-grenet
+ ssef Souidi\, and Yann Algan)\n\nEvent page: https://www.helsinkigse.fi/ev
+ ents/julien-grenet
+LOCATION:V001\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/julien-grenet
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260310-nagore-iriberri1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260310
-DTEND;VALUE=DATE:20260311
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260310T120000
+DTEND;TZID=Europe/Helsinki:20260310T130000
 SUMMARY:Economics of Education (Educa): Nagore Iriberri — Women in Editor
  ial Boards: An Investigation of Female Representation…
 DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
   Nagore Iriberri (University of the Basque Country UPV/EHU)\nTitle: Women 
  in Editorial Boards: An Investigation of Female Representation in Top Econ
- omic Journals (with Patricia Funk and Nicole Venus)\n\nTime not published 
- yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/eve
- nts/nagore-iriberri1
+ omic Journals (with Patricia Funk and Nicole Venus)\n\nEvent page: https:/
+ /www.helsinkigse.fi/events/nagore-iriberri1
+LOCATION:V101\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/nagore-iriberri1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260421-juanna-schroter-joensen@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260421T120000
@@ -265,7 +279,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260602-gabrielle-fack1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T100710Z
 DTSTART;TZID=Europe/Helsinki:20260602T120000
@@ -286,7 +300,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260826-2nd-edition-of-the-helsinki-economics-of-education-worksh
  op@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260826T090000
@@ -349,7 +363,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261006-jenifer-ruiz-valenzuela@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261006T120000
@@ -367,7 +381,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261020-yusuf-agus-rafael-hernandez-pachon@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:3
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261020T120000
@@ -386,7 +400,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261103-petter-lundborg1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261103T120000
@@ -403,7 +417,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261117-shqiponja-telhaj@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:4
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261117T120000
@@ -420,7 +434,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20270518-matthew-kraft@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:2
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20270518T120000

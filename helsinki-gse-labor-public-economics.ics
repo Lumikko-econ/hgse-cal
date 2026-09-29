@@ -30,24 +30,25 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250218-dan-olof-rooth1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250218
-DTEND;VALUE=DATE:20250219
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250218T150000
+DTEND;TZID=Europe/Helsinki:20250218T160000
 SUMMARY:Labor & Public Economics: Dan-Olof Rooth — Work from home and dis
  ability employment (with Nick Bloom and Gordon…
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Dan-O
  lof Rooth (SOFI)\nTitle: Work from home and disability employment (with Ni
- ck Bloom and Gordon Dahl)\n\nTime not published yet — all-day placeholde
- r.\n\nEvent page: https://www.helsinkigse.fi/events/dan-olof-rooth1
+ ck Bloom and Gordon Dahl)\n\nEvent page: https://www.helsinkigse.fi/events
+ /dan-olof-rooth1
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/dan-olof-rooth1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250226-lachlan-paterson@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T044648Z
 DTSTART;VALUE=DATE:20250226
@@ -64,227 +65,237 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250304-enea-baselgia@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250304
-DTEND;VALUE=DATE:20250305
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250304T150000
+DTEND;TZID=Europe/Helsinki:20250304T160000
 SUMMARY:Labor & Public Economics: Enea Baselgia — The Compliance Effects 
  of the Automatic Exchange of Information…
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Enea 
  Baselgia (ETH Zurich)\nTitle: The Compliance Effects of the Automatic Exch
- ange of Information: Evidence from the Swiss Tax Amnesty\n\nTime not publi
- shed yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.f
- i/events/enea-baselgia
+ ange of Information: Evidence from the Swiss Tax Amnesty\n\nEvent page: ht
+ tps://www.helsinkigse.fi/events/enea-baselgia
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/enea-baselgia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250312-ella-mattinen1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250312
-DTEND;VALUE=DATE:20250313
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250312T120000
+DTEND;TZID=Europe/Helsinki:20250312T130000
 SUMMARY:Labor & Public Economics: Ella Mattinen — The Impact of Successio
  n Taxes on Family Firm Performance and…
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: E
  lla Mattinen (Tampere University)\nTitle: The Impact of Succession Taxes o
- n Family Firm Performance and Composition\n\nTime not published yet — al
- l-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/ella-m
- attinen1
+ n Family Firm Performance and Composition\n\nEvent page: https://www.helsi
+ nkigse.fi/events/ella-mattinen1
+LOCATION:U006\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/ella-mattinen1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250326-tuomas-hiilamo@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250326
-DTEND;VALUE=DATE:20250327
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250326T120000
+DTEND;TZID=Europe/Helsinki:20250326T130000
 SUMMARY:Labor & Public Economics: Tuomas Hiilamo — Partial Retirement in 
  a Hurry: Earnings and Regret
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: T
  uomas Hiilamo (University of Helsinki)\nTitle: Partial Retirement in a Hur
- ry: Earnings and Regret\n\nTime not published yet — all-day placeholder.
- \n\nEvent page: https://www.helsinkigse.fi/events/tuomas-hiilamo
+ ry: Earnings and Regret\n\nEvent page: https://www.helsinkigse.fi/events/t
+ uomas-hiilamo
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/tuomas-hiilamo
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250401-max-lofflerin@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250401
-DTEND;VALUE=DATE:20250402
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250401T150000
+DTEND;TZID=Europe/Helsinki:20250401T160000
 SUMMARY:Labor & Public Economics: Max Löffler — Welfare Effects of Subsi
  dizing First-Time Homebuyers
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Max L
  öffler (Maastrich University)\nTitle: Welfare Effects of Subsidizing Firs
- t-Time Homebuyers\n\nTime not published yet — all-day placeholder.\n\nEv
- ent page: https://www.helsinkigse.fi/events/max-lofflerin
+ t-Time Homebuyers\n\nEvent page: https://www.helsinkigse.fi/events/max-lof
+ flerin
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/max-lofflerin
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250409-ossi-tahvonen1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250409
-DTEND;VALUE=DATE:20250410
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250409T120000
+DTEND;TZID=Europe/Helsinki:20250409T130000
 SUMMARY:Labor & Public Economics: Ossi Tahvonen — Long-term Effects of a 
  Youth Disability Benefit
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: O
  ssi Tahvonen (University of Helsinki)\nTitle: Long-term Effects of a Youth
-  Disability Benefit\n\nTime not published yet — all-day placeholder.\n\n
- Event page: https://www.helsinkigse.fi/events/ossi-tahvonen1
+  Disability Benefit\n\nEvent page: https://www.helsinkigse.fi/events/ossi-
+ tahvonen1
+LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/ossi-tahvonen1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250415-arnaud-maurel1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250415
-DTEND;VALUE=DATE:20250416
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250415T150000
+DTEND;TZID=Europe/Helsinki:20250415T160000
 SUMMARY:Labor & Public Economics: Arnaud Maurel — Sequential College Admi
  ssion Mechanisms and Off-Platform Options…
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Arnau
  d Maurel (Duke University)\nTitle: Sequential College Admission Mechanisms
   and Off-Platform Options (joint with O. De Groote\, A. Fabre and M. Lufla
- de)\n\nTime not published yet — all-day placeholder.\n\nEvent page: http
- s://www.helsinkigse.fi/events/arnaud-maurel1
+ de)\n\nEvent page: https://www.helsinkigse.fi/events/arnaud-maurel1
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/arnaud-maurel1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250423-veikko-uusitalo@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250423
-DTEND;VALUE=DATE:20250424
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250423T120000
+DTEND;TZID=Europe/Helsinki:20250423T130000
 SUMMARY:Labor & Public Economics: Veikko Uusitalo — Commuting expenses de
  duction: effects on commutes and labor market…
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: V
  eikko Uusitalo (University of Helsinki)\nTitle: Commuting expenses deducti
- on: effects on commutes and labor market outcomes\n\nTime not published ye
- t — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/event
- s/veikko-uusitalo
+ on: effects on commutes and labor market outcomes\n\nEvent page: https://w
+ ww.helsinkigse.fi/events/veikko-uusitalo
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/veikko-uusitalo
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250429-tuomas-matikka3@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250429
-DTEND;VALUE=DATE:20250430
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250429T150000
+DTEND;TZID=Europe/Helsinki:20250429T160000
 SUMMARY:Labor & Public Economics: Tuomas Matikka
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Tuoma
- s Matikka (VATT and FIT)\nTitle: TBA\n\nTime not published yet — all-day
-  placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/tuomas-mati
- kka3
+ s Matikka (VATT and FIT)\nTitle: TBA\n\nEvent page: https://www.helsinkigs
+ e.fi/events/tuomas-matikka3
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/tuomas-matikka3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250507-jerry-montonen1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250507
-DTEND;VALUE=DATE:20250508
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250507T120000
+DTEND;TZID=Europe/Helsinki:20250507T130000
 SUMMARY:Labor & Public Economics: Jerry Montonen — Shaping Young Minds: T
  he Effects of Teachers on Social Skills
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: J
  erry Montonen (Aalto University)\nTitle: Shaping Young Minds: The Effects 
- of Teachers on Social Skills\n\nTime not published yet — all-day placeho
- lder.\n\nEvent page: https://www.helsinkigse.fi/events/jerry-montonen1
+ of Teachers on Social Skills\n\nEvent page: https://www.helsinkigse.fi/eve
+ nts/jerry-montonen1
+LOCATION:U006\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/jerry-montonen1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250513-nadja-dwenger@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250513
-DTEND;VALUE=DATE:20250514
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250513T150000
+DTEND;TZID=Europe/Helsinki:20250513T160000
 SUMMARY:Labor & Public Economics: Nadja Dwenger — Building Capacity in th
  e Public Administration: Evidence from German…
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Nadja
   Dwenger (University of Hohenheim)\nTitle: Building Capacity in the Public
   Administration: Evidence from German Reunification (joint work with Anna 
- Gumpert)\n\nTime not published yet — all-day placeholder.\n\nEvent page:
-  https://www.helsinkigse.fi/events/nadja-dwenger
+ Gumpert)\n\nEvent page: https://www.helsinkigse.fi/events/nadja-dwenger
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/nadja-dwenger
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250521-satu-suonto@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250521
-DTEND;VALUE=DATE:20250522
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250521T120000
+DTEND;TZID=Europe/Helsinki:20250521T130000
 SUMMARY:Labor & Public Economics: Satu Suonto — Determinants of Redistrib
  utive Preferences: Evidence from natural and…
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: S
  atu Suonto (University of Helsinki / VATT)\nTitle: Determinants of Redistr
- ibutive Preferences: Evidence from natural and survey experiment\n\nTime n
- ot published yet — all-day placeholder.\n\nEvent page: https://www.helsi
- nkigse.fi/events/satu-suonto
+ ibutive Preferences: Evidence from natural and survey experiment\n\nEvent 
+ page: https://www.helsinkigse.fi/events/satu-suonto
+LOCATION:Seminar room 1\, Ekonomicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/satu-suonto
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250527-christopher-carpenter@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250527
-DTEND;VALUE=DATE:20250528
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250527T150000
+DTEND;TZID=Europe/Helsinki:20250527T154500
 SUMMARY:Labor & Public Economics: Christopher Carpenter — Transgender Ear
  nings Gaps in the United States: Evidence from…
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Chris
  topher Carpenter (Vanderbilt)\nTitle: Transgender Earnings Gaps in the Uni
  ted States: Evidence from Administrative Data (with Lucas Goodman & Maxine
-  J. Lee)\n\nTime not published yet — all-day placeholder.\n\nEvent page:
-  https://www.helsinkigse.fi/events/christopher-carpenter
+  J. Lee)\n\nEvent page: https://www.helsinkigse.fi/events/christopher-carp
+ enter
+LOCATION:V002\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/christopher-carpenter
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250527-ylva-moberg@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250527
-DTEND;VALUE=DATE:20250528
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250527T154500
+DTEND;TZID=Europe/Helsinki:20250527T163000
 SUMMARY:Labor & Public Economics: Ylva Moberg — Moberg: LGBTQ populations
   in the Nordics
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Ylva 
- Moberg (SOFI)\nTitle: Moberg: LGBTQ populations in the Nordics\n\nTime not
-  published yet — all-day placeholder.\n\nEvent page: https://www.helsink
- igse.fi/events/ylva-moberg
+ Moberg (SOFI)\nTitle: Moberg: LGBTQ populations in the Nordics\n\nEvent pa
+ ge: https://www.helsinkigse.fi/events/ylva-moberg
+LOCATION:V002\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/ylva-moberg
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -292,7 +303,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250528-labor-and-public-economics-phd-workshop-2025@helsinkigse.
  fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20250528T091500
@@ -324,202 +335,207 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250604-marc-riudavets1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250604
-DTEND;VALUE=DATE:20250605
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250604T120000
+DTEND;TZID=Europe/Helsinki:20250604T130000
 SUMMARY:Labor & Public Economics: Marc Riudavets — The Interaction betwee
  n Minimum Wages and Collective Bargaining…
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: M
  arc Riudavets (University of Helsinki)\nTitle: The Interaction between Min
- imum Wages and Collective Bargaining: Explaining Wage Spillovers.\n\nTime 
- not published yet — all-day placeholder.\n\nEvent page: https://www.hels
- inkigse.fi/events/marc-riudavets1
+ imum Wages and Collective Bargaining: Explaining Wage Spillovers.\n\nEvent
+  page: https://www.helsinkigse.fi/events/marc-riudavets1
+LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/marc-riudavets1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250617-eric-zwick@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250617
-DTEND;VALUE=DATE:20250618
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250617T150000
+DTEND;TZID=Europe/Helsinki:20250617T160000
 SUMMARY:Labor & Public Economics: Eric Zwick — Tax Policy and Investment 
  in a Global Economy (joint with Gabriel…
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Eric 
  Zwick (University of Chicago Booth School of Business and NBER)\nTitle: Ta
  x Policy and Investment in a Global Economy (joint with Gabriel Chodorow-R
- eich\, Matthew Smith and Owen Zidar)\n\nTime not published yet — all-day
-  placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/eric-zwick
+ eich\, Matthew Smith and Owen Zidar)\n\nEvent page: https://www.helsinkigs
+ e.fi/events/eric-zwick
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/eric-zwick
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250903-juho-junttila1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250903
-DTEND;VALUE=DATE:20250904
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250903T120000
+DTEND;TZID=Europe/Helsinki:20250903T130000
 SUMMARY:Labor & Public Economics: Juho Junttila — Anatomy of a Compulsory
   Schooling Law
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: J
  uho Junttila (University of Helsinki)\nTitle: Anatomy of a Compulsory Scho
- oling Law\n\nTime not published yet — all-day placeholder.\n\nEvent page
- : https://www.helsinkigse.fi/events/juho-junttila1
+ oling Law\n\nEvent page: https://www.helsinkigse.fi/events/juho-junttila1
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/juho-junttila1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250909-tom-zohar@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250909
-DTEND;VALUE=DATE:20250910
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250909T150000
+DTEND;TZID=Europe/Helsinki:20250909T160000
 SUMMARY:Labor & Public Economics: Tom Zohar — On Causal Inference with Mo
  del-Based Outcomes (with Dmitry…
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Tom Z
  ohar (CEMFI)\nTitle: On Causal Inference with Model-Based Outcomes (with D
- mitry Arkhangelsky and Kazuharo Yanagimoto)\n\nTime not published yet — 
- all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/tom-
- zohar
+ mitry Arkhangelsky and Kazuharo Yanagimoto)\n\nEvent page: https://www.hel
+ sinkigse.fi/events/tom-zohar
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/tom-zohar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250916-martin-brun@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250916
-DTEND;VALUE=DATE:20250917
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250916T150000
+DTEND;TZID=Europe/Helsinki:20250916T160000
 SUMMARY:Labor & Public Economics: Martín Brun — A Cognitive Root in Fair
  ness
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Mart
- ín Brun (Tampere University)\nTitle: A Cognitive Root in Fairness\n\nTime
-  not published yet — all-day placeholder.\n\nEvent page: https://www.hel
- sinkigse.fi/events/martin-brun
+ ín Brun (Tampere University)\nTitle: A Cognitive Root in Fairness\n\nEven
+ t page: https://www.helsinkigse.fi/events/martin-brun
+LOCATION:Seminar room 2\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/martin-brun
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250930-lena-hensvik1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20250930
-DTEND;VALUE=DATE:20251001
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20250930T150000
+DTEND;TZID=Europe/Helsinki:20250930T160000
 SUMMARY:Labor & Public Economics: Lena Hensvik — How do Migrants and Nati
  ves Search for Jobs?
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Lena 
  Hensvik (Uppsala University)\nTitle: How do Migrants and Natives Search fo
- r Jobs?\n\nTime not published yet — all-day placeholder.\n\nEvent page: 
- https://www.helsinkigse.fi/events/lena-hensvik1
+ r Jobs?\n\nEvent page: https://www.helsinkigse.fi/events/lena-hensvik1
+LOCATION:Seminar room 2\, Economicum\, Arkadiankaut 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/lena-hensvik1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251001-atte-pudas3@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251001
-DTEND;VALUE=DATE:20251002
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251001T120000
+DTEND;TZID=Europe/Helsinki:20251001T130000
 SUMMARY:Labor & Public Economics: Atte Pudas — Gender Differences in the 
  Returns and Costs of Patenting
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: A
  tte Pudas (Aalto University)\nTitle: Gender Differences in the Returns and
-  Costs of Patenting\n\nTime not published yet — all-day placeholder.\n\n
- Event page: https://www.helsinkigse.fi/events/atte-pudas3
+  Costs of Patenting\n\nEvent page: https://www.helsinkigse.fi/events/atte-
+ pudas3
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/atte-pudas3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251015-gopinath-annadurai@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251015
-DTEND;VALUE=DATE:20251016
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251015T120000
+DTEND;TZID=Europe/Helsinki:20251015T130000
 SUMMARY:Labor & Public Economics: Gopinath Annadurai — Improving First-Ge
  neration College Students’ Education and…
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: G
  opinath Annadurai (Indian Institute of Management Bangalore)\nTitle: Impro
  ving First-Generation College Students’ Education and Employment: Effect
- s of a Targeted Scholarship Program\n\nTime not published yet — all-day 
- placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/gopinath-ann
- adurai
+ s of a Targeted Scholarship Program\n\nEvent page: https://www.helsinkigse
+ .fi/events/gopinath-annadurai
+LOCATION:V002\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/gopinath-annadurai
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251111-simen-markussen@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251111
-DTEND;VALUE=DATE:20251112
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251111T150000
+DTEND;TZID=Europe/Helsinki:20251111T160000
 SUMMARY:Labor & Public Economics: Simen Markussen — Unemployment benefits
   for labor market entrants: A cross-country…
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Simen
   Markussen (Frisch Center)\nTitle: Unemployment benefits for labor market 
- entrants: A cross-country study using micro data\n\nTime not published yet
-  — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events
- /simen-markussen
+ entrants: A cross-country study using micro data\n\nEvent page: https://ww
+ w.helsinkigse.fi/events/simen-markussen
+LOCATION:Seminar room 2\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/simen-markussen
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251112-ellen-sahlstrom1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251112
-DTEND;VALUE=DATE:20251113
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251112T120000
+DTEND;TZID=Europe/Helsinki:20251112T130000
 SUMMARY:Labor & Public Economics: Ellen Sahlström — Preventing Social Ex
  clusion of Immigrants
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: E
  llen Sahlström (Aalto University)\nTitle: Preventing Social Exclusion of 
- Immigrants\n\nTime not published yet — all-day placeholder.\n\nEvent pag
- e: https://www.helsinkigse.fi/events/ellen-sahlstrom1
+ Immigrants\n\nEvent page: https://www.helsinkigse.fi/events/ellen-sahlstro
+ m1
+LOCATION:L102\, Aalto University Väre Building\, Ekonominaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/ellen-sahlstrom1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251125-ana-costa-ramon@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251125
-DTEND;VALUE=DATE:20251126
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251125T150000
+DTEND;TZID=Europe/Helsinki:20251125T160000
 SUMMARY:Labor & Public Economics: Ana Costa-Ramón — The Long-Run Effects
   of a School Anti-Bullying Intervention (with…
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Ana C
  osta-Ramón (University of Zurich)\nTitle: The Long-Run Effects of a Schoo
  l Anti-Bullying Intervention (with Tabea Braun\, Ana Rodríguez-González\
- , Ursina Schaede\, and Christina Salmivalli)\n\nTime not published yet —
-  all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/ana
- -costa-ramon
+ , Ursina Schaede\, and Christina Salmivalli)\n\nEvent page: https://www.he
+ lsinkigse.fi/events/ana-costa-ramon
+LOCATION:Seminar room 2\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/ana-costa-ramon
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251126-jerry-montonen3@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T044648Z
 DTSTART;VALUE=DATE:20251126
@@ -536,25 +552,25 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251209-arnaldur-stefanson@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251209
-DTEND;VALUE=DATE:20251210
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251209T150000
+DTEND;TZID=Europe/Helsinki:20251209T160000
 SUMMARY:Labor & Public Economics: Arnaldur Stefanson — Labor Supply Respo
  nse to a Tax Holiday: The Take-Home from a Large…
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Arnal
  dur Stefanson (University of Iceland)\nTitle: Labor Supply Response to a T
- ax Holiday: The Take-Home from a Large and Salient Shock\n\nTime not publi
- shed yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.f
- i/events/arnaldur-stefanson
+ ax Holiday: The Take-Home from a Large and Salient Shock\n\nEvent page: ht
+ tps://www.helsinkigse.fi/events/arnaldur-stefanson
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/arnaldur-stefanson
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251210-saara-haikonen2@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T044648Z
 DTSTART;VALUE=DATE:20251210
@@ -570,11 +586,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251217-rasmus-mellanen-ossi-tahvonen-and-tuomas-hiilamo@helsinki
  gse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251217
-DTEND;VALUE=DATE:20251218
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251217T120000
+DTEND;TZID=Europe/Helsinki:20251217T130000
 SUMMARY:Labor & Public Economics: Rasmus Mellanen\, Ossi Tahvonen and Tuoma
  s Hiilamo — Mellanen: Inequality in primary schools / Tahvonen: Improvin
  g Judge…
@@ -582,9 +598,9 @@ DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: R
  asmus Mellanen\, Ossi Tahvonen and Tuomas Hiilamo (University of Helsinki)
  \nTitle: Mellanen: Inequality in primary schools / Tahvonen: Improving Jud
  ge IV with empirical Bayes / Hiilamo: Raising the Retirement Age: Claiming
-  and Exit\n\nTime not published yet — all-day placeholder.\n\nEvent page
- : https://www.helsinkigse.fi/events/rasmus-mellanen-ossi-tahvonen-and-tuom
- as-hiilamo
+  and Exit\n\nEvent page: https://www.helsinkigse.fi/events/rasmus-mellanen
+ -ossi-tahvonen-and-tuomas-hiilamo
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/rasmus-mellanen-ossi-tahvonen-and-tuo
  mas-hiilamo
 STATUS:CONFIRMED
@@ -593,17 +609,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251218-labor-and-public-economics-phd-workshop-2025-2@helsinkigs
  e.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:15
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20251218
-DTEND;VALUE=DATE:20251219
+DTSTAMP:20260929T141057Z
+SEQUENCE:16
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20251218T093000
+DTEND;TZID=Europe/Helsinki:20251218T113000
 SUMMARY:Labor & Public Economics: Labor and Public Economics PhD Workshop
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Workshop\nTitle: La
  bor and Public Economics PhD Workshop\nAbout: Workshop for Helsinki GSE an
  d FDPE PhD students\nHosts: Cristina Bratu & Matti Mitrunen & Terhi Ravask
- a\n\nTime not published yet — all-day placeholder.\n\nEvent page: https:
- //www.helsinkigse.fi/events/labor-and-public-economics-phd-workshop-2025-2
+ a\n\nEvent page: https://www.helsinkigse.fi/events/labor-and-public-econom
+ ics-phd-workshop-2025-2
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/labor-and-public-economics-phd-worksh
  op-2025-2
@@ -612,132 +628,136 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260203-camilla-christensen@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260203
-DTEND;VALUE=DATE:20260204
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260203T150000
+DTEND;TZID=Europe/Helsinki:20260203T160000
 SUMMARY:Labor & Public Economics: Camilla Christensen — Are People System
  atically Inactive Across Financial Decisions?…
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Camil
  la Christensen (University of Copenhagen\, CEBI and CenTax)\nTitle: Are Pe
  ople Systematically Inactive Across Financial Decisions? Linking Evidence 
- from Mortgage and Retirement Saving Decisions (with Henrik Yde …\n\nTime
-  not published yet — all-day placeholder.\n\nEvent page: https://www.hel
- sinkigse.fi/events/camilla-christensen
+ from Mortgage and Retirement Saving Decisions (with Henrik Yde Andersen\, 
+ Claus Thustrup Kreiner and Søren Leth-Petersen)\n\nEvent page: https://ww
+ w.helsinkigse.fi/events/camilla-christensen
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/camilla-christensen
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260211-lachlan-paterson1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260211
-DTEND;VALUE=DATE:20260212
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260211T120000
+DTEND;TZID=Europe/Helsinki:20260211T130000
 SUMMARY:Labor & Public Economics: Lachlan Paterson — The role of training
   providers in integration training
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: L
  achlan Paterson (Aalto University)\nTitle: The role of training providers 
- in integration training\n\nTime not published yet — all-day placeholder.
- \n\nEvent page: https://www.helsinkigse.fi/events/lachlan-paterson1
+ in integration training\n\nEvent page: https://www.helsinkigse.fi/events/l
+ achlan-paterson1
+LOCATION:V001\, Aalto University School of Business\, Ekonominaukio 1\, Esp
+ oo
 URL:https://www.helsinkigse.fi/events/lachlan-paterson1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260217-tuuli-tahtinen4@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260217
-DTEND;VALUE=DATE:20260218
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260217T150000
+DTEND;TZID=Europe/Helsinki:20260217T160000
 SUMMARY:Labor & Public Economics: Tuuli Tähtinen — Growing up with Immig
  rants: The Long-Run Effects of Peers on…
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Tuuli
   Tähtinen (IFO)\nTitle: Growing up with Immigrants: The Long-Run Effects 
- of Peers on Political Participation and Attitudes\n\nTime not published ye
- t — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/event
- s/tuuli-tahtinen4
+ of Peers on Political Participation and Attitudes\n\nEvent page: https://w
+ ww.helsinkigse.fi/events/tuuli-tahtinen4
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/tuuli-tahtinen4
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260225-veikko-uusitalo1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260225
-DTEND;VALUE=DATE:20260226
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260225T120000
+DTEND;TZID=Europe/Helsinki:20260225T130000
 SUMMARY:Labor & Public Economics: Veikko Uusitalo — Which path pays off? 
  Returns to universities of applied sciences
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: V
  eikko Uusitalo (University of Helsinki)\nTitle: Which path pays off? Retur
- ns to universities of applied sciences\n\nTime not published yet — all-d
- ay placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/veikko-uu
- sitalo1
+ ns to universities of applied sciences\n\nEvent page: https://www.helsinki
+ gse.fi/events/veikko-uusitalo1
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/veikko-uusitalo1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260303-giacomo-brusco@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260303
-DTEND;VALUE=DATE:20260304
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260303T150000
+DTEND;TZID=Europe/Helsinki:20260303T160000
 SUMMARY:Labor & Public Economics: Giacomo Brusco — Guess Who’s Evading 
  on Dinner: Experimental Evidence on the Incidence…
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Giaco
  mo Brusco (University of Tübingen)\nTitle: Guess Who’s Evading on Dinne
- r: Experimental Evidence on the Incidence of Evasion\n\nTime not published
-  yet — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/ev
- ents/giacomo-brusco
+ r: Experimental Evidence on the Incidence of Evasion\n\nEvent page: https:
+ //www.helsinkigse.fi/events/giacomo-brusco
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/giacomo-brusco
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260311-selina-clarke1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260311
-DTEND;VALUE=DATE:20260312
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260311T120000
+DTEND;TZID=Europe/Helsinki:20260311T130000
 SUMMARY:Labor & Public Economics: Selina Clarke — The environmental effec
  ts of historical mining
 DESCRIPTION:Series: Labor & Public Economics\nType: PhD Seminar\nSpeaker: S
  elina Clarke (University of Helsinki)\nTitle: The environmental effects of
-  historical mining\n\nTime not published yet — all-day placeholder.\n\nE
- vent page: https://www.helsinkigse.fi/events/selina-clarke1
+  historical mining\n\nEvent page: https://www.helsinkigse.fi/events/selina
+ -clarke1
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/selina-clarke1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260324-laura-khoury@helsinkigse.fi
-DTSTAMP:20260929T130455Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260324
-DTEND;VALUE=DATE:20260325
+DTSTAMP:20260929T141057Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T141057Z
+DTSTART;TZID=Europe/Helsinki:20260324T150000
+DTEND;TZID=Europe/Helsinki:20260324T160000
 SUMMARY:Labor & Public Economics: Laura Khoury — The Wage and Mobility Ef
  fects of Remote Work (with F. Alosa and Y.…
 DESCRIPTION:Series: Labor & Public Economics\nType: Seminar\nSpeaker: Laura
   Khoury (University Paris Dauphine-PSL)\nTitle: The Wage and Mobility Effe
- cts of Remote Work (with F. Alosa and Y. Souidi)\n\nTime not published yet
-  — all-day placeholder.\n\nEvent page: https://www.helsinkigse.fi/events
- /laura-khoury
+ cts of Remote Work (with F. Alosa and Y. Souidi)\n\nEvent page: https://ww
+ w.helsinkigse.fi/events/laura-khoury
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/laura-khoury
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260325-ulla-wirtanen@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260325T121500
@@ -755,7 +775,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260331-alessandro-pizzigolotto@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260331T150000
@@ -774,7 +794,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260414-jakob-beuschlein@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260414T150000
@@ -793,7 +813,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260415-ossi-tahvonen2@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260415T120000
@@ -812,7 +832,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260428-matias-giaccobasso5@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260428T150000
@@ -830,7 +850,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260512-david-jaeger@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260512T150000
@@ -848,7 +868,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260513-labor-and-public-phd-workshop-2026-1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260513T090000
@@ -880,7 +900,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260519-denvil-duncan@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260519T160000
@@ -897,7 +917,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260526-davide-cipullo@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T100710Z
 DTSTART;TZID=Europe/Helsinki:20260526T150000
@@ -915,7 +935,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260603-ellen-sahlstrom2@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T100710Z
 DTSTART;TZID=Europe/Helsinki:20260603T120000
@@ -933,7 +953,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260609-greta-morando@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T044648Z
 DTSTART;TZID=Europe/Helsinki:20260609T150000
@@ -952,7 +972,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260616-omar-bamieh@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T044648Z
 DTSTART;TZID=Europe/Helsinki:20260616T150000
@@ -970,7 +990,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260901-jakob-egholt-sogaard@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260901T150000
@@ -988,7 +1008,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260915-andrew-shephard@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:16
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260915T150000
@@ -1007,7 +1027,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260916-rasmus-mellanen1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:4
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260916T120000
@@ -1026,7 +1046,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260923-labor-economics-reading-group@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260923T120000
@@ -1042,7 +1062,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260929-jakob-miethe@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260929T150000
@@ -1061,7 +1081,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260930-nea-leinonen1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:4
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260930T120000
@@ -1080,7 +1100,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261007-meeri-seppa-lachlan-paterson@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:4
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261007T120000
@@ -1100,7 +1120,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261013-panu-poutavaara@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T070511Z
 DTSTART;TZID=Europe/Helsinki:20261013T150000
@@ -1116,7 +1136,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261014-ellen-sahlstrom3@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:5
 LAST-MODIFIED:20260929T070511Z
 DTSTART;TZID=Europe/Helsinki:20261014T120000
@@ -1133,7 +1153,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261021-labor-economics-reading-group1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20261021
@@ -1150,7 +1170,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261021-vaino-siimes-krista-kuuttiniemi-helena-rantakaulio@helsin
  kigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:5
 LAST-MODIFIED:20260929T044648Z
 DTSTART;TZID=Europe/Helsinki:20261021T120000
@@ -1174,7 +1194,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261028-labor-economics-reading-group1@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:15
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261028T120000
@@ -1191,7 +1211,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261104-ossi-tahvonen3@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:5
 LAST-MODIFIED:20260929T070511Z
 DTSTART;TZID=Europe/Helsinki:20261104T120000
@@ -1208,7 +1228,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261110-hugo-reichardt@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20261110
@@ -1225,7 +1245,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261118-atte-pudas5@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:5
 LAST-MODIFIED:20260929T070511Z
 DTSTART;TZID=Europe/Helsinki:20261118T120000
@@ -1242,7 +1262,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261124-wouter-leenders@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261124T150000
@@ -1257,7 +1277,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261125-labor-economics-reading-group2@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261125T120000
@@ -1273,7 +1293,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261202-juho-junttila2@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:4
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261202T120000
@@ -1291,7 +1311,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261208-kenza-elass@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:2
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261208T150000
@@ -1308,7 +1328,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261209-labor-economics-reading-group3@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261209T120000
@@ -1326,7 +1346,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261215-labor-and-public-economics-phd-workshop-2026@helsinkigse.
  fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:3
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261215T090000
@@ -1345,7 +1365,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261216-ozan-yanar@helsinkigse.fi
-DTSTAMP:20260929T130455Z
+DTSTAMP:20260929T141057Z
 SEQUENCE:4
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261216T120000
