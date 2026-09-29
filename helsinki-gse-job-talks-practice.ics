@@ -30,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20251022-daniel-cunha-bystrom@helsinkigse.fi
-DTSTAMP:20260929T070511Z
+DTSTAMP:20260929T100710Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251022
@@ -48,7 +48,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251028-erika-povea@helsinkigse.fi
-DTSTAMP:20260929T070511Z
+DTSTAMP:20260929T100710Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251028
@@ -65,7 +65,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251031-jerry-montonen-practicejobtalk@helsinkigse.fi
-DTSTAMP:20260929T070511Z
+DTSTAMP:20260929T100710Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251031
@@ -82,7 +82,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251104-jussipekka-salo2@helsinkigse.fi
-DTSTAMP:20260929T070511Z
+DTSTAMP:20260929T100710Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251104
@@ -100,7 +100,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251114-kailin-chen@helsinkigse.fi
-DTSTAMP:20260929T070511Z
+DTSTAMP:20260929T100710Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251114
@@ -118,7 +118,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251128-milla-hagg-practicejobtalk@helsinkigse.fi
-DTSTAMP:20260929T070511Z
+DTSTAMP:20260929T100710Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251128
@@ -135,7 +135,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251201-ville-savolainen@helsinkigse.fi
-DTSTAMP:20260929T070511Z
+DTSTAMP:20260929T100710Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251201
@@ -152,7 +152,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251212-mikael-makimattila-practicejobtalk@helsinkigse.fi
-DTSTAMP:20260929T070511Z
+DTSTAMP:20260929T100710Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251212
@@ -169,7 +169,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261026-atte-pudas6@helsinkigse.fi
-DTSTAMP:20260929T070511Z
+DTSTAMP:20260929T100710Z
 SEQUENCE:4
 LAST-MODIFIED:20260929T070511Z
 DTSTART;TZID=Europe/Helsinki:20261026T121500
@@ -186,15 +186,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261109-hung-le6@helsinkigse.fi
-DTSTAMP:20260929T070511Z
-SEQUENCE:2
-LAST-MODIFIED:20260923T125208Z
+DTSTAMP:20260929T100710Z
+SEQUENCE:3
+LAST-MODIFIED:20260929T100710Z
 DTSTART;TZID=Europe/Helsinki:20261109T121500
 DTEND;TZID=Europe/Helsinki:20261109T133000
 SUMMARY:Practice Job Talk: Hung Le
 DESCRIPTION:Series: Practice Job Talk\nSpeaker: Hung Le (Aalto University)\
- nTitle: TBA\nHosts: Julia Salmi & Arno Apffelstaedt\n\nEvent page: https:/
- /www.helsinkigse.fi/events/hung-le6
+ nTitle: TBA\nHosts: Julia Salmi & Prottoy Akbar\n\nEvent page: https://www
+ .helsinkigse.fi/events/hung-le6
 LOCATION:T004\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/hung-le6
@@ -203,7 +203,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261116-aino-friman@helsinkigse.fi
-DTSTAMP:20260929T070511Z
+DTSTAMP:20260929T100710Z
 SEQUENCE:2
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261116T121500
@@ -220,15 +220,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261123-elyas-saif@helsinkigse.fi
-DTSTAMP:20260929T070511Z
-SEQUENCE:2
-LAST-MODIFIED:20260923T125208Z
+DTSTAMP:20260929T100710Z
+SEQUENCE:3
+LAST-MODIFIED:20260929T100710Z
 DTSTART;TZID=Europe/Helsinki:20261123T121500
 DTEND;TZID=Europe/Helsinki:20261123T133000
 SUMMARY:Practice Job Talk: Elyas Saif
 DESCRIPTION:Series: Practice Job Talk\nSpeaker: Elyas Saif (Hanken)\nTitle:
-  TBA\nHosts: Julia Salmi & Arno Apffelstaedt\n\nEvent page: https://www.he
- lsinkigse.fi/events/elyas-saif
+  TBA\nHosts: Julia Salmi & Prottoy Akbar\n\nEvent page: https://www.helsin
+ kigse.fi/events/elyas-saif
 LOCATION:T004\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/elyas-saif
@@ -237,15 +237,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261130-ossi-tahvonen11@helsinkigse.fi
-DTSTAMP:20260929T070511Z
-SEQUENCE:2
-LAST-MODIFIED:20260923T125208Z
+DTSTAMP:20260929T100710Z
+SEQUENCE:3
+LAST-MODIFIED:20260929T100710Z
 DTSTART;TZID=Europe/Helsinki:20261130T121500
 DTEND;TZID=Europe/Helsinki:20261130T133000
 SUMMARY:Practice Job Talk: Ossi Tahvonen
 DESCRIPTION:Series: Practice Job Talk\nSpeaker: Ossi Tahvonen (University o
- f Helsinki)\nTitle: TBA\nHosts: Julia Salmi & Arno Apffelstaedt\n\nEvent p
- age: https://www.helsinkigse.fi/events/ossi-tahvonen11
+ f Helsinki)\nTitle: TBA\nHosts: Julia Salmi & Prottoy Akbar\n\nEvent page:
+  https://www.helsinkigse.fi/events/ossi-tahvonen11
 LOCATION:T004\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/ossi-tahvonen11
@@ -254,15 +254,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261207-ellen-sahlstrom8@helsinkigse.fi
-DTSTAMP:20260929T070511Z
-SEQUENCE:2
-LAST-MODIFIED:20260923T125208Z
+DTSTAMP:20260929T100710Z
+SEQUENCE:3
+LAST-MODIFIED:20260929T100710Z
 DTSTART;TZID=Europe/Helsinki:20261207T121500
 DTEND;TZID=Europe/Helsinki:20261207T133000
 SUMMARY:Practice Job Talk: Ellen Sahlström
 DESCRIPTION:Series: Practice Job Talk\nSpeaker: Ellen Sahlström (Aalto Uni
- versity)\nTitle: TBA\nHosts: Julia Salmi & Arno Apffelstaedt\n\nEvent page
- : https://www.helsinkigse.fi/events/ellen-sahlstrom8
+ versity)\nTitle: TBA\nHosts: Julia Salmi & Prottoy Akbar\n\nEvent page: ht
+ tps://www.helsinkigse.fi/events/ellen-sahlstrom8
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/ellen-sahlstrom8
 STATUS:CONFIRMED
@@ -270,15 +270,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261211-lu-cheng@helsinkigse.fi
-DTSTAMP:20260929T070511Z
-SEQUENCE:2
-LAST-MODIFIED:20260923T125208Z
+DTSTAMP:20260929T100710Z
+SEQUENCE:3
+LAST-MODIFIED:20260929T100710Z
 DTSTART;TZID=Europe/Helsinki:20261211T143000
 DTEND;TZID=Europe/Helsinki:20261211T154500
 SUMMARY:Practice Job Talk: Lu Cheng
 DESCRIPTION:Series: Practice Job Talk\nSpeaker: Lu Cheng (Hanken School of 
- Economics)\nTitle: TBA\nHosts: Julia Salmi & Arno Apffelstaedt\n\nEvent pa
- ge: https://www.helsinkigse.fi/events/lu-cheng
+ Economics)\nTitle: TBA\nHosts: Julia Salmi & Prottoy Akbar\n\nEvent page: 
+ https://www.helsinkigse.fi/events/lu-cheng
 LOCATION:Seminar hall\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/lu-cheng
 STATUS:CONFIRMED
