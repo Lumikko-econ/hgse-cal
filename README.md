@@ -130,7 +130,8 @@ workshop lists its programme, where these are published.
 
 ## How it updates
 
-The calendars are updated from the Helsinki GSE events page three times a day.
+The calendars are updated from the Helsinki GSE events page, usually within an
+hour of a change.
 A new time, room or title changes the seminar already in your calendar rather
 than adding a second one, and a cancelled or moved seminar is marked as such in
 its title. Your calendar app decides how often it looks for changes, so a change
