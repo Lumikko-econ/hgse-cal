@@ -133,6 +133,15 @@
   details.cadence summary { font-size: 15px; line-height: 1.5; color: var(--brand);
                             cursor: pointer; }
   details.cadence .note { margin-top: 8px; }
+  /* The column's last words, under the notes: where the letter comes by
+     e-mail, and where the feeds are listed besides. The notes' grey and
+     size, and the gap under the column is theirs now, so the note above
+     keeps its own 22px as the space between. The series rows' hairline
+     over them, because with the last note open they otherwise read as
+     that note's closing paragraph. */
+  .sb-foot { margin: 0 var(--sbpad); padding: 14px 0 22px;
+             border-top: 1px solid var(--hair); }
+  .sb-foot .note + .note { margin-top: 8px; }
   /* Two notes, one over the other: the upper one leaves the gap under the
      column to the lower. */
   details.tips { padding-bottom: 0; }
@@ -485,6 +494,19 @@
              cellpadding="0" cellspacing="0" border="0">
         <tr><td class="rule1" style="padding:20px 0;border-bottom:1px solid #44454B;">
           <div mc:edit="other_seminar" mc:label="Seminar elsewhere">
+      <div class="ink" style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:13px;line-height:1.3;font-weight:600;color:#44454B;text-transform:uppercase;letter-spacing:1px;">Thursday 1 October</div><div class="mut" style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:13px;line-height:1.3;color:#717176;text-transform:uppercase;letter-spacing:1px;padding-top:3px;">Bank of Finland Research Seminar</div>
+      <div class="ink" style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:18px;line-height:1.35;font-weight:600;color:#44454B;padding-top:5px;">Pedro Gomis-Porqueras <span style="font-weight:normal;font-style:italic;">(Queensland University of Technology)</span></div>
+      <div class="ink" style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:18px;line-height:1.35;color:#44454B;padding-top:5px;">U.S. Dollar Swap Lines and QE: Implications for a Small Open Economy</div>
+      <div class="mut" style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:15px;line-height:1.45;
+           color:#717176;padding-top:5px;">10.30<br>MS Teams<br>Registration closes at 9.00 on the day of the seminar; the joining link is emailed an hour beforehand<br><a href="https://www.suomenpankki.fi/en/news-and-topical/events/calendar/?c=18">Series page</a></div>
+      
+          </div>
+        </td></tr>
+      </table>
+      <table class="entryBlock" role="presentation" width="100%"
+             cellpadding="0" cellspacing="0" border="0">
+        <tr><td class="rule1" style="padding:20px 0;border-bottom:1px solid #44454B;">
+          <div mc:edit="other_seminar" mc:label="Seminar elsewhere">
       <div class="ink" style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:13px;line-height:1.3;font-weight:600;color:#44454B;text-transform:uppercase;letter-spacing:1px;">Thursday 1 October</div><div class="mut" style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:13px;line-height:1.3;color:#717176;text-transform:uppercase;letter-spacing:1px;padding-top:3px;">WIDER Seminar Series</div>
       <div class="ink" style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:18px;line-height:1.35;font-weight:600;color:#44454B;padding-top:5px;">Edward Miguel</div>
       <div class="ink" style="font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:18px;line-height:1.35;color:#44454B;padding-top:5px;">Can cash transfers save lives? Evidence from a large-scale experiment in Kenya</div>
@@ -512,7 +534,7 @@
        line-height:1.5;color:#717176;">More on the
        <a href="https://www.helsinkigse.fi/events/" style="color:#C18B5C;">Helsinki
        GSE events page</a>. The mailing list is on the
-       <a href="https://www.helsinkigse.fi/about" style="color:#C18B5C;">Helsinki
+       <a href="https://www.helsinkigse.fi/#newsletter" style="color:#C18B5C;">Helsinki
        GSE website</a>.</p>
   </div>
 </td>
@@ -657,6 +679,13 @@
        Windows); in Apple Calendar, right-click it and choose Unsubscribe; in
        Google Calendar, open its Settings and choose Unsubscribe.</p>
   </details>
+  <div class="sb-foot">
+    <p class="note">Prefer e-mail? This page is the Helsinki GSE weekly
+       seminar letter. Sign up on the <a href="https://www.helsinkigse.fi/#newsletter"
+       style="color:#C18B5C;">Helsinki GSE home page</a>.</p>
+    <p class="note">The feeds and their addresses are also listed on
+       <a href="https://github.com/Lumikko-econ/hgse-cal" style="color:#C18B5C;">GitHub</a>.</p>
+  </div>
   <p class="sr-only" role="status" id="copy-status"></p>
 </aside>
 </div>
