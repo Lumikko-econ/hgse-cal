@@ -31,7 +31,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260306-elamaa-elakkeiden-jalkeen-paneelikeskustelu@helsinkigse.f
  i
-DTSTAMP:20260929T044648Z
+DTSTAMP:20260929T130455Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20260306
@@ -52,16 +52,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260520-seminar-by-aalto-honorary-doctor-george-mailath@helsinkig
  se.fi
-DTSTAMP:20260929T044648Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260520
-DTEND;VALUE=DATE:20260521
+DTSTAMP:20260929T130455Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T130455Z
+DTSTART;TZID=Europe/Helsinki:20260520T163000
+DTEND;TZID=Europe/Helsinki:20260520T173000
 SUMMARY:Aalto University: Seminar by Aalto Honorary Doctor George Mailath
 DESCRIPTION:Series: Aalto University\nType: Other Seminar\nTitle: Seminar b
- y Aalto Honorary Doctor George Mailath\n\nTime not published yet — all-d
- ay placeholder.\n\nEvent page: https://www.helsinkigse.fi/events/seminar-b
- y-aalto-honorary-doctor-george-mailath
+ y Aalto Honorary Doctor George Mailath\n\nEvent page: https://www.helsinki
+ gse.fi/events/seminar-by-aalto-honorary-doctor-george-mailath
+LOCATION:U141 U3\, Otakaari 1\, Aalto University\, Espoo
 URL:https://www.helsinkigse.fi/events/seminar-by-aalto-honorary-doctor-geor
  ge-mailath
 STATUS:CONFIRMED
@@ -70,7 +70,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260918-helsinki-graduate-school-of-economics-academic-year-kick-
  off-on-september-18-2026@helsinkigse.fi
-DTSTAMP:20260929T044648Z
+DTSTAMP:20260929T130455Z
 SEQUENCE:2
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260918T143000

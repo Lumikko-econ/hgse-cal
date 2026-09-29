@@ -30,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250303-kwabena-adu-ababio1@helsinkigse.fi
-DTSTAMP:20260929T044648Z
+DTSTAMP:20260929T130455Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250303
@@ -48,7 +48,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250414-daniel-peredo-siles@helsinkigse.fi
-DTSTAMP:20260929T044648Z
+DTSTAMP:20260929T130455Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250414
@@ -67,7 +67,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250505-amma-panin@helsinkigse.fi
-DTSTAMP:20260929T044648Z
+DTSTAMP:20260929T130455Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250505
@@ -85,7 +85,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250512-dean-yang1@helsinkigse.fi
-DTSTAMP:20260929T044648Z
+DTSTAMP:20260929T130455Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250512
@@ -103,7 +103,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250929-nhi-cao1@helsinkigse.fi
-DTSTAMP:20260929T044648Z
+DTSTAMP:20260929T130455Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20250929
@@ -120,7 +120,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251027-raissa-fabregas@helsinkigse.fi
-DTSTAMP:20260929T044648Z
+DTSTAMP:20260929T130455Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251027
@@ -138,7 +138,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251110-laura-contreras-portela-and-natalia-labrador-bernate-aix-
  marseille-school-of-economics-unu-wider@helsinkigse.fi
-DTSTAMP:20260929T044648Z
+DTSTAMP:20260929T130455Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251110
@@ -161,7 +161,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251124-javier-feinman@helsinkigse.fi
-DTSTAMP:20260929T044648Z
+DTSTAMP:20260929T130455Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20251124
@@ -178,79 +178,81 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260413-martina-querejeta@helsinkigse.fi
-DTSTAMP:20260929T044648Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260413
-DTEND;VALUE=DATE:20260414
+DTSTAMP:20260929T130455Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T130455Z
+DTSTART;TZID=Europe/Helsinki:20260413T150000
+DTEND;TZID=Europe/Helsinki:20260413T160000
 SUMMARY:Development Economics: Martina Querejeta — Intergenerational Tran
  smission of Working Behaviour: Preferences or…
 DESCRIPTION:Series: Development Economics\nType: Brown Bag Seminar\nSpeaker
  : Martina Querejeta (Universidad de la República (Uruguay))\nTitle: Inter
  generational Transmission of Working Behaviour: Preferences or Gender Role
-  Identity?\n\nTime not published yet — all-day placeholder.\n\nEvent pag
- e: https://www.helsinkigse.fi/events/martina-querejeta
+  Identity?\n\nEvent page: https://www.helsinkigse.fi/events/martina-querej
+ eta
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/martina-querejeta
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260427-viola-asri@helsinkigse.fi
-DTSTAMP:20260929T044648Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260427
-DTEND;VALUE=DATE:20260428
+DTSTAMP:20260929T130455Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T130455Z
+DTSTART;TZID=Europe/Helsinki:20260427T150000
+DTEND;TZID=Europe/Helsinki:20260427T160000
 SUMMARY:Development Economics: Viola Asri — Missing the target: Does incr
  easing the capacity of the local…
 DESCRIPTION:Series: Development Economics\nType: Seminar\nSpeaker: Viola As
  ri (CMI)\nTitle: Missing the target: Does increasing the capacity of the l
  ocal government improve beneficiary selection? (with Kumar Biswas\, Sebast
- ian Fehrler\, Urs …\n\nTime not published yet — all-day placeholder.\n
- \nEvent page: https://www.helsinkigse.fi/events/viola-asri
+ ian Fehrler\, Urs Fischbacher\, Katharina Michaelowa\, and Atonu Rabbani)\
+ n\nEvent page: https://www.helsinkigse.fi/events/viola-asri
+LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/viola-asri
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260511-david-rivera-gonzalez@helsinkigse.fi
-DTSTAMP:20260929T044648Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260511
-DTEND;VALUE=DATE:20260512
+DTSTAMP:20260929T130455Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T130455Z
+DTSTART;TZID=Europe/Helsinki:20260511T150000
+DTEND;TZID=Europe/Helsinki:20260511T160000
 SUMMARY:Development Economics: David Rivera Gonzalez — Contribution floor
  s\, Informality and Inequality in Latin America
 DESCRIPTION:Series: Development Economics\nType: Brown Bag Seminar\nSpeaker
  : David Rivera Gonzalez (Bordeaux School of Economics\, UNU-WIDER)\nTitle:
-  Contribution floors\, Informality and Inequality in Latin America\n\nTime
-  not published yet — all-day placeholder.\n\nEvent page: https://www.hel
- sinkigse.fi/events/david-rivera-gonzalez
+  Contribution floors\, Informality and Inequality in Latin America\n\nEven
+ t page: https://www.helsinkigse.fi/events/david-rivera-gonzalez
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/david-rivera-gonzalez
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260525-justine-knebelmann@helsinkigse.fi
-DTSTAMP:20260929T044648Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
-DTSTART;VALUE=DATE:20260525
-DTEND;VALUE=DATE:20260526
+DTSTAMP:20260929T130455Z
+SEQUENCE:15
+LAST-MODIFIED:20260929T130455Z
+DTSTART;TZID=Europe/Helsinki:20260525T150000
+DTEND;TZID=Europe/Helsinki:20260525T160000
 SUMMARY:Development Economics: Justine Knebelmann — Scaling Fiscal Capaci
  ty: Evidence from Senegal’s Capital City (with…
 DESCRIPTION:Series: Development Economics\nType: Seminar\nSpeaker: Justine 
  Knebelmann (Sciences Po)\nTitle: Scaling Fiscal Capacity: Evidence from Se
- negal’s Capital City (with Bilal Choho and Victor Pouliquen)\n\nTime not
-  published yet — all-day placeholder.\n\nEvent page: https://www.helsink
- igse.fi/events/justine-knebelmann
+ negal’s Capital City (with Bilal Choho and Victor Pouliquen)\n\nEvent pa
+ ge: https://www.helsinkigse.fi/events/justine-knebelmann
+LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/justine-knebelmann
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260914-eleonora-guarnieri@helsinkigse.fi
-DTSTAMP:20260929T044648Z
+DTSTAMP:20260929T130455Z
 SEQUENCE:16
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260914T150000
@@ -268,7 +270,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261019-jeremie-gignoux@helsinkigse.fi
-DTSTAMP:20260929T044648Z
+DTSTAMP:20260929T130455Z
 SEQUENCE:2
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261019T150000
@@ -284,7 +286,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261019-joan-margalef@helsinkigse.fi
-DTSTAMP:20260929T044648Z
+DTSTAMP:20260929T130455Z
 SEQUENCE:6
 LAST-MODIFIED:20260923T125208Z
 DTSTART;VALUE=DATE:20261019
@@ -300,7 +302,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261026-veronica-salazar-restrepo@helsinkigse.fi
-DTSTAMP:20260929T044648Z
+DTSTAMP:20260929T130455Z
 SEQUENCE:15
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261026T150000
@@ -318,7 +320,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261116-joan-margalef@helsinkigse.fi
-DTSTAMP:20260929T044648Z
+DTSTAMP:20260929T130455Z
 SEQUENCE:2
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261116T150000
@@ -336,7 +338,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261130-lucas-conwell@helsinkigse.fi
-DTSTAMP:20260929T044648Z
+DTSTAMP:20260929T130455Z
 SEQUENCE:15
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261130T150000
