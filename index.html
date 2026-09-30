@@ -58,11 +58,6 @@
   html, body { background: var(--ground); }
   .letter table.wrap { width: 100% !important; max-width: 640px !important; }
   .letter { min-width: 0; }
-  /* The letter's day headings and series labels, 13px in the e-mail, are
-     14px here at every width: the owner's floor for text a reader reads
-     (2026-09-29). The e-mail keeps its 13px; see letter_page_sizes() for why
-     this is done here and how it beats the inline size. */
-  .letter table.wrap > tbody > tr:not(:first-child):not(:last-child) [style*="font-size:13px"] { font-size: 14px !important; }
 
   /* ---- one grid: in one column, the document's own order ---- */
   .page { display: grid; grid-template-columns: minmax(0, 1fr); }
@@ -233,32 +228,62 @@
     .sb-title { margin-top: 20px; font-size: 22px; line-height: 1.3; }
   }
 
-  /* ---- laptops and desktops: the reading text larger ----
-     The owner's table (2026-09-29), from Helsinki GSE's own breakpoint (see
-     PAGE_WIDE). After the two-column rules, which begin a little narrower,
-     at 1008px: between the two the column stands beside the letter at
-     the phone's sizes. The header's kicker and title are not here, so that
-     it stays the masthead's height and the two heavy rules stay level.
+  /* ---- laptops and desktops: the column's small print a step up ----
+     From Helsinki GSE's own breakpoint (see PAGE_WIDE). After the
+     two-column rules, which begin a little narrower, at 1008px: between
+     the two the column stands beside the letter at the phone's sizes. The
+     header's kicker and title are not here, so that its height stays the
+     masthead's.
 
-     The letter's body grows by two px. The column grows only its small
-     text: the notes are 15px and a note's closed summary 16px, a step over
-     the note it opens. Its series names, the intro and the lede stay 16px,
-     the upcoming lines 14px, and the chips and Copy the 12px they carry
-     inline. A series row there is two lines, the name and then the upcoming
-     line, with the buttons beside them (2026-09-18), and at 1440px a name
-     has some 174px beside the buttons: "Labor & Public Economics" needs
-     186px at 17px, and larger buttons narrow every name's room. Either one
-     put names onto a second line (measured 2026-09-29). */
+     Only the column's small text grows: the notes are 15px and a note's
+     closed summary 16px, a step over the note it opens. Its series names,
+     the intro and the lede stay 16px, the upcoming lines 14px, and the
+     chips and Copy the 12px they carry inline. A series row there is two
+     lines, the name and then the upcoming line, with the buttons beside
+     them (2026-09-18), and at 1440px a name has some 174px beside the
+     buttons: "Labor & Public Economics" needs 186px at 17px, and larger
+     buttons narrow every name's room. Either one put names onto a second
+     line (measured 2026-09-29). From PAGE_ZOOM_ALL, where the column is
+     zoomed, the zoom rules set the base sizes back, so the zoom is not
+     stacked on this step. */
   @media (min-width: 1024px) {
-    .letter table.wrap > tbody > tr:not(:first-child):not(:last-child) [style*="font-size:21px"] { font-size: 23px !important; }
-    .letter table.wrap > tbody > tr:not(:first-child):not(:last-child) [style*="font-size:18px"] { font-size: 20px !important; }
-    .letter table.wrap > tbody > tr:not(:first-child):not(:last-child) [style*="font-size:17px"] { font-size: 19px !important; }
-    .letter table.wrap > tbody > tr:not(:first-child):not(:last-child) [style*="font-size:16px"] { font-size: 18px !important; }
-    .letter table.wrap > tbody > tr:not(:first-child):not(:last-child) [style*="font-size:15px"] { font-size: 17px !important; }
-    .letter table.wrap > tbody > tr:not(:first-child):not(:last-child) [style*="font-size:14px"] { font-size: 16px !important; }
-    .letter table.wrap > tbody > tr:not(:first-child):not(:last-child) [style*="font-size:13px"] { font-size: 15px !important; }
     .hint, .note { font-size: 15px; }
     details.cadence summary { font-size: 16px; }
+  }
+
+  /* ---- laptops and desktops: the letter larger, all of it, and from
+     PAGE_ZOOM_ALL the column with it ----
+     The page's letter is the e-mail, zoomed: the owner's decisions of
+     2026-09-30 (see PAGE_WIDE, PAGE_ZOOM and PAGE_ZOOM_ALL). Where the
+     letter alone is zoomed the column's header follows the zoomed
+     masthead, so that the two heavy rules stay level; where both are, the
+     zoom does. A browser without CSS zoom skips this and shows the e-mail's
+     own sizes and 372a0a3's column; a printed page is the e-mail's size
+     too. Last, so that it overrides the two-column and laptop rules it
+     widens and resets. */
+  @supports (zoom: 1) {
+    @media screen and (min-width: 1280px) {
+      .page { max-width: 1253.33px;
+              grid-template-columns: minmax(0, 1fr) 733.33px; }
+      .letter { zoom: 1.1111; }
+      .sb { margin-top: 26.67px; }
+      .sb-head { min-height: 180.66px;
+                 padding-top: 33.33px; padding-bottom: 24.44px;
+                 border-bottom-width: 3.33px; }
+      .kicker-row { height: 33.33px; }
+      .sb-title { margin-top: 22.22px; }
+    }
+    @media screen and (min-width: 1366px) {
+      .page { max-width: 1311.11px; column-gap: calc(1.1111 * clamp(20px, 2.6vw, 40px)); }
+      .sb { zoom: 1.1111; margin-top: 24px; }
+      .sb-head { min-height: 162.6px;
+                 padding-top: 30px; padding-bottom: 22px;
+                 border-bottom-width: 3px; }
+      .kicker-row { height: 30px; }
+      .sb-title { margin-top: 20px; }
+      .hint, .note { font-size: 14px; }
+      details.cadence summary { font-size: 15px; }
+    }
   }
 </style>
 </head>
