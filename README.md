@@ -32,7 +32,7 @@ feed shows those events twice.
 
 | Calendar | Subscription URL | Events |
 |---|---|---:|
-| Everything | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse.ics` | 530 |
+| Everything | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse.ics` | 531 |
 
 ### One calendar per series
 
@@ -54,7 +54,7 @@ as a joint seminar or a job talk, appears in both.
 | Lunch Seminar | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-lunch-seminar.ics` | 23 |
 | Macroeconomics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-macroeconomics.ics` | 16 |
 | Microeconomics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-microeconomics.ics` | 23 |
-| Trade, Regional and Urban Economics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-trade-regional-and-urban-economics.ics` | 24 |
+| Trade, Regional and Urban Economics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-trade-regional-and-urban-economics.ics` | 25 |
 | VATT | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-vatt.ics` | 59 |
 
 <!-- feeds:end -->
