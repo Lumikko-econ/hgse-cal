@@ -135,9 +135,10 @@ workshop lists its programme, where these are published.
 The calendars are updated from the Helsinki GSE events page, usually within an
 hour of a change.
 A new time, room or title changes the seminar already in your calendar rather
-than adding a second one, and a cancelled or moved seminar is marked as such in
-its title. Your calendar app decides how often it looks for changes, so a change
-can take several hours, occasionally a day, to reach you.
+than adding a second one. A cancelled seminar, or the old day of a moved one,
+stays for a week marked as such in its title, and then goes. Your calendar app
+decides how often it looks for changes, so a change can take several hours,
+occasionally a day, to reach you.
 
 ---
 
