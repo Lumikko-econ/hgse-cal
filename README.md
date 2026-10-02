@@ -79,9 +79,11 @@ address keeps working.
 | **Google Calendar** | **Other calendars +** → **From URL** → paste |
 | **Apple Calendar** | **File** → **New Calendar Subscription** → paste, then choose how often under **Auto-refresh** |
 
-**Outlook keeps asking you to sign in, or says something went wrong?** Clear
-your browser's cookies for the Microsoft sites, or open the link in a private
-window, and try again.
+**Outlook button not working?** Add the calendar by hand instead, as in the
+table above; this way does not use the button. Or open the button's link in a
+private window and sign in with your university account. If that works, your
+browser is holding an old Microsoft sign-in: sign out of Outlook on the web, or
+clear cookies and site data for the Microsoft sites.
 
 **To remove a feed:** in Outlook, right-click it in the calendar list and choose
 **Remove** (**Delete Calendar** in classic Outlook for Windows); in Apple
