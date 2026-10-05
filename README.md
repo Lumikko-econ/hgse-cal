@@ -13,8 +13,9 @@ itself.
 This week's seminars at Helsinki GSE and at partner institutions, any new
 Helsinki GSE discussion papers, and a button for every calendar: one series at
 a time or the whole programme, into Outlook, Google Calendar or Apple Calendar.
-With an Aalto or University of Helsinki account, use the Outlook button, which
-opens Outlook on the web. This is the page to use and to share.
+With an Aalto or University of Helsinki account, use the Outlook button, on a
+computer: it opens Outlook on the web, and the calendar then shows on your phone
+too. This is the page to use and to share.
 
 The calendars themselves hold what is on the
 [Helsinki GSE events page](https://www.helsinkigse.fi/events); the partner
@@ -74,13 +75,17 @@ address keeps working.
 | App | How |
 |---|---|
 | **Outlook on the web / new Outlook** | <https://outlook.office.com/calendar/> → **Add calendar** → **Subscribe from web** → paste → **Import** (the button is called Import, but this subscribes) |
-| **Outlook for Windows (classic)** | Calendar → **Home** → **Add Calendar** → **From Internet…** → paste |
+| **Outlook for Windows (classic)** | Calendar → **Home** → **Add Calendar** → **From Internet…** → paste (the calendar then stays on that computer; to have it on your phone too, use Outlook on the web) |
 | **Outlook for Mac** | Subscribe in Outlook on the web; the calendar then appears on the Mac too |
+| **Outlook on a phone** | Subscribe in Outlook on the web on a computer; the calendar then appears on the phone too |
 | **Google Calendar** | **Other calendars +** → **From URL** → paste |
 | **Apple Calendar** | **File** → **New Calendar Subscription** → paste, then choose how often under **Auto-refresh** |
 
-**Outlook button not working?** Add the calendar by hand instead, as in the
-table above; this way does not use the button. Or open the button's link in a
+**Outlook button not working?** On a phone, Outlook cannot add these
+calendars, in the app or in the browser: open the subscribe page on a computer
+and press Outlook there, and the calendar then shows on your phone too. On a
+computer, add the calendar by hand instead, as in the table above;
+this way does not use the button. Or open the button's link in a
 private window and sign in with your university account. If that works, your
 browser is holding an old Microsoft sign-in: sign out of Outlook on the web, or
 clear cookies and site data for the Microsoft sites.
