@@ -121,6 +121,15 @@
   .whole-title + .whole-meta { margin-top: 2px; }
   .whole-meta + .lede { margin-top: 8px; }
   .hint, .note { margin: 0; font-size: 14px; line-height: 1.55; color: var(--muted); }
+  /* What a phone is told after a press (PHONE_JS), under the row that was
+     pressed: that Outlook cannot do it there, or, on an iPhone, to press
+     Apple again if Calendar did not ask. A line of its own across the row,
+     in ink, because it answers the press. Under the whole calendar's
+     buttons it stands between them and the line on Outlook. Named inside
+     the column, since the class exists only once the script has written a
+     line: the page's sheet must not reach into the letter. */
+  .sb .tapnote { flex-basis: 100%; margin: 6px 0 0; color: var(--ink); }
+  .sb .buttons + .tapnote { margin: 0 0 8px; }
   /* The sentence on colours, under the header and over the first series:
      the note's grey and size, set in as far as the list is. */
   /* What subscribing means, first under the header: the lede's ink and
@@ -687,12 +696,14 @@
   <p class="note sb-lede">Each series you add is a calendar of its own, so
      your calendar app can show each one in its own colour.</p>
   <p class="note sb-lede">Which button? With an Aalto or University of
-     Helsinki account, Outlook. With Apple Calendar on an iPhone or a Mac,
+     Helsinki account, Outlook, on a computer; the calendar then shows on
+     your phone too. With Apple Calendar on an iPhone or a Mac,
      Apple. With Google Calendar, Google, on a computer.</p>
   <details class="cadence tips signin">
     <summary>Outlook button not working?</summary>
-    <p class="note">Add the calendar by hand instead; this way does not use
-       the button. Press Copy beside the calendar you want, open
+    <p class="note">On a phone, Outlook cannot add these calendars, in the app or in the browser. Open this page on a computer and press Outlook there; the calendar then shows on your phone too.</p>
+    <p class="note">On a computer, add the calendar by hand instead; this way
+       does not use the button. Press Copy beside the calendar you want, open
        <a href="https://outlook.office.com/calendar/" style="color:#C18B5C;">Outlook on the
        web</a>, choose Add calendar, then Subscribe from web, paste the
        address, and choose Import.</p>
@@ -755,7 +766,7 @@
         <div class="sctl"><a href="https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Flumikko-econ.github.io%2Fhgse-cal%2Fhelsinki-gse-microeconomics.ics&amp;name=HGSE%20%E2%80%94%20Microeconomics" aria-label="Add Microeconomics to Outlook" class="card" style="display:inline-block;vertical-align:middle;margin:2px 0 2px 5px;border:1px solid #C18B5C;border-radius:2px;background:#FDFDFD;color:#C18B5C;text-decoration:none;white-space:nowrap;font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;line-height:1;font-size:12px;font-weight:normal;padding:5px 9px;">Outlook</a><a href="https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Flumikko-econ.github.io%2Fhgse-cal%2Fhelsinki-gse-microeconomics.ics" aria-label="Add Microeconomics to Google Calendar" class="card" style="display:inline-block;vertical-align:middle;margin:2px 0 2px 5px;border:1px solid #C18B5C;border-radius:2px;background:#FDFDFD;color:#C18B5C;text-decoration:none;white-space:nowrap;font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;line-height:1;font-size:12px;font-weight:normal;padding:5px 9px;">Google</a><a href="webcal://lumikko-econ.github.io/hgse-cal/helsinki-gse-microeconomics.ics" aria-label="Add Microeconomics to Apple Calendar" class="card" style="display:inline-block;vertical-align:middle;margin:2px 0 2px 5px;border:1px solid #C18B5C;border-radius:2px;background:#FDFDFD;color:#C18B5C;text-decoration:none;white-space:nowrap;font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;line-height:1;font-size:12px;font-weight:normal;padding:5px 9px;">Apple</a><button type="button" data-copy="https://lumikko-econ.github.io/hgse-cal/helsinki-gse-microeconomics.ics" data-subject="the address of Microeconomics" aria-label="Copy the address of Microeconomics" class="card" style="display:none;vertical-align:middle;margin:2px 0 2px 5px;border:1px solid #C18B5C;border-radius:2px;background:#FDFDFD;color:#C18B5C;cursor:pointer;white-space:nowrap;font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:12px;line-height:1;padding:5px 9px;">Copy</button></div>
       </li>
       <li class="srow">
-        <div class="sname"><div class="sl">Trade, Regional and Urban Economics</div><div class="sm" title="Caterina Soto-Vieira — Home Production in the City">next 5 Oct &middot; 6 upcoming</div></div>
+        <div class="sname"><div class="sl">Trade, Regional and Urban Economics</div><div class="sm" title="Veronica Salazar-Restrepo">next 26 Oct &middot; 5 upcoming</div></div>
         <div class="sctl"><a href="https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Flumikko-econ.github.io%2Fhgse-cal%2Fhelsinki-gse-trade-regional-and-urban-economics.ics&amp;name=HGSE%20%E2%80%94%20Trade%2C%20Regional%20and%20Urban%20Economics" aria-label="Add Trade, Regional and Urban Economics to Outlook" class="card" style="display:inline-block;vertical-align:middle;margin:2px 0 2px 5px;border:1px solid #C18B5C;border-radius:2px;background:#FDFDFD;color:#C18B5C;text-decoration:none;white-space:nowrap;font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;line-height:1;font-size:12px;font-weight:normal;padding:5px 9px;">Outlook</a><a href="https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Flumikko-econ.github.io%2Fhgse-cal%2Fhelsinki-gse-trade-regional-and-urban-economics.ics" aria-label="Add Trade, Regional and Urban Economics to Google Calendar" class="card" style="display:inline-block;vertical-align:middle;margin:2px 0 2px 5px;border:1px solid #C18B5C;border-radius:2px;background:#FDFDFD;color:#C18B5C;text-decoration:none;white-space:nowrap;font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;line-height:1;font-size:12px;font-weight:normal;padding:5px 9px;">Google</a><a href="webcal://lumikko-econ.github.io/hgse-cal/helsinki-gse-trade-regional-and-urban-economics.ics" aria-label="Add Trade, Regional and Urban Economics to Apple Calendar" class="card" style="display:inline-block;vertical-align:middle;margin:2px 0 2px 5px;border:1px solid #C18B5C;border-radius:2px;background:#FDFDFD;color:#C18B5C;text-decoration:none;white-space:nowrap;font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;line-height:1;font-size:12px;font-weight:normal;padding:5px 9px;">Apple</a><button type="button" data-copy="https://lumikko-econ.github.io/hgse-cal/helsinki-gse-trade-regional-and-urban-economics.ics" data-subject="the address of Trade, Regional and Urban Economics" aria-label="Copy the address of Trade, Regional and Urban Economics" class="card" style="display:none;vertical-align:middle;margin:2px 0 2px 5px;border:1px solid #C18B5C;border-radius:2px;background:#FDFDFD;color:#C18B5C;cursor:pointer;white-space:nowrap;font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:12px;line-height:1;padding:5px 9px;">Copy</button></div>
       </li>
       <li class="srow">
@@ -765,7 +776,7 @@
   </ul>
   <div class="whole">
     <h3 class="whole-title">Or the whole calendar</h3>
-    <p class="sm whole-meta" title="Trade, Regional and Urban Economics: Caterina Soto-Vieira — Home Production in the City">next 5 Oct &middot; 98 upcoming</p>
+    <p class="sm whole-meta" title="Economics of Education (Educa): Jenifer Ruiz Valenzuela — Resits (with Steve Machin and Sandra McNally)">next 6 Oct &middot; 97 upcoming</p>
     <p class="lede">Every Helsinki GSE series in one feed, doctoral defences
        included. It keeps itself up to date, and past talks stay in it.</p>
     <p class="note warn"><strong>Pick one or the other.</strong> Each series
@@ -773,8 +784,8 @@
        colour, and it already holds every series, so taking a series as well
        shows its talks twice.</p>
     <div class="buttons"><a href="https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Flumikko-econ.github.io%2Fhgse-cal%2Fhelsinki-gse.ics&amp;name=Helsinki%20GSE" style="display:inline-block;vertical-align:middle;margin:0 8px 8px 0;background:#C18B5C;color:#FDFDFD;text-decoration:none;font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;line-height:1;border-radius:2px;font-size:15px;font-weight:600;border:1px solid transparent;padding:11px 17px;">Outlook</a><a href="https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Flumikko-econ.github.io%2Fhgse-cal%2Fhelsinki-gse.ics" style="display:inline-block;vertical-align:middle;margin:0 8px 8px 0;background:#C18B5C;color:#FDFDFD;text-decoration:none;font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;line-height:1;border-radius:2px;font-size:15px;font-weight:600;border:1px solid transparent;padding:11px 17px;">Google<span class="long"> Calendar</span></a><a href="webcal://lumikko-econ.github.io/hgse-cal/helsinki-gse.ics" style="display:inline-block;vertical-align:middle;margin:0 8px 8px 0;background:#C18B5C;color:#FDFDFD;text-decoration:none;font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;line-height:1;border-radius:2px;font-size:15px;font-weight:600;border:1px solid transparent;padding:11px 17px;">Apple<span class="long"> &amp; other</span></a></div>
-    <p class="hint">Outlook is the button for Aalto and University of Helsinki
-       accounts; it opens outlook.office.com.</p>
+    <p class="hint">On a computer, Outlook is the button for Aalto and
+       University of Helsinki accounts; it opens outlook.office.com.</p>
     <p class="note addr">Another calendar app? Subscribe to the combined feed by
        its address:<span class="addr-line"><span class="url"><span class="url-part">https://lumikko-econ.github.io/</span><wbr><span class="url-part">hgse-cal/</span><wbr><span class="url-part url-file">helsinki-gse.ics</span></span> <button type="button" data-copy="https://lumikko-econ.github.io/hgse-cal/helsinki-gse.ics" data-subject="the address of the combined calendar" aria-label="Copy the address of the combined calendar" class="card" style="display:none;vertical-align:middle;margin:2px 0 2px 5px;border:1px solid #C18B5C;border-radius:2px;background:#FDFDFD;color:#C18B5C;cursor:pointer;white-space:nowrap;font-family:'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;font-size:12px;line-height:1;padding:5px 9px;">Copy</button></span></p>
   </div>
@@ -918,6 +929,82 @@
         }
       });
     });
+  })();
+  (function () {
+    // Phones only, told apart as outlook.office.com told them apart when it
+    // was asked on 2026-10-05: it gave its phone calendar to an iPhone in
+    // every browser tried and to every Android phone tried (their browsers
+    // say Mobile, a tablet's do not), and the whole of Outlook on the web to
+    // an iPad, an Android tablet and a phone's browser set to the desktop
+    // site, which keep the link as it is. An iPod goes with the iPhone by
+    // analogy; it was not asked about.
+    var ua = navigator.userAgent || '';
+    if (!/iPhone|iPod|Android.+Mobile/.test(ua)) { return; }
+    var status = document.getElementById('copy-status');
+    var timer = null;
+    // The words go under the row whose control was pressed, or under the
+    // whole calendar's buttons: one line each, made at the first press and
+    // rewritten at the next, so that pressing again never stacks a second.
+    // With nowhere to put them (a browser without Element.closest, or a
+    // link outside both) there is no line, and the caller lets the link be.
+    var lineFor = function (a) {
+      var row = a.closest ? a.closest('li') : null;
+      var box = (row || !a.closest) ? null : a.closest('.buttons');
+      var at = row ? row.querySelector('p.tapnote')
+                   : (box ? box.nextElementSibling : null);
+      if (at && at.className === 'note tapnote') { return at; }
+      if (!row && !box) { return null; }
+      var p = document.createElement('p');
+      p.className = 'note tapnote';
+      if (row) { row.appendChild(p); }
+      else { box.parentNode.insertBefore(p, box.nextSibling); }
+      return p;
+    };
+    // Writes the words under the control and says whether it could.
+    var tell = function (a, words) {
+      var p = lineFor(a);
+      if (!p) { return false; }
+      p.textContent = words;
+      // A press low on the screen, where a thumb rests, would put the line
+      // below its edge, and the press would look dead again: then, and only
+      // then, the line is brought to the middle of the screen, the pressed
+      // control in view just above it, and clear of the bar a phone's
+      // browser lays over the foot of the screen, which a line brought only
+      // to the edge would sit under. A browser that takes no options here
+      // brings it to the top instead, which still shows it.
+      var r = p.getBoundingClientRect ? p.getBoundingClientRect() : null;
+      var h = window.innerHeight || document.documentElement.clientHeight;
+      if (r && r.bottom > h && p.scrollIntoView) { p.scrollIntoView({block: 'center'}); }
+      // Said from the column's status line as well, as the copy controls'
+      // messages are (COPY_STATUS): a line added to the page is not read out
+      // by itself. The same words twice are no change to that line, so a
+      // repeat carries a no-break space, as there. The line is emptied once
+      // the words have had ten seconds to be read, and only if it still
+      // holds them, so that nothing out of date waits in it.
+      if (status) {
+        var said = status.textContent === words ? words + ' ' : words;
+        status.textContent = said;
+        clearTimeout(timer);
+        timer = setTimeout(function () {
+          if (status.textContent === said) { status.textContent = ''; }
+        }, 10000);
+      }
+      return true;
+    };
+    Array.prototype.forEach.call(
+      document.querySelectorAll('a[href^="https://outlook.office.com/calendar/0/addfromweb"]'), function (a) {
+        a.addEventListener('click', function (e) {
+          if (tell(a, "On a phone, Outlook cannot add these calendars, in the app or in the browser. Open this page on a computer and press Outlook there; the calendar then shows on your phone too.")) { e.preventDefault(); }
+        });
+      });
+    // Apple's link is followed, and the line waits for the reader who comes
+    // back from Calendar. The iPhone only: on Android none of the usual
+    // calendar apps (Google's, Samsung's, Outlook) takes the link.
+    if (!/iPhone|iPod/.test(ua)) { return; }
+    Array.prototype.forEach.call(
+      document.querySelectorAll('a[href^="webcal:"]'), function (a) {
+        a.addEventListener('click', function () { tell(a, "If Calendar opened without asking you to subscribe, press Apple again."); });
+      });
   })();
   </script>
 </body>
