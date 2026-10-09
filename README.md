@@ -42,13 +42,13 @@ as a joint seminar or a job talk, appears in both.
 
 | Calendar | Subscription URL | Events |
 |---|---|---:|
-| Behavioral Economics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-behavioral-economics.ics` | 24 |
+| Behavioral Economics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-behavioral-economics.ics` | 23 |
 | Colloquium | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-colloquium.ics` | 44 |
 | Development Economics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-development-economics.ics` | 17 |
 | Doctoral Defences | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-doctoral-defences.ics` | 29 |
 | Econometrics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-econometrics.ics` | 10 |
 | Economics of Education (Educa) | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-economics-of-education-educa.ics` | 21 |
-| Environmental Economics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-environmental-economics.ics` | 33 |
+| Environmental Economics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-environmental-economics.ics` | 34 |
 | Industrial Organization | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-industrial-organization.ics` | 80 |
 | Job Talks (practice) | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-job-talks-practice.ics` | 14 |
 | Labor & Public Economics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-labor-public-economics.ics` | 74 |
