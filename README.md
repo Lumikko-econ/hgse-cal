@@ -33,7 +33,7 @@ feed shows those events twice.
 
 | Calendar | Subscription URL | Events |
 |---|---|---:|
-| Everything | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse.ics` | 546 |
+| Everything | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse.ics` | 548 |
 
 ### One calendar per series
 
@@ -47,8 +47,8 @@ as a joint seminar or a job talk, appears in both.
 | Development Economics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-development-economics.ics` | 17 |
 | Doctoral Defences | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-doctoral-defences.ics` | 29 |
 | Econometrics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-econometrics.ics` | 10 |
-| Economics of Education (Educa) | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-economics-of-education-educa.ics` | 23 |
-| Environmental Economics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-environmental-economics.ics` | 35 |
+| Economics of Education (Educa) | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-economics-of-education-educa.ics` | 24 |
+| Environmental Economics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-environmental-economics.ics` | 36 |
 | Industrial Organization | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-industrial-organization.ics` | 80 |
 | Job Talks (practice) | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-job-talks-practice.ics` | 14 |
 | Labor & Public Economics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-labor-public-economics.ics` | 78 |
