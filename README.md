@@ -33,7 +33,7 @@ feed shows those events twice.
 
 | Calendar | Subscription URL | Events |
 |---|---|---:|
-| Everything | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse.ics` | 564 |
+| Everything | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse.ics` | 565 |
 
 ### One calendar per series
 
@@ -44,7 +44,7 @@ as a joint seminar or a job talk, appears in both.
 |---|---|---:|
 | Behavioral Economics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-behavioral-economics.ics` | 24 |
 | Colloquium | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-colloquium.ics` | 44 |
-| Development Economics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-development-economics.ics` | 18 |
+| Development Economics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-development-economics.ics` | 19 |
 | Doctoral Defences | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-doctoral-defences.ics` | 29 |
 | Econometrics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-econometrics.ics` | 11 |
 | Economics of Education (Educa) | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-economics-of-education-educa.ics` | 26 |
