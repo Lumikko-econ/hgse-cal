@@ -55,7 +55,6 @@ as a joint seminar or a job talk, appears in both.
 | Lunch Seminar | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-lunch-seminar.ics` | 24 |
 | Macroeconomics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-macroeconomics.ics` | 18 |
 | Microeconomics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-microeconomics.ics` | 26 |
-| Other Seminar | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-other-seminar.ics` | 4 |
 | Trade, Regional and Urban Economics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-trade-regional-and-urban-economics.ics` | 28 |
 | VATT | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-vatt.ics` | 59 |
 
