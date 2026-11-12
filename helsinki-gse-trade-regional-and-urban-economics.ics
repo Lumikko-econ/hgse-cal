@@ -30,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250210-andrii-parkhomenko@helsinkigse.fi
-DTSTAMP:20261106T120508Z
+DTSTAMP:20261112T150437Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T141057Z
 DTSTART;TZID=Europe/Helsinki:20250210T160000
@@ -48,7 +48,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250310-ismir-mulalic@helsinkigse.fi
-DTSTAMP:20261106T120508Z
+DTSTAMP:20261112T150437Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T141057Z
 DTSTART;TZID=Europe/Helsinki:20250310T160000
@@ -67,7 +67,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250407-pierre-magontier@helsinkigse.fi
-DTSTAMP:20261106T120508Z
+DTSTAMP:20261112T150437Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T141057Z
 DTSTART;TZID=Europe/Helsinki:20250407T160000
@@ -86,7 +86,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250428-cristina-bratu1@helsinkigse.fi
-DTSTAMP:20261106T120508Z
+DTSTAMP:20261112T150437Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T044648Z
 DTSTART;VALUE=DATE:20250428
@@ -101,7 +101,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250526-elisabet-viladecans-marsal@helsinkigse.fi
-DTSTAMP:20261106T120508Z
+DTSTAMP:20261112T150437Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T141057Z
 DTSTART;TZID=Europe/Helsinki:20250526T160000
@@ -120,9 +120,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250602-urban-and-spatial-economics-phd-workshop2@helsinkigse.fi
-DTSTAMP:20261106T120508Z
-SEQUENCE:15
-LAST-MODIFIED:20260923T125208Z
+DTSTAMP:20261112T150437Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T150437Z
 DTSTART;TZID=Europe/Helsinki:20250602T093000
 DTEND;TZID=Europe/Helsinki:20250602T153000
 SUMMARY:Trade\, Regional and Urban Economics: Urban and Spatial Economics P
@@ -130,21 +130,20 @@ SUMMARY:Trade\, Regional and Urban Economics: Urban and Spatial Economics P
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: PhD Worksho
  p\nTitle: Urban and Spatial Economics PhD Workshop\nAbout: Workshop for He
  lsinki GSE and FDPE PhD students\nHosts: Prottoy Akbar & Pablo Warnes & Tu
- ukka Saarimaa\n\nProgramme:\n9:30         Erkka Silvennoinen: “Effective
- ness of First-Time Homebuyer Subsidies: Evidence from Finland”\n10:15   
-      Max Toikka: “Residential Choices in Response to Housing Benefits: E
- vidence from the Finnish…\n11:00        Touko Väänänen: “Metro Inve
- stment and Car Use”\n11:45        Lunch\n13:00        Marika Ventovuori:
-  “The effect of housing wealth shock on household mobility\, labor marke
- t…\n13:45        Marko Ikävalko: “Remotely Possible: Work from Home a
- nd Commuting Distances”\n14:30        Break\n14:45        Matias Kokoi: 
- “The impact of internal migration on couples’ labor market outcomes: E
- vidence…\n15:30        Babak Firoozi Fooladi: “The effect of municipal
-  financial incentives on the speed of housing…\n\nTimes read from the pr
- ogramme.\n\nFull programme: https://www.helsinkigse.fi/media/pages/events/
- urban-and-spatial-economics-phd-workshop2/eb2869a578-1748331245/urban_work
- shop_spring2025.pdf\nEvent page: https://www.helsinkigse.fi/events/urban-a
- nd-spatial-economics-phd-workshop2
+ ukka Saarimaa\n\nProgramme:\n\n9:30\nErkka Silvennoinen: “Effectiveness 
+ of First-Time Homebuyer Subsidies: Evidence from Finland”\n\n10:15\nMax 
+ Toikka: “Residential Choices in Response to Housing Benefits: Evidence f
+ rom the Finnish…\n\n11:00\nTouko Väänänen: “Metro Investment and Ca
+ r Use”\n\n11:45 Lunch\n\n13:00\nMarika Ventovuori: “The effect of hous
+ ing wealth shock on household mobility\, labor market…\n\n13:45\nMarko I
+ kävalko: “Remotely Possible: Work from Home and Commuting Distances”\
+ n\n14:30 Break\n\n14:45\nMatias Kokoi: “The impact of internal migration
+  on couples’ labor market outcomes: Evidence…\n\n15:30\nBabak Firoozi 
+ Fooladi: “The effect of municipal financial incentives on the speed of h
+ ousing…\n\nTimes read from the programme.\n\nFull programme: https://www
+ .helsinkigse.fi/media/pages/events/urban-and-spatial-economics-phd-worksho
+ p2/eb2869a578-1748331245/urban_workshop_spring2025.pdf\nEvent page: https:
+ //www.helsinkigse.fi/events/urban-and-spatial-economics-phd-workshop2
 LOCATION:Seminar room M240\, Aalto University\, Otakaari 1\, Espoo
 URL:https://www.helsinkigse.fi/events/urban-and-spatial-economics-phd-works
  hop2
@@ -153,7 +152,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250908-second-nordic-meeting-in-urban-economics@helsinkigse.fi
-DTSTAMP:20261106T120508Z
+DTSTAMP:20261112T150437Z
 SEQUENCE:16
 LAST-MODIFIED:20260929T141057Z
 DTSTART;VALUE=DATE:20250908
@@ -173,7 +172,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250922-kwok-hao-lee@helsinkigse.fi
-DTSTAMP:20261106T120508Z
+DTSTAMP:20261112T150437Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T141057Z
 DTSTART;TZID=Europe/Helsinki:20250922T160000
@@ -191,7 +190,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251020-florian-oswald1@helsinkigse.fi
-DTSTAMP:20261106T120508Z
+DTSTAMP:20261112T150437Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T044648Z
 DTSTART;VALUE=DATE:20251020
@@ -208,7 +207,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251103-nicolas-gendron-carrier@helsinkigse.fi
-DTSTAMP:20261106T120508Z
+DTSTAMP:20261112T150437Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T141057Z
 DTSTART;TZID=Europe/Helsinki:20251103T160000
@@ -227,7 +226,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251117-jakob-vanschoonbeek@helsinkigse.fi
-DTSTAMP:20261106T120508Z
+DTSTAMP:20261112T150437Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T141057Z
 DTSTART;TZID=Europe/Helsinki:20251117T160000
@@ -245,7 +244,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260302-dionissi-aliprantis@helsinkigse.fi
-DTSTAMP:20261106T120508Z
+DTSTAMP:20261112T150437Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T141057Z
 DTSTART;TZID=Europe/Helsinki:20260302T160000
@@ -264,7 +263,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260420-mikko-silliman1@helsinkigse.fi
-DTSTAMP:20261106T120508Z
+DTSTAMP:20261112T150437Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260420T160000
@@ -282,7 +281,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260504-sara-bagagli@helsinkigse.fi
-DTSTAMP:20261106T120508Z
+DTSTAMP:20261112T150437Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260504T160000
@@ -300,7 +299,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260518-giorgio-pietrobissa@helsinkigse.fi
-DTSTAMP:20261106T120508Z
+DTSTAMP:20261112T150437Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T130455Z
 DTSTART;TZID=Europe/Helsinki:20260518T160000
@@ -319,7 +318,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260528-joint-urban-and-spatial-economics-phd-workshop@helsinkigs
  e.fi
-DTSTAMP:20261106T120508Z
+DTSTAMP:20261112T150437Z
 SEQUENCE:16
 LAST-MODIFIED:20260929T100710Z
 DTSTART;VALUE=DATE:20260528
@@ -338,7 +337,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260601-florian-oswald3@helsinkigse.fi
-DTSTAMP:20261106T120508Z
+DTSTAMP:20261112T150437Z
 SEQUENCE:15
 LAST-MODIFIED:20260929T100710Z
 DTSTART;TZID=Europe/Helsinki:20260601T160000
@@ -357,7 +356,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260907-jos-van-ommeren@helsinkigse.fi
-DTSTAMP:20261106T120508Z
+DTSTAMP:20261112T150437Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260907T150000
@@ -376,7 +375,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260921-andrea-herrera@helsinkigse.fi
-DTSTAMP:20261106T120508Z
+DTSTAMP:20261112T150437Z
 SEQUENCE:14
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20260921T150000
@@ -395,7 +394,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261005-caterina-soto-vieira@helsinkigse.fi
-DTSTAMP:20261106T120508Z
+DTSTAMP:20261112T150437Z
 SEQUENCE:15
 LAST-MODIFIED:20261001T130514Z
 DTSTART;TZID=Europe/Helsinki:20261005T150000
@@ -414,7 +413,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261026-veronica-salazar-restrepo@helsinkigse.fi
-DTSTAMP:20261106T120508Z
+DTSTAMP:20261112T150437Z
 SEQUENCE:16
 LAST-MODIFIED:20261021T100458Z
 DTSTART;TZID=Europe/Helsinki:20261026T150000
@@ -434,7 +433,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261109-albert-sole-olle@helsinkigse.fi
-DTSTAMP:20261106T120508Z
+DTSTAMP:20261112T150437Z
 SEQUENCE:16
 LAST-MODIFIED:20261028T100508Z
 DTSTART;TZID=Europe/Helsinki:20261109T150000
@@ -453,9 +452,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261112-urban-and-spatial-economics-phd-workshop3@helsinkigse.fi
-DTSTAMP:20261106T120508Z
-SEQUENCE:6
-LAST-MODIFIED:20261106T120508Z
+DTSTAMP:20261112T150437Z
+SEQUENCE:7
+LAST-MODIFIED:20261112T150437Z
 DTSTART;TZID=Europe/Helsinki:20261112T090000
 DTEND;TZID=Europe/Helsinki:20261112T122000
 SUMMARY:Trade\, Regional and Urban Economics: Urban and Spatial Economics P
@@ -466,18 +465,21 @@ DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: PhD Worksho
  conomics or spatial economics in a broad sense to submit a paper or extend
  ed abstract to this workshop. Please submit your paper or extended abstrac
  t by October 25th by using the link on this page.\nHosts: Prottoy Akbar & 
- Pablo Warnes\n\nProgramme:\n9:00–9:40    The time price of a variable sp
- eed limit: evidence from a Finnish motorway\, by Iaroslav…\n9:40–10:05
-    Economic Policy Instruments for Spatial Allocation of Offshore Wind: In
- tegrating Environmental…\n10:05–10:45  Climate Shocks and Violent Conf
- lict in the Sahel: The Role of Food Prices (2010–2023)\, by…\n10:45–
- 11:00  BREAK\n11:00–11:40  The congestion and pollution benefits of publ
- ic transit: Evidence from strikes\, by Mikko…\n11:40–12:20  Prohibitiv
- e on Paper: the Trade Costs of the EU Export Bans on Russia\, by Martta Ra
- utala (Aalto…\n12:20        - Lunch at Fat Lizard\n\nFull programme: htt
- ps://www.helsinkigse.fi/media/pages/events/urban-and-spatial-economics-phd
- -workshop3/b15f615ae7-1793965127/program.pdf\nEvent page: https://www.hels
- inkigse.fi/events/urban-and-spatial-economics-phd-workshop3
+ Pablo Warnes\n\nProgramme:\n\n9:00–9:40\nThe time price of a variable sp
+ eed limit: evidence from a Finnish motorway\, by Iaroslav Kriuchkov (Aalto
+  University)\n\n9:40–10:05\nEconomic Policy Instruments for Spatial Allo
+ cation of Offshore Wind: Integrating Environmental Economics and Marine Bi
+ odiversity Protection\, by Venla Ala-Harja (University of Helsinki)\n\n10:
+ 05–10:45\nClimate Shocks and Violent Conflict in the Sahel: The Role of 
+ Food Prices (2010–2023)\, by Giulia Tringali (UNU-WIDER Visiting PhD Fel
+ low)\n\n10:45–11:00 BREAK\n\n11:00–11:40\nThe congestion and pollution
+  benefits of public transit: Evidence from strikes\, by Mikko Viikari (Aal
+ to University)\n\n11:40–12:20\nProhibitive on Paper: the Trade Costs of 
+ the EU Export Bans on Russia\, by Martta Rautala (Aalto University)\n\n12:
+ 20 Lunch at Fat Lizard\n\nFull programme: https://www.helsinkigse.fi/media
+ /pages/events/urban-and-spatial-economics-phd-workshop3/b15f615ae7-1793965
+ 127/program.pdf\nEvent page: https://www.helsinkigse.fi/events/urban-and-s
+ patial-economics-phd-workshop3
 LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/urban-and-spatial-economics-phd-works
@@ -487,7 +489,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261123-ignacio-aravena-gonzalez@helsinkigse.fi
-DTSTAMP:20261106T120508Z
+DTSTAMP:20261112T150437Z
 SEQUENCE:15
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261123T150000
@@ -505,7 +507,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261130-lucas-conwell@helsinkigse.fi
-DTSTAMP:20261106T120508Z
+DTSTAMP:20261112T150437Z
 SEQUENCE:15
 LAST-MODIFIED:20260923T125208Z
 DTSTART;TZID=Europe/Helsinki:20261130T150000
@@ -522,7 +524,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20270315-hugo-silva@helsinkigse.fi
-DTSTAMP:20261106T120508Z
+DTSTAMP:20261112T150437Z
 SEQUENCE:1
 LAST-MODIFIED:20261027T130541Z
 DTSTART;TZID=Europe/Helsinki:20270315T150000
@@ -538,7 +540,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20270322-olivia-bordeu@helsinkigse.fi
-DTSTAMP:20261106T120508Z
+DTSTAMP:20261112T150437Z
 SEQUENCE:1
 LAST-MODIFIED:20261027T130541Z
 DTSTART;TZID=Europe/Helsinki:20270322T150000
@@ -554,7 +556,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20270510-ellen-greaves@helsinkigse.fi
-DTSTAMP:20261106T120508Z
+DTSTAMP:20261112T150437Z
 SEQUENCE:1
 LAST-MODIFIED:20261102T140518Z
 DTSTART;TZID=Europe/Helsinki:20270510T150000
