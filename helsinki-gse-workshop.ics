@@ -31,7 +31,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250506-competition-and-efficiency-in-public-procurement-workshop
  @helsinkigse.fi
-DTSTAMP:20261112T150437Z
+DTSTAMP:20261112T160500Z
 SEQUENCE:16
 LAST-MODIFIED:20261112T150437Z
 DTSTART;TZID=Europe/Helsinki:20250506T083000
@@ -80,9 +80,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260828-tuomas-pekkarinen-memorial-workshop@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:17
-LAST-MODIFIED:20261112T150437Z
+DTSTAMP:20261112T160500Z
+SEQUENCE:18
+LAST-MODIFIED:20261112T160500Z
 DTSTART;TZID=Europe/Helsinki:20260828T093000
 DTEND;TZID=Europe/Helsinki:20260828T173000
 SUMMARY:Workshop: Tuomas Pekkarinen Memorial Workshop
@@ -94,24 +94,25 @@ DESCRIPTION:Series: Workshop\nTitle: Tuomas Pekkarinen Memorial Workshop\nA
   Juhana Vartiainen — The Economist as a Mayor: Climbing Towards the Pare
  to Frontier\n\n10:30–11:00 Coffee\n\n11:00–12:40\n• Konstantinos Tat
  siramos — On the Origins of Socioeconomic Inequalities: Evidence from Tw
- in…\n• Daniela Vuri — Degrees of Deception: How Test Score Manipulat
- ion Mitigates Temperature’s Impact…\n• Miquel Pellicer — Is There 
- a Bias in the Tax Policy-Making Process towards Better-Off Citizens?\n• 
- Andrea Ichino — Gender-Based Policy and Signaling\n\n12:40–14:00 Lunch
-  At Sokos Presidentti\n\n14:00–16:00\n• Steve Machin — Productivity 
- in Teams: Double Crewing For Police\n• Manuel Bagues & Natalia Zinovyeva
-  — Female Promotions and the Academic Pipeline: Evidence from…\n• Pe
- ter Fredriksson — Outside Job Opportunities and the Gender Gap in Pay\n
- • Kjell Salvanes — The Making of Equality: How the Second World War Sh
- aped the Norwegian Income…\n• Sari Pekkala Kerr — Gender Differences
-  in Experiments and Natural Experiments\n\n16:00–16:30 Coffee\n\n16:30
- –17:30\n• Matti Sarvimäki — Finding One’s Path: Career-Counselor 
- Training and Students’ Educational…\n• Hanna Virtanen — Education\
- , Gender\, and Family Formation\n• Tuomo Virkola — College Admissions 
- Criteria\, Students' Academic Performance and Social Mobility\n\n19:00 Din
- ner Restaurant 305\n\nFull programme: https://aalto-econ.fi/esimerkki/tuom
- as-pekkarinen-memorial-workshop.html\nEvent page: https://www.helsinkigse.
- fi/events/tuomas-pekkarinen-memorial-workshop
+ in Families\n• Daniela Vuri — Degrees of Deception: How Test Score Man
+ ipulation Mitigates Temperature’s Impact on Student Performance\n• Miq
+ uel Pellicer — Is There a Bias in the Tax Policy-Making Process towards 
+ Better-Off Citizens?\n• Andrea Ichino — Gender-Based Policy and Signal
+ ing\n\n12:40–14:00 Lunch At Sokos Presidentti\n\n14:00–16:00\n• Stev
+ e Machin — Productivity in Teams: Double Crewing For Police\n• Manuel 
+ Bagues & Natalia Zinovyeva — Female Promotions and the Academic Pipeline
+ : Evidence from a Natural Experiment\n• Peter Fredriksson — Outside Jo
+ b Opportunities and the Gender Gap in Pay\n• Kjell Salvanes — The Maki
+ ng of Equality: How the Second World War Shaped the Norwegian Income Distr
+ ibution\n• Sari Pekkala Kerr — Gender Differences in Experiments and N
+ atural Experiments\n\n16:00–16:30 Coffee\n\n16:30–17:30\n• Matti Sar
+ vimäki — Finding One’s Path: Career-Counselor Training and Students
+ ’ Educational Choices\n• Hanna Virtanen — Education\, Gender\, and F
+ amily Formation\n• Tuomo Virkola — College Admissions Criteria\, Stude
+ nts' Academic Performance and Social Mobility\n\n19:00 Dinner Restaurant 3
+ 05\n\nFull programme: https://aalto-econ.fi/esimerkki/tuomas-pekkarinen-me
+ morial-workshop.html\nEvent page: https://www.helsinkigse.fi/events/tuomas
+ -pekkarinen-memorial-workshop
 LOCATION:Seminar room Carl Gustaf\, Original Sokos Hotel Presidentti\, Etel
  äinen Rautatiekatu 4\, Helsinki
 URL:https://www.helsinkigse.fi/events/tuomas-pekkarinen-memorial-workshop
