@@ -30,13 +30,13 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250303-kwabena-adu-ababio1@helsinkigse.fi
-DTSTAMP:20261112T110449Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20250303T150000
 DTEND;TZID=Europe/Helsinki:20250303T160000
-SUMMARY:Development Economics: Kwabena Adu-Ababio — Climate Shocks and Ec
- onomic Resilience: evidence from Zambia’s Formal…
+SUMMARY:Development: Kwabena Adu-Ababio — Climate Shocks and Economic Res
+ ilience: evidence from Zambia’s Formal…
 DESCRIPTION:Series: Development Economics\nType: Brown Bag Seminar\nSpeaker
  : Kwabena Adu-Ababio (UNU-WIDER)\nTitle: Climate Shocks and Economic Resil
  ience: evidence from Zambia’s Formal Sector\n\nEvent page: https://www.h
@@ -48,13 +48,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250414-daniel-peredo-siles@helsinkigse.fi
-DTSTAMP:20261112T110449Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20250414T140000
 DTEND;TZID=Europe/Helsinki:20250414T150000
-SUMMARY:Development Economics: Daniel Peredo-Siles — Heterogeneous Costs\
- , Homogeneous Transfers: Reassessing the impact of…
+SUMMARY:Development: Daniel Peredo-Siles — Heterogeneous Costs\, Homogene
+ ous Transfers: Reassessing the impact of…
 DESCRIPTION:Series: Development Economics\nType: Brown Bag Seminar\nSpeaker
  : Daniel Peredo-Siles (Hanken School of Economics)\nTitle: Heterogeneous C
  osts\, Homogeneous Transfers: Reassessing the impact of a large-scale cond
@@ -68,17 +68,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250505-amma-panin@helsinkigse.fi
-DTSTAMP:20261112T110449Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20250505T150000
 DTEND;TZID=Europe/Helsinki:20250505T160000
-SUMMARY:Development Economics: Amma Panin — Cognitive consequences of ins
- ecure national belonging (with Ritwik…
-DESCRIPTION:Series: Development Economics\nType: Seminar\nSpeaker: Amma Pan
- in (University of Louvain)\nTitle: Cognitive consequences of insecure nati
- onal belonging (with Ritwik Banerjee\, Joseph Gomes\, and Emmy Lindstam)\n
- \nEvent page: https://www.helsinkigse.fi/events/amma-panin
+SUMMARY:Development: Amma Panin — Cognitive consequences of insecure nati
+ onal belonging
+DESCRIPTION:Series: Development Economics\nSpeaker: Amma Panin (University 
+ of Louvain)\nTitle: Cognitive consequences of insecure national belonging 
+ (with Ritwik Banerjee\, Joseph Gomes\, and Emmy Lindstam)\n\nEvent page: h
+ ttps://www.helsinkigse.fi/events/amma-panin
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/amma-panin
 STATUS:CONFIRMED
@@ -86,17 +86,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250512-dean-yang1@helsinkigse.fi
-DTSTAMP:20261112T110449Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20250512T150000
 DTEND;TZID=Europe/Helsinki:20250512T160000
-SUMMARY:Development Economics: Dean Yang — Ancient Epics in the Televisio
- n Age: Mass Media\, Identity\, and the…
-DESCRIPTION:Series: Development Economics\nType: Seminar\nSpeaker: Dean Yan
- g (University of Michigan)\nTitle: Ancient Epics in the Television Age: Ma
- ss Media\, Identity\, and the Rise of Hindu Nationalism in India\n\nEvent 
- page: https://www.helsinkigse.fi/events/dean-yang1
+SUMMARY:Development: Dean Yang — Ancient Epics in the Television Age: Mas
+ s Media\, Identity\, and the…
+DESCRIPTION:Series: Development Economics\nSpeaker: Dean Yang (University o
+ f Michigan)\nTitle: Ancient Epics in the Television Age: Mass Media\, Iden
+ tity\, and the Rise of Hindu Nationalism in India\n\nEvent page: https://w
+ ww.helsinkigse.fi/events/dean-yang1
 LOCATION:Seminar roon 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/dean-yang1
 STATUS:CONFIRMED
@@ -104,13 +104,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250929-nhi-cao1@helsinkigse.fi
-DTSTAMP:20261112T110449Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20250929T150000
 DTEND;TZID=Europe/Helsinki:20250929T160000
-SUMMARY:Development Economics: Nhi Cao — Persistent effects of colonial r
- ubber plantations
+SUMMARY:Development: Nhi Cao — Persistent effects of colonial rubber plan
+ tations
 DESCRIPTION:Series: Development Economics\nType: Brown Bag Seminar\nSpeaker
  : Nhi Cao (Hanken School of Economics)\nTitle: Persistent effects of colon
  ial rubber plantations\n\nEvent page: https://www.helsinkigse.fi/events/nh
@@ -122,17 +122,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251027-raissa-fabregas@helsinkigse.fi
-DTSTAMP:20261112T110449Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20251027T160000
 DTEND;TZID=Europe/Helsinki:20251027T170000
-SUMMARY:Development Economics: Raissa Fabregas — The Well-Being Effects o
- f Digital Mental Health Care
-DESCRIPTION:Series: Development Economics\nType: Seminar\nSpeaker: Raissa F
- abregas (University of Texas at Austin)\nTitle: The Well-Being Effects of 
- Digital Mental Health Care\n\nEvent page: https://www.helsinkigse.fi/event
- s/raissa-fabregas
+SUMMARY:Development: Raissa Fabregas — The Well-Being Effects of Digital 
+ Mental Health Care
+DESCRIPTION:Series: Development Economics\nSpeaker: Raissa Fabregas (Univer
+ sity of Texas at Austin)\nTitle: The Well-Being Effects of Digital Mental 
+ Health Care\n\nEvent page: https://www.helsinkigse.fi/events/raissa-fabreg
+ as
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/raissa-fabregas
 STATUS:CONFIRMED
@@ -141,14 +141,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251110-laura-contreras-portela-and-natalia-labrador-bernate-aix-
  marseille-school-of-economics-unu-wider@helsinkigse.fi
-DTSTAMP:20261112T110449Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20251110T150000
 DTEND;TZID=Europe/Helsinki:20251110T160000
-SUMMARY:Development Economics: Laura Contreras-Portela and Natalia Labrador
-  Bernate — The Unintended Consequences of Place-Based Industrial Policie
- s…
+SUMMARY:Development: Laura Contreras-Portela and Natalia Labrador Bernate 
+ — The Unintended Consequences of Place-Based Industrial Policies…
 DESCRIPTION:Series: Development Economics\nType: Brown Bag Seminar\nSpeaker
  : Laura Contreras-Portela and Natalia Labrador Bernate (Aix-Marseille Scho
  ol of Economics & UNU-WIDER)\nTitle: The Unintended Consequences of Place-
@@ -164,17 +163,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251124-javier-feinman@helsinkigse.fi
-DTSTAMP:20261112T110449Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20251124T160000
 DTEND;TZID=Europe/Helsinki:20251124T170000
-SUMMARY:Development Economics: Javier Feinman — Income Shifting vs Real R
- esponses in Presumptive Tax Regimes…
-DESCRIPTION:Series: Development Economics\nType: Seminar\nSpeaker: Javier F
- einman (PSE)\nTitle: Income Shifting vs Real Responses in Presumptive Tax 
- Regimes: Evidence from Brazil\n\nEvent page: https://www.helsinkigse.fi/ev
- ents/javier-feinman
+SUMMARY:Development: Javier Feinman — Income Shifting vs Real Responses i
+ n Presumptive Tax Regimes…
+DESCRIPTION:Series: Development Economics\nSpeaker: Javier Feinman (PSE)\nT
+ itle: Income Shifting vs Real Responses in Presumptive Tax Regimes: Eviden
+ ce from Brazil\n\nEvent page: https://www.helsinkigse.fi/events/javier-fei
+ nman
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/javier-feinman
 STATUS:CONFIRMED
@@ -182,13 +181,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260413-martina-querejeta@helsinkigse.fi
-DTSTAMP:20261112T110449Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T130455Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260413T150000
 DTEND;TZID=Europe/Helsinki:20260413T160000
-SUMMARY:Development Economics: Martina Querejeta — Intergenerational Tran
- smission of Working Behaviour: Preferences or…
+SUMMARY:Development: Martina Querejeta — Intergenerational Transmission o
+ f Working Behaviour: Preferences or…
 DESCRIPTION:Series: Development Economics\nType: Brown Bag Seminar\nSpeaker
  : Martina Querejeta (Universidad de la República (Uruguay))\nTitle: Inter
  generational Transmission of Working Behaviour: Preferences or Gender Role
@@ -201,18 +200,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260427-viola-asri@helsinkigse.fi
-DTSTAMP:20261112T110449Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T130455Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260427T150000
 DTEND;TZID=Europe/Helsinki:20260427T160000
-SUMMARY:Development Economics: Viola Asri — Missing the target: Does incr
- easing the capacity of the local…
-DESCRIPTION:Series: Development Economics\nType: Seminar\nSpeaker: Viola As
- ri (CMI)\nTitle: Missing the target: Does increasing the capacity of the l
- ocal government improve beneficiary selection? (with Kumar Biswas\, Sebast
- ian Fehrler\, Urs Fischbacher\, Katharina Michaelowa\, and Atonu Rabbani)\
- n\nEvent page: https://www.helsinkigse.fi/events/viola-asri
+SUMMARY:Development: Viola Asri — Missing the target: Does increasing the
+  capacity of the local…
+DESCRIPTION:Series: Development Economics\nSpeaker: Viola Asri (CMI)\nTitle
+ : Missing the target: Does increasing the capacity of the local government
+  improve beneficiary selection? (with Kumar Biswas\, Sebastian Fehrler\, U
+ rs Fischbacher\, Katharina Michaelowa\, and Atonu Rabbani)\n\nEvent page: 
+ https://www.helsinkigse.fi/events/viola-asri
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/viola-asri
 STATUS:CONFIRMED
@@ -220,13 +219,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260511-david-rivera-gonzalez@helsinkigse.fi
-DTSTAMP:20261112T110449Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T130455Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260511T150000
 DTEND;TZID=Europe/Helsinki:20260511T160000
-SUMMARY:Development Economics: David Rivera Gonzalez — Contribution floor
- s\, Informality and Inequality in Latin America
+SUMMARY:Development: David Rivera Gonzalez — Contribution floors\, Inform
+ ality and Inequality in Latin America
 DESCRIPTION:Series: Development Economics\nType: Brown Bag Seminar\nSpeaker
  : David Rivera Gonzalez (Bordeaux School of Economics\, UNU-WIDER)\nTitle:
   Contribution floors\, Informality and Inequality in Latin America\n\nEven
@@ -238,17 +237,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260525-justine-knebelmann@helsinkigse.fi
-DTSTAMP:20261112T110449Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T130455Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260525T150000
 DTEND;TZID=Europe/Helsinki:20260525T160000
-SUMMARY:Development Economics: Justine Knebelmann — Scaling Fiscal Capaci
- ty: Evidence from Senegal’s Capital City (with…
-DESCRIPTION:Series: Development Economics\nType: Seminar\nSpeaker: Justine 
- Knebelmann (Sciences Po)\nTitle: Scaling Fiscal Capacity: Evidence from Se
- negal’s Capital City (with Bilal Choho and Victor Pouliquen)\n\nEvent pa
- ge: https://www.helsinkigse.fi/events/justine-knebelmann
+SUMMARY:Development: Justine Knebelmann — Scaling Fiscal Capacity: Eviden
+ ce from Senegal’s Capital City
+DESCRIPTION:Series: Development Economics\nSpeaker: Justine Knebelmann (Sci
+ ences Po)\nTitle: Scaling Fiscal Capacity: Evidence from Senegal’s Capit
+ al City (with Bilal Choho and Victor Pouliquen)\n\nEvent page: https://www
+ .helsinkigse.fi/events/justine-knebelmann
 LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/justine-knebelmann
 STATUS:CONFIRMED
@@ -256,17 +255,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260914-eleonora-guarnieri@helsinkigse.fi
-DTSTAMP:20261112T110449Z
-SEQUENCE:16
-LAST-MODIFIED:20260923T125208Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:17
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260914T150000
 DTEND;TZID=Europe/Helsinki:20260914T160000
-SUMMARY:Development Economics: Eleonora Guarnieri — Male Dominance and Cu
- ltural Extinction (with Ana Tur-Prats)
-DESCRIPTION:Series: Development Economics\nType: Seminar\nSpeaker: Eleonora
-  Guarnieri (University of Bristol)\nTitle: Male Dominance and Cultural Ext
- inction (with Ana Tur-Prats)\nHosts: Miri Stryjan & Matti Mitrunen\n\nEven
- t page: https://www.helsinkigse.fi/events/eleonora-guarnieri
+SUMMARY:Development: Eleonora Guarnieri — Male Dominance and Cultural Ext
+ inction (with Ana Tur-Prats)
+DESCRIPTION:Series: Development Economics\nSpeaker: Eleonora Guarnieri (Uni
+ versity of Bristol)\nTitle: Male Dominance and Cultural Extinction (with A
+ na Tur-Prats)\nHosts: Miri Stryjan & Matti Mitrunen\n\nEvent page: https:/
+ /www.helsinkigse.fi/events/eleonora-guarnieri
 LOCATION:Seminar room 2\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/eleonora-guarnieri
 STATUS:CONFIRMED
@@ -274,17 +273,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261019-jeremie-gignoux@helsinkigse.fi
-DTSTAMP:20261112T110449Z
-SEQUENCE:3
-LAST-MODIFIED:20261007T100519Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:4
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20261019T150000
 DTEND;TZID=Europe/Helsinki:20261019T160000
-SUMMARY:Development Economics: Jeremie Gignoux — Competition between proc
- essors: oil palm smallholders and…
-DESCRIPTION:Series: Development Economics\nType: Seminar\nSpeaker: Jeremie 
- Gignoux (PSE)\nTitle: Competition between processors: oil palm smallholder
- s and deforestation in Indonesia\nHosts: Miri Stryjan & Matias Giaccobasso
- \n\nEvent page: https://www.helsinkigse.fi/events/jeremie-gignoux
+SUMMARY:Development: Jeremie Gignoux — Competition between processors: oi
+ l palm smallholders and…
+DESCRIPTION:Series: Development Economics\nSpeaker: Jeremie Gignoux (PSE)\n
+ Title: Competition between processors: oil palm smallholders and deforesta
+ tion in Indonesia\nHosts: Miri Stryjan & Matias Giaccobasso\n\nEvent page:
+  https://www.helsinkigse.fi/events/jeremie-gignoux
 LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/jeremie-gignoux
 STATUS:CONFIRMED
@@ -292,9 +291,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261026-veronica-salazar-restrepo@helsinkigse.fi
-DTSTAMP:20261112T110449Z
-SEQUENCE:16
-LAST-MODIFIED:20261021T100458Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:17
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20261026T150000
 DTEND;TZID=Europe/Helsinki:20261026T160000
 SUMMARY:Development Economics & Trade\, Regional and Urban Economics: Veron
@@ -312,13 +311,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261116-joan-margalef@helsinkigse.fi
-DTSTAMP:20261112T110449Z
-SEQUENCE:3
-LAST-MODIFIED:20261106T100508Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:4
+LAST-MODIFIED:20261112T191828Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-SUMMARY:MOVED to 14 Dec 2026 — Development Economics: Joan Margalef — A
-  Probabilistic Measure of State Fragility
+SUMMARY:MOVED to 14 Dec 2026 — Development: Joan Margalef — A Probabili
+ stic Measure of State Fragility
 DESCRIPTION:Series: Development Economics\nType: Brown Bag Seminar\nSpeaker
  : Joan Margalef (UNU-WIDER)\nTitle: A Probabilistic Measure of State Fragi
  lity\n\nEvent page: https://www.helsinkigse.fi/events/joan-margalef
@@ -328,9 +327,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261130-lucas-conwell@helsinkigse.fi
-DTSTAMP:20261112T110449Z
-SEQUENCE:15
-LAST-MODIFIED:20260923T125208Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20261130T150000
 DTEND;TZID=Europe/Helsinki:20261130T160000
 SUMMARY:Development Economics & Trade\, Regional and Urban Economics: Lucas
@@ -345,13 +344,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261214-joan-margalef@helsinkigse.fi
-DTSTAMP:20261112T110449Z
-SEQUENCE:1
-LAST-MODIFIED:20261106T100508Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:2
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20261214T150000
 DTEND;TZID=Europe/Helsinki:20261214T160000
-SUMMARY:Development Economics: Joan Margalef — A Probabilistic Measure of
-  State Fragility
+SUMMARY:Development: Joan Margalef — A Probabilistic Measure of State Fra
+ gility
 DESCRIPTION:Series: Development Economics\nType: Brown Bag Seminar\nSpeaker
  : Joan Margalef (UNU-WIDER)\nTitle: A Probabilistic Measure of State Fragi
  lity\nHost: Miri Stryjan\n\nEvent page: https://www.helsinkigse.fi/events/
@@ -363,15 +362,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20270412-radhika-jain@helsinkigse.fi
-DTSTAMP:20261112T110449Z
-SEQUENCE:1
-LAST-MODIFIED:20261110T130508Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:2
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20270412T150000
 DTEND;TZID=Europe/Helsinki:20270412T160000
-SUMMARY:Development Economics: Radhika Jain
-DESCRIPTION:Series: Development Economics\nType: Seminar\nSpeaker: Radhika 
- Jain (UCL)\nTitle: TBA\nHost: Miri Stryjan\n\nEvent page: https://www.hels
- inkigse.fi/events/radhika-jain
+SUMMARY:Development: Radhika Jain
+DESCRIPTION:Series: Development Economics\nSpeaker: Radhika Jain (UCL)\nTit
+ le: TBA\nHost: Miri Stryjan\n\nEvent page: https://www.helsinkigse.fi/even
+ ts/radhika-jain
 LOCATION:T004\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/radhika-jain
@@ -380,15 +379,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20270517-david-henning@helsinkigse.fi
-DTSTAMP:20261112T110449Z
-SEQUENCE:2
-LAST-MODIFIED:20261112T110449Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:3
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20270517T150000
 DTEND;TZID=Europe/Helsinki:20270517T160000
-SUMMARY:Development Economics: David Henning
-DESCRIPTION:Series: Development Economics\nType: Seminar\nSpeaker: David He
- nning (University of Oxford)\nTitle: TBA\nHost: Miri Stryjan\n\nEvent page
- : https://www.helsinkigse.fi/events/david-henning
+SUMMARY:Development: David Henning
+DESCRIPTION:Series: Development Economics\nSpeaker: David Henning (Universi
+ ty of Oxford)\nTitle: TBA\nHost: Miri Stryjan\n\nEvent page: https://www.h
+ elsinkigse.fi/events/david-henning
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/david-henning
 STATUS:CONFIRMED

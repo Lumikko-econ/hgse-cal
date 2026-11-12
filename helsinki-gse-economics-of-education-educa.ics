@@ -30,19 +30,19 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250225-yann-bramoulle@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20250225T150000
 DTEND;TZID=Europe/Helsinki:20250225T160000
-SUMMARY:Economics of Education (Educa): Yann Bramoullé — Friendship netw
- orks and social diversity at school: evidence from a…
-DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
-  Yann Bramoullé (Aix-Marseille School of Economics)\nTitle: Friendship ne
- tworks and social diversity at school: evidence from a desegregation progr
- am (joint with Ghazala Azmat\, Julien Grenet\, Aristide Houndetoungan\, El
- ise Huillery\, and Youssef Souidi)\n\nEvent page: https://www.helsinkigse.
- fi/events/yann-bramoulle
+SUMMARY:Educa: Yann Bramoullé — Friendship networks and social diversity
+  at school: evidence from a…
+DESCRIPTION:Series: Economics of Education (Educa)\nSpeaker: Yann Bramoull
+ é (Aix-Marseille School of Economics)\nTitle: Friendship networks and soc
+ ial diversity at school: evidence from a desegregation program (joint with
+  Ghazala Azmat\, Julien Grenet\, Aristide Houndetoungan\, Elise Huillery\,
+  and Youssef Souidi)\n\nEvent page: https://www.helsinkigse.fi/events/yann
+ -bramoulle
 LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/yann-bramoulle
@@ -51,17 +51,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250311-mette-foged@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20250311T150000
 DTEND;TZID=Europe/Helsinki:20250311T160000
-SUMMARY:Economics of Education (Educa): Mette Foged — Harsh Rhetoric and 
- Ethnic Identity: The Backlash Effects of Denmark’s…
-DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
-  Mette Foged (University of Copenhagen)\nTitle: Harsh Rhetoric and Ethnic 
- Identity: The Backlash Effects of Denmark’s Ghetto Plan\n\nEvent page: h
- ttps://www.helsinkigse.fi/events/mette-foged
+SUMMARY:Educa: Mette Foged — Harsh Rhetoric and Ethnic Identity: The Back
+ lash Effects of Denmark’s…
+DESCRIPTION:Series: Economics of Education (Educa)\nSpeaker: Mette Foged (U
+ niversity of Copenhagen)\nTitle: Harsh Rhetoric and Ethnic Identity: The B
+ acklash Effects of Denmark’s Ghetto Plan\n\nEvent page: https://www.hels
+ inkigse.fi/events/mette-foged
 LOCATION:T004\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/mette-foged
@@ -70,17 +70,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250408-mikkel-gandil@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20250408T150000
 DTEND;TZID=Europe/Helsinki:20250408T160000
-SUMMARY:Economics of Education (Educa): Mikkel Gandil — Minority bias in 
- holistic college admissions
-DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
-  Mikkel Gandil (ROCKWOOL Foundation Research Unit)\nTitle: Minority bias i
- n holistic college admissions\n\nEvent page: https://www.helsinkigse.fi/ev
- ents/mikkel-gandil
+SUMMARY:Educa: Mikkel Gandil — Minority bias in holistic college admissio
+ ns
+DESCRIPTION:Series: Economics of Education (Educa)\nSpeaker: Mikkel Gandil 
+ (ROCKWOOL Foundation Research Unit)\nTitle: Minority bias in holistic coll
+ ege admissions\n\nEvent page: https://www.helsinkigse.fi/events/mikkel-gan
+ dil
 LOCATION:L101\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/mikkel-gandil
@@ -89,18 +89,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250506-jose-montalban-castilla@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20250506T150000
 DTEND;TZID=Europe/Helsinki:20250506T160000
-SUMMARY:Economics of Education (Educa): José Montalban Castilla — How Do
- es Class Size Shape the Classroom Learning Environment and…
-DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
-  José Montalban Castilla (SOFI – Stockholm University)\nTitle: How Does
-  Class Size Shape the Classroom Learning Environment and Affect Student Ou
- tcomes?\n\nEvent page: https://www.helsinkigse.fi/events/jose-montalban-ca
- stilla
+SUMMARY:Educa: José Montalban Castilla — How Does Class Size Shape the C
+ lassroom Learning Environment and…
+DESCRIPTION:Series: Economics of Education (Educa)\nSpeaker: José Montalba
+ n Castilla (SOFI – Stockholm University)\nTitle: How Does Class Size Sha
+ pe the Classroom Learning Environment and Affect Student Outcomes?\n\nEven
+ t page: https://www.helsinkigse.fi/events/jose-montalban-castilla
 LOCATION:Seminar room L101\, Aalto University Väre Building\, Ekonominauki
  o 1\, Espoo
 URL:https://www.helsinkigse.fi/events/jose-montalban-castilla
@@ -109,17 +108,16 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250520-christina-felfe@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20250520T150000
 DTEND;TZID=Europe/Helsinki:20250520T160000
-SUMMARY:Economics of Education (Educa): Christina Felfe — Mintful choices
-  - The role of perceived pressure
-DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
-  Christina Felfe (University of Konstanz)\nTitle: Mintful choices - The ro
- le of perceived pressure\n\nEvent page: https://www.helsinkigse.fi/events/
- christina-felfe
+SUMMARY:Educa: Christina Felfe — Mintful choices - The role of perceived 
+ pressure
+DESCRIPTION:Series: Economics of Education (Educa)\nSpeaker: Christina Felf
+ e (University of Konstanz)\nTitle: Mintful choices - The role of perceived
+  pressure\n\nEvent page: https://www.helsinkigse.fi/events/christina-felfe
 LOCATION:L101\, Aalto University Väre Building\, Ekonominaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/christina-felfe
 STATUS:CONFIRMED
@@ -127,17 +125,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250603-tushar-kundu@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20250603T150000
 DTEND;TZID=Europe/Helsinki:20250603T160000
-SUMMARY:Economics of Education (Educa): Tushar Kundu — Parent-Teacher Ali
- gnment in Multidimensional Skill Development
-DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
-  Tushar Kundu (Columbia University)\nTitle: Parent-Teacher Alignment in Mu
- ltidimensional Skill Development\n\nEvent page: https://www.helsinkigse.fi
- /events/tushar-kundu
+SUMMARY:Educa: Tushar Kundu — Parent-Teacher Alignment in Multidimensiona
+ l Skill Development
+DESCRIPTION:Series: Economics of Education (Educa)\nSpeaker: Tushar Kundu (
+ Columbia University)\nTitle: Parent-Teacher Alignment in Multidimensional 
+ Skill Development\n\nEvent page: https://www.helsinkigse.fi/events/tushar-
+ kundu
 LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/tushar-kundu
@@ -146,13 +144,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250919-helsinki-economics-of-education-workshop@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:16
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:17
+LAST-MODIFIED:20261112T191828Z
 DTSTART;VALUE=DATE:20250919
 DTEND;VALUE=DATE:20250920
-SUMMARY:Economics of Education (Educa): Helsinki Economics of Education Wor
- kshop
+SUMMARY:Helsinki Economics of Education Workshop
 DESCRIPTION:Series: Economics of Education (Educa)\nType: Workshop\nTitle: 
  Helsinki Economics of Education Workshop\nHost: Daniel Carvajal\n\nTime no
  t recorded.\n\nEvent page: https://www.helsinkigse.fi/events/helsinki-econ
@@ -165,16 +162,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250923-pedro-carneiro@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20250923T150000
 DTEND;TZID=Europe/Helsinki:20250923T160000
-SUMMARY:Economics of Education (Educa): Pedro Carneiro — Parental Respons
- es to Child Endowments
-DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
-  Pedro Carneiro (UCL)\nTitle: Parental Responses to Child Endowments\n\nEv
- ent page: https://www.helsinkigse.fi/events/pedro-carneiro
+SUMMARY:Educa: Pedro Carneiro — Parental Responses to Child Endowments
+DESCRIPTION:Series: Economics of Education (Educa)\nSpeaker: Pedro Carneiro
+  (UCL)\nTitle: Parental Responses to Child Endowments\n\nEvent page: https
+ ://www.helsinkigse.fi/events/pedro-carneiro
 LOCATION:V101\, Väre Building Aalto University\, Ekonominaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/pedro-carneiro
 STATUS:CONFIRMED
@@ -182,17 +178,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251021-ben-goldman@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20251021T150000
 DTEND;TZID=Europe/Helsinki:20251021T160000
-SUMMARY:Economics of Education (Educa): Benjamin Goldman — When Resources
-  Meet Relationships: The Returns to Personalized…
-DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
-  Benjamin Goldman (Cornell University)\nTitle: When Resources Meet Relatio
- nships: The Returns to Personalized Supports for Low-Income Students\n\nEv
- ent page: https://www.helsinkigse.fi/events/ben-goldman
+SUMMARY:Educa: Benjamin Goldman — When Resources Meet Relationships: The 
+ Returns to Personalized…
+DESCRIPTION:Series: Economics of Education (Educa)\nSpeaker: Benjamin Goldm
+ an (Cornell University)\nTitle: When Resources Meet Relationships: The Ret
+ urns to Personalized Supports for Low-Income Students\n\nEvent page: https
+ ://www.helsinkigse.fi/events/ben-goldman
 LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/ben-goldman
@@ -201,36 +197,36 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251104-giuseppe-sorrenti@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T044648Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;VALUE=DATE:20251104
 DTEND;VALUE=DATE:20251105
-SUMMARY:Economics of Education (Educa): CANCELLED Giuseppe Sorrenti — Tal
- ent is Everywhere\, Opportunity is Not: Online Role Model Mentoring…
-DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
-  CANCELLED Giuseppe Sorrenti (University of Lausanne)\nTitle: Talent is Ev
- erywhere\, Opportunity is Not: Online Role Model Mentoring and Students’
-  Aspirations\n\nTime not recorded.\n\nEvent page: https://www.helsinkigse.
- fi/events/giuseppe-sorrenti
+SUMMARY:CANCELLED — Educa: Giuseppe Sorrenti — Talent is Everywhere\, O
+ pportunity is Not: Online Role Model Mentoring…
+DESCRIPTION:Series: Economics of Education (Educa)\nSpeaker: CANCELLED Gius
+ eppe Sorrenti (University of Lausanne)\nTitle: Talent is Everywhere\, Oppo
+ rtunity is Not: Online Role Model Mentoring and Students’ Aspirations\n\
+ nTime not recorded.\n\nEvent page: https://www.helsinkigse.fi/events/giuse
+ ppe-sorrenti
 URL:https://www.helsinkigse.fi/events/giuseppe-sorrenti
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251202-julien-grenet@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20251202T120000
 DTEND;TZID=Europe/Helsinki:20251202T130000
-SUMMARY:Economics of Education (Educa): Julien Grenet — Social Diversity 
- at School: Evidence from a French Desegregation…
-DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
-  Julien Grenet (PSE)\nTitle: Social Diversity at School: Evidence from a F
- rench Desegregation Experiment (with Ghazala Azmat\, Élise Huillery\, You
- ssef Souidi\, and Yann Algan)\n\nEvent page: https://www.helsinkigse.fi/ev
- ents/julien-grenet
+SUMMARY:Educa: Julien Grenet — Social Diversity at School: Evidence from 
+ a French Desegregation…
+DESCRIPTION:Series: Economics of Education (Educa)\nSpeaker: Julien Grenet 
+ (PSE)\nTitle: Social Diversity at School: Evidence from a French Desegrega
+ tion Experiment (with Ghazala Azmat\, Élise Huillery\, Youssef Souidi\, a
+ nd Yann Algan)\n\nEvent page: https://www.helsinkigse.fi/events/julien-gre
+ net
 LOCATION:V001\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/julien-grenet
@@ -239,18 +235,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260310-nagore-iriberri1@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260310T120000
 DTEND;TZID=Europe/Helsinki:20260310T130000
-SUMMARY:Economics of Education (Educa): Nagore Iriberri — Women in Editor
- ial Boards: An Investigation of Female Representation…
-DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
-  Nagore Iriberri (University of the Basque Country UPV/EHU)\nTitle: Women 
- in Editorial Boards: An Investigation of Female Representation in Top Econ
- omic Journals (with Patricia Funk and Nicole Venus)\n\nEvent page: https:/
- /www.helsinkigse.fi/events/nagore-iriberri1
+SUMMARY:Educa: Nagore Iriberri — Women in Editorial Boards: An Investigat
+ ion of Female Representation…
+DESCRIPTION:Series: Economics of Education (Educa)\nSpeaker: Nagore Iriberr
+ i (University of the Basque Country UPV/EHU)\nTitle: Women in Editorial Bo
+ ards: An Investigation of Female Representation in Top Economic Journals (
+ with Patricia Funk and Nicole Venus)\n\nEvent page: https://www.helsinkigs
+ e.fi/events/nagore-iriberri1
 LOCATION:V101\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/nagore-iriberri1
@@ -259,18 +255,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260421-juanna-schroter-joensen@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T130455Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260421T120000
 DTEND;TZID=Europe/Helsinki:20260421T130000
-SUMMARY:Economics of Education (Educa): Juanna Schrøter Joensen — Field 
- of Study and Future Fertility (with Adam Altmejd\, John Eric…
-DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
-  Juanna Schrøter Joensen (University of Chicago)\nTitle: Field of Study a
- nd Future Fertility (with Adam Altmejd\, John Eric Humphries and Gregory F
- . Veramendi)\n\nEvent page: https://www.helsinkigse.fi/events/juanna-schro
- ter-joensen
+SUMMARY:Educa: Juanna Schrøter Joensen — Field of Study and Future Ferti
+ lity
+DESCRIPTION:Series: Economics of Education (Educa)\nSpeaker: Juanna Schrøt
+ er Joensen (University of Chicago)\nTitle: Field of Study and Future Ferti
+ lity (with Adam Altmejd\, John Eric Humphries and Gregory F. Veramendi)\n\
+ nEvent page: https://www.helsinkigse.fi/events/juanna-schroter-joensen
 LOCATION:V101\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/juanna-schroter-joensen
@@ -279,18 +274,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260602-gabrielle-fack1@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T100710Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260602T120000
 DTEND;TZID=Europe/Helsinki:20260602T130000
-SUMMARY:Economics of Education (Educa): Gabrielle Fack — The Effect of Af
- firmative Action on Targeted and Non-Targeted…
-DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
-  Gabrielle Fack (Dauphine University)\nTitle: The Effect of Affirmative Ac
- tion on Targeted and Non-Targeted Students: Evidence from Low-income prior
- ites in Paris High Schools (with Julien Grenet and Yinghua He)\n\nEvent pa
- ge: https://www.helsinkigse.fi/events/gabrielle-fack1
+SUMMARY:Educa: Gabrielle Fack — The Effect of Affirmative Action on Targe
+ ted and Non-Targeted…
+DESCRIPTION:Series: Economics of Education (Educa)\nSpeaker: Gabrielle Fack
+  (Dauphine University)\nTitle: The Effect of Affirmative Action on Targete
+ d and Non-Targeted Students: Evidence from Low-income priorites in Paris H
+ igh Schools (with Julien Grenet and Yinghua He)\n\nEvent page: https://www
+ .helsinkigse.fi/events/gabrielle-fack1
 LOCATION:V101\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/gabrielle-fack1
@@ -300,13 +295,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260826-2nd-edition-of-the-helsinki-economics-of-education-worksh
  op@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:16
-LAST-MODIFIED:20261112T150437Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:17
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260826T090000
 DTEND;TZID=Europe/Helsinki:20260827T150000
-SUMMARY:Economics of Education (Educa): 2nd Edition of the Helsinki Economi
- cs of Education Workshop
+SUMMARY:2nd Edition of the Helsinki Economics of Education Workshop
 DESCRIPTION:Series: Economics of Education (Educa)\nType: Workshop\nTitle: 
  2nd Edition of the Helsinki Economics of Education Workshop\nHost: Cécile
   Bonneau\n\nProgramme:\n\nWednesday 26 August\n\n09:00–09:25 Welcome and
@@ -362,17 +356,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261006-jenifer-ruiz-valenzuela@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20261002T070511Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20261006T120000
 DTEND;TZID=Europe/Helsinki:20261006T130000
-SUMMARY:Economics of Education (Educa): Jenifer Ruiz Valenzuela — Resits 
- (with Steve Machin and Sandra McNally)
-DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
-  Jenifer Ruiz Valenzuela (University of Barcelona)\nTitle: Resits (with St
- eve Machin and Sandra McNally)\nHost: Maria Sauval\n\nEvent page: https://
- www.helsinkigse.fi/events/jenifer-ruiz-valenzuela
+SUMMARY:Educa: Jenifer Ruiz Valenzuela — Resits (with Steve Machin and Sa
+ ndra McNally)
+DESCRIPTION:Series: Economics of Education (Educa)\nSpeaker: Jenifer Ruiz V
+ alenzuela (University of Barcelona)\nTitle: Resits (with Steve Machin and 
+ Sandra McNally)\nHost: Maria Sauval\n\nEvent page: https://www.helsinkigse
+ .fi/events/jenifer-ruiz-valenzuela
 LOCATION:V101\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/jenifer-ruiz-valenzuela
@@ -381,17 +375,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261020-yusuf-agus-rafael-hernandez-pachon@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:4
-LAST-MODIFIED:20261009T100525Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:5
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20261020T120000
 DTEND;TZID=Europe/Helsinki:20261020T130000
-SUMMARY:Economics of Education (Educa): Yusuf Agus / Rafael Hernandez-Pacho
- n — Introduction of the new Education Postdocs
-DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
-  Yusuf Agus / Rafael Hernandez-Pachon (Aalto University)\nTitle: Introduct
- ion of the new Education Postdocs\nHost: Daniel Carvajal\n\nEvent page: ht
- tps://www.helsinkigse.fi/events/yusuf-agus-rafael-hernandez-pachon
+SUMMARY:Educa: Yusuf Agus / Rafael Hernandez-Pachon — Introduction of the
+  new Education Postdocs
+DESCRIPTION:Series: Economics of Education (Educa)\nSpeaker: Yusuf Agus / R
+ afael Hernandez-Pachon (Aalto University)\nTitle: Introduction of the new 
+ Education Postdocs\nHost: Daniel Carvajal\n\nEvent page: https://www.helsi
+ nkigse.fi/events/yusuf-agus-rafael-hernandez-pachon
 LOCATION:T003\, Aalto University School of Busines\, Ekonominaukio 1\, Espo
  o
 URL:https://www.helsinkigse.fi/events/yusuf-agus-rafael-hernandez-pachon
@@ -400,18 +394,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261103-petter-lundborg1@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20261026T090508Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20261103T120000
 DTEND;TZID=Europe/Helsinki:20261103T130000
-SUMMARY:Economics of Education (Educa): Petter Lundborg — Exposure to Ine
- quality\, Human Capital\, and Labor Market Outcomes…
-DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
-  Petter Lundborg (Lund University)\nTitle: Exposure to Inequality\, Human 
- Capital\, and Labor Market Outcomes (with Jan Bietenbeck\, Matthew Collins
- \, and Kaveh Majlesi)\nHost: Cécile Bonneau\n\nEvent page: https://www.he
- lsinkigse.fi/events/petter-lundborg1
+SUMMARY:Educa: Petter Lundborg — Exposure to Inequality\, Human Capital\,
+  and Labor Market Outcomes
+DESCRIPTION:Series: Economics of Education (Educa)\nSpeaker: Petter Lundbor
+ g (Lund University)\nTitle: Exposure to Inequality\, Human Capital\, and L
+ abor Market Outcomes (with Jan Bietenbeck\, Matthew Collins\, and Kaveh Ma
+ jlesi)\nHost: Cécile Bonneau\n\nEvent page: https://www.helsinkigse.fi/ev
+ ents/petter-lundborg1
 LOCATION:V101\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/petter-lundborg1
@@ -420,15 +414,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261117-shqiponja-telhaj@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:5
-LAST-MODIFIED:20261111T160451Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:6
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20261117T120000
 DTEND;TZID=Europe/Helsinki:20261117T130000
-SUMMARY:CANCELLED — Economics of Education (Educa): Shqiponja Telhaj
-DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
-  Shqiponja Telhaj (University of Sussex)\nTitle: TBA\nHost: Daniel Carvaja
- l\n\nEvent page: https://www.helsinkigse.fi/events/shqiponja-telhaj
+SUMMARY:CANCELLED — Educa: Shqiponja Telhaj
+DESCRIPTION:Series: Economics of Education (Educa)\nSpeaker: Shqiponja Telh
+ aj (University of Sussex)\nTitle: TBA\nHost: Daniel Carvajal\n\nEvent page
+ : https://www.helsinkigse.fi/events/shqiponja-telhaj
 LOCATION:V101\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/shqiponja-telhaj
@@ -437,16 +431,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261201-andres-barrios-fernandez@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:1
-LAST-MODIFIED:20261006T100544Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:2
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20261201T120000
 DTEND;TZID=Europe/Helsinki:20261201T130000
-SUMMARY:Economics of Education (Educa): Andres Barrios Fernandez
-DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
-  Andres Barrios Fernandez (Universidad de los Andes)\nTitle: TBA\nHost: Da
- niel Carvajal\n\nEvent page: https://www.helsinkigse.fi/events/andres-barr
- ios-fernandez
+SUMMARY:Educa: Andres Barrios Fernandez
+DESCRIPTION:Series: Economics of Education (Educa)\nSpeaker: Andres Barrios
+  Fernandez (Universidad de los Andes)\nTitle: TBA\nHost: Daniel Carvajal\n
+ \nEvent page: https://www.helsinkigse.fi/events/andres-barrios-fernandez
 LOCATION:V101\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/andres-barrios-fernandez
@@ -455,15 +448,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20270309-dita-eckhardt@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:1
-LAST-MODIFIED:20261027T130541Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:2
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20270309T120000
 DTEND;TZID=Europe/Helsinki:20270309T130000
-SUMMARY:Economics of Education (Educa): Dita Eckhardt
-DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
-  Dita Eckhardt (University of Warwick)\nTitle: TBA\nHost: Moritz Mendel\n\
- nEvent page: https://www.helsinkigse.fi/events/dita-eckhardt
+SUMMARY:Educa: Dita Eckhardt
+DESCRIPTION:Series: Economics of Education (Educa)\nSpeaker: Dita Eckhardt 
+ (University of Warwick)\nTitle: TBA\nHost: Moritz Mendel\n\nEvent page: ht
+ tps://www.helsinkigse.fi/events/dita-eckhardt
 LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/dita-eckhardt
@@ -472,15 +465,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20270406-gill-wyness@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:1
-LAST-MODIFIED:20261027T130541Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:2
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20270406T120000
 DTEND;TZID=Europe/Helsinki:20270406T130000
-SUMMARY:Economics of Education (Educa): Gill Wyness
-DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
-  Gill Wyness (University College London)\nTitle: TBA\nHost: Daniel Carvaja
- l\n\nEvent page: https://www.helsinkigse.fi/events/gill-wyness
+SUMMARY:Educa: Gill Wyness
+DESCRIPTION:Series: Economics of Education (Educa)\nSpeaker: Gill Wyness (U
+ niversity College London)\nTitle: TBA\nHost: Daniel Carvajal\n\nEvent page
+ : https://www.helsinkigse.fi/events/gill-wyness
 LOCATION:U006\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/gill-wyness
@@ -489,16 +482,16 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20270420-juan-sebastian-munoz@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:1
-LAST-MODIFIED:20261028T120512Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:2
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20270420T120000
 DTEND;TZID=Europe/Helsinki:20270420T130000
-SUMMARY:Economics of Education (Educa): Juan Sebastián Muñoz
-DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
-  Juan Sebastián Muñoz (IÉSEG School of Management)\nTitle: TBA\nHost: R
- afael Hernandez-Pachon\n\nEvent page: https://www.helsinkigse.fi/events/ju
- an-sebastian-munoz
+SUMMARY:Educa: Juan Sebastián Muñoz
+DESCRIPTION:Series: Economics of Education (Educa)\nSpeaker: Juan Sebastiá
+ n Muñoz (IÉSEG School of Management)\nTitle: TBA\nHost: Rafael Hernandez
+ -Pachon\n\nEvent page: https://www.helsinkigse.fi/events/juan-sebastian-mu
+ noz
 LOCATION:U006\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/juan-sebastian-munoz
@@ -507,16 +500,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20270504-roberto-hsu-rocha@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:1
-LAST-MODIFIED:20261102T140518Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:2
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20270504T120000
 DTEND;TZID=Europe/Helsinki:20270504T130000
-SUMMARY:Economics of Education (Educa): Roberto Hsu Rocha
-DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
-  Roberto Hsu Rocha (NOVA School of Business and Economics)\nTitle: TBA\nHo
- st: Maria Sauval\n\nEvent page: https://www.helsinkigse.fi/events/roberto-
- hsu-rocha
+SUMMARY:Educa: Roberto Hsu Rocha
+DESCRIPTION:Series: Economics of Education (Educa)\nSpeaker: Roberto Hsu Ro
+ cha (NOVA School of Business and Economics)\nTitle: TBA\nHost: Maria Sauva
+ l\n\nEvent page: https://www.helsinkigse.fi/events/roberto-hsu-rocha
 LOCATION:U006\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/roberto-hsu-rocha
@@ -525,9 +517,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20270510-ellen-greaves@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:1
-LAST-MODIFIED:20261102T140518Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:2
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20270510T150000
 DTEND;TZID=Europe/Helsinki:20270510T160000
 SUMMARY:Economics of Education (Educa) & Trade\, Regional and Urban Economi
@@ -543,15 +535,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20270518-matthew-kraft@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:2
-LAST-MODIFIED:20260923T125208Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:3
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20270518T120000
 DTEND;TZID=Europe/Helsinki:20270518T130000
-SUMMARY:Economics of Education (Educa): Matthew Kraft
-DESCRIPTION:Series: Economics of Education (Educa)\nType: Seminar\nSpeaker:
-  Matthew Kraft (Brown University)\nTitle: TBA\nHosts: Mikko Silliman & Mar
- ia Sauval\n\nEvent page: https://www.helsinkigse.fi/events/matthew-kraft
+SUMMARY:Educa: Matthew Kraft
+DESCRIPTION:Series: Economics of Education (Educa)\nSpeaker: Matthew Kraft 
+ (Brown University)\nTitle: TBA\nHosts: Mikko Silliman & Maria Sauval\n\nEv
+ ent page: https://www.helsinkigse.fi/events/matthew-kraft
 URL:https://www.helsinkigse.fi/events/matthew-kraft
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

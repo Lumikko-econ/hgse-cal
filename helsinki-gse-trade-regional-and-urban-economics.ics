@@ -30,17 +30,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250210-andrii-parkhomenko@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20250210T160000
 DTEND;TZID=Europe/Helsinki:20250210T170000
-SUMMARY:Trade\, Regional and Urban Economics: Andrii Parkhomenko — Dynami
- c Urban Economics
-DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
- eaker: Andrii Parkhomenko (University of Southern California\, Marshall Sc
- hool of Business)\nTitle: Dynamic Urban Economics\n\nEvent page: https://w
- ww.helsinkigse.fi/events/andrii-parkhomenko
+SUMMARY:TRUE: Andrii Parkhomenko — Dynamic Urban Economics
+DESCRIPTION:Series: Trade\, Regional and Urban Economics\nSpeaker: Andrii P
+ arkhomenko (University of Southern California\, Marshall School of Busines
+ s)\nTitle: Dynamic Urban Economics\n\nEvent page: https://www.helsinkigse.
+ fi/events/andrii-parkhomenko
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/andrii-parkhomenko
 STATUS:CONFIRMED
@@ -48,18 +47,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250310-ismir-mulalic@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20250310T160000
 DTEND;TZID=Europe/Helsinki:20250310T170000
-SUMMARY:Trade\, Regional and Urban Economics: Ismir Mulalic — The Geograp
- hy of Life: Evidence from Copenhagen (with Gabriel M.…
-DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
- eaker: Ismir Mulalic (Copenhagen Business School)\nTitle: The Geography of
-  Life: Evidence from Copenhagen (with Gabriel M. Ahlfeldt\, Caterina Soto-
- Vieira and Daniel M. Sturm)\n\nEvent page: https://www.helsinkigse.fi/even
- ts/ismir-mulalic
+SUMMARY:TRUE: Ismir Mulalic — The Geography of Life: Evidence from Copenh
+ agen
+DESCRIPTION:Series: Trade\, Regional and Urban Economics\nSpeaker: Ismir Mu
+ lalic (Copenhagen Business School)\nTitle: The Geography of Life: Evidence
+  from Copenhagen (with Gabriel M. Ahlfeldt\, Caterina Soto-Vieira and Dani
+ el M. Sturm)\n\nEvent page: https://www.helsinkigse.fi/events/ismir-mulali
+ c
 LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/ismir-mulalic
 STATUS:CONFIRMED
@@ -67,18 +66,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250407-pierre-magontier@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20250407T160000
 DTEND;TZID=Europe/Helsinki:20250407T170000
-SUMMARY:Trade\, Regional and Urban Economics: Pierre Magontier — Endogeno
- us Government Formation and Spatial Sorting (with Marcel…
-DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
- eaker: Pierre Magontier (University Pompeu Fabra and the Barcelona School 
- of Economics (BSE))\nTitle: Endogenous Government Formation and Spatial So
- rting (with Marcel Henkel)\n\nEvent page: https://www.helsinkigse.fi/event
- s/pierre-magontier
+SUMMARY:TRUE: Pierre Magontier — Endogenous Government Formation and Spat
+ ial Sorting
+DESCRIPTION:Series: Trade\, Regional and Urban Economics\nSpeaker: Pierre M
+ agontier (University Pompeu Fabra and the Barcelona School of Economics (B
+ SE))\nTitle: Endogenous Government Formation and Spatial Sorting (with Mar
+ cel Henkel)\n\nEvent page: https://www.helsinkigse.fi/events/pierre-magont
+ ier
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/pierre-magontier
 STATUS:CONFIRMED
@@ -86,33 +85,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250428-cristina-bratu1@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T044648Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;VALUE=DATE:20250428
 DTEND;VALUE=DATE:20250429
-SUMMARY:Trade\, Regional and Urban Economics: CANCELLED Cristina Bratu
-DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
- eaker: CANCELLED Cristina Bratu (VATT)\nTitle: TBA\n\nTime not recorded.\n
- \nEvent page: https://www.helsinkigse.fi/events/cristina-bratu1
+SUMMARY:CANCELLED — TRUE: Cristina Bratu
+DESCRIPTION:Series: Trade\, Regional and Urban Economics\nSpeaker: CANCELLE
+ D Cristina Bratu (VATT)\nTitle: TBA\n\nTime not recorded.\n\nEvent page: h
+ ttps://www.helsinkigse.fi/events/cristina-bratu1
 URL:https://www.helsinkigse.fi/events/cristina-bratu1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250526-elisabet-viladecans-marsal@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20250526T160000
 DTEND;TZID=Europe/Helsinki:20250526T170000
-SUMMARY:Trade\, Regional and Urban Economics: Elisabet Viladecans-Marsal 
- — When Developers Hold Office: Shaping Housing Supply Through Local…
-DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
- eaker: Elisabet Viladecans-Marsal (University of Barcelona)\nTitle: When D
- evelopers Hold Office: Shaping Housing Supply Through Local Politics (with
-  Ghizlen Ouasbaa & Albert Solé-Ollé)\n\nEvent page: https://www.helsinki
- gse.fi/events/elisabet-viladecans-marsal
+SUMMARY:TRUE: Elisabet Viladecans-Marsal — When Developers Hold Office: S
+ haping Housing Supply Through Local…
+DESCRIPTION:Series: Trade\, Regional and Urban Economics\nSpeaker: Elisabet
+  Viladecans-Marsal (University of Barcelona)\nTitle: When Developers Hold 
+ Office: Shaping Housing Supply Through Local Politics (with Ghizlen Ouasba
+ a & Albert Solé-Ollé)\n\nEvent page: https://www.helsinkigse.fi/events/e
+ lisabet-viladecans-marsal
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/elisabet-viladecans-marsal
 STATUS:CONFIRMED
@@ -120,16 +119,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250602-urban-and-spatial-economics-phd-workshop2@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:16
-LAST-MODIFIED:20261112T150437Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:17
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20250602T093000
 DTEND;TZID=Europe/Helsinki:20250602T153000
-SUMMARY:Trade\, Regional and Urban Economics: Urban and Spatial Economics P
- hD Workshop
+SUMMARY:Urban and Spatial Economics PhD Workshop
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: PhD Worksho
  p\nTitle: Urban and Spatial Economics PhD Workshop\nAbout: Workshop for He
- lsinki GSE and FDPE PhD students\nHosts: Prottoy Akbar & Pablo Warnes & Tu
+ lsinki GSE and FDPE PhD students\nHosts: Prottoy Akbar\, Pablo Warnes & Tu
  ukka Saarimaa\n\nProgramme:\n\n9:30\nErkka Silvennoinen: “Effectiveness 
  of First-Time Homebuyer Subsidies: Evidence from Finland”\n\n10:15\nMax 
  Toikka: “Residential Choices in Response to Housing Benefits: Evidence f
@@ -152,16 +150,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250908-second-nordic-meeting-in-urban-economics@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:16
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:17
+LAST-MODIFIED:20261112T191828Z
 DTSTART;VALUE=DATE:20250908
 DTEND;VALUE=DATE:20250909
-SUMMARY:Trade\, Regional and Urban Economics: Second Nordic Meeting in Urba
- n Economics
+SUMMARY:Second Nordic Meeting in Urban Economics
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Conference\
- nTitle: Second Nordic Meeting in Urban Economics\nHosts: Prottoy Akbar & A
- manda Ang & Tuukka Saarimaa & Pablo Warnes\n\nTime not recorded.\n\nEvent 
+ nTitle: Second Nordic Meeting in Urban Economics\nHosts: Prottoy Akbar\, A
+ manda Ang\, Tuukka Saarimaa & Pablo Warnes\n\nTime not recorded.\n\nEvent 
  page: https://www.helsinkigse.fi/events/second-nordic-meeting-in-urban-eco
  nomics
 LOCATION:Hotel Katajanokka\, Helsinki\, Finland
@@ -172,17 +169,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250922-kwok-hao-lee@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20250922T160000
 DTEND;TZID=Europe/Helsinki:20250922T170000
-SUMMARY:Trade\, Regional and Urban Economics: Kwok Hao Lee — Distribution
- al effects of vehicle ownership restrictions
-DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
- eaker: Kwok Hao Lee (National University of Singapore Business School)\nTi
- tle: Distributional effects of vehicle ownership restrictions\n\nEvent pag
- e: https://www.helsinkigse.fi/events/kwok-hao-lee
+SUMMARY:TRUE: Kwok Hao Lee — Distributional effects of vehicle ownership 
+ restrictions
+DESCRIPTION:Series: Trade\, Regional and Urban Economics\nSpeaker: Kwok Hao
+  Lee (National University of Singapore Business School)\nTitle: Distributi
+ onal effects of vehicle ownership restrictions\n\nEvent page: https://www.
+ helsinkigse.fi/events/kwok-hao-lee
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/kwok-hao-lee
 STATUS:CONFIRMED
@@ -190,35 +187,34 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251020-florian-oswald1@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T044648Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;VALUE=DATE:20251020
 DTEND;VALUE=DATE:20251021
-SUMMARY:Trade\, Regional and Urban Economics: CANCELLED Florian Oswald — 
- Fertility\, Housing Costs and City Growth
-DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
- eaker: CANCELLED Florian Oswald (University of Turin)\nTitle: Fertility\, 
- Housing Costs and City Growth\n\nTime not recorded.\n\nEvent page: https:/
- /www.helsinkigse.fi/events/florian-oswald1
+SUMMARY:CANCELLED — TRUE: Florian Oswald — Fertility\, Housing Costs an
+ d City Growth
+DESCRIPTION:Series: Trade\, Regional and Urban Economics\nSpeaker: CANCELLE
+ D Florian Oswald (University of Turin)\nTitle: Fertility\, Housing Costs a
+ nd City Growth\n\nTime not recorded.\n\nEvent page: https://www.helsinkigs
+ e.fi/events/florian-oswald1
 URL:https://www.helsinkigse.fi/events/florian-oswald1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251103-nicolas-gendron-carrier@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20251103T160000
 DTEND;TZID=Europe/Helsinki:20251103T170000
-SUMMARY:Trade\, Regional and Urban Economics: Nicolas Gendron-Carrier — R
- esidential Human Capital and Economic Spillovers (with Nathaniel…
-DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
- eaker: Nicolas Gendron-Carrier (McGill University)\nTitle: Residential Hum
- an Capital and Economic Spillovers (with Nathaniel Baum-Snow and Ronni Pav
- an)\n\nEvent page: https://www.helsinkigse.fi/events/nicolas-gendron-carri
- er
+SUMMARY:TRUE: Nicolas Gendron-Carrier — Residential Human Capital and Eco
+ nomic Spillovers
+DESCRIPTION:Series: Trade\, Regional and Urban Economics\nSpeaker: Nicolas 
+ Gendron-Carrier (McGill University)\nTitle: Residential Human Capital and 
+ Economic Spillovers (with Nathaniel Baum-Snow and Ronni Pavan)\n\nEvent pa
+ ge: https://www.helsinkigse.fi/events/nicolas-gendron-carrier
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/nicolas-gendron-carrier
 STATUS:CONFIRMED
@@ -226,17 +222,16 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251117-jakob-vanschoonbeek@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20251117T160000
 DTEND;TZID=Europe/Helsinki:20251117T170000
-SUMMARY:Trade\, Regional and Urban Economics: Jakob Vanschoonbeek — The s
- patial political economy of discontent
-DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
- eaker: Jakob Vanschoonbeek (KU Leuven)\nTitle: The spatial political econo
- my of discontent\n\nEvent page: https://www.helsinkigse.fi/events/jakob-va
- nschoonbeek
+SUMMARY:TRUE: Jakob Vanschoonbeek — The spatial political economy of disc
+ ontent
+DESCRIPTION:Series: Trade\, Regional and Urban Economics\nSpeaker: Jakob Va
+ nschoonbeek (KU Leuven)\nTitle: The spatial political economy of disconten
+ t\n\nEvent page: https://www.helsinkigse.fi/events/jakob-vanschoonbeek
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/jakob-vanschoonbeek
 STATUS:CONFIRMED
@@ -244,18 +239,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260302-dionissi-aliprantis@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260302T160000
 DTEND;TZID=Europe/Helsinki:20260302T170000
-SUMMARY:Trade\, Regional and Urban Economics: Dionissi Aliprantis — Ident
- ifying Long-Run Neighborhood Effects via Race-Based Neighborhood…
-DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
- eaker: Dionissi Aliprantis (École Normale Supérieure (ENS) de Lyon)\nTit
- le: Identifying Long-Run Neighborhood Effects via Race-Based Neighborhood 
- Sorting (with Dan Hartley and Chris Muris)\n\nEvent page: https://www.hels
- inkigse.fi/events/dionissi-aliprantis
+SUMMARY:TRUE: Dionissi Aliprantis — Identifying Long-Run Neighborhood Eff
+ ects via Race-Based Neighborhood…
+DESCRIPTION:Series: Trade\, Regional and Urban Economics\nSpeaker: Dionissi
+  Aliprantis (École Normale Supérieure (ENS) de Lyon)\nTitle: Identifying
+  Long-Run Neighborhood Effects via Race-Based Neighborhood Sorting (with D
+ an Hartley and Chris Muris)\n\nEvent page: https://www.helsinkigse.fi/even
+ ts/dionissi-aliprantis
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/dionissi-aliprantis
 STATUS:CONFIRMED
@@ -263,17 +258,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260420-mikko-silliman1@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T130455Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260420T160000
 DTEND;TZID=Europe/Helsinki:20260420T170000
-SUMMARY:Trade\, Regional and Urban Economics: Mikko Silliman — Multidimen
- sional skills and spatial sorting (with Pablo E. Warnes and…
-DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
- eaker: Mikko Silliman (Aalto University)\nTitle: Multidimensional skills a
- nd spatial sorting (with Pablo E. Warnes and Miika Päällysaho)\n\nEvent 
- page: https://www.helsinkigse.fi/events/mikko-silliman1
+SUMMARY:TRUE: Mikko Silliman — Multidimensional skills and spatial sortin
+ g
+DESCRIPTION:Series: Trade\, Regional and Urban Economics\nSpeaker: Mikko Si
+ lliman (Aalto University)\nTitle: Multidimensional skills and spatial sort
+ ing (with Pablo E. Warnes and Miika Päällysaho)\n\nEvent page: https://w
+ ww.helsinkigse.fi/events/mikko-silliman1
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/mikko-silliman1
 STATUS:CONFIRMED
@@ -281,17 +276,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260504-sara-bagagli@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T130455Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260504T160000
 DTEND;TZID=Europe/Helsinki:20260504T170000
-SUMMARY:Trade\, Regional and Urban Economics: Sara Bagagli — Paving the W
- ay: Highway Access and the Reconfiguration of Local…
-DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
- eaker: Sara Bagagli (LSE)\nTitle: Paving the Way: Highway Access and the R
- econfiguration of Local Markets in Italy (with Michele Zampa)\n\nEvent pag
- e: https://www.helsinkigse.fi/events/sara-bagagli
+SUMMARY:TRUE: Sara Bagagli — Paving the Way: Highway Access and the Recon
+ figuration of Local…
+DESCRIPTION:Series: Trade\, Regional and Urban Economics\nSpeaker: Sara Bag
+ agli (LSE)\nTitle: Paving the Way: Highway Access and the Reconfiguration 
+ of Local Markets in Italy (with Michele Zampa)\n\nEvent page: https://www.
+ helsinkigse.fi/events/sara-bagagli
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/sara-bagagli
 STATUS:CONFIRMED
@@ -299,17 +294,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260518-giorgio-pietrobissa@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T130455Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260518T160000
 DTEND;TZID=Europe/Helsinki:20260518T170000
-SUMMARY:Trade\, Regional and Urban Economics: Giorgio Pietrobissa — Waiti
- ng lists and Prices: Public Housing Allocation and Private…
-DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
- eaker: Giorgio Pietrobissa (LSE)\nTitle: Waiting lists and Prices: Public 
- Housing Allocation and Private Market Spillovers\n\nEvent page: https://ww
- w.helsinkigse.fi/events/giorgio-pietrobissa
+SUMMARY:TRUE: Giorgio Pietrobissa — Waiting lists and Prices: Public Hous
+ ing Allocation and Private…
+DESCRIPTION:Series: Trade\, Regional and Urban Economics\nSpeaker: Giorgio 
+ Pietrobissa (LSE)\nTitle: Waiting lists and Prices: Public Housing Allocat
+ ion and Private Market Spillovers\n\nEvent page: https://www.helsinkigse.f
+ i/events/giorgio-pietrobissa
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/giorgio-pietrobissa
 STATUS:CONFIRMED
@@ -318,13 +313,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260528-joint-urban-and-spatial-economics-phd-workshop@helsinkigs
  e.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:16
-LAST-MODIFIED:20260929T100710Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:17
+LAST-MODIFIED:20261112T191828Z
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260529
-SUMMARY:Trade\, Regional and Urban Economics: Joint Urban and Spatial Econo
- mics PhD Workshop
+SUMMARY:Joint Urban and Spatial Economics PhD Workshop
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: PhD Worksho
  p\nTitle: Joint Urban and Spatial Economics PhD Workshop\nHost: Pablo Warn
  es\n\nTime not recorded.\n\nEvent page: https://www.helsinkigse.fi/events/
@@ -337,17 +331,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260601-florian-oswald3@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T100710Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260601T160000
 DTEND;TZID=Europe/Helsinki:20260601T170000
-SUMMARY:Trade\, Regional and Urban Economics: Florian Oswald — The Geogra
- phy of Market Power: Firm Location\, Spatial Rents\, and…
-DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
- eaker: Florian Oswald (University of Turin)\nTitle: The Geography of Marke
- t Power: Firm Location\, Spatial Rents\, and Their Social Costs\n\nEvent p
- age: https://www.helsinkigse.fi/events/florian-oswald3
+SUMMARY:TRUE: Florian Oswald — The Geography of Market Power: Firm Locati
+ on\, Spatial Rents\, and…
+DESCRIPTION:Series: Trade\, Regional and Urban Economics\nSpeaker: Florian 
+ Oswald (University of Turin)\nTitle: The Geography of Market Power: Firm L
+ ocation\, Spatial Rents\, and Their Social Costs\n\nEvent page: https://ww
+ w.helsinkigse.fi/events/florian-oswald3
 LOCATION:T003\, Aalto University Schooil of Business\, Ekonominaukio 1\, Es
  poo
 URL:https://www.helsinkigse.fi/events/florian-oswald3
@@ -356,17 +350,16 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260907-jos-van-ommeren@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:15
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260907T150000
 DTEND;TZID=Europe/Helsinki:20260907T160000
-SUMMARY:Trade\, Regional and Urban Economics: Jos van Ommeren — Homelessn
- ess and urban density
-DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
- eaker: Jos van Ommeren (VU Amsterdam)\nTitle: Homelessness and urban densi
- ty\nHost: Tuukka Saarimaa\n\nEvent page: https://www.helsinkigse.fi/events
- /jos-van-ommeren
+SUMMARY:TRUE: Jos van Ommeren — Homelessness and urban density
+DESCRIPTION:Series: Trade\, Regional and Urban Economics\nSpeaker: Jos van 
+ Ommeren (VU Amsterdam)\nTitle: Homelessness and urban density\nHost: Tuukk
+ a Saarimaa\n\nEvent page: https://www.helsinkigse.fi/events/jos-van-ommere
+ n
 LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/jos-van-ommeren
@@ -375,17 +368,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260921-andrea-herrera@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:15
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260921T150000
 DTEND;TZID=Europe/Helsinki:20260921T160000
-SUMMARY:Trade\, Regional and Urban Economics: Andrea Herrera — Regulating
-  the Skyline: Evidence from London’s Protected Vistas
-DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
- eaker: Andrea Herrera (Aalto University)\nTitle: Regulating the Skyline: E
- vidence from London’s Protected Vistas\nHost: Prottoy Akbar\n\nEvent pag
- e: https://www.helsinkigse.fi/events/andrea-herrera
+SUMMARY:TRUE: Andrea Herrera — Regulating the Skyline: Evidence from Lond
+ on’s Protected Vistas
+DESCRIPTION:Series: Trade\, Regional and Urban Economics\nSpeaker: Andrea H
+ errera (Aalto University)\nTitle: Regulating the Skyline: Evidence from Lo
+ ndon’s Protected Vistas\nHost: Prottoy Akbar\n\nEvent page: https://www.
+ helsinkigse.fi/events/andrea-herrera
 LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/andrea-herrera
@@ -394,17 +387,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261005-caterina-soto-vieira@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20261001T130514Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20261005T150000
 DTEND;TZID=Europe/Helsinki:20261005T160000
-SUMMARY:Trade\, Regional and Urban Economics: Caterina Soto-Vieira — Home
-  Production in the City
-DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
- eaker: Caterina Soto-Vieira (IIES)\nTitle: Home Production in the City\nHo
- st: Pablo Warnes\n\nEvent page: https://www.helsinkigse.fi/events/caterina
- -soto-vieira
+SUMMARY:TRUE: Caterina Soto-Vieira — Home Production in the City
+DESCRIPTION:Series: Trade\, Regional and Urban Economics\nSpeaker: Caterina
+  Soto-Vieira (IIES)\nTitle: Home Production in the City\nHost: Pablo Warne
+ s\n\nEvent page: https://www.helsinkigse.fi/events/caterina-soto-vieira
 LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/caterina-soto-vieira
@@ -413,9 +404,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261026-veronica-salazar-restrepo@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:16
-LAST-MODIFIED:20261021T100458Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:17
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20261026T150000
 DTEND;TZID=Europe/Helsinki:20261026T160000
 SUMMARY:Development Economics & Trade\, Regional and Urban Economics: Veron
@@ -433,18 +424,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261109-albert-sole-olle@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:16
-LAST-MODIFIED:20261028T100508Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:17
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20261109T150000
 DTEND;TZID=Europe/Helsinki:20261109T160000
-SUMMARY:Trade\, Regional and Urban Economics: Albert Solé Ollé — Local 
- Housing Supply Spillovers: Evidence from California (with A.…
-DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
- eaker: Albert Solé Ollé (University of Barcelona)\nTitle: Local Housing 
- Supply Spillovers: Evidence from California (with A. Grimaud\, G. Ouasbaa\
- , and E. Viladecans)\nHosts: Tuukka Saarimaa & Prottoy Akbar\n\nEvent page
- : https://www.helsinkigse.fi/events/albert-sole-olle
+SUMMARY:TRUE: Albert Solé Ollé — Local Housing Supply Spillovers: Evide
+ nce from California
+DESCRIPTION:Series: Trade\, Regional and Urban Economics\nSpeaker: Albert S
+ olé Ollé (University of Barcelona)\nTitle: Local Housing Supply Spillove
+ rs: Evidence from California (with A. Grimaud\, G. Ouasbaa\, and E. Vilade
+ cans)\nHosts: Tuukka Saarimaa & Prottoy Akbar\n\nEvent page: https://www.h
+ elsinkigse.fi/events/albert-sole-olle
 LOCATION:M202\, Aalto University Väre Building\, Otaniementie 14\, Espoo
 URL:https://www.helsinkigse.fi/events/albert-sole-olle
 STATUS:CONFIRMED
@@ -452,13 +443,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261112-urban-and-spatial-economics-phd-workshop3@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:7
-LAST-MODIFIED:20261112T150437Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:8
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20261112T090000
 DTEND;TZID=Europe/Helsinki:20261112T122000
-SUMMARY:Trade\, Regional and Urban Economics: Urban and Spatial Economics P
- hD Workshop
+SUMMARY:Urban and Spatial Economics PhD Workshop
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: PhD Worksho
  p\nTitle: Urban and Spatial Economics PhD Workshop\nAbout: We would like t
  o encourage all PhD students that are working on topics related to urban e
@@ -489,16 +479,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261123-ignacio-aravena-gonzalez@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260923T125208Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20261123T150000
 DTEND;TZID=Europe/Helsinki:20261123T160000
-SUMMARY:Trade\, Regional and Urban Economics: Ignacio Aravena-Gonzalez
-DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
- eaker: Ignacio Aravena-Gonzalez (LSE)\nTitle: TBA\nHosts: Pablo Warnes & P
- rottoy Akbar\n\nEvent page: https://www.helsinkigse.fi/events/ignacio-arav
- ena-gonzalez
+SUMMARY:TRUE: Ignacio Aravena-Gonzalez
+DESCRIPTION:Series: Trade\, Regional and Urban Economics\nSpeaker: Ignacio 
+ Aravena-Gonzalez (LSE)\nTitle: TBA\nHosts: Pablo Warnes & Prottoy Akbar\n\
+ nEvent page: https://www.helsinkigse.fi/events/ignacio-aravena-gonzalez
 LOCATION:1571 Meitner\, Aalto University Kide building\, Konemiehentie 1\, 
  Espoo
 URL:https://www.helsinkigse.fi/events/ignacio-aravena-gonzalez
@@ -507,9 +496,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261130-lucas-conwell@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:15
-LAST-MODIFIED:20260923T125208Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20261130T150000
 DTEND;TZID=Europe/Helsinki:20261130T160000
 SUMMARY:Development Economics & Trade\, Regional and Urban Economics: Lucas
@@ -524,15 +513,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20270315-hugo-silva@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:1
-LAST-MODIFIED:20261027T130541Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:2
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20270315T150000
 DTEND;TZID=Europe/Helsinki:20270315T160000
-SUMMARY:Trade\, Regional and Urban Economics: Hugo Silva
-DESCRIPTION:Series: Trade\, Regional and Urban Economics\nType: Seminar\nSp
- eaker: Hugo Silva (PUC-Chile)\nTitle: TBA\nHosts: Andrea Herrera & Prottoy
-  Akbar\n\nEvent page: https://www.helsinkigse.fi/events/hugo-silva
+SUMMARY:TRUE: Hugo Silva
+DESCRIPTION:Series: Trade\, Regional and Urban Economics\nSpeaker: Hugo Sil
+ va (PUC-Chile)\nTitle: TBA\nHosts: Andrea Herrera & Prottoy Akbar\n\nEvent
+  page: https://www.helsinkigse.fi/events/hugo-silva
 LOCATION:F101\, Aalto University Väre\, Otaniementie 14\, Espoo
 URL:https://www.helsinkigse.fi/events/hugo-silva
 STATUS:CONFIRMED
@@ -540,12 +529,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20270322-olivia-bordeu@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:1
-LAST-MODIFIED:20261027T130541Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:2
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20270322T150000
 DTEND;TZID=Europe/Helsinki:20270322T160000
-SUMMARY:Trade\, Regional and Urban Economics: Olivia Bordeu
+SUMMARY:TRUE: Olivia Bordeu
 DESCRIPTION:Series: Trade\, Regional and Urban Economics\nSpeaker: Olivia B
  ordeu (Berkeley Haas)\nTitle: TBA\nHosts: Andrea Herrera & Prottoy Akbar\n
  \nEvent page: https://www.helsinkigse.fi/events/olivia-bordeu
@@ -556,9 +545,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20270510-ellen-greaves@helsinkigse.fi
-DTSTAMP:20261112T150437Z
-SEQUENCE:1
-LAST-MODIFIED:20261102T140518Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:2
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20270510T150000
 DTEND;TZID=Europe/Helsinki:20270510T160000
 SUMMARY:Economics of Education (Educa) & Trade\, Regional and Urban Economi

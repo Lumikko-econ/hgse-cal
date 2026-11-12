@@ -31,12 +31,12 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250506-competition-and-efficiency-in-public-procurement-workshop
  @helsinkigse.fi
-DTSTAMP:20261112T160500Z
-SEQUENCE:16
-LAST-MODIFIED:20261112T150437Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:17
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20250506T083000
 DTEND;TZID=Europe/Helsinki:20250506T171000
-SUMMARY:Workshop: COMPETITION AND EFFICIENCY IN PUBLIC PROCUREMENT WORKSHOP
+SUMMARY:COMPETITION AND EFFICIENCY IN PUBLIC PROCUREMENT WORKSHOP
 DESCRIPTION:Series: Workshop\nTitle: COMPETITION AND EFFICIENCY IN PUBLIC P
  ROCUREMENT WORKSHOP (Organizers: Hanken\, Aalto University\, University of
   Turku and University of Lapland)\n\nProgramme:\n\n08:30–09:00\nMorning 
@@ -80,12 +80,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260828-tuomas-pekkarinen-memorial-workshop@helsinkigse.fi
-DTSTAMP:20261112T160500Z
-SEQUENCE:18
-LAST-MODIFIED:20261112T160500Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:19
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260828T093000
 DTEND;TZID=Europe/Helsinki:20260828T173000
-SUMMARY:Workshop: Tuomas Pekkarinen Memorial Workshop
+SUMMARY:Tuomas Pekkarinen Memorial Workshop
 DESCRIPTION:Series: Workshop\nTitle: Tuomas Pekkarinen Memorial Workshop\nA
  bout: The workshop program and other information can be found by following
   the link on this page.\nHost: Marko Terviö\n\nProgramme:\n\n9:30–10:30

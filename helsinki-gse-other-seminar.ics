@@ -31,13 +31,12 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20260306-elamaa-elakkeiden-jalkeen-paneelikeskustelu@helsinkigse.f
  i
-DTSTAMP:20261028T174455Z
-SEQUENCE:16
-LAST-MODIFIED:20261028T174455Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:17
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260306T143000
 DTEND;TZID=Europe/Helsinki:20260306T160000
-SUMMARY:Other Seminar: Elämää eläkkeiden jälkeen? – paneelikeskustel
- u
+SUMMARY:Elämää eläkkeiden jälkeen? – paneelikeskustelu
 DESCRIPTION:Series: Other Seminar\nTitle: Elämää eläkkeiden jälkeen? 
  – paneelikeskustelu\nAbout: Panelisteina Niku Määttänen Helsingin yli
  opistosta\, Ismo Risku Eläketurvakeskuksesta ja Antti Tanskanen Telasta\n
@@ -52,12 +51,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260520-seminar-by-aalto-honorary-doctor-george-mailath@helsinkig
  se.fi
-DTSTAMP:20261028T174455Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T130455Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260520T163000
 DTEND;TZID=Europe/Helsinki:20260520T173000
-SUMMARY:Aalto University: Seminar by Aalto Honorary Doctor George Mailath
+SUMMARY:Seminar by Aalto Honorary Doctor George Mailath
 DESCRIPTION:Series: Aalto University\nType: Other Seminar\nTitle: Seminar b
  y Aalto Honorary Doctor George Mailath\n\nEvent page: https://www.helsinki
  gse.fi/events/seminar-by-aalto-honorary-doctor-george-mailath
@@ -70,13 +69,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260918-helsinki-graduate-school-of-economics-academic-year-kick-
  off-on-september-18-2026@helsinkigse.fi
-DTSTAMP:20261028T174455Z
-SEQUENCE:2
-LAST-MODIFIED:20260923T125208Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:3
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260918T143000
 DTEND;TZID=Europe/Helsinki:20260918T170000
-SUMMARY:Other Seminar: Helsinki Graduate School of Economics Academic Year 
- Kick-off
+SUMMARY:Helsinki Graduate School of Economics Academic Year Kick-off
 DESCRIPTION:Series: Other Seminar\nTitle: Helsinki Graduate School of Econo
  mics Academic Year Kick-off\nAbout: Come as you are and stay for as long a
  s you like. We hope to see you there!\n\nEvent page: https://www.helsinkig
@@ -91,12 +89,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261110-careers-in-economics@helsinkigse.fi
-DTSTAMP:20261028T174455Z
-SEQUENCE:2
-LAST-MODIFIED:20261028T174455Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:3
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20261110T160000
 DTEND;TZID=Europe/Helsinki:20261110T181500
-SUMMARY:Other Seminar: Careers in Economics
+SUMMARY:Careers in Economics
 DESCRIPTION:Series: Other Seminar\nTitle: Careers in Economics\nAbout: What
   do economists’ career paths look like? What kinds of roles do master’
  s and PhD graduates end up in? What kinds of skills have turned out to be 

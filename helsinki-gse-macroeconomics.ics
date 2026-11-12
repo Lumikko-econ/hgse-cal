@@ -30,16 +30,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250319-federico-kochen@helsinkigse.fi
-DTSTAMP:20261028T110454Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20250319T150000
 DTEND;TZID=Europe/Helsinki:20250319T160000
 SUMMARY:Macroeconomics: Federico Kochen — The Origins of Top Firms (with 
  Rafael Guntin)
-DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Federico Kochen
-  (CEMFI)\nTitle: The Origins of Top Firms (with Rafael Guntin)\n\nEvent pa
- ge: https://www.helsinkigse.fi/events/federico-kochen
+DESCRIPTION:Series: Macroeconomics\nSpeaker: Federico Kochen (CEMFI)\nTitle
+ : The Origins of Top Firms (with Rafael Guntin)\n\nEvent page: https://www
+ .helsinkigse.fi/events/federico-kochen
 LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/federico-kochen
 STATUS:CONFIRMED
@@ -47,17 +47,16 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250402-nicholas-kozeniauskas@helsinkigse.fi
-DTSTAMP:20261028T110454Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20250402T150000
 DTEND;TZID=Europe/Helsinki:20250402T160000
 SUMMARY:Macroeconomics: Nicholas Kozeniauskas — Beyond Risk: Firm Financi
  ng & Interest Rates
-DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Nicholas Kozeni
- auskas (Bank of Portugal)\nTitle: Beyond Risk: Firm Financing & Interest R
- ates\n\nEvent page: https://www.helsinkigse.fi/events/nicholas-kozeniauska
- s
+DESCRIPTION:Series: Macroeconomics\nSpeaker: Nicholas Kozeniauskas (Bank of
+  Portugal)\nTitle: Beyond Risk: Firm Financing & Interest Rates\n\nEvent p
+ age: https://www.helsinkigse.fi/events/nicholas-kozeniauskas
 LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/nicholas-kozeniauskas
 STATUS:CONFIRMED
@@ -65,17 +64,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251001-hernan-seoane-bernadaz@helsinkigse.fi
-DTSTAMP:20261028T110454Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20251001T150000
 DTEND;TZID=Europe/Helsinki:20251001T160000
 SUMMARY:Macroeconomics: Hernán Seoane Bernadaz — Expropriation risk over
   the business cycle
-DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Hernán Seoane 
- Bernadaz (Universidad Carlos III de Madrid)\nTitle: Expropriation risk ove
- r the business cycle\n\nEvent page: https://www.helsinkigse.fi/events/hern
- an-seoane-bernadaz
+DESCRIPTION:Series: Macroeconomics\nSpeaker: Hernán Seoane Bernadaz (Unive
+ rsidad Carlos III de Madrid)\nTitle: Expropriation risk over the business 
+ cycle\n\nEvent page: https://www.helsinkigse.fi/events/hernan-seoane-berna
+ daz
 LOCATION:Seminar room 1\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/hernan-seoane-bernadaz
 STATUS:CONFIRMED
@@ -83,16 +82,16 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251029-adrien-wicht@helsinkigse.fi
-DTSTAMP:20261028T110454Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20251029T150000
 DTEND;TZID=Europe/Helsinki:20251029T160000
 SUMMARY:Macroeconomics: Adrien Wicht — Sovereign debt risk and the politi
  cal process
-DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Adrien Wicht (U
- niversity of Basel)\nTitle: Sovereign debt risk and the political process\
- n\nEvent page: https://www.helsinkigse.fi/events/adrien-wicht
+DESCRIPTION:Series: Macroeconomics\nSpeaker: Adrien Wicht (University of Ba
+ sel)\nTitle: Sovereign debt risk and the political process\n\nEvent page: 
+ https://www.helsinkigse.fi/events/adrien-wicht
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/adrien-wicht
 STATUS:CONFIRMED
@@ -100,17 +99,16 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251112-joshua-weiss@helsinkigse.fi
-DTSTAMP:20261028T110454Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20251112T150000
 DTEND;TZID=Europe/Helsinki:20251112T160000
 SUMMARY:Macroeconomics: Joshua Weiss — More Than the Sum of Its Parts? Ma
  rkups and the Role of Establishments
-DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Joshua Weiss (U
- niversity of Bristol)\nTitle: More Than the Sum of Its Parts? Markups and 
- the Role of Establishments\n\nEvent page: https://www.helsinkigse.fi/event
- s/joshua-weiss
+DESCRIPTION:Series: Macroeconomics\nSpeaker: Joshua Weiss (University of Br
+ istol)\nTitle: More Than the Sum of Its Parts? Markups and the Role of Est
+ ablishments\n\nEvent page: https://www.helsinkigse.fi/events/joshua-weiss
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/joshua-weiss
 STATUS:CONFIRMED
@@ -118,17 +116,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251119-maija-kaartinen@helsinkigse.fi
-DTSTAMP:20261028T110454Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20251119T150000
 DTEND;TZID=Europe/Helsinki:20251119T160000
 SUMMARY:Macroeconomics: Maija Kaartinen — Carbon Pricing and Fuel Switchi
- ng by Firms: Theory and Evidence (with…
-DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Maija Kaartinen
-  (IIES)\nTitle: Carbon Pricing and Fuel Switching by Firms: Theory and Evi
- dence (with Ossian Prane)\n\nEvent page: https://www.helsinkigse.fi/events
- /maija-kaartinen
+ ng by Firms: Theory and Evidence
+DESCRIPTION:Series: Macroeconomics\nSpeaker: Maija Kaartinen (IIES)\nTitle:
+  Carbon Pricing and Fuel Switching by Firms: Theory and Evidence (with Oss
+ ian Prane)\n\nEvent page: https://www.helsinkigse.fi/events/maija-kaartine
+ n
 LOCATION:Seminar room 2\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/maija-kaartinen
 STATUS:CONFIRMED
@@ -136,16 +134,16 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251126-marta-morazzoni@helsinkigse.fi
-DTSTAMP:20261028T110454Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20251126T150000
 DTEND;TZID=Europe/Helsinki:20251126T160000
 SUMMARY:Macroeconomics: Marta Morazzoni — Sorting into Entrepreneurial Te
  ams
-DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Marta Morazzoni
-  (UCL)\nTitle: Sorting into Entrepreneurial Teams\n\nEvent page: https://w
- ww.helsinkigse.fi/events/marta-morazzoni
+DESCRIPTION:Series: Macroeconomics\nSpeaker: Marta Morazzoni (UCL)\nTitle: 
+ Sorting into Entrepreneurial Teams\n\nEvent page: https://www.helsinkigse.
+ fi/events/marta-morazzoni
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/marta-morazzoni
 STATUS:CONFIRMED
@@ -153,16 +151,16 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251217-lauri-esala@helsinkigse.fi
-DTSTAMP:20261028T110454Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20251217T150000
 DTEND;TZID=Europe/Helsinki:20251217T160000
 SUMMARY:Macroeconomics: Lauri Esala — Supply Chain Dynamics with Search F
  rictions
-DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Lauri Esala (Un
- iversity of Edinburgh)\nTitle: Supply Chain Dynamics with Search Frictions
- \n\nEvent page: https://www.helsinkigse.fi/events/lauri-esala
+DESCRIPTION:Series: Macroeconomics\nSpeaker: Lauri Esala (University of Edi
+ nburgh)\nTitle: Supply Chain Dynamics with Search Frictions\n\nEvent page:
+  https://www.helsinkigse.fi/events/lauri-esala
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/lauri-esala
 STATUS:CONFIRMED
@@ -170,17 +168,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260527-pau-roldan-blanco@helsinkigse.fi
-DTSTAMP:20261028T110454Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T100710Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260527T150000
 DTEND;TZID=Europe/Helsinki:20260527T160000
 SUMMARY:Macroeconomics: Pau Roldan-Blanco — Economic Growth when Knowledg
  e is Concentrated (with Andrea Guccione)
-DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Pau Roldan-Blan
- co (Universitat Autonoma de Barcelona)\nTitle: Economic Growth when Knowle
- dge is Concentrated (with Andrea Guccione)\n\nEvent page: https://www.hels
- inkigse.fi/events/pau-roldan-blanco
+DESCRIPTION:Series: Macroeconomics\nSpeaker: Pau Roldan-Blanco (Universitat
+  Autonoma de Barcelona)\nTitle: Economic Growth when Knowledge is Concentr
+ ated (with Andrea Guccione)\n\nEvent page: https://www.helsinkigse.fi/even
+ ts/pau-roldan-blanco
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/pau-roldan-blanco
 STATUS:CONFIRMED
@@ -188,9 +186,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260615-karl-walentin@helsinkigse.fi
-DTSTAMP:20261028T110454Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T044648Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260615T150000
 DTEND;TZID=Europe/Helsinki:20260615T160000
 SUMMARY:Job Talk (Macroeconomics): Karl Walentin — The Housing Channels o
@@ -205,9 +203,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260907-hedda-thorell@helsinkigse.fi
-DTSTAMP:20261028T110454Z
-SEQUENCE:15
-LAST-MODIFIED:20260923T125208Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260907T140000
 DTEND;TZID=Europe/Helsinki:20260907T151500
 SUMMARY:Macroeconomics: Hedda Thorell — Quantitative Easing and Portfolio
@@ -224,17 +222,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260916-philip-jung@helsinkigse.fi
-DTSTAMP:20261028T110454Z
-SEQUENCE:15
-LAST-MODIFIED:20260923T125208Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260916T150000
 DTEND;TZID=Europe/Helsinki:20260916T160000
 SUMMARY:Macroeconomics: Philip Jung — The Ländle Shock: Optimal Policy i
  n a Dynamic Multi-Region…
-DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Philip Jung (TU
-  Dortmund)\nTitle: The Ländle Shock: Optimal Policy in a Dynamic Multi-Re
- gion Multi-Sector Model with Labor Market Frictions\nHost: Timm Prein\n\nE
- vent page: https://www.helsinkigse.fi/events/philip-jung
+DESCRIPTION:Series: Macroeconomics\nSpeaker: Philip Jung (TU Dortmund)\nTit
+ le: The Ländle Shock: Optimal Policy in a Dynamic Multi-Region Multi-Sect
+ or Model with Labor Market Frictions\nHost: Timm Prein\n\nEvent page: http
+ s://www.helsinkigse.fi/events/philip-jung
 LOCATION:Seminar room 2\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/philip-jung
 STATUS:CONFIRMED
@@ -242,17 +240,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261007-adam-spencer@helsinkigse.fi
-DTSTAMP:20261028T110454Z
-SEQUENCE:1
-LAST-MODIFIED:20261001T130514Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:2
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20261007T160000
 DTEND;TZID=Europe/Helsinki:20261007T170000
 SUMMARY:Macroeconomics: Adam Spencer — Heterogeneous firms\, growth and t
  he long shadows of business cycles
-DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Adam Spencer (U
- niversity of Bonn)\nTitle: Heterogeneous firms\, growth and the long shado
- ws of business cycles\nHost: Oskari Vähämaa\n\nEvent page: https://www.h
- elsinkigse.fi/events/adam-spencer
+DESCRIPTION:Series: Macroeconomics\nSpeaker: Adam Spencer (University of Bo
+ nn)\nTitle: Heterogeneous firms\, growth and the long shadows of business 
+ cycles\nHost: Oskari Vähämaa\n\nEvent page: https://www.helsinkigse.fi/e
+ vents/adam-spencer
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/adam-spencer
 STATUS:CONFIRMED
@@ -260,12 +258,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261021-helsinki-macroeconomics-research-away-day1@helsinkigse.fi
-DTSTAMP:20261028T110454Z
-SEQUENCE:3
-LAST-MODIFIED:20260929T044648Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:4
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20261021T090000
 DTEND;TZID=Europe/Helsinki:20261021T160000
-SUMMARY:Macroeconomics: Helsinki Macroeconomics Research Away Day
+SUMMARY:Helsinki Macroeconomics Research Away Day
 DESCRIPTION:Series: Macroeconomics\nType: Workshop\nTitle: Helsinki Macroec
  onomics Research Away Day\nAbout: The Helsinki Macroeconomics Research Awa
  y Day (HMRAD) is a joint workshop organized by the Research Unit of the Ba
@@ -280,17 +278,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261028-see-yu-chan@helsinkigse.fi
-DTSTAMP:20261028T110454Z
-SEQUENCE:16
-LAST-MODIFIED:20261021T110508Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:17
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20261028T150000
 DTEND;TZID=Europe/Helsinki:20261028T160000
 SUMMARY:Macroeconomics: See-Yu Chan — Getting Paid: The Wage Return to Jo
- b Content (with Christian Bayer…
-DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: See-Yu Chan (Un
- iversity of Mannheim)\nTitle: Getting Paid: The Wage Return to Job Content
-  (with Christian Bayer and Moritz Kuhn)\nHost: Oskari Vähämaa\n\nEvent p
- age: https://www.helsinkigse.fi/events/see-yu-chan
+ b Content
+DESCRIPTION:Series: Macroeconomics\nSpeaker: See-Yu Chan (University of Man
+ nheim)\nTitle: Getting Paid: The Wage Return to Job Content (with Christia
+ n Bayer and Moritz Kuhn)\nHost: Oskari Vähämaa\n\nEvent page: https://ww
+ w.helsinkigse.fi/events/see-yu-chan
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/see-yu-chan
 STATUS:CONFIRMED
@@ -298,16 +296,16 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261106-francisco-roldan@helsinkigse.fi
-DTSTAMP:20261028T110454Z
-SEQUENCE:6
-LAST-MODIFIED:20261028T110454Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:7
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20261106T110000
 DTEND;TZID=Europe/Helsinki:20261106T120000
 SUMMARY:Macroeconomics: Francisco Roldán — The Perils of Bilateral Sover
  eign Debt
-DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Francisco Rold
- án (IMF)\nTitle: The Perils of Bilateral Sovereign Debt\nHost: Timm Prein
- \n\nEvent page: https://www.helsinkigse.fi/events/francisco-roldan
+DESCRIPTION:Series: Macroeconomics\nSpeaker: Francisco Roldán (IMF)\nTitle
+ : The Perils of Bilateral Sovereign Debt\nHost: Timm Prein\n\nEvent page: 
+ https://www.helsinkigse.fi/events/francisco-roldan
 LOCATION:Seminar room 3-4\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/francisco-roldan
 STATUS:CONFIRMED
@@ -315,32 +313,32 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261204-francisco-roch@helsinkigse.fi
-DTSTAMP:20261028T110454Z
-SEQUENCE:1
-LAST-MODIFIED:20261002T070511Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:2
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20261204T110000
 DTEND;TZID=Europe/Helsinki:20261204T120000
 SUMMARY:Macroeconomics: Francisco Roch
-DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Francisco Roch 
- (Universidad Torcuato Di Tella)\nTitle: TBA\nHost: Timm Prein\n\nEvent pag
- e: https://www.helsinkigse.fi/events/francisco-roch
+DESCRIPTION:Series: Macroeconomics\nSpeaker: Francisco Roch (Universidad To
+ rcuato Di Tella)\nTitle: TBA\nHost: Timm Prein\n\nEvent page: https://www.
+ helsinkigse.fi/events/francisco-roch
 URL:https://www.helsinkigse.fi/events/francisco-roch
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261209-alvaro-cox@helsinkigse.fi
-DTSTAMP:20261028T110454Z
-SEQUENCE:14
-LAST-MODIFIED:20260923T125208Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:15
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20261209T150000
 DTEND;TZID=Europe/Helsinki:20261209T160000
 SUMMARY:Macroeconomics: Alvaro Cox — Bringing Demand Within Reach: Digita
  l Platforms\, Market Access\, and…
-DESCRIPTION:Series: Macroeconomics\nType: Seminar\nSpeaker: Alvaro Cox (Uni
- versidad Carlos III de Madrid)\nTitle: Bringing Demand Within Reach: Digit
- al Platforms\, Market Access\, and the Allocation of Firm Scale\nHost: Osk
- ari Vähämaa\n\nEvent page: https://www.helsinkigse.fi/events/alvaro-cox
+DESCRIPTION:Series: Macroeconomics\nSpeaker: Alvaro Cox (Universidad Carlos
+  III de Madrid)\nTitle: Bringing Demand Within Reach: Digital Platforms\, 
+ Market Access\, and the Allocation of Firm Scale\nHost: Oskari Vähämaa\n
+ \nEvent page: https://www.helsinkigse.fi/events/alvaro-cox
 URL:https://www.helsinkigse.fi/events/alvaro-cox
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

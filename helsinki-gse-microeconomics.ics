@@ -30,32 +30,32 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250319-piero-gottardi@helsinkigse.fi
-DTSTAMP:20261112T070508Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T044648Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;VALUE=DATE:20250319
 DTEND;VALUE=DATE:20250320
-SUMMARY:Microeconomics: CANCELLED Piero Gottardi
-DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: CANCELLED Piero
-  Gottardi (University of Essex)\nTitle: TBA\n\nTime not recorded.\n\nEvent
-  page: https://www.helsinkigse.fi/events/piero-gottardi
+SUMMARY:CANCELLED — Microeconomics: Piero Gottardi
+DESCRIPTION:Series: Microeconomics\nSpeaker: CANCELLED Piero Gottardi (Univ
+ ersity of Essex)\nTitle: TBA\n\nTime not recorded.\n\nEvent page: https://
+ www.helsinkigse.fi/events/piero-gottardi
 URL:https://www.helsinkigse.fi/events/piero-gottardi
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250521-ludvig-sinander@helsinkigse.fi
-DTSTAMP:20261112T070508Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20250521T160000
 DTEND;TZID=Europe/Helsinki:20250521T170000
 SUMMARY:Microeconomics: Ludvig Sinander — Risk attitudes\, dominance\, an
- d outside options (with Gregorio Curello…
-DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Ludvig Sinander
-  (University of Oxford)\nTitle: Risk attitudes\, dominance\, and outside o
- ptions (with Gregorio Curello and Mark Whitmeyer)\n\nEvent page: https://w
- ww.helsinkigse.fi/events/ludvig-sinander
+ d outside options
+DESCRIPTION:Series: Microeconomics\nSpeaker: Ludvig Sinander (University of
+  Oxford)\nTitle: Risk attitudes\, dominance\, and outside options (with Gr
+ egorio Curello and Mark Whitmeyer)\n\nEvent page: https://www.helsinkigse.
+ fi/events/ludvig-sinander
 LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/ludvig-sinander
@@ -64,15 +64,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250522-toomas-hinnosaar@helsinkigse.fi
-DTSTAMP:20261112T070508Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20250522T130000
 DTEND;TZID=Europe/Helsinki:20250522T140000
 SUMMARY:Microeconomics: Toomas Hinnosaar — Pricing Novel Goods
-DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Toomas Hinnosaa
- r (University of Nottingham)\nTitle: Pricing Novel Goods\n\nEvent page: ht
- tps://www.helsinkigse.fi/events/toomas-hinnosaar
+DESCRIPTION:Series: Microeconomics\nSpeaker: Toomas Hinnosaar (University o
+ f Nottingham)\nTitle: Pricing Novel Goods\n\nEvent page: https://www.helsi
+ nkigse.fi/events/toomas-hinnosaar
 LOCATION:U006\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/toomas-hinnosaar
@@ -81,16 +81,16 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250604-andreas-kleiner@helsinkigse.fi
-DTSTAMP:20261112T070508Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20250604T160000
 DTEND;TZID=Europe/Helsinki:20250604T170000
 SUMMARY:Microeconomics: Andreas Kleiner — Optimal Delegation in a Multidi
  mensional World
-DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Andreas Kleiner
-  (University of Bonn)\nTitle: Optimal Delegation in a Multidimensional Wor
- ld\n\nEvent page: https://www.helsinkigse.fi/events/andreas-kleiner
+DESCRIPTION:Series: Microeconomics\nSpeaker: Andreas Kleiner (University of
+  Bonn)\nTitle: Optimal Delegation in a Multidimensional World\n\nEvent pag
+ e: https://www.helsinkigse.fi/events/andreas-kleiner
 LOCATION:U006\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/andreas-kleiner
@@ -99,17 +99,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250924-julia-wirtz@helsinkigse.fi
-DTSTAMP:20261112T070508Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20250924T160000
 DTEND;TZID=Europe/Helsinki:20250924T170000
 SUMMARY:Microeconomics: Julia Wirtz — Optimal Delegated Search with Hidde
  n Information: Screening without…
-DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Julia Wirtz (Un
- iversity of Bristol)\nTitle: Optimal Delegated Search with Hidden Informat
- ion: Screening without Transfers (with Elnaz Bajoori)\n\nEvent page: https
- ://www.helsinkigse.fi/events/julia-wirtz
+DESCRIPTION:Series: Microeconomics\nSpeaker: Julia Wirtz (University of Bri
+ stol)\nTitle: Optimal Delegated Search with Hidden Information: Screening 
+ without Transfers (with Elnaz Bajoori)\n\nEvent page: https://www.helsinki
+ gse.fi/events/julia-wirtz
 LOCATION:U006\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/julia-wirtz
@@ -118,17 +118,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251001-david-myatt@helsinkigse.fi
-DTSTAMP:20261112T070508Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20251001T160000
 DTEND;TZID=Europe/Helsinki:20251001T170000
 SUMMARY:Microeconomics: David Myatt — Finding a Good Deal: Stable Prices\
  , Costly Search\, and the Effect of…
-DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: David Myatt (LB
- S)\nTitle: Finding a Good Deal: Stable Prices\, Costly Search\, and the Ef
- fect of Entry (with David Ronayne)\n\nEvent page: https://www.helsinkigse.
- fi/events/david-myatt
+DESCRIPTION:Series: Microeconomics\nSpeaker: David Myatt (LBS)\nTitle: Find
+ ing a Good Deal: Stable Prices\, Costly Search\, and the Effect of Entry (
+ with David Ronayne)\n\nEvent page: https://www.helsinkigse.fi/events/david
+ -myatt
 LOCATION:U006\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/david-myatt
@@ -137,17 +137,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251015-ludmila-matyskova@helsinkigse.fi
-DTSTAMP:20261112T070508Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20251015T160000
 DTEND;TZID=Europe/Helsinki:20251015T170000
 SUMMARY:Microeconomics: Ludmila Matyskova — Gaming the test: When should 
  test thresholds be unpredictable?
-DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Ludmila Matysko
- va (University of Alicante)\nTitle: Gaming the test: When should test thre
- sholds be unpredictable?\n\nEvent page: https://www.helsinkigse.fi/events/
- ludmila-matyskova
+DESCRIPTION:Series: Microeconomics\nSpeaker: Ludmila Matyskova (University 
+ of Alicante)\nTitle: Gaming the test: When should test thresholds be unpre
+ dictable?\n\nEvent page: https://www.helsinkigse.fi/events/ludmila-matysko
+ va
 LOCATION:U006\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/ludmila-matyskova
@@ -156,16 +156,16 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251029-alexander-frug@helsinkigse.fi
-DTSTAMP:20261112T070508Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20251029T144500
 DTEND;TZID=Europe/Helsinki:20251029T154500
 SUMMARY:Microeconomics: Alexander Frug — Keeping in the dark with hard ev
  idence (joint work with Daniel Bird)
-DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Alexander Frug 
- (UPF)\nTitle: Keeping in the dark with hard evidence (joint work with Dani
- el Bird)\n\nEvent page: https://www.helsinkigse.fi/events/alexander-frug
+DESCRIPTION:Series: Microeconomics\nSpeaker: Alexander Frug (UPF)\nTitle: K
+ eeping in the dark with hard evidence (joint work with Daniel Bird)\n\nEve
+ nt page: https://www.helsinkigse.fi/events/alexander-frug
 LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/alexander-frug
@@ -174,17 +174,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251112-piero-gottardi1@helsinkigse.fi
-DTSTAMP:20261112T070508Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20251112T144500
 DTEND;TZID=Europe/Helsinki:20251112T154500
 SUMMARY:Microeconomics: Piero Gottardi — Time Trumps Quantity in the Mark
- et for Lemons (with William Fuchs and…
-DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Piero Gottardi 
- (University of Essex)\nTitle: Time Trumps Quantity in the Market for Lemon
- s (with William Fuchs and Humberto Moreira)\n\nEvent page: https://www.hel
- sinkigse.fi/events/piero-gottardi1
+ et for Lemons
+DESCRIPTION:Series: Microeconomics\nSpeaker: Piero Gottardi (University of 
+ Essex)\nTitle: Time Trumps Quantity in the Market for Lemons (with William
+  Fuchs and Humberto Moreira)\n\nEvent page: https://www.helsinkigse.fi/eve
+ nts/piero-gottardi1
 LOCATION:U006\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/piero-gottardi1
@@ -193,16 +193,16 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251126-cesar-barilla@helsinkigse.fi
-DTSTAMP:20261112T070508Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20251126T144500
 DTEND;TZID=Europe/Helsinki:20251126T154500
 SUMMARY:Microeconomics: César Barilla — When and what to learn in a chan
  ging world
-DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: César Barilla 
- (University of Oxford)\nTitle: When and what to learn in a changing world\
- n\nEvent page: https://www.helsinkigse.fi/events/cesar-barilla
+DESCRIPTION:Series: Microeconomics\nSpeaker: César Barilla (University of 
+ Oxford)\nTitle: When and what to learn in a changing world\n\nEvent page: 
+ https://www.helsinkigse.fi/events/cesar-barilla
 LOCATION:V002\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/cesar-barilla
@@ -211,17 +211,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260212-haoran-lei@helsinkigse.fi
-DTSTAMP:20261112T070508Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260212T150000
 DTEND;TZID=Europe/Helsinki:20260212T160000
 SUMMARY:Microeconomics: Haoran Lei — Irrelevance of Personalized Pricing 
- for Privately Informed…
-DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Haoran Lei (Hun
- an University)\nTitle: Irrelevance of Personalized Pricing for Privately I
- nformed Monopolists (with Xiaoxiao Hu)\n\nEvent page: https://www.helsinki
- gse.fi/events/haoran-lei
+ for Privately Informed Monopolists
+DESCRIPTION:Series: Microeconomics\nSpeaker: Haoran Lei (Hunan University)\
+ nTitle: Irrelevance of Personalized Pricing for Privately Informed Monopol
+ ists (with Xiaoxiao Hu)\n\nEvent page: https://www.helsinkigse.fi/events/h
+ aoran-lei
 LOCATION:U406a\, Aalto University\, Otakaari 1\, Espoo
 URL:https://www.helsinkigse.fi/events/haoran-lei
 STATUS:CONFIRMED
@@ -229,16 +229,16 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260225-toan-le1@helsinkigse.fi
-DTSTAMP:20261112T070508Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260225T144500
 DTEND;TZID=Europe/Helsinki:20260225T154500
 SUMMARY:Microeconomics: Toan Le — Strategy-proofness versus collusion-pro
  ofness
-DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Toan Le (Univer
- sity of Oxford)\nTitle: Strategy-proofness versus collusion-proofness\n\nE
- vent page: https://www.helsinkigse.fi/events/toan-le1
+DESCRIPTION:Series: Microeconomics\nSpeaker: Toan Le (University of Oxford)
+ \nTitle: Strategy-proofness versus collusion-proofness\n\nEvent page: http
+ s://www.helsinkigse.fi/events/toan-le1
 LOCATION:U006\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/toan-le1
@@ -247,15 +247,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260318-amit-dekel@helsinkigse.fi
-DTSTAMP:20261112T070508Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T141057Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260318T144500
 DTEND;TZID=Europe/Helsinki:20260318T154500
 SUMMARY:Microeconomics: Amit Dekel — Free Play Equilibrium
-DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Amit Dekel (Aix
- -Marseille School of Economics)\nTitle: Free Play Equilibrium\n\nEvent pag
- e: https://www.helsinkigse.fi/events/amit-dekel
+DESCRIPTION:Series: Microeconomics\nSpeaker: Amit Dekel (Aix-Marseille Scho
+ ol of Economics)\nTitle: Free Play Equilibrium\n\nEvent page: https://www.
+ helsinkigse.fi/events/amit-dekel
 LOCATION:U006\, Aalto University School of Business\, Arkadiankatu 7\, Hels
  inki
 URL:https://www.helsinkigse.fi/events/amit-dekel
@@ -264,17 +264,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260429-andreas-asseyer@helsinkigse.fi
-DTSTAMP:20261112T070508Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T130455Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260429T144500
 DTEND;TZID=Europe/Helsinki:20260429T154500
 SUMMARY:Microeconomics: Andreas Asseyer — Information Design with Competi
  ng Receivers (with Dilip Ravindran)
-DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Andreas Asseyer
-  (Freie Universität Berlin)\nTitle: Information Design with Competing Rec
- eivers (with Dilip Ravindran)\n\nEvent page: https://www.helsinkigse.fi/ev
- ents/andreas-asseyer
+DESCRIPTION:Series: Microeconomics\nSpeaker: Andreas Asseyer (Freie Univers
+ ität Berlin)\nTitle: Information Design with Competing Receivers (with Di
+ lip Ravindran)\n\nEvent page: https://www.helsinkigse.fi/events/andreas-as
+ seyer
 LOCATION:T003\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/andreas-asseyer
@@ -283,17 +283,16 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260513-james-best@helsinkigse.fi
-DTSTAMP:20261112T070508Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T130455Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260513T144500
 DTEND;TZID=Europe/Helsinki:20260513T154500
 SUMMARY:Microeconomics: James Best — Divide and Confer: Aggregating Infor
  mation without Verification
-DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: James Best (Car
- negie Mellon University)\nTitle: Divide and Confer: Aggregating Informatio
- n without Verification\n\nEvent page: https://www.helsinkigse.fi/events/ja
- mes-best
+DESCRIPTION:Series: Microeconomics\nSpeaker: James Best (Carnegie Mellon Un
+ iversity)\nTitle: Divide and Confer: Aggregating Information without Verif
+ ication\n\nEvent page: https://www.helsinkigse.fi/events/james-best
 LOCATION:L102\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/james-best
@@ -302,17 +301,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260527-justus-preusser@helsinkigse.fi
-DTSTAMP:20261112T070508Z
-SEQUENCE:15
-LAST-MODIFIED:20260929T100710Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:16
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260527T144500
 DTEND;TZID=Europe/Helsinki:20260527T154500
 SUMMARY:Microeconomics: Justus Preusser — The Division of Surplus and the
-  Burden of Proof (joint with Deniz…
-DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Justus Preusser
-  (Bocconi University)\nTitle: The Division of Surplus and the Burden of Pr
- oof (joint with Deniz Kattwinkel)\n\nEvent page: https://www.helsinkigse.f
- i/events/justus-preusser
+  Burden of Proof
+DESCRIPTION:Series: Microeconomics\nSpeaker: Justus Preusser (Bocconi Unive
+ rsity)\nTitle: The Division of Surplus and the Burden of Proof (joint with
+  Deniz Kattwinkel)\n\nEvent page: https://www.helsinkigse.fi/events/justus
+ -preusser
 LOCATION:U006\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/justus-preusser
@@ -321,9 +320,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260917-sandro-shelegia@helsinkigse.fi
-DTSTAMP:20261112T070508Z
-SEQUENCE:16
-LAST-MODIFIED:20260923T125208Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:17
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260917T100000
 DTEND;TZID=Europe/Helsinki:20260917T110000
 SUMMARY:Industrial Organization & Microeconomics: Sandro Shelegia — A Mod
@@ -339,17 +338,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260924-zhengqing-gui@helsinkigse.fi
-DTSTAMP:20261112T070508Z
-SEQUENCE:17
-LAST-MODIFIED:20260924T150530Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:18
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20260924T150000
 DTEND;TZID=Europe/Helsinki:20260924T160000
 SUMMARY:Microeconomics: Zhengqing Gui — A Tale of Two Monopolies (with Yi
  -Chun Chen)
-DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Zhengqing Gui (
- National University of Singapore)\nTitle: A Tale of Two Monopolies (with Y
- i-Chun Chen)\nHosts: Julia Salmi & Alexander Clyde & Saara Hämäläinen\n
- \nEvent page: https://www.helsinkigse.fi/events/zhengqing-gui
+DESCRIPTION:Series: Microeconomics\nSpeaker: Zhengqing Gui (National Univer
+ sity of Singapore)\nTitle: A Tale of Two Monopolies (with Yi-Chun Chen)\nH
+ osts: Julia Salmi\, Alexander Clyde & Saara Hämäläinen\n\nEvent page: h
+ ttps://www.helsinkigse.fi/events/zhengqing-gui
 LOCATION:F102\, Aalto University Väre Building\, Otaniementie 14\, Espoo
 URL:https://www.helsinkigse.fi/events/zhengqing-gui
 STATUS:CONFIRMED
@@ -357,17 +356,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261008-martin-vaeth@helsinkigse.fi
-DTSTAMP:20261112T070508Z
-SEQUENCE:17
-LAST-MODIFIED:20260929T100710Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:18
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20261008T150000
 DTEND;TZID=Europe/Helsinki:20261008T160000
 SUMMARY:Microeconomics: Martin Vaeth — Rational Voter Learning\, Issue Al
  ignment\, and Polarization
-DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Martin Vaeth (P
- aris School of Economics)\nTitle: Rational Voter Learning\, Issue Alignmen
- t\, and Polarization\nHosts: Julia Salmi & Alexander Clyde\n\nEvent page: 
- https://www.helsinkigse.fi/events/martin-vaeth
+DESCRIPTION:Series: Microeconomics\nSpeaker: Martin Vaeth (Paris School of 
+ Economics)\nTitle: Rational Voter Learning\, Issue Alignment\, and Polariz
+ ation\nHosts: Julia Salmi & Alexander Clyde\n\nEvent page: https://www.hel
+ sinkigse.fi/events/martin-vaeth
 LOCATION:Q203\, Aalto University Väre Building\, Otaniementie 14\, Espoo
 URL:https://www.helsinkigse.fi/events/martin-vaeth
 STATUS:CONFIRMED
@@ -375,17 +374,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261022-florian-brandl@helsinkigse.fi
-DTSTAMP:20261112T070508Z
-SEQUENCE:16
-LAST-MODIFIED:20261007T070508Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:17
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20261022T150000
 DTEND;TZID=Europe/Helsinki:20261022T160000
 SUMMARY:Microeconomics: Florian Brandl — On the Inefficiency of Social Le
  arning
-DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Florian Brandl 
- (University of Bonn)\nTitle: On the Inefficiency of Social Learning\nHosts
- : Julia Salmi & Alexander Clyde\n\nEvent page: https://www.helsinkigse.fi/
- events/florian-brandl
+DESCRIPTION:Series: Microeconomics\nSpeaker: Florian Brandl (University of 
+ Bonn)\nTitle: On the Inefficiency of Social Learning\nHosts: Julia Salmi &
+  Alexander Clyde\n\nEvent page: https://www.helsinkigse.fi/events/florian-
+ brandl
 LOCATION:Q203\, Aalto University Väre Building\, Otaniementie 14\, Espoo
 URL:https://www.helsinkigse.fi/events/florian-brandl
 STATUS:CONFIRMED
@@ -393,16 +392,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261119-pia-ennuchat@helsinkigse.fi
-DTSTAMP:20261112T070508Z
-SEQUENCE:16
-LAST-MODIFIED:20261112T070508Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:17
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20261119T150000
 DTEND;TZID=Europe/Helsinki:20261119T160000
 SUMMARY:Microeconomics: Pia Ennuchat — Targeted Information Design
-DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Pia Ennuchat (U
- niversity of Mannheim)\nTitle: Targeted Information Design\nHosts: Julia S
- almi & Alexander Clyde\n\nEvent page: https://www.helsinkigse.fi/events/pi
- a-ennuchat
+DESCRIPTION:Series: Microeconomics\nSpeaker: Pia Ennuchat (University of Ma
+ nnheim)\nTitle: Targeted Information Design\nHosts: Julia Salmi & Alexande
+ r Clyde\n\nEvent page: https://www.helsinkigse.fi/events/pia-ennuchat
 LOCATION:Q203\, Aalto University Väre Building\, Otaniementie 14\, Espoo
 URL:https://www.helsinkigse.fi/events/pia-ennuchat
 STATUS:CONFIRMED
@@ -410,15 +408,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261203-alfonso-maselli@helsinkigse.fi
-DTSTAMP:20261112T070508Z
-SEQUENCE:4
-LAST-MODIFIED:20260923T125208Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:5
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20261203T150000
 DTEND;TZID=Europe/Helsinki:20261203T160000
 SUMMARY:Microeconomics: Alfonso Maselli
-DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Alfonso Maselli
-  (University of Bonn)\nTitle: TBA\nHosts: Julia Salmi & Alexander Clyde\n\
- nEvent page: https://www.helsinkigse.fi/events/alfonso-maselli
+DESCRIPTION:Series: Microeconomics\nSpeaker: Alfonso Maselli (University of
+  Bonn)\nTitle: TBA\nHosts: Julia Salmi & Alexander Clyde\n\nEvent page: ht
+ tps://www.helsinkigse.fi/events/alfonso-maselli
 LOCATION:Q203\, Aalto University Väre Building\, Otaniementie 14\, Espoo
 URL:https://www.helsinkigse.fi/events/alfonso-maselli
 STATUS:CONFIRMED
@@ -426,24 +424,24 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261217-chiara-margaria@helsinkigse.fi
-DTSTAMP:20261112T070508Z
-SEQUENCE:2
-LAST-MODIFIED:20260923T125208Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:3
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20261217T150000
 DTEND;TZID=Europe/Helsinki:20261217T160000
 SUMMARY:Microeconomics: Chiara Margaria
-DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Chiara Margaria
-  (Yale University)\nTitle: TBA\nHosts: Julia Salmi & Alexander Clyde\n\nEv
- ent page: https://www.helsinkigse.fi/events/chiara-margaria
+DESCRIPTION:Series: Microeconomics\nSpeaker: Chiara Margaria (Yale Universi
+ ty)\nTitle: TBA\nHosts: Julia Salmi & Alexander Clyde\n\nEvent page: https
+ ://www.helsinkigse.fi/events/chiara-margaria
 URL:https://www.helsinkigse.fi/events/chiara-margaria
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20270304-malin-arve@helsinkigse.fi
-DTSTAMP:20261112T070508Z
-SEQUENCE:1
-LAST-MODIFIED:20261027T130541Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:2
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20270304T150000
 DTEND;TZID=Europe/Helsinki:20270304T160000
 SUMMARY:Microeconomics: Malin Arve
@@ -457,15 +455,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20270429-arina-nikandrova@helsinkigse.fi
-DTSTAMP:20261112T070508Z
-SEQUENCE:1
-LAST-MODIFIED:20261029T150512Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:2
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20270429T150000
 DTEND;TZID=Europe/Helsinki:20270429T160000
 SUMMARY:Microeconomics: Arina Nikandrova
-DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Arina Nikandrov
- a (University of London)\nTitle: TBA\nHosts: Julia Salmi & Alexander Clyde
- \n\nEvent page: https://www.helsinkigse.fi/events/arina-nikandrova
+DESCRIPTION:Series: Microeconomics\nSpeaker: Arina Nikandrova (University o
+ f London)\nTitle: TBA\nHosts: Julia Salmi & Alexander Clyde\n\nEvent page:
+  https://www.helsinkigse.fi/events/arina-nikandrova
 LOCATION:L102\, Aalto University Väre Building\, Otaniementie 14\, Espoo
 URL:https://www.helsinkigse.fi/events/arina-nikandrova
 STATUS:CONFIRMED
@@ -473,15 +471,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20270513-eduardo-feingold@helsinkigse.fi
-DTSTAMP:20261112T070508Z
-SEQUENCE:1
-LAST-MODIFIED:20261102T140518Z
+DTSTAMP:20261112T191828Z
+SEQUENCE:2
+LAST-MODIFIED:20261112T191828Z
 DTSTART;TZID=Europe/Helsinki:20270513T150000
 DTEND;TZID=Europe/Helsinki:20270513T160000
 SUMMARY:Microeconomics: Eduardo Feingold
-DESCRIPTION:Series: Microeconomics\nType: Seminar\nSpeaker: Eduardo Feingol
- d (Insper)\nTitle: TBA\nHosts: Julia Salmi & Alexander Clyde\n\nEvent page
- : https://www.helsinkigse.fi/events/eduardo-feingold
+DESCRIPTION:Series: Microeconomics\nSpeaker: Eduardo Feingold (Insper)\nTit
+ le: TBA\nHosts: Julia Salmi & Alexander Clyde\n\nEvent page: https://www.h
+ elsinkigse.fi/events/eduardo-feingold
 LOCATION:L102\, Aalto University Väre\, Otaniementie 14\, Espoo
 URL:https://www.helsinkigse.fi/events/eduardo-feingold
 STATUS:CONFIRMED
