@@ -30,9 +30,9 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250225-yann-bramoulle@helsinkigse.fi
-DTSTAMP:20261112T191828Z
-SEQUENCE:16
-LAST-MODIFIED:20261112T191828Z
+DTSTAMP:20261113T054444Z
+SEQUENCE:17
+LAST-MODIFIED:20261113T054444Z
 DTSTART;TZID=Europe/Helsinki:20250225T150000
 DTEND;TZID=Europe/Helsinki:20250225T160000
 SUMMARY:Educa: Yann Bramoullé — Friendship networks and social diversity
@@ -51,9 +51,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250311-mette-foged@helsinkigse.fi
-DTSTAMP:20261112T191828Z
-SEQUENCE:16
-LAST-MODIFIED:20261112T191828Z
+DTSTAMP:20261113T054444Z
+SEQUENCE:17
+LAST-MODIFIED:20261113T054444Z
 DTSTART;TZID=Europe/Helsinki:20250311T150000
 DTEND;TZID=Europe/Helsinki:20250311T160000
 SUMMARY:Educa: Mette Foged — Harsh Rhetoric and Ethnic Identity: The Back
@@ -70,9 +70,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250408-mikkel-gandil@helsinkigse.fi
-DTSTAMP:20261112T191828Z
-SEQUENCE:16
-LAST-MODIFIED:20261112T191828Z
+DTSTAMP:20261113T054444Z
+SEQUENCE:17
+LAST-MODIFIED:20261113T054444Z
 DTSTART;TZID=Europe/Helsinki:20250408T150000
 DTEND;TZID=Europe/Helsinki:20250408T160000
 SUMMARY:Educa: Mikkel Gandil — Minority bias in holistic college admissio
@@ -89,9 +89,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250506-jose-montalban-castilla@helsinkigse.fi
-DTSTAMP:20261112T191828Z
-SEQUENCE:16
-LAST-MODIFIED:20261112T191828Z
+DTSTAMP:20261113T054444Z
+SEQUENCE:17
+LAST-MODIFIED:20261113T054444Z
 DTSTART;TZID=Europe/Helsinki:20250506T150000
 DTEND;TZID=Europe/Helsinki:20250506T160000
 SUMMARY:Educa: José Montalban Castilla — How Does Class Size Shape the C
@@ -108,9 +108,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250520-christina-felfe@helsinkigse.fi
-DTSTAMP:20261112T191828Z
-SEQUENCE:16
-LAST-MODIFIED:20261112T191828Z
+DTSTAMP:20261113T054444Z
+SEQUENCE:17
+LAST-MODIFIED:20261113T054444Z
 DTSTART;TZID=Europe/Helsinki:20250520T150000
 DTEND;TZID=Europe/Helsinki:20250520T160000
 SUMMARY:Educa: Christina Felfe — Mintful choices - The role of perceived 
@@ -125,9 +125,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250603-tushar-kundu@helsinkigse.fi
-DTSTAMP:20261112T191828Z
-SEQUENCE:16
-LAST-MODIFIED:20261112T191828Z
+DTSTAMP:20261113T054444Z
+SEQUENCE:17
+LAST-MODIFIED:20261113T054444Z
 DTSTART;TZID=Europe/Helsinki:20250603T150000
 DTEND;TZID=Europe/Helsinki:20250603T160000
 SUMMARY:Educa: Tushar Kundu — Parent-Teacher Alignment in Multidimensiona
@@ -144,9 +144,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250919-helsinki-economics-of-education-workshop@helsinkigse.fi
-DTSTAMP:20261112T191828Z
-SEQUENCE:17
-LAST-MODIFIED:20261112T191828Z
+DTSTAMP:20261113T054444Z
+SEQUENCE:18
+LAST-MODIFIED:20261113T054444Z
 DTSTART;VALUE=DATE:20250919
 DTEND;VALUE=DATE:20250920
 SUMMARY:Helsinki Economics of Education Workshop
@@ -162,9 +162,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250923-pedro-carneiro@helsinkigse.fi
-DTSTAMP:20261112T191828Z
-SEQUENCE:16
-LAST-MODIFIED:20261112T191828Z
+DTSTAMP:20261113T054444Z
+SEQUENCE:17
+LAST-MODIFIED:20261113T054444Z
 DTSTART;TZID=Europe/Helsinki:20250923T150000
 DTEND;TZID=Europe/Helsinki:20250923T160000
 SUMMARY:Educa: Pedro Carneiro — Parental Responses to Child Endowments
@@ -178,9 +178,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251021-ben-goldman@helsinkigse.fi
-DTSTAMP:20261112T191828Z
-SEQUENCE:16
-LAST-MODIFIED:20261112T191828Z
+DTSTAMP:20261113T054444Z
+SEQUENCE:17
+LAST-MODIFIED:20261113T054444Z
 DTSTART;TZID=Europe/Helsinki:20251021T150000
 DTEND;TZID=Europe/Helsinki:20251021T160000
 SUMMARY:Educa: Benjamin Goldman — When Resources Meet Relationships: The 
@@ -197,9 +197,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251104-giuseppe-sorrenti@helsinkigse.fi
-DTSTAMP:20261112T191828Z
-SEQUENCE:16
-LAST-MODIFIED:20261112T191828Z
+DTSTAMP:20261113T054444Z
+SEQUENCE:17
+LAST-MODIFIED:20261113T054444Z
 DTSTART;VALUE=DATE:20251104
 DTEND;VALUE=DATE:20251105
 SUMMARY:CANCELLED — Educa: Giuseppe Sorrenti — Talent is Everywhere\, O
@@ -215,9 +215,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251202-julien-grenet@helsinkigse.fi
-DTSTAMP:20261112T191828Z
-SEQUENCE:16
-LAST-MODIFIED:20261112T191828Z
+DTSTAMP:20261113T054444Z
+SEQUENCE:17
+LAST-MODIFIED:20261113T054444Z
 DTSTART;TZID=Europe/Helsinki:20251202T120000
 DTEND;TZID=Europe/Helsinki:20251202T130000
 SUMMARY:Educa: Julien Grenet — Social Diversity at School: Evidence from 
@@ -235,9 +235,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260310-nagore-iriberri1@helsinkigse.fi
-DTSTAMP:20261112T191828Z
-SEQUENCE:16
-LAST-MODIFIED:20261112T191828Z
+DTSTAMP:20261113T054444Z
+SEQUENCE:17
+LAST-MODIFIED:20261113T054444Z
 DTSTART;TZID=Europe/Helsinki:20260310T120000
 DTEND;TZID=Europe/Helsinki:20260310T130000
 SUMMARY:Educa: Nagore Iriberri — Women in Editorial Boards: An Investigat
@@ -255,9 +255,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260421-juanna-schroter-joensen@helsinkigse.fi
-DTSTAMP:20261112T191828Z
-SEQUENCE:16
-LAST-MODIFIED:20261112T191828Z
+DTSTAMP:20261113T054444Z
+SEQUENCE:17
+LAST-MODIFIED:20261113T054444Z
 DTSTART;TZID=Europe/Helsinki:20260421T120000
 DTEND;TZID=Europe/Helsinki:20260421T130000
 SUMMARY:Educa: Juanna Schrøter Joensen — Field of Study and Future Ferti
@@ -274,9 +274,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260602-gabrielle-fack1@helsinkigse.fi
-DTSTAMP:20261112T191828Z
-SEQUENCE:16
-LAST-MODIFIED:20261112T191828Z
+DTSTAMP:20261113T054444Z
+SEQUENCE:17
+LAST-MODIFIED:20261113T054444Z
 DTSTART;TZID=Europe/Helsinki:20260602T120000
 DTEND;TZID=Europe/Helsinki:20260602T130000
 SUMMARY:Educa: Gabrielle Fack — The Effect of Affirmative Action on Targe
@@ -295,9 +295,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260826-2nd-edition-of-the-helsinki-economics-of-education-worksh
  op@helsinkigse.fi
-DTSTAMP:20261112T191828Z
-SEQUENCE:17
-LAST-MODIFIED:20261112T191828Z
+DTSTAMP:20261113T054444Z
+SEQUENCE:18
+LAST-MODIFIED:20261113T054444Z
 DTSTART;TZID=Europe/Helsinki:20260826T090000
 DTEND;TZID=Europe/Helsinki:20260827T150000
 SUMMARY:2nd Edition of the Helsinki Economics of Education Workshop
@@ -306,47 +306,56 @@ DESCRIPTION:Series: Economics of Education (Educa)\nType: Workshop\nTitle:
   Bonneau\n\nProgramme:\n\nWednesday 26 August\n\n09:00–09:25 Welcome and
   morning coffee\n\n09:25–09:30 Welcome word\n\n09:30–10:30\n• Mikkel
   Houmark — Teachers and Inequality in Student Performance – Estimating
-  Value Added and…\n• Ossi Tahvonen — Cash Transfers\, Health\, and t
- he Transition to Adulthood\n\n10:30–11:00 Coffee break\n\n11:00–12:00\
- n• Gregory Veramendi — Smartphones and Childrens' Mental Health\n• S
- hushanik Margaryan — Affirmative Action during Early Childhood: School C
- hoice\, Academic…\n\n12:00–13:30 Lunch in Arvo Restaurant\n\n13:30–1
- 4:30\n• Camille Terrier — Fostering Social Integration in the Classroo
- m: Evidence from a Peer-Learning…\n• Libertad Gonzalez — Born Too So
- on? The Educational Costs of Early Elective Deliveries\, with…\n\n14:45
- –15:45\n• Aino Kalmbach — Priority Pitfalls: Admission Mechanisms an
- d Educational Outcomes\n• Rasmus Mellanen — Peer Effects on Educationa
- l Choices: Evidence from Finnish Weighted…\n• Moritz Mendel — Expect
- ation Formation and Educational Investment: Evidence from Labor Market…\
- n• Théophile Mulot — The Role of Parental Role Models in the Gendered
-  Choice of STEM Studies\, with…\n• Lachlan Paterson — The Role of Tr
- aining Providers in Immigrant Integration\, with Hanna Pesola…\n• Ark
- ādijs Zvaigzne — Success Begets Success: The Dynamic Treatment Effects 
- of Financial Aid…\n\n16:00–17:00\n• Matti Sarvimäki — Learning to
-  Experiment: Field Experiments in Finnish Education\n• Anna Holvio — R
- eading Gains Through Teacher Pairs: A Co-Teaching Experiment\, with Hannu
- …\n• Mikko Silliman — Building a Shared Reality: Social Cohesion in 
- Diverse Classrooms\, Michela…\n• Maria Sauval — Finding One’s Path
- : Career-Counselor Training and Students’ Educational Choices…\n• Ra
- min Izadi — Reforming Universal Early Childhood Education: Finland’s T
- wo-Year Preschool…\n\n19:00\nWorkshop Dinner for presenters at Yes Yes Y
- es\n\nThursday 27 August\n\n09:00–09:30 Welcome and morning coffee\n\n09
- :30–10:30\n• Lavinia Kinne — Diversity in Teams and Creative Output\
- , with Raphael Brade and Margaret Leighton\n• Ellen Sahlström — The B
- road Effects of Providing Long-Term Support to Disadvantaged Boys\n\n10:30
- –11:00 Coffee break\n\n11:00–12:00\nKeynote — Kirabo Jackson « The 
- Returns to Public Investment in Children »\n\n12:00–13:30 Lunch in Arvo
-  Restaurant\n\n13:30–14:30\n• Aspasia Bizopoulou — Fast Transit and 
- Human Capital Accumulation\, with Nektarios Aslanidis and…\n• Miika P
- äällysaho — Decomposing Trends in the PISA Study\, with Jani Kuhakoski
-  and Roope Uusitalo\n• Cécile Bonneau — Price of Admission: The Impac
- t of Application Fees on Top Students\n• Hanna Virtanen — Information 
- Alone Is Not Enough: Randomized Trials of Lifelong Learning…\n\n14:30–
- 15:00 Coffee break\n\n15:00 End of workshop\n\nTimes read from the program
- me.\n\nFull programme: https://www.helsinkigse.fi/media/pages/events/2nd-e
- dition-of-the-helsinki-economics-of-education-workshop/41ca027d73-17877213
- 15/heew_workshop__2026.pdf\nEvent page: https://www.helsinkigse.fi/events/
- 2nd-edition-of-the-helsinki-economics-of-education-workshop
+  Value Added and Sorting under Endogenous Mobility\, with Mathias Mørk\n
+ • Ossi Tahvonen — Cash Transfers\, Health\, and the Transition to Adul
+ thood\n\n10:30–11:00 Coffee break\n\n11:00–12:00\n• Gregory Veramend
+ i — Smartphones and Childrens' Mental Health\n• Shushanik Margaryan 
+ — Affirmative Action during Early Childhood: School Choice\, Academic Pe
+ rformance and School Satisfaction\, with José Montalbán\n\n12:00–13:30
+  Lunch in Arvo Restaurant\n\n13:30–14:30\n• Camille Terrier — Foster
+ ing Social Integration in the Classroom: Evidence from a Peer-Learning Exp
+ eriment\, with Rustam Hakimov and Fanny Landaud\n• Libertad Gonzalez —
+  Born Too Soon? The Educational Costs of Early Elective Deliveries\, with 
+ Parijat Maitra\n\n14:45–15:45\n• Aino Kalmbach — Priority Pitfalls: 
+ Admission Mechanisms and Educational Outcomes\n• Rasmus Mellanen — Pee
+ r Effects on Educational Choices: Evidence from Finnish Weighted Curriculu
+ m Classes\n• Moritz Mendel — Expectation Formation and Educational Inv
+ estment: Evidence from Labor Market Shocks\, with Alex Armand\, Pedro Carn
+ eiro\, and Alessandro Toppeta\n• Théophile Mulot — The Role of Parent
+ al Role Models in the Gendered Choice of STEM Studies\, with Cécile Bonne
+ au\n• Lachlan Paterson — The Role of Training Providers in Immigrant I
+ ntegration\, with Hanna Pesola and Tuomo Virkola\n• Arkādijs Zvaigzne 
+ — Success Begets Success: The Dynamic Treatment Effects of Financial Aid
+  Tournaments\n\n16:00–17:00\n• Matti Sarvimäki — Learning to Experi
+ ment: Field Experiments in Finnish Education\n• Anna Holvio — Reading 
+ Gains Through Teacher Pairs: A Co-Teaching Experiment\, with Hannu Karhune
+ n\, Marja-Kristiina Lerkkanen\, Matti Sarvimäki\, and Minna Torppa\n• M
+ ikko Silliman — Building a Shared Reality: Social Cohesion in Diverse Cl
+ assrooms\, Michela Carlana\, Ellen Sahlström\, Matti Sarvimäki\, and Mar
+ co Tabellini\n• Maria Sauval — Finding One’s Path: Career-Counselor 
+ Training and Students’ Educational Choices\, with Hanna Pesola and Matti
+  Sarvimäki\n• Ramin Izadi — Reforming Universal Early Childhood Educa
+ tion: Finland’s Two-Year Preschool Experiment\, with Oskari Harjunen\, A
+ nna Holvio and Matti Sarvimäki\n\n19:00\nWorkshop Dinner for presenters a
+ t Yes Yes Yes\n\nThursday 27 August\n\n09:00–09:30 Welcome and morning c
+ offee\n\n09:30–10:30\n• Lavinia Kinne — Diversity in Teams and Creat
+ ive Output\, with Raphael Brade and Margaret Leighton\n• Ellen Sahlströ
+ m — The Broad Effects of Providing Long-Term Support to Disadvantaged Bo
+ ys\n\n10:30–11:00 Coffee break\n\n11:00–12:00\nKeynote — Kirabo Jack
+ son « The Returns to Public Investment in Children »\n\n12:00–13:30 Lu
+ nch in Arvo Restaurant\n\n13:30–14:30\n• Aspasia Bizopoulou — Fast T
+ ransit and Human Capital Accumulation\, with Nektarios Aslanidis and Sande
+ r Ramboer\n• Miika Päällysaho — Decomposing Trends in the PISA Study
+ \, with Jani Kuhakoski and Roope Uusitalo\n• Cécile Bonneau — Price o
+ f Admission: The Impact of Application Fees on Top Students\n• Hanna Vir
+ tanen — Information Alone Is Not Enough: Randomized Trials of Lifelong L
+ earning Interventions for Low-Educated Adults\, with Antti Kauhanen\, Hann
+ u Karhunen\, Jani Kuhakoski\, Krista Riukula\, and Tuomo Suhonen\n\n14:30
+ –15:00 Coffee break\n\n15:00 End of workshop\n\nTimes read from the prog
+ ramme.\n\nFull programme: https://www.helsinkigse.fi/media/pages/events/2n
+ d-edition-of-the-helsinki-economics-of-education-workshop/41ca027d73-17877
+ 21315/heew_workshop__2026.pdf\nEvent page: https://www.helsinkigse.fi/even
+ ts/2nd-edition-of-the-helsinki-economics-of-education-workshop
 LOCATION:V001\, Aalto University School of Business\, Ekonominaukio 1\, Esp
  oo
 URL:https://www.helsinkigse.fi/events/2nd-edition-of-the-helsinki-economics
@@ -356,9 +365,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261006-jenifer-ruiz-valenzuela@helsinkigse.fi
-DTSTAMP:20261112T191828Z
-SEQUENCE:16
-LAST-MODIFIED:20261112T191828Z
+DTSTAMP:20261113T054444Z
+SEQUENCE:17
+LAST-MODIFIED:20261113T054444Z
 DTSTART;TZID=Europe/Helsinki:20261006T120000
 DTEND;TZID=Europe/Helsinki:20261006T130000
 SUMMARY:Educa: Jenifer Ruiz Valenzuela — Resits (with Steve Machin and Sa
@@ -375,9 +384,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261020-yusuf-agus-rafael-hernandez-pachon@helsinkigse.fi
-DTSTAMP:20261112T191828Z
-SEQUENCE:5
-LAST-MODIFIED:20261112T191828Z
+DTSTAMP:20261113T054444Z
+SEQUENCE:6
+LAST-MODIFIED:20261113T054444Z
 DTSTART;TZID=Europe/Helsinki:20261020T120000
 DTEND;TZID=Europe/Helsinki:20261020T130000
 SUMMARY:Educa: Yusuf Agus / Rafael Hernandez-Pachon — Introduction of the
@@ -394,9 +403,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261103-petter-lundborg1@helsinkigse.fi
-DTSTAMP:20261112T191828Z
-SEQUENCE:16
-LAST-MODIFIED:20261112T191828Z
+DTSTAMP:20261113T054444Z
+SEQUENCE:17
+LAST-MODIFIED:20261113T054444Z
 DTSTART;TZID=Europe/Helsinki:20261103T120000
 DTEND;TZID=Europe/Helsinki:20261103T130000
 SUMMARY:Educa: Petter Lundborg — Exposure to Inequality\, Human Capital\,
@@ -414,9 +423,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261117-shqiponja-telhaj@helsinkigse.fi
-DTSTAMP:20261112T191828Z
-SEQUENCE:6
-LAST-MODIFIED:20261112T191828Z
+DTSTAMP:20261113T054444Z
+SEQUENCE:7
+LAST-MODIFIED:20261113T054444Z
 DTSTART;TZID=Europe/Helsinki:20261117T120000
 DTEND;TZID=Europe/Helsinki:20261117T130000
 SUMMARY:CANCELLED — Educa: Shqiponja Telhaj
@@ -431,9 +440,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261201-andres-barrios-fernandez@helsinkigse.fi
-DTSTAMP:20261112T191828Z
-SEQUENCE:2
-LAST-MODIFIED:20261112T191828Z
+DTSTAMP:20261113T054444Z
+SEQUENCE:3
+LAST-MODIFIED:20261113T054444Z
 DTSTART;TZID=Europe/Helsinki:20261201T120000
 DTEND;TZID=Europe/Helsinki:20261201T130000
 SUMMARY:Educa: Andres Barrios Fernandez
@@ -448,9 +457,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20270309-dita-eckhardt@helsinkigse.fi
-DTSTAMP:20261112T191828Z
-SEQUENCE:2
-LAST-MODIFIED:20261112T191828Z
+DTSTAMP:20261113T054444Z
+SEQUENCE:3
+LAST-MODIFIED:20261113T054444Z
 DTSTART;TZID=Europe/Helsinki:20270309T120000
 DTEND;TZID=Europe/Helsinki:20270309T130000
 SUMMARY:Educa: Dita Eckhardt
@@ -465,9 +474,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20270406-gill-wyness@helsinkigse.fi
-DTSTAMP:20261112T191828Z
-SEQUENCE:2
-LAST-MODIFIED:20261112T191828Z
+DTSTAMP:20261113T054444Z
+SEQUENCE:3
+LAST-MODIFIED:20261113T054444Z
 DTSTART;TZID=Europe/Helsinki:20270406T120000
 DTEND;TZID=Europe/Helsinki:20270406T130000
 SUMMARY:Educa: Gill Wyness
@@ -482,9 +491,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20270420-juan-sebastian-munoz@helsinkigse.fi
-DTSTAMP:20261112T191828Z
-SEQUENCE:2
-LAST-MODIFIED:20261112T191828Z
+DTSTAMP:20261113T054444Z
+SEQUENCE:3
+LAST-MODIFIED:20261113T054444Z
 DTSTART;TZID=Europe/Helsinki:20270420T120000
 DTEND;TZID=Europe/Helsinki:20270420T130000
 SUMMARY:Educa: Juan Sebastián Muñoz
@@ -500,9 +509,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20270504-roberto-hsu-rocha@helsinkigse.fi
-DTSTAMP:20261112T191828Z
-SEQUENCE:2
-LAST-MODIFIED:20261112T191828Z
+DTSTAMP:20261113T054444Z
+SEQUENCE:3
+LAST-MODIFIED:20261113T054444Z
 DTSTART;TZID=Europe/Helsinki:20270504T120000
 DTEND;TZID=Europe/Helsinki:20270504T130000
 SUMMARY:Educa: Roberto Hsu Rocha
@@ -517,13 +526,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20270510-ellen-greaves@helsinkigse.fi
-DTSTAMP:20261112T191828Z
-SEQUENCE:2
-LAST-MODIFIED:20261112T191828Z
+DTSTAMP:20261113T054444Z
+SEQUENCE:3
+LAST-MODIFIED:20261113T054444Z
 DTSTART;TZID=Europe/Helsinki:20270510T150000
 DTEND;TZID=Europe/Helsinki:20270510T160000
-SUMMARY:Economics of Education (Educa) & Trade\, Regional and Urban Economi
- cs: Ellen Greaves
+SUMMARY:Educa & TRUE: Ellen Greaves
 DESCRIPTION:Series: Economics of Education (Educa) & Trade\, Regional and U
  rban Economics\nSpeaker: Ellen Greaves (University of Exeter)\nTitle: TBA\
  nHosts: Cécile Bonneau & Prottoy Akbar\n\nEvent page: https://www.helsink
@@ -535,9 +543,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20270518-matthew-kraft@helsinkigse.fi
-DTSTAMP:20261112T191828Z
-SEQUENCE:3
-LAST-MODIFIED:20261112T191828Z
+DTSTAMP:20261113T054444Z
+SEQUENCE:4
+LAST-MODIFIED:20261113T054444Z
 DTSTART;TZID=Europe/Helsinki:20270518T120000
 DTEND;TZID=Europe/Helsinki:20270518T130000
 SUMMARY:Educa: Matthew Kraft
