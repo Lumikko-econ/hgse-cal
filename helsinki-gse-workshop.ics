@@ -31,9 +31,9 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250506-competition-and-efficiency-in-public-procurement-workshop
  @helsinkigse.fi
-DTSTAMP:20261113T142200Z
-SEQUENCE:19
-LAST-MODIFIED:20261113T142200Z
+DTSTAMP:20261116T110455Z
+SEQUENCE:20
+LAST-MODIFIED:20261116T110455Z
 DTSTART;TZID=Europe/Helsinki:20250506T083000
 DTEND;TZID=Europe/Helsinki:20250506T171000
 SUMMARY:COMPETITION AND EFFICIENCY IN PUBLIC PROCUREMENT WORKSHOP
@@ -41,37 +41,41 @@ DESCRIPTION:Series: Workshop\nTitle: COMPETITION AND EFFICIENCY IN PUBLIC P
  ROCUREMENT WORKSHOP (Organizers: Hanken\, Aalto University\, University of
   Turku and University of Lapland)\n\nProgramme:\n\n08:30–09:00\nMorning 
  coffee\, complimentary — Research workshop on competition and efficiency
-  in public…\n\n09:00–09:30\nPaola Valbonesi\, University of Padova\, 
- “Public Procurement and the Risk of Severe Weather…\n\n09:30–10:00\n
- Saso Polanec\, University of Ljubljana\, “Trade frictions in European pu
- blic procurement”\n\n10:00–10:30\nJoosua Virtanen\, Hanken School of E
- conomics\, “Detecting Favoritism in Public Procurement”\n\n10:30–11:
- 00 Coffee break\n\n11:00–11:30\nJanne Tukiainen\, University of Turku\, 
- “Entry barriers in public procurement: Evidence from…\n\n11:30–12:00
- \nMatti Sarvimäki\, Aalto University\, ”Randomization as an Incentive D
- evice: Evidence from Public…\n\n12:00–13:30\nLunch\, complimentary —
-  Policy workshop on competition and efficiency in public procurement…\n\
- n13:30–13:50\nVitezslav Titl\, Utrecht University\, ”The one and only:
-  Single bidding in public procurement”\n\n13:50–14:00 Questions & disc
- ussion\n\n14:00–14:20\nSofia Lundberg\, University of Umeå\, ”Assuran
- ce of quality”\n\n14:20–14:30 Questions & discussion\n\n14:30–14:50\
- nJan Jääskeläinen\, Finnish Competition and Consumer Authority\, “Imp
- lementing better procurement…\n\n14:50–15:00 Questions & discussion\n\
- n15:00–15:30\nCoffee break\, complimentary — Afternoon part II: 15:30-
- 17:10 — How can procurement outcomes be…\n\n15:30–15:50\nOlli Hyvär
- inen\, Ministry of Employment and the Economy\, ”Ongoing policy reforms 
- of public…\n\n15:50–15:55 Questions & discussion\n\n15:55–16:15\nKir
- si-Maria Halonen\, University of Lapland\, ”Efficiency in public procure
- ment judicial review”\n\n16:15–16:20 Questions & discussion\n\n16:20
- –16:40\nJuho Savonen\, State Treasury\, ”Public procurement data infra
- structure”\n\n16:40–16:45 Questions & discussion\n\n16:45–17:05\nJan
- ne Tukiainen\, University of Turku\, ”Competition and efficiency in publ
- ic procurement”\n\n17:05–17:10 Questions & discussion\n\nTimes read fr
- om the programme.\n\nFull programme: https://www.helsinkigse.fi/media/page
- s/events/competition-and-efficiency-in-public-procurement-workshop/97bef07
- 85d-1746167890/academic-pp-workshop-program-for-2025-05-06-v11.pdf\nEvent 
- page: https://www.helsinkigse.fi/events/competition-and-efficiency-in-publ
- ic-procurement-workshop
+  in public procurement 09:00 – 12:00 — Note: participation on-site onl
+ y\n\n09:00–09:30\nPaola Valbonesi\, University of Padova\, “Public Pro
+ curement and the Risk of Severe Weather Events”\n\n09:30–10:00\nSaso P
+ olanec\, University of Ljubljana\, “Trade frictions in European public p
+ rocurement”\n\n10:00–10:30\nJoosua Virtanen\, Hanken School of Economi
+ cs\, “Detecting Favoritism in Public Procurement”\n\n10:30–11:00 Cof
+ fee break\n\n11:00–11:30\nJanne Tukiainen\, University of Turku\, “Ent
+ ry barriers in public procurement: Evidence from conjoint survey experimen
+ t”\n\n11:30–12:00\nMatti Sarvimäki\, Aalto University\, ”Randomizat
+ ion as an Incentive Device: Evidence from Public Procurement of Immigrant 
+ Integration Services”\n\n12:00–13:30\nLunch\, complimentary — Policy
+  workshop on competition and efficiency in public procurement 13:30 – 17
+ :10 — Note: participation on-site or online (link sent separately)\n\n13
+ :30–13:50\nVitezslav Titl\, Utrecht University\, ”The one and only: Si
+ ngle bidding in public procurement”\n\n13:50–14:00 Questions & discuss
+ ion\n\n14:00–14:20\nSofia Lundberg\, University of Umeå\, ”Assurance 
+ of quality”\n\n14:20–14:30 Questions & discussion\n\n14:30–14:50\nJa
+ n Jääskeläinen\, Finnish Competition and Consumer Authority\, “Implem
+ enting better procurement policies in practice”\n\n14:50–15:00 Questio
+ ns & discussion\n\n15:00–15:30\nCoffee break\, complimentary — Afterno
+ on part II: 15:30-17:10 — How can procurement outcomes be improved in Fi
+ nland?\n\n15:30–15:50\nOlli Hyvärinen\, Ministry of Employment and the 
+ Economy\, ”Ongoing policy reforms of public procurement in Finland”\n\
+ n15:50–15:55 Questions & discussion\n\n15:55–16:15\nKirsi-Maria Halone
+ n\, University of Lapland\, ”Efficiency in public procurement judicial r
+ eview”\n\n16:15–16:20 Questions & discussion\n\n16:20–16:40\nJuho Sa
+ vonen\, State Treasury\, ”Public procurement data infrastructure”\n\n1
+ 6:40–16:45 Questions & discussion\n\n16:45–17:05\nJanne Tukiainen\, Un
+ iversity of Turku\, ”Competition and efficiency in public procurement”
+ \n\n17:05–17:10 Questions & discussion\n\nTimes read from the programme.
+ \n\nFull programme: https://www.helsinkigse.fi/media/pages/events/competit
+ ion-and-efficiency-in-public-procurement-workshop/97bef0785d-1746167890/ac
+ ademic-pp-workshop-program-for-2025-05-06-v11.pdf\nEvent page: https://www
+ .helsinkigse.fi/events/competition-and-efficiency-in-public-procurement-wo
+ rkshop
 LOCATION:HUONE Kaivopiha\, Mannerheimintie 3\, Helsinki
 URL:https://www.helsinkigse.fi/events/competition-and-efficiency-in-public-
  procurement-workshop
@@ -80,7 +84,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260828-tuomas-pekkarinen-memorial-workshop@helsinkigse.fi
-DTSTAMP:20261113T142200Z
+DTSTAMP:20261116T110455Z
 SEQUENCE:21
 LAST-MODIFIED:20261113T142200Z
 DTSTART;TZID=Europe/Helsinki:20260828T093000
