@@ -33,7 +33,7 @@ feed shows those events twice.
 
 | Calendar | Subscription URL | Events |
 |---|---|---:|
-| Everything | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse.ics` | 570 |
+| Everything | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse.ics` | 571 |
 
 ### One calendar per series
 
@@ -51,11 +51,11 @@ as a joint seminar or a job talk, appears in both.
 | Environmental Economics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-environmental-economics.ics` | 38 |
 | Industrial Organization | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-industrial-organization.ics` | 86 |
 | Job Talks (practice) | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-job-talks-practice.ics` | 14 |
-| Labor & Public Economics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-labor-public-economics.ics` | 81 |
+| Labor & Public Economics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-labor-public-economics.ics` | 82 |
 | Lunch Seminar | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-lunch-seminar.ics` | 24 |
 | Macroeconomics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-macroeconomics.ics` | 18 |
 | Microeconomics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-microeconomics.ics` | 27 |
-| Trade, Regional and Urban Economics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-trade-regional-and-urban-economics.ics` | 28 |
+| Trade, Regional and Urban Economics | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-trade-regional-and-urban-economics.ics` | 29 |
 | VATT | `https://lumikko-econ.github.io/hgse-cal/helsinki-gse-vatt.ics` | 58 |
 
 <!-- feeds:end -->
