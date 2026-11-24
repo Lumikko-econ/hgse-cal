@@ -30,7 +30,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hgse-20250110-maarit-olkkola-defence@helsinkigse.fi
-DTSTAMP:20261120T120512Z
+DTSTAMP:20261124T160423Z
 SEQUENCE:19
 LAST-MODIFIED:20261113T142200Z
 DTSTART;TZID=Europe/Helsinki:20250110T130000
@@ -51,7 +51,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250124-jaakko-markkanen-defence@helsinkigse.fi
-DTSTAMP:20261120T120512Z
+DTSTAMP:20261124T160423Z
 SEQUENCE:19
 LAST-MODIFIED:20261113T142200Z
 DTSTART;TZID=Europe/Helsinki:20250124T120000
@@ -73,7 +73,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250307-jan-jaaskelainen-defence@helsinkigse.fi
-DTSTAMP:20261120T120512Z
+DTSTAMP:20261124T160423Z
 SEQUENCE:19
 LAST-MODIFIED:20261113T142200Z
 DTSTART;TZID=Europe/Helsinki:20250307T120000
@@ -93,7 +93,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250321-kimmo-palanne-defence@helsinkigse.fi
-DTSTAMP:20261120T120512Z
+DTSTAMP:20261124T160423Z
 SEQUENCE:19
 LAST-MODIFIED:20261113T142200Z
 DTSTART;TZID=Europe/Helsinki:20250321T120000
@@ -114,7 +114,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250411-amin-mohazab-rahimzadeh-defence@helsinkigse.fi
-DTSTAMP:20261120T120512Z
+DTSTAMP:20261124T160423Z
 SEQUENCE:19
 LAST-MODIFIED:20261113T142200Z
 DTSTART;TZID=Europe/Helsinki:20250411T120000
@@ -136,7 +136,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250523-petteri-palonen-defence@helsinkigse.fi
-DTSTAMP:20261120T120512Z
+DTSTAMP:20261124T160423Z
 SEQUENCE:19
 LAST-MODIFIED:20261113T142200Z
 DTSTART;TZID=Europe/Helsinki:20250523T160000
@@ -153,17 +153,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250530-juho-koistinen-defence@helsinkigse.fi
-DTSTAMP:20261120T120512Z
-SEQUENCE:19
-LAST-MODIFIED:20261113T142200Z
+DTSTAMP:20261124T160423Z
+SEQUENCE:20
+LAST-MODIFIED:20261124T160423Z
 DTSTART;TZID=Europe/Helsinki:20250530T130000
 DTEND;TZID=Europe/Helsinki:20250530T141500
 SUMMARY:Defence: Juho Koistinen — Essays in macroeconometrics under nonin
  vertibility
 DESCRIPTION:Series: University of Helsinki\nType: Doctoral Defence\nSpeaker
  : Juho Koistinen (University of Helsinki)\nTitle: Essays in macroeconometr
- ics under noninvertibility\n\nEvent page: https://www.helsinkigse.fi/event
- s/juho-koistinen-defence
+ ics under noninvertibility\n\nOnly the start time is published.\n\nEvent p
+ age: https://www.helsinkigse.fi/events/juho-koistinen-defence
 LOCATION:Lecture room\, Economicum\, Arkadiankatu 7\, Helsinki
 URL:https://www.helsinkigse.fi/events/juho-koistinen-defence
 STATUS:CONFIRMED
@@ -171,7 +171,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250624-arttu-ahonen-defence@helsinkigse.fi
-DTSTAMP:20261120T120512Z
+DTSTAMP:20261124T160423Z
 SEQUENCE:19
 LAST-MODIFIED:20261113T142200Z
 DTSTART;TZID=Europe/Helsinki:20250624T120000
@@ -192,7 +192,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250820-marc-riudavets-barcons-defence@helsinkigse.fi
-DTSTAMP:20261120T120512Z
+DTSTAMP:20261124T160423Z
 SEQUENCE:18
 LAST-MODIFIED:20261113T142200Z
 DTSTART;TZID=Europe/Helsinki:20250820T120000
@@ -214,7 +214,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250919-tuomas-markkula-defence@helsinkigse.fi
-DTSTAMP:20261120T120512Z
+DTSTAMP:20261124T160423Z
 SEQUENCE:19
 LAST-MODIFIED:20261113T142200Z
 DTSTART;TZID=Europe/Helsinki:20250919T120000
@@ -236,7 +236,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20250922-marika-viertola-defence@helsinkigse.fi
-DTSTAMP:20261120T120512Z
+DTSTAMP:20261124T160423Z
 SEQUENCE:19
 LAST-MODIFIED:20261113T142200Z
 DTSTART;TZID=Europe/Helsinki:20250922T130000
@@ -257,7 +257,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251003-keyan-liu@helsinkigse.fi
-DTSTAMP:20261120T120512Z
+DTSTAMP:20261124T160423Z
 SEQUENCE:18
 LAST-MODIFIED:20261113T142200Z
 DTSTART;TZID=Europe/Helsinki:20251003T130000
@@ -280,7 +280,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251023-louise-hohenthal-defence@helsinkigse.fi
-DTSTAMP:20261120T120512Z
+DTSTAMP:20261124T160423Z
 SEQUENCE:18
 LAST-MODIFIED:20261113T142200Z
 DTSTART;TZID=Europe/Helsinki:20251023T140000
@@ -301,7 +301,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251114-jussipekka-salo-defence@helsinkigse.fi
-DTSTAMP:20261120T120512Z
+DTSTAMP:20261124T160423Z
 SEQUENCE:18
 LAST-MODIFIED:20261113T142200Z
 DTSTART;TZID=Europe/Helsinki:20251114T130000
@@ -323,9 +323,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251126-joosua-virtanen-defence@helsinkigse.fi
-DTSTAMP:20261120T120512Z
-SEQUENCE:19
-LAST-MODIFIED:20261113T142200Z
+DTSTAMP:20261124T160423Z
+SEQUENCE:20
+LAST-MODIFIED:20261124T160423Z
 DTSTART;TZID=Europe/Helsinki:20251126T120000
 DTEND;TZID=Europe/Helsinki:20251126T131500
 SUMMARY:Defence: Joosua Virtanen — Essays on microeconomic prediction pro
@@ -334,10 +334,11 @@ DESCRIPTION:Series: Hanken\nType: Doctoral Defence\nSpeaker: Joosua Virtane
  n (Hanken School of Economics)\nTitle: Essays on microeconomic prediction 
  problems: with applications to firm growth and public procurement\nOpponen
  t: Associate professor Johan Lundberg\, Umeå School of Business\, Economi
- cs and Statistics (USBE)\nCustos: Professor Ari Hyytinen\n\nDissertation: 
- http://hdl.handle.net/10138/602885\nDefence announcement: https://www.hank
- en.fi/en/calendar/doctoral-defence-joosua-virtanen\nEvent page: https://ww
- w.helsinkigse.fi/events/joosua-virtanen-defence
+ cs and Statistics (USBE)\nCustos: Professor Ari Hyytinen\n\nOnly the start
+  time is published.\n\nDissertation: http://hdl.handle.net/10138/602885\nD
+ efence announcement: https://www.hanken.fi/en/calendar/doctoral-defence-jo
+ osua-virtanen\nEvent page: https://www.helsinkigse.fi/events/joosua-virtan
+ en-defence
 LOCATION:Assembly Hall\, Hanken School of Economics\, Arkadiankatu 22\, Hel
  sinki. The event is also streamed online
 URL:https://www.helsinkigse.fi/events/joosua-virtanen-defence
@@ -346,7 +347,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251127-oliver-snellman-defence@helsinkigse.fi
-DTSTAMP:20261120T120512Z
+DTSTAMP:20261124T160423Z
 SEQUENCE:18
 LAST-MODIFIED:20261113T142200Z
 DTSTART;TZID=Europe/Helsinki:20251127T140000
@@ -369,7 +370,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20251204-heikki-korpela-defence@helsinkigse.fi
-DTSTAMP:20261120T120512Z
+DTSTAMP:20261124T160423Z
 SEQUENCE:18
 LAST-MODIFIED:20261113T142200Z
 DTSTART;TZID=Europe/Helsinki:20251204T130000
@@ -390,7 +391,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260123-peter-elmgren-defence@helsinkigse.fi
-DTSTAMP:20261120T120512Z
+DTSTAMP:20261124T160423Z
 SEQUENCE:18
 LAST-MODIFIED:20261113T142200Z
 DTSTART;TZID=Europe/Helsinki:20260123T130000
@@ -413,7 +414,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260410-ville-voutilainen-defence@helsinkigse.fi
-DTSTAMP:20261120T120512Z
+DTSTAMP:20261124T160423Z
 SEQUENCE:17
 LAST-MODIFIED:20261113T142200Z
 DTSTART;TZID=Europe/Helsinki:20260410T130000
@@ -434,7 +435,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260528-arttu-kauhanen3@helsinkigse.fi
-DTSTAMP:20261120T120512Z
+DTSTAMP:20261124T160423Z
 SEQUENCE:19
 LAST-MODIFIED:20261113T142200Z
 DTSTART;TZID=Europe/Helsinki:20260528T130000
@@ -457,7 +458,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260605-mikael-makimattila-defence@helsinkigse.fi
-DTSTAMP:20261120T120512Z
+DTSTAMP:20261124T160423Z
 SEQUENCE:19
 LAST-MODIFIED:20261113T142200Z
 DTSTART;TZID=Europe/Helsinki:20260605T120000
@@ -477,9 +478,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260623-tuomas-nurminen@helsinkigse.fi
-DTSTAMP:20261120T120512Z
-SEQUENCE:19
-LAST-MODIFIED:20261113T142200Z
+DTSTAMP:20261124T160423Z
+SEQUENCE:20
+LAST-MODIFIED:20261124T160423Z
 DTSTART;TZID=Europe/Helsinki:20260623T140000
 DTEND;TZID=Europe/Helsinki:20260623T151500
 SUMMARY:Defence: Tuomas Nurminen — Essays on Behavioral and Experimental 
@@ -487,9 +488,10 @@ SUMMARY:Defence: Tuomas Nurminen — Essays on Behavioral and Experimental
 DESCRIPTION:Series: Hanken\nType: Doctoral Defence\nSpeaker: Tuomas Nurmine
  n (Hanken)\nTitle: Essays on Behavioral and Experimental Economics\nOppone
  nt: Professor Ola Andersson\, Uppsala University\nCustos: Professor Topi M
- iettinen\n\nDissertation: http://hdl.handle.net/10138/632920\nDefence anno
- uncement: https://www.hanken.fi/en/calendar/doctoral-defence-tuomas-nurmin
- en\nEvent page: https://www.helsinkigse.fi/events/tuomas-nurminen
+ iettinen\n\nOnly the start time is published.\n\nDissertation: http://hdl.
+ handle.net/10138/632920\nDefence announcement: https://www.hanken.fi/en/ca
+ lendar/doctoral-defence-tuomas-nurminen\nEvent page: https://www.helsinkig
+ se.fi/events/tuomas-nurminen
 LOCATION:Auditorium Futurum\, Hanken\, Arkadiankatu 22\, Helsinki
 URL:https://www.helsinkigse.fi/events/tuomas-nurminen
 STATUS:CONFIRMED
@@ -497,7 +499,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260710-milla-hagg-defence@helsinkigse.fi
-DTSTAMP:20261120T120512Z
+DTSTAMP:20261124T160423Z
 SEQUENCE:18
 LAST-MODIFIED:20261113T142200Z
 DTSTART;TZID=Europe/Helsinki:20260710T160000
@@ -519,7 +521,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260821-antto-jokelainen4@helsinkigse.fi
-DTSTAMP:20261120T120512Z
+DTSTAMP:20261124T160423Z
 SEQUENCE:17
 LAST-MODIFIED:20261113T142200Z
 DTSTART;TZID=Europe/Helsinki:20260821T120000
@@ -539,7 +541,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260821-jerry-montonen4@helsinkigse.fi
-DTSTAMP:20261120T120512Z
+DTSTAMP:20261124T160423Z
 SEQUENCE:17
 LAST-MODIFIED:20261113T142200Z
 DTSTART;TZID=Europe/Helsinki:20260821T120000
@@ -560,9 +562,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20260911-juuso-makinen-defence@helsinkigse.fi
-DTSTAMP:20261120T120512Z
-SEQUENCE:7
-LAST-MODIFIED:20261113T142200Z
+DTSTAMP:20261124T160423Z
+SEQUENCE:8
+LAST-MODIFIED:20261124T160423Z
 DTSTART;TZID=Europe/Helsinki:20260911T130000
 DTEND;TZID=Europe/Helsinki:20260911T141500
 SUMMARY:Defence: Juuso Mäkinen — Essays on labor supply and public polic
@@ -570,10 +572,10 @@ SUMMARY:Defence: Juuso Mäkinen — Essays on labor supply and public polic
 DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Juus
  o Mäkinen (Aalto University)\nTitle: Essays on labor supply and public po
  licy\nOpponent: Associate Professor Håkan Selin\, Uppsala University\, IF
- AU\nCustos: Professor Matti Sarvimäki\n\nDefence announcement: https://ww
- w.aalto.fi/en/events/public-defence-in-economics-msc-econ-juuso-makinen?ch
- eck_logged_in=1\nEvent page: https://www.helsinkigse.fi/events/juuso-makin
- en-defence
+ AU\nCustos: Professor Matti Sarvimäki\n\nOnly the start time is published
+ .\n\nDefence announcement: https://www.aalto.fi/en/events/public-defence-i
+ n-economics-msc-econ-juuso-makinen?check_logged_in=1\nEvent page: https://
+ www.helsinkigse.fi/events/juuso-makinen-defence
 LOCATION:Lecture hall U006\, Aalto University\, School of Business\, Ekonom
  inaukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/juuso-makinen-defence
@@ -582,7 +584,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261030-aleksi-paavola@helsinkigse.fi
-DTSTAMP:20261120T120512Z
+DTSTAMP:20261124T160423Z
 SEQUENCE:6
 LAST-MODIFIED:20261113T142200Z
 DTSTART;TZID=Europe/Helsinki:20261030T120000
@@ -603,7 +605,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261124-eero-nurmi-defence@helsinkigse.fi
-DTSTAMP:20261120T120512Z
+DTSTAMP:20261124T160423Z
 SEQUENCE:5
 LAST-MODIFIED:20261113T142200Z
 DTSTART;TZID=Europe/Helsinki:20261124T120000
@@ -623,15 +625,16 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hgse-20261211-joakim-wikstrom-defence@helsinkigse.fi
-DTSTAMP:20261120T120512Z
-SEQUENCE:5
-LAST-MODIFIED:20261120T120512Z
+DTSTAMP:20261124T160423Z
+SEQUENCE:6
+LAST-MODIFIED:20261124T160423Z
 DTSTART;TZID=Europe/Helsinki:20261211T120000
 DTEND;TZID=Europe/Helsinki:20261211T131500
 SUMMARY:Defence: Joakim Wikström — Essays on economics of innovation
 DESCRIPTION:Series: Aalto University\nType: Doctoral Defence\nSpeaker: Joak
  im Wikström (Aalto University)\nTitle: Essays on economics of innovation\
- n\nEvent page: https://www.helsinkigse.fi/events/joakim-wikstrom-defence
+ n\nOnly the start time is published.\n\nEvent page: https://www.helsinkigs
+ e.fi/events/joakim-wikstrom-defence
 LOCATION:Lecture hall U006\, Aalto University School of Business\, Ekonomin
  aukio 1\, Espoo
 URL:https://www.helsinkigse.fi/events/joakim-wikstrom-defence
